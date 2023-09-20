@@ -1100,6 +1100,16 @@
         ]
     },
     {
+        "id": "9cae4f96f1c873e2",
+        "type": "comment",
+        "z": "fe233ff436b4d8c7",
+        "name": "Ich bin ein schlaues Kommentar",
+        "info": "",
+        "x": 250,
+        "y": 820,
+        "wires": []
+    },
+    {
         "id": "0e5dbb12f9e794f9",
         "type": "switch",
         "z": "239da397959ae042",
