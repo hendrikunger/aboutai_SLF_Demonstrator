@@ -1100,26 +1100,6 @@
         ]
     },
     {
-        "id": "9cae4f96f1c873e2",
-        "type": "comment",
-        "z": "fe233ff436b4d8c7",
-        "name": "Ich bin ein schlaues Kommentar",
-        "info": "",
-        "x": 250,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "73e8939d7bcb76ce",
-        "type": "comment",
-        "z": "fe233ff436b4d8c7",
-        "name": "Ich bin ein schlaues Kommentar",
-        "info": "",
-        "x": 270,
-        "y": 900,
-        "wires": []
-    },
-    {
         "id": "c90be29bfbb75b5a",
         "type": "comment",
         "z": "fe233ff436b4d8c7",
