@@ -1110,6 +1110,26 @@
         "wires": []
     },
     {
+        "id": "73e8939d7bcb76ce",
+        "type": "comment",
+        "z": "fe233ff436b4d8c7",
+        "name": "Ich bin ein schlaues Kommentar",
+        "info": "",
+        "x": 270,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "c90be29bfbb75b5a",
+        "type": "comment",
+        "z": "fe233ff436b4d8c7",
+        "name": "Ich bin ein schlaues Kommentar",
+        "info": "",
+        "x": 630,
+        "y": 840,
+        "wires": []
+    },
+    {
         "id": "0e5dbb12f9e794f9",
         "type": "switch",
         "z": "239da397959ae042",
