@@ -128,9 +128,7 @@
             "ebcbe221c3431249"
         ],
         "x": 34,
-        "y": 379,
-        "w": 1032,
-        "h": 142
+        "y": 379
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -337,7 +335,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "FUUU",
+        "payload": "aaa",
         "payloadType": "str",
         "x": 130,
         "y": 120,
