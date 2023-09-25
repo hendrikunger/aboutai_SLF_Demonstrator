@@ -61,8 +61,10 @@
             "89fda60f0696d3e5",
             "4c90233eabbcbec5"
         ],
-        "x": -26,
-        "y": 759
+        "x": 14,
+        "y": 759,
+        "w": 332,
+        "h": 282
     },
     {
         "id": "191d11291a88de5f",
@@ -89,8 +91,10 @@
             "23d599b78a200727",
             "4ed240070479ab26"
         ],
-        "x": -26,
-        "y": 459
+        "x": 14,
+        "y": 459,
+        "w": 872,
+        "h": 282
     },
     {
         "id": "4782014c59a1fc17",
@@ -109,7 +113,9 @@
             "8d3c9719a67f5aef"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 692,
+        "h": 122
     },
     {
         "id": "c267a2c65f9672c6",
@@ -128,7 +134,9 @@
             "ebcbe221c3431249"
         ],
         "x": 34,
-        "y": 379
+        "y": 379,
+        "w": 1032,
+        "h": 142
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -151,7 +159,9 @@
             "068451e5f110a5dc"
         ],
         "x": 14,
-        "y": 159
+        "y": 159,
+        "w": 872,
+        "h": 282
     },
     {
         "id": "c4cffb880254a966",
@@ -400,7 +410,7 @@
         "method": "GET",
         "ret": "obj",
         "paytoqs": "ignore",
-        "url": "http://192.168.255.152//xml/json.php?mode=all&simple",
+        "url": "http://192.168.255.211//xml/json.php?mode=all&simple",
         "tls": "",
         "persist": false,
         "proxy": "",
@@ -430,14 +440,14 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "5",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 160,
+        "x": 170,
         "y": 340,
         "wires": [
             [
@@ -499,7 +509,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 3",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -516,7 +526,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 4",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -532,7 +542,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 5",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -548,7 +558,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 6",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -574,9 +584,114 @@
         "y": 340,
         "wires": [
             [
-                "38adb7f21e95e78f"
+                "38adb7f21e95e78f",
+                "533fd12cb44cb8a7"
             ]
         ]
+    },
+    {
+        "id": "0729b26782e1c574",
+        "type": "ui_chart",
+        "z": "8b889a82bab4ead6",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 24,
+        "width": 0,
+        "height": 0,
+        "label": "Temperaturen",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 640,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "64cd849113879964",
+        "type": "change",
+        "z": "8b889a82bab4ead6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 440,
+        "wires": [
+            [
+                "0729b26782e1c574"
+            ]
+        ]
+    },
+    {
+        "id": "533fd12cb44cb8a7",
+        "type": "switch",
+        "z": "8b889a82bab4ead6",
+        "name": "Filter Internal Sensor",
+        "property": "payload.id",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "1",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 440,
+        "wires": [
+            [
+                "64cd849113879964"
+            ]
+        ],
+        "info": "Filter Internal Sensor"
     },
     {
         "id": "6da455b1ee388cb2",
