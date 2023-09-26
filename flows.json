@@ -156,11 +156,12 @@
             "fb7ed64a28e9d9bd",
             "07508d46a3716912",
             "0add7a7bfa64c05f",
-            "068451e5f110a5dc"
+            "068451e5f110a5dc",
+            "e147caf0cd14a036"
         ],
         "x": 14,
         "y": 159,
-        "w": 872,
+        "w": 932,
         "h": 282
     },
     {
@@ -310,6 +311,25 @@
         "device": "Mahr N 1701 USB"
     },
     {
+        "id": "0dda1d45e28b450a",
+        "type": "ui_tab",
+        "name": "Channel 1",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9fb9bba810b4f6be",
+        "type": "ui_group",
+        "name": "Standard",
+        "tab": "0dda1d45e28b450a",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
         "id": "e9a8a374e1e65ca3",
         "type": "debug",
         "z": "4c3e5ac1458c0e57",
@@ -440,14 +460,14 @@
                 "vt": "str"
             }
         ],
-        "repeat": "5",
+        "repeat": "",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 170,
+        "x": 160,
         "y": 340,
         "wires": [
             [
@@ -699,8 +719,8 @@
         "z": "fe233ff436b4d8c7",
         "name": "",
         "device": "fe2aa5f270d5ee3c",
-        "updateIntervalMs": "1000",
-        "channelPicker": "",
+        "updateIntervalMs": "100",
+        "channelPicker": "1,2,3,4,5,6",
         "x": 130,
         "y": 120,
         "wires": [
@@ -763,7 +783,7 @@
         "arraySpltType": "len",
         "stream": false,
         "addname": "",
-        "x": 290,
+        "x": 270,
         "y": 120,
         "wires": [
             [
@@ -1124,7 +1144,7 @@
         "inputMsgField": "payload.dValue",
         "outputMsgField": "payload",
         "operation": "rdec",
-        "constant": "3",
+        "constant": "4",
         "round": false,
         "decimals": 0,
         "x": 760,
@@ -1661,7 +1681,7 @@
         "z": "239da397959ae042",
         "g": "c4d565d6dc37a9a9",
         "name": "",
-        "property": "payload.ChannelIdx",
+        "property": "topic",
         "propertyType": "msg",
         "rules": [
             {
@@ -1698,11 +1718,12 @@
         "checkall": "false",
         "repair": false,
         "outputs": 6,
-        "x": 570,
+        "x": 690,
         "y": 280,
         "wires": [
             [
-                "cb7afa64cc116d3f"
+                "cb7afa64cc116d3f",
+                "2e2cc6e857183f19"
             ],
             [
                 "861a06f5e0e080fa"
@@ -1741,11 +1762,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 400,
+        "x": 340,
         "y": 280,
         "wires": [
             [
-                "e077a5732aef02e3"
+                "e147caf0cd14a036"
             ]
         ]
     },
@@ -1989,7 +2010,7 @@
         "gtype": "gage",
         "title": "Channel 1",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2001,7 +2022,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 200,
         "wires": []
     },
@@ -2018,7 +2039,7 @@
         "gtype": "gage",
         "title": "Channel 2",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2030,7 +2051,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 240,
         "wires": []
     },
@@ -2047,7 +2068,7 @@
         "gtype": "gage",
         "title": "Channel 3",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2059,7 +2080,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 280,
         "wires": []
     },
@@ -2076,7 +2097,7 @@
         "gtype": "gage",
         "title": "Channel 4",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2088,7 +2109,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 320,
         "wires": []
     },
@@ -2105,7 +2126,7 @@
         "gtype": "gage",
         "title": "Channel 5",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2117,7 +2138,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 360,
         "wires": []
     },
@@ -2134,7 +2155,7 @@
         "gtype": "gage",
         "title": "Channel 6",
         "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
+        "format": "{{payload | number:4}}",
         "min": "-3",
         "max": "3",
         "colors": [
@@ -2146,7 +2167,7 @@
         "seg2": "",
         "diff": false,
         "className": "",
-        "x": 790,
+        "x": 850,
         "y": 400,
         "wires": []
     },
@@ -2410,6 +2431,85 @@
         "className": "",
         "x": 260,
         "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e147caf0cd14a036",
+        "type": "change",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.ChannelIdx",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.dValue",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 280,
+        "wires": [
+            [
+                "e077a5732aef02e3"
+            ]
+        ]
+    },
+    {
+        "id": "2e2cc6e857183f19",
+        "type": "ui_chart",
+        "z": "239da397959ae042",
+        "name": "",
+        "group": "9fb9bba810b4f6be",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "chart",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1030,
+        "y": 200,
         "wires": [
             []
         ]
