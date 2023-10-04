@@ -474,7 +474,7 @@
         "type": "debug",
         "z": "4c3e5ac1458c0e57",
         "name": "debug 1",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -500,7 +500,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "5",
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
@@ -3718,5 +3718,21 @@
                 "3dcb3da70b08e4ea"
             ]
         ]
+    },
+    {
+        "id": "dfd4a9ea0fdefa61",
+        "type": "ui_table",
+        "z": "4c3e5ac1458c0e57",
+        "group": "8e8a0e2a14399f07",
+        "name": "Data",
+        "order": 24,
+        "width": "12",
+        "height": "6",
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 670,
+        "y": 220,
+        "wires": []
     }
 ]
