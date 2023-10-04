@@ -306,9 +306,9 @@
         "idleFieldType": "num",
         "connectionTimeout": "10000",
         "connectionTimeoutFieldType": "num",
-        "user": "postgres",
+        "user": "qa_measurements",
         "userFieldType": "str",
-        "password": "%HUJD290",
+        "password": "qa_measurements",
         "passwordFieldType": "str"
     },
     {
@@ -474,7 +474,7 @@
         "type": "debug",
         "z": "4c3e5ac1458c0e57",
         "name": "debug 1",
-        "active": false,
+        "active": true,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -558,9 +558,26 @@
         "y": 140,
         "wires": [
             [
-                "e9a8a374e1e65ca3"
+                "e9a8a374e1e65ca3",
+                "dfd4a9ea0fdefa61"
             ]
         ]
+    },
+    {
+        "id": "dfd4a9ea0fdefa61",
+        "type": "ui_table",
+        "z": "4c3e5ac1458c0e57",
+        "group": "8e8a0e2a14399f07",
+        "name": "Data",
+        "order": 24,
+        "width": "12",
+        "height": "6",
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 670,
+        "y": 220,
+        "wires": []
     },
     {
         "id": "bf9be0cc96498def",
@@ -3718,21 +3735,5 @@
                 "3dcb3da70b08e4ea"
             ]
         ]
-    },
-    {
-        "id": "dfd4a9ea0fdefa61",
-        "type": "ui_table",
-        "z": "4c3e5ac1458c0e57",
-        "group": "8e8a0e2a14399f07",
-        "name": "Data",
-        "order": 24,
-        "width": "12",
-        "height": "6",
-        "columns": [],
-        "outputs": 0,
-        "cts": false,
-        "x": 670,
-        "y": 220,
-        "wires": []
     }
 ]
