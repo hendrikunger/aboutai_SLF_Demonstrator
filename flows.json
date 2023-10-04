@@ -40,6 +40,13 @@
         "env": []
     },
     {
+        "id": "9652b155ac1b5814",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "f371f3a7a1cb790b",
         "type": "group",
         "z": "239da397959ae042",
@@ -61,8 +68,10 @@
             "89fda60f0696d3e5",
             "4c90233eabbcbec5"
         ],
-        "x": -26,
-        "y": 759
+        "x": 14,
+        "y": 859,
+        "w": 332,
+        "h": 282
     },
     {
         "id": "191d11291a88de5f",
@@ -87,10 +96,14 @@
             "8d5e5753d7e0f255",
             "3368ede3c581baad",
             "23d599b78a200727",
-            "4ed240070479ab26"
+            "4ed240070479ab26",
+            "f2bf18d2ab9c4b8b",
+            "3aa58f2b6f8367f9"
         ],
-        "x": -26,
-        "y": 459
+        "x": 14,
+        "y": 539,
+        "w": 1072,
+        "h": 322
     },
     {
         "id": "4782014c59a1fc17",
@@ -109,7 +122,9 @@
             "8d3c9719a67f5aef"
         ],
         "x": 14,
-        "y": 19
+        "y": 19,
+        "w": 692,
+        "h": 122
     },
     {
         "id": "c267a2c65f9672c6",
@@ -150,10 +165,127 @@
             "fb7ed64a28e9d9bd",
             "07508d46a3716912",
             "0add7a7bfa64c05f",
-            "068451e5f110a5dc"
+            "068451e5f110a5dc",
+            "e147caf0cd14a036"
         ],
         "x": 14,
-        "y": 159
+        "y": 139,
+        "w": 932,
+        "h": 282
+    },
+    {
+        "id": "845f4268e3199e1d",
+        "type": "group",
+        "z": "239da397959ae042",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "1ecf86fc28b14589",
+            "5a4a8a1059dea756",
+            "2f5ae32c241db25c",
+            "022d0485fdf0448b",
+            "96a65acb3f480bde",
+            "fc17c993611d66a8",
+            "66ac11da686f74ef",
+            "1417102d265e83e5",
+            "5917fb94d4c4e626",
+            "e8beecd43126c417",
+            "0bc7f6e47886b686"
+        ],
+        "x": 14,
+        "y": 1699,
+        "w": 1272,
+        "h": 182
+    },
+    {
+        "id": "3db353d6ca535ffc",
+        "type": "group",
+        "z": "239da397959ae042",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "384f672b7f59aaae",
+            "86a2b1f5d365cc3b",
+            "93d13444c85540f2",
+            "efa429021e13e670",
+            "c69fbea30e7e962c",
+            "73bd97ce42998d53",
+            "13565b662d8a9522",
+            "fb5dfa943294e7a2",
+            "117655354f300291",
+            "d9111c50fe35a026"
+        ],
+        "x": 14,
+        "y": 1179,
+        "w": 958,
+        "h": 282
+    },
+    {
+        "id": "fb5dfa943294e7a2",
+        "type": "group",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a123b1d2a2ea28d",
+            "a99feee76da088f8",
+            "f9eafdbe8ae23397",
+            "6c0ba9e1b80d2e1c"
+        ],
+        "x": 534,
+        "y": 1259,
+        "w": 412,
+        "h": 122
+    },
+    {
+        "id": "8e9639dd6a52feb3",
+        "type": "group",
+        "z": "239da397959ae042",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ad951cef22b6175f",
+            "2ff7d1587afc2317",
+            "d2bd2a8b4590ca12",
+            "0165079cf8acb1c7",
+            "4e03a37c584c3626",
+            "99f9f61df6ab0e67",
+            "961c22119f4c0397",
+            "bf5868348dad9f0a"
+        ],
+        "x": 14,
+        "y": 1479,
+        "w": 949,
+        "h": 202
     },
     {
         "id": "c4cffb880254a966",
@@ -302,6 +434,43 @@
         "device": "Mahr N 1701 USB"
     },
     {
+        "id": "0dda1d45e28b450a",
+        "type": "ui_tab",
+        "name": "Channel 1",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "9fb9bba810b4f6be",
+        "type": "ui_group",
+        "name": "Standard",
+        "tab": "0dda1d45e28b450a",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f5e2c3bf3d5a99b2",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "450ac4c9b5c2acc6",
+        "order": 1,
+        "disp": true,
+        "width": "11",
+        "collapse": false
+    },
+    {
+        "id": "450ac4c9b5c2acc6",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
         "id": "e9a8a374e1e65ca3",
         "type": "debug",
         "z": "4c3e5ac1458c0e57",
@@ -419,7 +588,7 @@
         "method": "GET",
         "ret": "obj",
         "paytoqs": "ignore",
-        "url": "http://192.168.255.152//xml/json.php?mode=all&simple",
+        "url": "http://192.168.255.211//xml/json.php?mode=all&simple",
         "tls": "",
         "persist": false,
         "proxy": "",
@@ -518,7 +687,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 3",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -535,7 +704,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 4",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -551,7 +720,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 5",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -567,7 +736,7 @@
         "type": "debug",
         "z": "8b889a82bab4ead6",
         "name": "debug 6",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
@@ -593,9 +762,114 @@
         "y": 340,
         "wires": [
             [
-                "38adb7f21e95e78f"
+                "38adb7f21e95e78f",
+                "533fd12cb44cb8a7"
             ]
         ]
+    },
+    {
+        "id": "0729b26782e1c574",
+        "type": "ui_chart",
+        "z": "8b889a82bab4ead6",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 24,
+        "width": 0,
+        "height": 0,
+        "label": "Temperaturen",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 640,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "64cd849113879964",
+        "type": "change",
+        "z": "8b889a82bab4ead6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 440,
+        "wires": [
+            [
+                "0729b26782e1c574"
+            ]
+        ]
+    },
+    {
+        "id": "533fd12cb44cb8a7",
+        "type": "switch",
+        "z": "8b889a82bab4ead6",
+        "name": "Filter Internal Sensor",
+        "property": "payload.id",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "neq",
+                "v": "1",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 440,
+        "wires": [
+            [
+                "64cd849113879964"
+            ]
+        ],
+        "info": "Filter Internal Sensor"
     },
     {
         "id": "6da455b1ee388cb2",
@@ -603,8 +877,8 @@
         "z": "fe233ff436b4d8c7",
         "name": "",
         "device": "fe2aa5f270d5ee3c",
-        "updateIntervalMs": "1000",
-        "channelPicker": "",
+        "updateIntervalMs": "100",
+        "channelPicker": "1,2,3,4,5,6",
         "x": 130,
         "y": 120,
         "wires": [
@@ -667,7 +941,7 @@
         "arraySpltType": "len",
         "stream": false,
         "addname": "",
-        "x": 290,
+        "x": 270,
         "y": 120,
         "wires": [
             [
@@ -739,8 +1013,8 @@
         "links": [
             "2ff7d1587afc2317"
         ],
-        "x": 1005,
-        "y": 180,
+        "x": 1045,
+        "y": 120,
         "wires": []
     },
     {
@@ -753,120 +1027,15 @@
         "start": "",
         "inout": "out",
         "septopics": true,
-        "property": "payload",
+        "property": "data",
         "topi": "topic",
-        "x": 970,
-        "y": 100,
+        "x": 950,
+        "y": 120,
         "wires": [
             [
                 "8a062e794e7331e0"
             ]
         ]
-    },
-    {
-        "id": "2ff7d1587afc2317",
-        "type": "link in",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "links": [
-            "8a062e794e7331e0"
-        ],
-        "x": 65,
-        "y": 640,
-        "wires": [
-            [
-                "0165079cf8acb1c7"
-            ]
-        ]
-    },
-    {
-        "id": "96a65acb3f480bde",
-        "type": "debug",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg}\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1160,
-        "y": 640,
-        "wires": []
-    },
-    {
-        "id": "0165079cf8acb1c7",
-        "type": "join",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "mode": "custom",
-        "build": "array",
-        "property": "payload",
-        "propertyType": "msg",
-        "key": "topic",
-        "joiner": "\\n",
-        "joinerType": "str",
-        "accumulate": false,
-        "timeout": "5",
-        "count": "",
-        "reduceRight": false,
-        "reduceExp": "",
-        "reduceInit": "",
-        "reduceInitType": "num",
-        "reduceFixup": "",
-        "x": 150,
-        "y": 640,
-        "wires": [
-            [
-                "1ecf86fc28b14589"
-            ]
-        ]
-    },
-    {
-        "id": "fc17c993611d66a8",
-        "type": "change",
-        "z": "fe233ff436b4d8c7",
-        "name": "Calculation",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "msg.avg-msg.min",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 910,
-        "y": 700,
-        "wires": [
-            [
-                "66ac11da686f74ef"
-            ]
-        ]
-    },
-    {
-        "id": "66ac11da686f74ef",
-        "type": "debug",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1090,
-        "y": 700,
-        "wires": []
     },
     {
         "id": "7b584dba0f5faffe",
@@ -1026,9 +1195,9 @@
         "z": "fe233ff436b4d8c7",
         "name": "",
         "inputMsgField": "payload.dValue",
-        "outputMsgField": "payload",
+        "outputMsgField": "data",
         "operation": "rdec",
-        "constant": "3",
+        "constant": "4",
         "round": false,
         "decimals": 0,
         "x": 760,
@@ -1038,93 +1207,6 @@
                 "3568957eeb3159d0"
             ]
         ]
-    },
-    {
-        "id": "1ecf86fc28b14589",
-        "type": "calculator",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "max",
-        "operation": "max",
-        "constant": "",
-        "round": false,
-        "decimals": 0,
-        "x": 300,
-        "y": 640,
-        "wires": [
-            [
-                "5a4a8a1059dea756"
-            ]
-        ]
-    },
-    {
-        "id": "5a4a8a1059dea756",
-        "type": "calculator",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "min",
-        "operation": "min",
-        "constant": "",
-        "round": false,
-        "decimals": 0,
-        "x": 440,
-        "y": 640,
-        "wires": [
-            [
-                "2f5ae32c241db25c"
-            ]
-        ]
-    },
-    {
-        "id": "2f5ae32c241db25c",
-        "type": "calculator",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "length",
-        "operation": "len",
-        "constant": "",
-        "round": false,
-        "decimals": 0,
-        "x": 600,
-        "y": 640,
-        "wires": [
-            [
-                "022d0485fdf0448b"
-            ]
-        ]
-    },
-    {
-        "id": "022d0485fdf0448b",
-        "type": "calculator",
-        "z": "fe233ff436b4d8c7",
-        "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "avg",
-        "operation": "avg",
-        "constant": "",
-        "round": false,
-        "decimals": 0,
-        "x": 760,
-        "y": 640,
-        "wires": [
-            [
-                "96a65acb3f480bde",
-                "fc17c993611d66a8"
-            ]
-        ]
-    },
-    {
-        "id": "c90be29bfbb75b5a",
-        "type": "comment",
-        "z": "fe233ff436b4d8c7",
-        "name": "Ich bin ein schlaues Kommentar",
-        "info": "",
-        "x": 630,
-        "y": 840,
-        "wires": []
     },
     {
         "id": "0e5dbb12f9e794f9",
@@ -1308,8 +1390,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 580,
+        "x": 940,
+        "y": 700,
         "wires": [
             []
         ]
@@ -1333,8 +1415,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 550,
-        "y": 600,
+        "x": 750,
+        "y": 720,
         "wires": [
             [
                 "a1cc4c5d10b2f8d7"
@@ -1364,8 +1446,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 500,
+        "x": 490,
+        "y": 600,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
@@ -1392,8 +1474,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 740,
-        "y": 620,
+        "x": 940,
+        "y": 740,
         "wires": [
             []
         ]
@@ -1418,8 +1500,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 540,
+        "x": 490,
+        "y": 660,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
@@ -1446,8 +1528,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 580,
+        "x": 490,
+        "y": 700,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
@@ -1474,8 +1556,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 620,
+        "x": 490,
+        "y": 740,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
@@ -1502,8 +1584,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 660,
+        "x": 490,
+        "y": 780,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
@@ -1530,13 +1612,605 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 700,
+        "x": 490,
+        "y": 820,
         "wires": [
             [
                 "1a54ca6ee1eab14d"
             ]
         ]
+    },
+    {
+        "id": "35ecb68d5c7626f6",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 1",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "9fb9bba810b4f6be",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 620,
+        "wires": [
+            [
+                "f2bf18d2ab9c4b8b"
+            ]
+        ]
+    },
+    {
+        "id": "42a71ff6d702bc68",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 2",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 7,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 660,
+        "wires": [
+            [
+                "54e651eca269bf42"
+            ]
+        ]
+    },
+    {
+        "id": "e18ad100d77217ce",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 3",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 12,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 700,
+        "wires": [
+            [
+                "8d5e5753d7e0f255"
+            ]
+        ]
+    },
+    {
+        "id": "1365775a1fdf2186",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 4",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 15,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 740,
+        "wires": [
+            [
+                "3368ede3c581baad"
+            ]
+        ]
+    },
+    {
+        "id": "563fc7d9f817c669",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 5",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 20,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 780,
+        "wires": [
+            [
+                "23d599b78a200727"
+            ]
+        ]
+    },
+    {
+        "id": "6d4928bc579284a9",
+        "type": "ui_switch",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "Tara 6",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 23,
+        "width": "2",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 90,
+        "y": 820,
+        "wires": [
+            [
+                "4ed240070479ab26"
+            ]
+        ]
+    },
+    {
+        "id": "887f6281d40530d4",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c977b9c9480cf3f7",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 5,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f9b01ce89453eb2f",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 6,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "56c9d1aa2897b4af",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 11,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4f70bab403d3e99d",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 13,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fd07e2fefacc51e4",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 14,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 100,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2bba73136001ceac",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 19,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "311c9abdc9a1a48a",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 21,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b6bcc85da888c456",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 22,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "06af993441bc7d84",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 8,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "89fda60f0696d3e5",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 16,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4c90233eabbcbec5",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "g": "f371f3a7a1cb790b",
+        "group": "8e8a0e2a14399f07",
+        "name": "Spacer",
+        "order": 25,
+        "width": "2",
+        "height": "1",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 260,
+        "y": 1100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2e2cc6e857183f19",
+        "type": "ui_chart",
+        "z": "239da397959ae042",
+        "name": "",
+        "group": "9fb9bba810b4f6be",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "label": "Live",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "5",
+        "removeOlderPoints": "300",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1030,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "03f7290bb44236df",
+        "type": "ui_artlessgauge",
+        "z": "239da397959ae042",
+        "group": "9fb9bba810b4f6be",
+        "order": 1,
+        "width": "6",
+        "height": "6",
+        "name": "",
+        "icon": "",
+        "label": "Gauge",
+        "unit": "",
+        "layout": "radial",
+        "decimals": "4",
+        "differential": true,
+        "minmax": true,
+        "colorTrack": "#555555",
+        "style": "2,1",
+        "colorFromTheme": true,
+        "property": "payload",
+        "secondary": "secondary",
+        "inline": false,
+        "animate": false,
+        "sectors": [
+            {
+                "val": -3,
+                "col": "#ff0000",
+                "t": "min",
+                "dot": 2
+            },
+            {
+                "val": -2,
+                "col": "#ff0000",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": -1,
+                "col": "#fafa00",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": 0,
+                "col": "#52cc00",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": 1,
+                "col": "#fafa00",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": 2,
+                "col": "#cc0000",
+                "t": "sec",
+                "dot": 2
+            },
+            {
+                "val": 3,
+                "col": "#cc0000",
+                "t": "max",
+                "dot": 2
+            }
+        ],
+        "lineWidth": "15",
+        "bgcolorFromTheme": true,
+        "diffCenter": "0",
+        "x": 1160,
+        "y": 320,
+        "wires": []
     },
     {
         "id": "6ff6b159f4eb418a",
@@ -1551,7 +2225,7 @@
         "stream": false,
         "addname": "",
         "x": 170,
-        "y": 280,
+        "y": 260,
         "wires": [
             [
                 "8d3c9719a67f5aef",
@@ -1565,7 +2239,7 @@
         "z": "239da397959ae042",
         "g": "c4d565d6dc37a9a9",
         "name": "",
-        "property": "payload.ChannelIdx",
+        "property": "topic",
         "propertyType": "msg",
         "rules": [
             {
@@ -1602,11 +2276,14 @@
         "checkall": "false",
         "repair": false,
         "outputs": 6,
-        "x": 570,
-        "y": 280,
+        "x": 690,
+        "y": 260,
         "wires": [
             [
-                "cb7afa64cc116d3f"
+                "cb7afa64cc116d3f",
+                "2e2cc6e857183f19",
+                "03f7290bb44236df",
+                "5f538462ac099755"
             ],
             [
                 "861a06f5e0e080fa"
@@ -1624,6 +2301,180 @@
                 "07508d46a3716912"
             ]
         ]
+    },
+    {
+        "id": "cb7afa64cc116d3f",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 1,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 1",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "861a06f5e0e080fa",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 2,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 2",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "de3070bc03fe8636",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 9,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 3",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "6464a63cdf0e4934",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 10,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 4",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "fb7ed64a28e9d9bd",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 17,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 5",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "07508d46a3716912",
+        "type": "ui_gauge",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "group": "8e8a0e2a14399f07",
+        "order": 18,
+        "width": "6",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Channel 6",
+        "label": "mm",
+        "format": "{{payload | number:4}}",
+        "min": "-3",
+        "max": "3",
+        "colors": [
+            "#ff0000",
+            "#00b81f",
+            "#ff0000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 850,
+        "y": 380,
+        "wires": []
     },
     {
         "id": "0add7a7bfa64c05f",
@@ -1645,11 +2496,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 400,
-        "y": 280,
+        "x": 340,
+        "y": 260,
         "wires": [
             [
-                "e077a5732aef02e3"
+                "e147caf0cd14a036"
             ]
         ]
     },
@@ -1663,7 +2514,7 @@
             "299ab7b0cb07f4b7"
         ],
         "x": 55,
-        "y": 280,
+        "y": 260,
         "wires": [
             [
                 "6ff6b159f4eb418a"
@@ -1671,7 +2522,128 @@
         ]
     },
     {
-        "id": "35ecb68d5c7626f6",
+        "id": "e147caf0cd14a036",
+        "type": "change",
+        "z": "239da397959ae042",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "payload.ChannelIdx",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.dValue",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 260,
+        "wires": [
+            [
+                "e077a5732aef02e3"
+            ]
+        ]
+    },
+    {
+        "id": "5f538462ac099755",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "group": "9fb9bba810b4f6be",
+        "name": "gauge3",
+        "order": 3,
+        "width": 6,
+        "height": 6,
+        "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >-5</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-4</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-3</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-2</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-1</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">1</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">2</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">3</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">4</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">5</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -5;\n    let max = 5;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "gauge3",
+        "x": 1220,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bfa4ef96.0901f",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "gauge-style-advanced",
+        "order": 30,
+        "width": 10,
+        "height": 1,
+        "format": "<!--<link rel=\"stylesheet\" href=\"/css/hotnipi-gauge.css\">-->\n<style>\n:root {\n    --needle-color: #001100;\n    --needle-color-secondary: #ffdd30;\n    --target-needle-color: #ffa500;\n    --red-ticks: 9;\n    --zone-color-high: #ff5d4ebf;\n    --zone-color-warn: #ffb52d8c;\n    --zone-color-normal: #91ff4e85;\n    --zone-color-low: #4ec3ff85\n}\n.g-zone {\n    position: absolute;\n    width: 82%;\n    height: 82%;\n    top: 8%;\n    left: 10%;\n    box-sizing: border-box;\n    border-radius: 0 100% 0 0;\n    border-color: var(--zone-color-normal);\n    border-top: 7px solid;\n    border-right: 7px solid;\n    clip-path: polygon(0% 0%, 100% 0%, 0% 0%, 0% 100% );\n}\n.g-zone.high {\n    border-color: var(--zone-color-high);\n    clip-path: polygon(0% 0%, 100% 0%, 16% 0%, 0% 100% );\n}\n.g-zone.warn {\n    border-color: var(--zone-color-warn);\n    clip-path: polygon(16% 0%, 100% 0%, 73% 0%, 0% 100% );\n}\n.g-zone.normal {\n    border-color: var(--zone-color-normal);\n    clip-path: polygon(0% 50%, 100% 0%, 100% 67%, 0% 100% );\n}\n.g-zone.low {\n    border-color: var(--zone-color-low);\n    clip-path: polygon(100% 68%, 100% 0%, 100% 100%, 0% 100% );\n}\n\n.g-wrapper-label-0 {\n    grid-template-rows: 1fr;\n}\n\n.g-wrapper-label-3 {\n    grid-template-rows: 1fr 3fr;\n}\n\n.g-wrapper-label-4 {\n    grid-template-rows: 1fr 4fr;\n}\n\n.g-wrapper {\n    display: grid;\n    width: 100%;\n    height: 100%;\n    align-content: center;\n    align-items: center;\n    justify-items: center;\n}\n\n.g-header {\n    display: flex;\n    text-align: center;\n}\n\n.g-wrapper-label-0 .g-container {\n    height: calc(100% - 6px);\n}\n\n.g-container {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    user-select: none;\n    width: 100%;\n    height: calc(100% - 10.5px);\n}\n\n.g-body {\n    position: relative;\n    display: flex;\n    align-content: center;\n    align-items: center;\n    justify-content: center;\n    height: 98%;\n    width: 98%;\n    border-radius: 15%;\n    box-shadow: 0px 5px 8px #00000045;\n    background: linear-gradient(0deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.g-body::before {\n    content: \"\";\n    position: absolute;\n    top: 0px;\n    right: 0px;\n    bottom: 0px;\n    left: 0px;\n    opacity: 0.1;\n    border-radius: 15%;\n    background-image: url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgogIDxyZWN0IHdpZHRoPSc1JyBoZWlnaHQ9JzUnIGZpbGw9J3doaXRlJy8+CiAgPHBhdGggZD0nTTAgNUw1IDBaTTYgNEw0IDZaTS0xIDFMMSAtMVonIHN0cm9rZT0nIzg4OCcgc3Ryb2tlLXdpZHRoPScxJy8+Cjwvc3ZnPg==\");\n    background-repeat: repeat;\n}\n\n.g-ring {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    align-content: center;\n    width: 94%;\n    height: 94%;\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 15% 85% 15% 15%;\n}\n.quarter-top-left>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 85% 15% 15% 15%;\n}\n\n.g-plate {\n    position: relative;\n    overflow: hidden;\n    width: 93%;\n    height: 93%;\n    border-radius: 50%;\n    box-shadow: inset 0 0 15px #000000a3;\n    background: radial-gradient(circle, rgb(196 205 209) 0%, rgb(177 183 186) 40%, rgb(191 193 194) 100%);\n}\n\n.quarter-top-right *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 15% 100% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n.quarter-top-left *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 100% 15% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n\n.g-sector-high {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    top: 50%;\n    left: 50%;\n    background: #ff00004f;\n    transform-origin: 0 0;\n    transform: rotate(328deg) skew(12deg, 23deg);\n}\n\n.g-ticks {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    filter: drop-shadow(2px 4px 6px black);\n}\n\n.quarter-top-right *>.g-ticks {\n    top: -10%;\n    left: 10%;\n}\n.quarter-top-left *>.g-ticks {\n    top: -10%;\n    left: -10%;\n    transform: rotate(270deg);\n}\n\n\n.g-tick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 60%) 2%, rgb(0 0 0 / 60%) 10%, rgba(0, 0, 0, 0) 10%);\n    transform: rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-tick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) +270deg)));\n}\n\n.g-subtick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 40%) 2%, rgb(0 0 0 / 40%) 6%, rgba(0, 0, 0, 0) 6%);\n    transform: rotate(calc(calc(270deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-subtick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-subtick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-subtick-count)) + 270deg)));\n}\n\n.g-num {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    text-align: center;\n    transform: translate(-50%, -50%) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(270deg / var(--ga-tick-count))*-1 - 45deg)));\n}\n\n.quarter-top-right *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n.quarter-top-left *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 360deg)));\n}\n\n.g-num.clock {\n    transform: translate(-50%, -50%) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) + 270deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(360deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n\n.g-nums {\n    position: absolute;\n    top: 0;\n    width: 100%;\n    height: 100%;\n    color: #000000a1;\n    font-size: calc(var(--container-size) * 20%);\n    font-weight: 500;\n    filter: drop-shadow(2px 4px 10px black);\n}\n\n.quarter-top-right *>.g-nums {\n    top: 40%;\n    left: -40%;\n}\n\n.quarter-top-left *>.g-nums {\n    top: 40%;\n    left: 40%;\n    transform: rotate(270deg);\n}\n.g-needle {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 2%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value, 0deg) / 10) - 45deg));\n    transition: transform 20ms;\n}\n\n.g-needle-secondary {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 2%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color-secondary) 15%, var(--needle-color-secondary) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value-secondary, 0deg) / 100) - 45deg));\n    transition: transform 1s;    \n}\n\n.g-target-needle {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 1.5%;\n    transform: rotate(calc(270deg * calc(var(--gauge-target, 0deg) / 100) - 45deg));\n    transition: transform 1s;\n}\n\n.g-target-needle:before {\n    content: \"►\";\n    position: absolute;\n    left: -1%;\n    top: calc(var(--container-size) * 1%);\n    line-height: 0;\n    font-size: calc(var(--container-size) * 35%);\n    color: #ffdc2d;\n    text-shadow: 0 0 3px black;\n}\n\n.quarter-top-right *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 10%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 90deg));\n    transform-origin: 0% 50%;\n}\n\n.quarter-top-left *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 90%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 270deg));\n    transform-origin: 0% 50%;\n}\n\n.g-needle.hour {\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 20%, var(--needle-color) 20%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-hour));\n}\n\n.g-needle.minute {\n    top: 49.25%;\n    height: 1.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-minute));\n}\n\n.g-needle.second {\n    top: 49.5%;\n    height: 0.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 10%, var(--needle-color) 10%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(var(--time-second));\n    transition: unset;\n}\n\n.g-needle-ring {\n    position: absolute;\n    width: calc(var(--container-size) * 1.5%);\n    height: calc(var(--container-size) * 1.5%);\n    top: 50%;\n    left: 50%;\n    border-radius: 50%;\n    box-shadow: 0 1px 4px #0000009c;\n    background: var(--needle-color);\n    transform: translate(-50%, -50%);\n}\n\n.quarter-top-right *>.g-needle-ring {\n    top: 90%;\n    left: 10%;\n}\n.quarter-top-left *>.g-needle-ring {\n    top: 90%;\n    left: 90%;\n}\n\n.g-val {\n    position: absolute;\n    text-align: center;\n    left: 50%;\n    bottom: 8%;\n    width: 80px;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 27%);\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000050);\n    transform: translateX(-50%);\n}\n\n/* Add a pseudo-element for the negative sign */\n.g-val:before {\n    content: \"\";\n    position: absolute;\n    left: -1; /* Position the negative sign on the left side */\n}\n/* Style for negative numbers */\n.g-val.negative:before {\n    content: \"-\";\n    right: 100%; /* Position the negative sign to the left of the number */\n    margin-right: 0px; /* Add some space between the negative sign and the number */\n}\n\n.quarter-top-right *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.quarter-top-left *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.g-val-ring {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: calc(calc(var(--container-size) * 7%) / calc(var(--container-size)/4));\n    height: calc(calc(var(--container-size) * 6%) / calc(var(--container-size)/4));\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right *> .g-val-ring {\n    right: 0%;\n}\n.quarter-top-left *> .g-val-ring {\n    left:0%;\n}\n.g-val-plate {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: 90%;\n    height: 90%;\n    border-radius: 50%;\n    background: #e4e9ee;\n    box-shadow: inset 0 0 15px #000000a3;\n    transform: translate(-5%, 5%);\n}\n\n.g-label {\n    position: absolute;\n    left: 50%;\n    top: 58%;\n    width: 100%;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 18%);\n    text-align: center;\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000080);\n    transform: translateX(-50%);\n}\n\n.quarter-top-right *>.g-label {\n    left: 35%;\n    top: 60%;\n    width: 70%;\n}\n\n.quarter-top-left *>.g-label {\n    left: 65%;\n    top: 60%;\n    width: 70%;\n}\n\n.g-label::after {\n    position: absolute;\n    content: var(--g-unit);\n    left: 0;\n    top: 100%;\n    width: 100%;\n    height: 100%;\n    font-size: clamp(1em, calc(var(--container-size) * 40%), 1.5em);\n}\n\n.g-rivets {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.g-rivet {\n    position: absolute;\n    width: calc(var(--container-size) * 2px);\n    height: calc(var(--container-size) * 2px);\n    border: 1px solid rgba(255, 255, 255, 0.1);\n    border-radius: 50px;\n    box-shadow: 0px 2px 4px #000, -1px -1px 5px rgba(0, 0, 0, 0.2);\n    background: linear-gradient(135deg, #adadad 0%, #d3d3d3 51%, #d1d1d1 68%, #8c8c8c 100%);\n}\n\n.g-rivet:nth-child(1) {\n    top: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(2) {\n    top: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(3) {\n    bottom: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(4) {\n    bottom: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet::before {\n    content: '';\n    position: absolute;\n    left: 50%;\n    top: 50%;\n    width: calc(var(--container-size) * 10%);\n    height: calc(var(--container-size) * 10%);\n    border-radius: 50%;\n    border-bottom: 1px solid rgba(255, 255, 255, 0.3);\n    box-shadow: inset 0px 1px 2px #222;\n    transform: translate(-50%, -50%);\n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1200,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d6bbe69e060b5047",
+        "type": "ui_template",
+        "z": "239da397959ae042",
+        "group": "9fb9bba810b4f6be",
+        "name": "Gauge3 Overrides",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\nmd-card.nr-dashboard-template.gauge3 .g-body {\n    border-radius: 50%;\n}\n\nmd-card.nr-dashboard-template.gauge3 .g-body::before {    \n    border-radius:50%;\n}\nmd-card.nr-dashboard-template.gauge3 .g-rivets {\n    display:none;\n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 1190,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f2bf18d2ab9c4b8b",
+        "type": "rbe",
+        "z": "239da397959ae042",
+        "g": "191d11291a88de5f",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 250,
+        "y": 600,
+        "wires": [
+            [
+                "0599be6e5bef4cec",
+                "3aa58f2b6f8367f9",
+                "35ecb68d5c7626f6"
+            ]
+        ]
+    },
+    {
+        "id": "3aa58f2b6f8367f9",
         "type": "ui_switch",
         "z": "239da397959ae042",
         "g": "191d11291a88de5f",
@@ -1698,624 +2670,743 @@
         "animate": false,
         "className": "",
         "x": 90,
-        "y": 500,
-        "wires": [
-            [
-                "0599be6e5bef4cec"
-            ]
-        ]
-    },
-    {
-        "id": "42a71ff6d702bc68",
-        "type": "ui_switch",
-        "z": "239da397959ae042",
-        "g": "191d11291a88de5f",
-        "name": "Tara 2",
-        "label": "Tara",
-        "tooltip": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 7,
-        "width": "2",
-        "height": "1",
-        "passthru": true,
-        "decouple": "false",
-        "topic": "payload",
-        "topicType": "msg",
-        "style": "",
-        "onvalue": "true",
-        "onvalueType": "bool",
-        "onicon": "",
-        "oncolor": "",
-        "offvalue": "false",
-        "offvalueType": "bool",
-        "officon": "",
-        "offcolor": "",
-        "animate": false,
-        "className": "",
-        "x": 90,
-        "y": 540,
-        "wires": [
-            [
-                "54e651eca269bf42"
-            ]
-        ]
-    },
-    {
-        "id": "e18ad100d77217ce",
-        "type": "ui_switch",
-        "z": "239da397959ae042",
-        "g": "191d11291a88de5f",
-        "name": "Tara 3",
-        "label": "Tara",
-        "tooltip": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 12,
-        "width": "2",
-        "height": "1",
-        "passthru": true,
-        "decouple": "false",
-        "topic": "payload",
-        "topicType": "msg",
-        "style": "",
-        "onvalue": "true",
-        "onvalueType": "bool",
-        "onicon": "",
-        "oncolor": "",
-        "offvalue": "false",
-        "offvalueType": "bool",
-        "officon": "",
-        "offcolor": "",
-        "animate": false,
-        "className": "",
-        "x": 90,
         "y": 580,
         "wires": [
             [
-                "8d5e5753d7e0f255"
+                "f2bf18d2ab9c4b8b"
             ]
         ]
     },
     {
-        "id": "1365775a1fdf2186",
-        "type": "ui_switch",
+        "id": "1ecf86fc28b14589",
+        "type": "calculator",
         "z": "239da397959ae042",
-        "g": "191d11291a88de5f",
-        "name": "Tara 4",
-        "label": "Tara",
-        "tooltip": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 15,
-        "width": "2",
-        "height": "1",
-        "passthru": true,
-        "decouple": "false",
-        "topic": "payload",
-        "topicType": "msg",
-        "style": "",
-        "onvalue": "true",
-        "onvalueType": "bool",
-        "onicon": "",
-        "oncolor": "",
-        "offvalue": "false",
-        "offvalueType": "bool",
-        "officon": "",
-        "offcolor": "",
-        "animate": false,
-        "className": "",
-        "x": 90,
-        "y": 620,
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "data",
+        "outputMsgField": "max",
+        "operation": "max",
+        "constant": "",
+        "round": false,
+        "decimals": 0,
+        "x": 180,
+        "y": 1780,
         "wires": [
             [
-                "3368ede3c581baad"
+                "5a4a8a1059dea756"
             ]
         ]
     },
     {
-        "id": "563fc7d9f817c669",
-        "type": "ui_switch",
+        "id": "5a4a8a1059dea756",
+        "type": "calculator",
         "z": "239da397959ae042",
-        "g": "191d11291a88de5f",
-        "name": "Tara 5",
-        "label": "Tara",
-        "tooltip": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 20,
-        "width": "2",
-        "height": "1",
-        "passthru": true,
-        "decouple": "false",
-        "topic": "payload",
-        "topicType": "msg",
-        "style": "",
-        "onvalue": "true",
-        "onvalueType": "bool",
-        "onicon": "",
-        "oncolor": "",
-        "offvalue": "false",
-        "offvalueType": "bool",
-        "officon": "",
-        "offcolor": "",
-        "animate": false,
-        "className": "",
-        "x": 90,
-        "y": 660,
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "data",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": false,
+        "decimals": 0,
+        "x": 320,
+        "y": 1780,
         "wires": [
             [
-                "23d599b78a200727"
+                "2f5ae32c241db25c"
             ]
         ]
     },
     {
-        "id": "6d4928bc579284a9",
-        "type": "ui_switch",
+        "id": "2f5ae32c241db25c",
+        "type": "calculator",
         "z": "239da397959ae042",
-        "g": "191d11291a88de5f",
-        "name": "Tara 6",
-        "label": "Tara",
-        "tooltip": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 23,
-        "width": "2",
-        "height": "1",
-        "passthru": true,
-        "decouple": "false",
-        "topic": "payload",
-        "topicType": "msg",
-        "style": "",
-        "onvalue": "true",
-        "onvalueType": "bool",
-        "onicon": "",
-        "oncolor": "",
-        "offvalue": "false",
-        "offvalueType": "bool",
-        "officon": "",
-        "offcolor": "",
-        "animate": false,
-        "className": "",
-        "x": 90,
-        "y": 700,
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "data",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": false,
+        "decimals": 0,
+        "x": 500,
+        "y": 1780,
         "wires": [
             [
-                "4ed240070479ab26"
+                "022d0485fdf0448b"
             ]
         ]
     },
     {
-        "id": "cb7afa64cc116d3f",
-        "type": "ui_gauge",
+        "id": "022d0485fdf0448b",
+        "type": "calculator",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
+        "g": "845f4268e3199e1d",
         "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 1,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 1",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 790,
-        "y": 200,
+        "inputMsgField": "data",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": false,
+        "decimals": 0,
+        "x": 660,
+        "y": 1780,
+        "wires": [
+            [
+                "96a65acb3f480bde",
+                "fc17c993611d66a8",
+                "e8beecd43126c417"
+            ]
+        ]
+    },
+    {
+        "id": "96a65acb3f480bde",
+        "type": "debug",
+        "z": "239da397959ae042",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg, \"data\":data }\t",
+        "targetType": "jsonata",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1000,
+        "y": 1780,
         "wires": []
     },
     {
-        "id": "861a06f5e0e080fa",
-        "type": "ui_gauge",
+        "id": "fc17c993611d66a8",
+        "type": "change",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 2,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 2",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
+        "g": "845f4268e3199e1d",
+        "name": "Calculation",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "msg.avg-msg.min",
+                "tot": "jsonata"
+            }
         ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 790,
-        "y": 240,
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 1840,
+        "wires": [
+            [
+                "66ac11da686f74ef"
+            ]
+        ]
+    },
+    {
+        "id": "66ac11da686f74ef",
+        "type": "debug",
+        "z": "239da397959ae042",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 930,
+        "y": 1840,
         "wires": []
     },
     {
-        "id": "de3070bc03fe8636",
-        "type": "ui_gauge",
+        "id": "1417102d265e83e5",
+        "type": "link in",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 9,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 3",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
+        "g": "845f4268e3199e1d",
+        "name": "Channel 1 Calculation Input",
+        "links": [
+            "961c22119f4c0397"
         ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 790,
-        "y": 280,
+        "x": 65,
+        "y": 1780,
+        "wires": [
+            [
+                "1ecf86fc28b14589"
+            ]
+        ]
+    },
+    {
+        "id": "5917fb94d4c4e626",
+        "type": "comment",
+        "z": "239da397959ae042",
+        "g": "845f4268e3199e1d",
+        "name": "Channel 1 Calculation",
+        "info": "",
+        "x": 140,
+        "y": 1740,
         "wires": []
     },
     {
-        "id": "6464a63cdf0e4934",
-        "type": "ui_gauge",
+        "id": "384f672b7f59aaae",
+        "type": "ui_button",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
+        "g": "3db353d6ca535ffc",
         "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 10,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 4",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
+        "group": "9fb9bba810b4f6be",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "{{payload}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
         "className": "",
-        "x": 790,
-        "y": 320,
+        "icon": "",
+        "payload": "Button1",
+        "payloadType": "str",
+        "topic": "control",
+        "topicType": "str",
+        "x": 270,
+        "y": 1420,
+        "wires": [
+            [
+                "86a2b1f5d365cc3b"
+            ]
+        ]
+    },
+    {
+        "id": "86a2b1f5d365cc3b",
+        "type": "toggle",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "Stop",
+        "onType": "str",
+        "offValue": "Messung",
+        "offType": "str",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "always",
+        "x": 270,
+        "y": 1300,
+        "wires": [
+            [
+                "384f672b7f59aaae",
+                "c69fbea30e7e962c",
+                "117655354f300291"
+            ]
+        ]
+    },
+    {
+        "id": "93d13444c85540f2",
+        "type": "inject",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.3",
+        "topic": "",
+        "payload": "Messung",
+        "payloadType": "str",
+        "x": 120,
+        "y": 1360,
+        "wires": [
+            [
+                "384f672b7f59aaae",
+                "86a2b1f5d365cc3b"
+            ]
+        ]
+    },
+    {
+        "id": "efa429021e13e670",
+        "type": "change",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c69fbea30e7e962c",
+        "type": "switch",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "property": "initGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1260,
+        "wires": [
+            [
+                "efa429021e13e670"
+            ],
+            [
+                "f9eafdbe8ae23397"
+            ]
+        ]
+    },
+    {
+        "id": "73bd97ce42998d53",
+        "type": "comment",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "Normal Flow",
+        "info": "",
+        "x": 850,
+        "y": 1220,
         "wires": []
     },
     {
-        "id": "fb7ed64a28e9d9bd",
-        "type": "ui_gauge",
+        "id": "3a123b1d2a2ea28d",
+        "type": "change",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
+        "g": "fb5dfa943294e7a2",
         "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 17,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 5",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
+        "rules": [
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
         ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 790,
-        "y": 360,
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 1340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a99feee76da088f8",
+        "type": "comment",
+        "z": "239da397959ae042",
+        "g": "fb5dfa943294e7a2",
+        "name": "Init Measuring",
+        "info": "",
+        "x": 830,
+        "y": 1300,
         "wires": []
     },
     {
-        "id": "07508d46a3716912",
-        "type": "ui_gauge",
+        "id": "f9eafdbe8ae23397",
+        "type": "change",
         "z": "239da397959ae042",
-        "g": "c4d565d6dc37a9a9",
+        "g": "fb5dfa943294e7a2",
         "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 18,
-        "width": "6",
-        "height": "3",
-        "gtype": "gage",
-        "title": "Channel 6",
-        "label": "mm",
-        "format": "{{payload.dValue| number:3}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
         ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 790,
-        "y": 400,
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 650,
+        "y": 1300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6c0ba9e1b80d2e1c",
+        "type": "inject",
+        "z": "239da397959ae042",
+        "g": "fb5dfa943294e7a2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 650,
+        "y": 1340,
+        "wires": [
+            [
+                "3a123b1d2a2ea28d"
+            ]
+        ]
+    },
+    {
+        "id": "13565b662d8a9522",
+        "type": "comment",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "name": "Channel 1 Start/Stop Measurement Logic",
+        "info": "",
+        "x": 200,
+        "y": 1220,
         "wires": []
     },
     {
-        "id": "887f6281d40530d4",
-        "type": "ui_template",
+        "id": "ad951cef22b6175f",
+        "type": "comment",
         "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 3,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
+        "g": "8e9639dd6a52feb3",
+        "name": "Stopping the measurment",
+        "info": "Runs only once per Measuring Cycle",
+        "x": 370,
+        "y": 1640,
+        "wires": []
+    },
+    {
+        "id": "2ff7d1587afc2317",
+        "type": "link in",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "",
+        "links": [
+            "8a062e794e7331e0"
+        ],
+        "x": 55,
+        "y": 1580,
+        "wires": [
+            [
+                "d2bd2a8b4590ca12"
+            ]
+        ]
+    },
+    {
+        "id": "d2bd2a8b4590ca12",
+        "type": "switch",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "",
+        "property": "messureGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 170,
+        "y": 1580,
+        "wires": [
+            [
+                "0165079cf8acb1c7"
+            ],
+            [
+                "4e03a37c584c3626"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "0165079cf8acb1c7",
+        "type": "join",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "",
+        "mode": "custom",
+        "build": "array",
+        "property": "data",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "num",
+        "reduceFixup": "",
+        "x": 827,
+        "y": 1567,
+        "wires": [
+            [
+                "961c22119f4c0397"
+            ]
+        ]
+    },
+    {
+        "id": "4e03a37c584c3626",
+        "type": "change",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 1600,
+        "wires": [
+            [
+                "99f9f61df6ab0e67"
+            ]
+        ]
+    },
+    {
+        "id": "99f9f61df6ab0e67",
+        "type": "change",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "complete",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 1600,
+        "wires": [
+            [
+                "0165079cf8acb1c7"
+            ]
+        ]
+    },
+    {
+        "id": "961c22119f4c0397",
+        "type": "link out",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "Channel1 Measurement Values",
+        "mode": "link",
+        "links": [
+            "1417102d265e83e5"
+        ],
+        "x": 922,
+        "y": 1567,
+        "wires": []
+    },
+    {
+        "id": "bf5868348dad9f0a",
+        "type": "comment",
+        "z": "239da397959ae042",
+        "g": "8e9639dd6a52feb3",
+        "name": "Channel 1 Measurement Data Flow",
+        "info": "",
+        "x": 180,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "0bc7f6e47886b686",
+        "type": "ui_chart",
+        "z": "239da397959ae042",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "group": "9fb9bba810b4f6be",
+        "order": 7,
+        "width": "12",
+        "height": "6",
+        "label": "Measurement Visualisation",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1d7e02",
+            "#b0030b",
+            "#90fefc",
+            "#ffa200",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
         "className": "",
-        "x": 100,
-        "y": 800,
+        "x": 1140,
+        "y": 1740,
         "wires": [
             []
         ]
     },
     {
-        "id": "c977b9c9480cf3f7",
-        "type": "ui_template",
+        "id": "e8beecd43126c417",
+        "type": "function",
         "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 5,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 100,
-        "y": 840,
+        "g": "845f4268e3199e1d",
+        "name": "Transform for Chart",
+        "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.data],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1740,
         "wires": [
-            []
+            [
+                "0bc7f6e47886b686"
+            ]
         ]
     },
     {
-        "id": "f9b01ce89453eb2f",
-        "type": "ui_template",
+        "id": "d9111c50fe35a026",
+        "type": "change",
         "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 6,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 100,
-        "y": 880,
+        "g": "3db353d6ca535ffc",
+        "name": "Delete Measure Diagram",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 1420,
         "wires": [
-            []
+            [
+                "0bc7f6e47886b686"
+            ]
         ]
     },
     {
-        "id": "56c9d1aa2897b4af",
-        "type": "ui_template",
+        "id": "117655354f300291",
+        "type": "switch",
         "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 11,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 100,
-        "y": 920,
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 1,
+        "x": 490,
+        "y": 1420,
         "wires": [
-            []
-        ]
-    },
-    {
-        "id": "4f70bab403d3e99d",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 13,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 100,
-        "y": 960,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "fd07e2fefacc51e4",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 14,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 100,
-        "y": 1000,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2bba73136001ceac",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 19,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 800,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "311c9abdc9a1a48a",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 21,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "b6bcc85da888c456",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 22,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 880,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "06af993441bc7d84",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 8,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 920,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "89fda60f0696d3e5",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 16,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 960,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "4c90233eabbcbec5",
-        "type": "ui_template",
-        "z": "239da397959ae042",
-        "g": "f371f3a7a1cb790b",
-        "group": "8e8a0e2a14399f07",
-        "name": "Spacer",
-        "order": 24,
-        "width": "2",
-        "height": "1",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 260,
-        "y": 1000,
-        "wires": [
-            []
+            [
+                "d9111c50fe35a026"
+            ]
         ]
     },
     {
@@ -2370,6 +3461,282 @@
         "y": 40,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "956279e.66fd688",
+        "type": "ui_slider",
+        "z": "9652b155ac1b5814",
+        "name": "",
+        "label": "slider",
+        "tooltip": "",
+        "group": "f5e2c3bf3d5a99b2",
+        "order": 4,
+        "width": 1,
+        "height": 4,
+        "passthru": true,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "x": 730,
+        "y": 260,
+        "wires": [
+            [
+                "b4544d02.bd298",
+                "3d72f85c.9c41a8",
+                "3adef51a.0b782a",
+                "a14984e2.d4e728",
+                "27c9022d.58f8ae"
+            ]
+        ]
+    },
+    {
+        "id": "b4544d02.bd298",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "4x4 regular",
+        "order": 22,
+        "width": 4,
+        "height": 4,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:4; --gn-distance:13; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">60</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">70</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">80</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">90</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">100</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = ((val - min) / (max - min)) * 100;\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 960,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3d72f85c.9c41a8",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "4x4 - quater - top - right",
+        "order": 3,
+        "width": 4,
+        "height": 4,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:100; --container-size:4; --gn-distance:28; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body quarter-top-right\">\n        <div class=\"g-ring\">\n            <div class=\"g-plate\">\n                <div class=\"g-zone high\"></div>\n                <div class=\"g-zone warn\"></div>\n                <div class=\"g-zone normal\"></div>\n                <div class=\"g-zone low\"></div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >100</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">80</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">60</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">40</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">20</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">0</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n            </div>\n            <div class=\"g-val-ring\">\n                <div class=\"g-val-plate\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = max - (((val - min) / (max - min)) * 100);\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1000,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3adef51a.0b782a",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "4x4 - quater - top - left",
+        "order": 2,
+        "width": 4,
+        "height": 4,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:100; --container-size:4; --gn-distance:28; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body quarter-top-left\">\n        <div class=\"g-ring\">\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >0</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">20</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">40</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">60</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">80</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">100</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n            </div>\n            <div class=\"g-val-ring\">\n                <div class=\"g-val-plate\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = max + (((val - min) / (max - min)) * 100);\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 990,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a14984e2.d4e728",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "3x3 - quater - top - left",
+        "order": 13,
+        "width": 3,
+        "height": 3,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:100; --container-size:3; --gn-distance:28; --ga-tick-count:10; --ga-subtick-count:50; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body quarter-top-left\">\n        <div class=\"g-ring\">\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >0</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">20</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">40</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">60</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">80</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">100</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n            </div>\n            <div class=\"g-val-ring\">\n                <div class=\"g-val-plate\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = max + (((val - min) / (max - min)) * 100);\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 990,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27c9022d.58f8ae",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "3x3 - quater - top - right",
+        "order": 14,
+        "width": 3,
+        "height": 3,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:100; --container-size:3; --gn-distance:28; --ga-tick-count:10; --ga-subtick-count:50; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body quarter-top-right\">\n        <div class=\"g-ring\">\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >100</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">80</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">60</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">40</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">20</div>\n\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">0</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n            </div>\n            <div class=\"g-val-ring\">\n                <div class=\"g-val-plate\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = max - (((val - min) / (max - min)) * 100);\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 1000,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e9a21f3750cad864",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "gauge-style-advanced",
+        "order": 30,
+        "width": 10,
+        "height": 1,
+        "format": "<!--<link rel=\"stylesheet\" href=\"/css/hotnipi-gauge.css\">-->\n<style>\n:root {\n    --needle-color: #001100;\n    --needle-color-secondary: #ffdd30;\n    --target-needle-color: #ffa500;\n    --red-ticks: 9;\n    --zone-color-high: #ff5d4ebf;\n    --zone-color-warn: #ffb52d8c;\n    --zone-color-normal: #91ff4e85;\n    --zone-color-low: #4ec3ff85\n}\n.g-zone {\n    position: absolute;\n    width: 82%;\n    height: 82%;\n    top: 8%;\n    left: 10%;\n    box-sizing: border-box;\n    border-radius: 0 100% 0 0;\n    border-color: var(--zone-color-normal);\n    border-top: 7px solid;\n    border-right: 7px solid;\n    clip-path: polygon(0% 0%, 100% 0%, 0% 0%, 0% 100% );\n}\n.g-zone.high {\n    border-color: var(--zone-color-high);\n    clip-path: polygon(0% 0%, 100% 0%, 16% 0%, 0% 100% );\n}\n.g-zone.warn {\n    border-color: var(--zone-color-warn);\n    clip-path: polygon(16% 0%, 100% 0%, 73% 0%, 0% 100% );\n}\n.g-zone.normal {\n    border-color: var(--zone-color-normal);\n    clip-path: polygon(0% 50%, 100% 0%, 100% 67%, 0% 100% );\n}\n.g-zone.low {\n    border-color: var(--zone-color-low);\n    clip-path: polygon(100% 68%, 100% 0%, 100% 100%, 0% 100% );\n}\n\n.g-wrapper-label-0 {\n    grid-template-rows: 1fr;\n}\n\n.g-wrapper-label-3 {\n    grid-template-rows: 1fr 3fr;\n}\n\n.g-wrapper-label-4 {\n    grid-template-rows: 1fr 4fr;\n}\n\n.g-wrapper {\n    display: grid;\n    width: 100%;\n    height: 100%;\n    align-content: center;\n    align-items: center;\n    justify-items: center;\n}\n\n.g-header {\n    display: flex;\n    text-align: center;\n}\n\n.g-wrapper-label-0 .g-container {\n    height: calc(100% - 6px);\n}\n\n.g-container {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    user-select: none;\n    width: 100%;\n    height: calc(100% - 10.5px);\n}\n\n.g-body {\n    position: relative;\n    display: flex;\n    align-content: center;\n    align-items: center;\n    justify-content: center;\n    height: 98%;\n    width: 98%;\n    border-radius: 15%;\n    box-shadow: 0px 5px 8px #00000045;\n    background: linear-gradient(0deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.g-body::before {\n    content: \"\";\n    position: absolute;\n    top: 0px;\n    right: 0px;\n    bottom: 0px;\n    left: 0px;\n    opacity: 0.1;\n    border-radius: 15%;\n    background-image: url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgogIDxyZWN0IHdpZHRoPSc1JyBoZWlnaHQ9JzUnIGZpbGw9J3doaXRlJy8+CiAgPHBhdGggZD0nTTAgNUw1IDBaTTYgNEw0IDZaTS0xIDFMMSAtMVonIHN0cm9rZT0nIzg4OCcgc3Ryb2tlLXdpZHRoPScxJy8+Cjwvc3ZnPg==\");\n    background-repeat: repeat;\n}\n\n.g-ring {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    align-content: center;\n    width: 94%;\n    height: 94%;\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 15% 85% 15% 15%;\n}\n.quarter-top-left>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 85% 15% 15% 15%;\n}\n\n.g-plate {\n    position: relative;\n    overflow: hidden;\n    width: 93%;\n    height: 93%;\n    border-radius: 50%;\n    box-shadow: inset 0 0 15px #000000a3;\n    background: radial-gradient(circle, rgb(196 205 209) 0%, rgb(177 183 186) 40%, rgb(191 193 194) 100%);\n}\n\n.quarter-top-right *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 15% 100% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n.quarter-top-left *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 100% 15% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n\n.g-sector-high {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    top: 50%;\n    left: 50%;\n    background: #ff00004f;\n    transform-origin: 0 0;\n    transform: rotate(328deg) skew(12deg, 23deg);\n}\n\n.g-ticks {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    filter: drop-shadow(2px 4px 6px black);\n}\n\n.quarter-top-right *>.g-ticks {\n    top: -10%;\n    left: 10%;\n}\n.quarter-top-left *>.g-ticks {\n    top: -10%;\n    left: -10%;\n    transform: rotate(270deg);\n}\n\n\n.g-tick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 60%) 2%, rgb(0 0 0 / 60%) 10%, rgba(0, 0, 0, 0) 10%);\n    transform: rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-tick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) +270deg)));\n}\n\n.g-subtick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 40%) 2%, rgb(0 0 0 / 40%) 6%, rgba(0, 0, 0, 0) 6%);\n    transform: rotate(calc(calc(270deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-subtick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-subtick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-subtick-count)) + 270deg)));\n}\n\n.g-num {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    text-align: center;\n    transform: translate(-50%, -50%) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(270deg / var(--ga-tick-count))*-1 - 45deg)));\n}\n\n.quarter-top-right *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n.quarter-top-left *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 360deg)));\n}\n\n.g-num.clock {\n    transform: translate(-50%, -50%) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) + 270deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(360deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n\n.g-nums {\n    position: absolute;\n    top: 0;\n    width: 100%;\n    height: 100%;\n    color: #000000a1;\n    font-size: calc(var(--container-size) * 20%);\n    font-weight: 500;\n    filter: drop-shadow(2px 4px 10px black);\n}\n\n.quarter-top-right *>.g-nums {\n    top: 40%;\n    left: -40%;\n}\n\n.quarter-top-left *>.g-nums {\n    top: 40%;\n    left: 40%;\n    transform: rotate(270deg);\n}\n.g-needle {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 2%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value, 0deg) / 100) - 45deg));\n    transition: transform 1s;\n}\n\n.g-needle-secondary {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 2%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color-secondary) 15%, var(--needle-color-secondary) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value-secondary, 0deg) / 100) - 45deg));\n    transition: transform 1s;    \n}\n\n.g-target-needle {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 1.5%;\n    transform: rotate(calc(270deg * calc(var(--gauge-target, 0deg) / 100) - 45deg));\n    transition: transform 1s;\n}\n\n.g-target-needle:before {\n    content: \"►\";\n    position: absolute;\n    left: -1%;\n    top: calc(var(--container-size) * 1%);\n    line-height: 0;\n    font-size: calc(var(--container-size) * 35%);\n    color: #ffdc2d;\n    text-shadow: 0 0 3px black;\n}\n\n.quarter-top-right *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 10%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 90deg));\n    transform-origin: 0% 50%;\n}\n\n.quarter-top-left *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 90%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 270deg));\n    transform-origin: 0% 50%;\n}\n\n.g-needle.hour {\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 20%, var(--needle-color) 20%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-hour));\n}\n\n.g-needle.minute {\n    top: 49.25%;\n    height: 1.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-minute));\n}\n\n.g-needle.second {\n    top: 49.5%;\n    height: 0.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 10%, var(--needle-color) 10%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(var(--time-second));\n    transition: unset;\n}\n\n.g-needle-ring {\n    position: absolute;\n    width: calc(var(--container-size) * 1.5%);\n    height: calc(var(--container-size) * 1.5%);\n    top: 50%;\n    left: 50%;\n    border-radius: 50%;\n    box-shadow: 0 1px 4px #0000009c;\n    background: var(--needle-color);\n    transform: translate(-50%, -50%);\n}\n\n.quarter-top-right *>.g-needle-ring {\n    top: 90%;\n    left: 10%;\n}\n.quarter-top-left *>.g-needle-ring {\n    top: 90%;\n    left: 90%;\n}\n\n.g-val {\n    position: absolute;\n    text-align: center;\n    left: 50%;\n    bottom: 8%;\n    width: 80px;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 40%);\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000050);\n    transform: translateX(-50%);\n}\n\n.quarter-top-right *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.quarter-top-left *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.g-val-ring {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: calc(calc(var(--container-size) * 7%) / calc(var(--container-size)/4));\n    height: calc(calc(var(--container-size) * 6%) / calc(var(--container-size)/4));\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right *> .g-val-ring {\n    right: 0%;\n}\n.quarter-top-left *> .g-val-ring {\n    left:0%;\n}\n.g-val-plate {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: 90%;\n    height: 90%;\n    border-radius: 50%;\n    background: #e4e9ee;\n    box-shadow: inset 0 0 15px #000000a3;\n    transform: translate(-5%, 5%);\n}\n\n.g-label {\n    position: absolute;\n    left: 50%;\n    top: 58%;\n    width: 100%;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 18%);\n    text-align: center;\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000080);\n    transform: translateX(-50%);\n}\n\n.quarter-top-right *>.g-label {\n    left: 35%;\n    top: 60%;\n    width: 70%;\n}\n\n.quarter-top-left *>.g-label {\n    left: 65%;\n    top: 60%;\n    width: 70%;\n}\n\n.g-label::after {\n    position: absolute;\n    content: var(--g-unit);\n    left: 0;\n    top: 100%;\n    width: 100%;\n    height: 100%;\n    font-size: clamp(1em, calc(var(--container-size) * 40%), 1.5em);\n}\n\n.g-rivets {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.g-rivet {\n    position: absolute;\n    width: calc(var(--container-size) * 2px);\n    height: calc(var(--container-size) * 2px);\n    border: 1px solid rgba(255, 255, 255, 0.1);\n    border-radius: 50px;\n    box-shadow: 0px 2px 4px #000, -1px -1px 5px rgba(0, 0, 0, 0.2);\n    background: linear-gradient(135deg, #adadad 0%, #d3d3d3 51%, #d1d1d1 68%, #8c8c8c 100%);\n}\n\n.g-rivet:nth-child(1) {\n    top: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(2) {\n    top: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(3) {\n    bottom: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(4) {\n    bottom: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet::before {\n    content: '';\n    position: absolute;\n    left: 50%;\n    top: 50%;\n    width: calc(var(--container-size) * 10%);\n    height: calc(var(--container-size) * 10%);\n    border-radius: 50%;\n    border-bottom: 1px solid rgba(255, 255, 255, 0.3);\n    box-shadow: inset 0px 1px 2px #222;\n    transform: translate(-50%, -50%);\n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1120,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a3eb073401c6b4bf",
+        "type": "ui_template",
+        "z": "9652b155ac1b5814",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "4x4 regular",
+        "order": 22,
+        "width": 4,
+        "height": 4,
+        "format": "<div class=\"g-wrapper g-wrapper-label-0\">\n\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:4; --gn-distance:13; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'°C'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">60</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">70</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">80</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">90</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">100</div>\n                </div>\n                <div class=\"g-label\">Temperature</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n</div>\n<script>\n(function(scope) {\n    let min = 0;\n    let max = 100;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n      // Do something when msg arrives\n        const val = msg.payload\n        const v = ((val - min) / (max - min)) * 100;\n        document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n        document.getElementById('gauge_val_'+scope.$id).innerText = val.toFixed(1);\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 950,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0f52b90ca7764cae",
+        "type": "ui_switch",
+        "z": "9652b155ac1b5814",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "f5e2c3bf3d5a99b2",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 270,
+        "y": 160,
+        "wires": [
+            [
+                "74f03b2c63c43bcb"
+            ]
+        ]
+    },
+    {
+        "id": "3dcb3da70b08e4ea",
+        "type": "ui_switch",
+        "z": "9652b155ac1b5814",
+        "name": "",
+        "label": "switch",
+        "tooltip": "",
+        "group": "f5e2c3bf3d5a99b2",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 270,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "16118de20eb99df9",
+        "type": "debug",
+        "z": "9652b155ac1b5814",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 540,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "74f03b2c63c43bcb",
+        "type": "rbe",
+        "z": "9652b155ac1b5814",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 390,
+        "y": 160,
+        "wires": [
+            [
+                "3dcb3da70b08e4ea"
+            ]
         ]
     }
 ]

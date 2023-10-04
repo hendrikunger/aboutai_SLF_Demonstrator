@@ -5,7 +5,8 @@
     "dependencies": {
         "node-red-contrib-calc": "1.0.5",
         "node-red-contrib-postgresql": "0.14.0",
-        "node-red-dashboard": "3.6.0"
+        "node-red-dashboard": "3.6.0",
+        "@aboutai/node-red-contrib-millimar-n-1701": "0.0.1"
     },
     "node-red": {
         "settings": {
