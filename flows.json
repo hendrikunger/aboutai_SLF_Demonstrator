@@ -193,14 +193,13 @@
             "022d0485fdf0448b",
             "96a65acb3f480bde",
             "fc17c993611d66a8",
-            "66ac11da686f74ef",
             "1417102d265e83e5",
             "5917fb94d4c4e626",
             "e8beecd43126c417",
             "0bc7f6e47886b686"
         ],
         "x": 14,
-        "y": 1699,
+        "y": 1719,
         "w": 1272,
         "h": 182
     },
@@ -235,31 +234,6 @@
         "h": 282
     },
     {
-        "id": "fb5dfa943294e7a2",
-        "type": "group",
-        "z": "239da397959ae042",
-        "g": "3db353d6ca535ffc",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3a123b1d2a2ea28d",
-            "a99feee76da088f8",
-            "f9eafdbe8ae23397",
-            "6c0ba9e1b80d2e1c"
-        ],
-        "x": 534,
-        "y": 1259,
-        "w": 412,
-        "h": 122
-    },
-    {
         "id": "8e9639dd6a52feb3",
         "type": "group",
         "z": "239da397959ae042",
@@ -288,6 +262,31 @@
         "h": 202
     },
     {
+        "id": "fb5dfa943294e7a2",
+        "type": "group",
+        "z": "239da397959ae042",
+        "g": "3db353d6ca535ffc",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a123b1d2a2ea28d",
+            "a99feee76da088f8",
+            "f9eafdbe8ae23397",
+            "6c0ba9e1b80d2e1c"
+        ],
+        "x": 534,
+        "y": 1259,
+        "w": 412,
+        "h": 122
+    },
+    {
         "id": "c4cffb880254a966",
         "type": "postgreSQLConfig",
         "name": "",
@@ -295,7 +294,7 @@
         "hostFieldType": "str",
         "port": "5432",
         "portFieldType": "num",
-        "database": "postgres",
+        "database": "qa_measurements",
         "databaseFieldType": "str",
         "ssl": "false",
         "sslFieldType": "bool",
@@ -309,7 +308,7 @@
         "connectionTimeoutFieldType": "num",
         "user": "postgres",
         "userFieldType": "str",
-        "password": "admin",
+        "password": "%HUJD290",
         "passwordFieldType": "str"
     },
     {
@@ -550,12 +549,12 @@
         "type": "postgresql",
         "z": "4c3e5ac1458c0e57",
         "name": "",
-        "query": "SELECT * FROM testtable;",
+        "query": "SELECT * FROM qa_demonstrator;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 470,
+        "x": 450,
         "y": 140,
         "wires": [
             [
@@ -2673,7 +2672,7 @@
         "round": false,
         "decimals": 0,
         "x": 180,
-        "y": 1780,
+        "y": 1800,
         "wires": [
             [
                 "5a4a8a1059dea756"
@@ -2693,7 +2692,7 @@
         "round": false,
         "decimals": 0,
         "x": 320,
-        "y": 1780,
+        "y": 1800,
         "wires": [
             [
                 "2f5ae32c241db25c"
@@ -2713,7 +2712,7 @@
         "round": false,
         "decimals": 0,
         "x": 500,
-        "y": 1780,
+        "y": 1800,
         "wires": [
             [
                 "022d0485fdf0448b"
@@ -2733,10 +2732,9 @@
         "round": false,
         "decimals": 0,
         "x": 660,
-        "y": 1780,
+        "y": 1800,
         "wires": [
             [
-                "96a65acb3f480bde",
                 "fc17c993611d66a8",
                 "e8beecd43126c417"
             ]
@@ -2752,12 +2750,12 @@
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg, \"data\":data }\t",
+        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg, \"data\":data, \"calc\":calc }\t",
         "targetType": "jsonata",
         "statusVal": "",
         "statusType": "auto",
         "x": 1000,
-        "y": 1780,
+        "y": 1800,
         "wires": []
     },
     {
@@ -2769,7 +2767,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "payload",
+                "p": "calc",
                 "pt": "msg",
                 "to": "msg.avg-msg.min",
                 "tot": "jsonata"
@@ -2781,30 +2779,13 @@
         "to": "",
         "reg": false,
         "x": 750,
-        "y": 1840,
+        "y": 1860,
         "wires": [
             [
-                "66ac11da686f74ef"
+                "96a65acb3f480bde",
+                "eaa90a3437d84708"
             ]
         ]
-    },
-    {
-        "id": "66ac11da686f74ef",
-        "type": "debug",
-        "z": "239da397959ae042",
-        "g": "845f4268e3199e1d",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 930,
-        "y": 1840,
-        "wires": []
     },
     {
         "id": "1417102d265e83e5",
@@ -2816,7 +2797,7 @@
             "961c22119f4c0397"
         ],
         "x": 65,
-        "y": 1780,
+        "y": 1800,
         "wires": [
             [
                 "1ecf86fc28b14589"
@@ -2831,7 +2812,7 @@
         "name": "Channel 1 Calculation",
         "info": "",
         "x": 140,
-        "y": 1740,
+        "y": 1760,
         "wires": []
     },
     {
@@ -3313,7 +3294,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1140,
-        "y": 1740,
+        "y": 1760,
         "wires": [
             []
         ]
@@ -3331,7 +3312,7 @@
         "finalize": "",
         "libs": [],
         "x": 870,
-        "y": 1740,
+        "y": 1760,
         "wires": [
             [
                 "0bc7f6e47886b686"
@@ -3390,6 +3371,22 @@
             [
                 "d9111c50fe35a026"
             ]
+        ]
+    },
+    {
+        "id": "eaa90a3437d84708",
+        "type": "postgresql",
+        "z": "239da397959ae042",
+        "name": "",
+        "query": "INSERT INTO qa_demonstrator(data, min, max, avg, calc)\n\tVALUES ( array[{{{msg.data}}}], {{{msg.min}}}, {{{msg.max}}}, {{{msg.avg}}}, {{{msg.calc}}});",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1410,
+        "y": 1840,
+        "wires": [
+            []
         ]
     },
     {
