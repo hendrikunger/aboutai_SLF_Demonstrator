@@ -24,6 +24,14 @@
         "env": []
     },
     {
+        "id": "843e382393ce9873",
+        "type": "tab",
+        "label": "Einstellungen",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "239da397959ae042",
         "type": "tab",
         "label": "Dashboard Übersicht",
@@ -82,9 +90,7 @@
             "141f8ee6b1156445"
         ],
         "x": 14,
-        "y": 359,
-        "w": 1092,
-        "h": 322
+        "y": 359
     },
     {
         "id": "c267a2c65f9672c6",
@@ -134,9 +140,7 @@
             "db3c9a955950419b"
         ],
         "x": 34,
-        "y": 579,
-        "w": 1172,
-        "h": 222
+        "y": 579
     },
     {
         "id": "3db353d6ca535ffc",
@@ -164,9 +168,7 @@
             "d9111c50fe35a026"
         ],
         "x": 34,
-        "y": 39,
-        "w": 958,
-        "h": 282
+        "y": 39
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -194,9 +196,7 @@
             "919c77112b7fb9f2"
         ],
         "x": 34,
-        "y": 339,
-        "w": 1169,
-        "h": 222
+        "y": 339
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -254,9 +254,7 @@
             "f81d2b1e8fb96cae"
         ],
         "x": 34,
-        "y": 39,
-        "w": 392,
-        "h": 282
+        "y": 39
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -279,9 +277,7 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 554,
-        "y": 119,
-        "w": 412,
-        "h": 122
+        "y": 119
     },
     {
         "id": "4782014c59a1fc17",
@@ -508,6 +504,7 @@
         "type": "ui_tab",
         "name": "Datenbank Visualisierung",
         "icon": "dashboard",
+        "order": 2,
         "disabled": false,
         "hidden": false
     },
@@ -532,6 +529,7 @@
         "type": "ui_tab",
         "name": "Channel 1",
         "icon": "dashboard",
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -550,6 +548,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
+        "order": 4,
         "disabled": true,
         "hidden": true
     },
@@ -558,6 +557,7 @@
         "type": "ui_tab",
         "name": "Messdaten Übersicht",
         "icon": "dashboard",
+        "order": 5,
         "disabled": false,
         "hidden": false
     },
@@ -713,6 +713,37 @@
         "order": 6,
         "width": 1,
         "height": 1
+    },
+    {
+        "id": "21e0fd7e8b2db22d",
+        "type": "ui_tab",
+        "name": "Einstellungen",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "2273a1a7d66cb3a0",
+        "type": "ui_group",
+        "name": "Left",
+        "tab": "21e0fd7e8b2db22d",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "49282664ba5106a3",
+        "type": "ui_group",
+        "name": "Right",
+        "tab": "21e0fd7e8b2db22d",
+        "order": 2,
+        "disp": false,
+        "width": "12",
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "e9a8a374e1e65ca3",
@@ -1696,6 +1727,528 @@
         ]
     },
     {
+        "id": "1d669e6545539206",
+        "type": "inject",
+        "z": "843e382393ce9873",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 210,
+        "y": 100,
+        "wires": [
+            [
+                "7f4ed64953a22c15"
+            ]
+        ]
+    },
+    {
+        "id": "7f4ed64953a22c15",
+        "type": "postgresql",
+        "z": "843e382393ce9873",
+        "name": "",
+        "query": "SELECT * FROM config\nORDER BY id;\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 450,
+        "y": 140,
+        "wires": [
+            [
+                "45722776e3d6c3cf"
+            ]
+        ]
+    },
+    {
+        "id": "45722776e3d6c3cf",
+        "type": "ui_table",
+        "z": "843e382393ce9873",
+        "group": "2273a1a7d66cb3a0",
+        "name": "",
+        "order": 0,
+        "width": "6",
+        "height": "12",
+        "columns": [
+            {
+                "field": "name",
+                "title": "Typen",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 610,
+        "y": 140,
+        "wires": [
+            [
+                "7c9110228612734e",
+                "99611047332d42f0",
+                "5f486b31378ab6ae",
+                "e8a89d98fbde2695"
+            ]
+        ]
+    },
+    {
+        "id": "99611047332d42f0",
+        "type": "ui_form",
+        "z": "843e382393ce9873",
+        "name": "",
+        "label": "",
+        "group": "49282664ba5106a3",
+        "order": 2,
+        "width": "12",
+        "height": "8",
+        "options": [
+            {
+                "label": "Nennmaß",
+                "value": "nennmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obergrenze",
+                "value": "obergrenze",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untergrenze",
+                "value": "untergrenze",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "andererWert",
+                "value": "andererWert",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "nennmass": "",
+            "obergrenze": "",
+            "untergrenze": "",
+            "andererWert": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 790,
+        "y": 220,
+        "wires": [
+            [
+                "a38913ba1ac7d1dd",
+                "4315eba9c6492985"
+            ]
+        ]
+    },
+    {
+        "id": "5f486b31378ab6ae",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElement",
+                "pt": "flow",
+                "to": "payload.id",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 40,
+        "wires": [
+            [
+                "43febc95e9b10677"
+            ]
+        ]
+    },
+    {
+        "id": "8a56b94b86d3ca96",
+        "type": "postgresql",
+        "z": "843e382393ce9873",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}', nennmass={{{msg.payload.nennmass}}}, obergrenze={{{msg.payload.obergrenze}}}, untergrenze={{{msg.payload.untergrenze}}}, \"andererWert\"={{{msg.payload.andererWert}}}\n\tWHERE id={{{msg.currentElement}}};",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1510,
+        "y": 220,
+        "wires": [
+            [
+                "42f72c23e792c861"
+            ]
+        ]
+    },
+    {
+        "id": "a38913ba1ac7d1dd",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElement",
+                "pt": "msg",
+                "to": "currentElement",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 220,
+        "wires": [
+            [
+                "a96e503d4c80b551"
+            ]
+        ]
+    },
+    {
+        "id": "62e80ce16e82b5c3",
+        "type": "link in",
+        "z": "843e382393ce9873",
+        "name": "UpdateSetting",
+        "links": [
+            "42f72c23e792c861"
+        ],
+        "x": 245,
+        "y": 140,
+        "wires": [
+            [
+                "7f4ed64953a22c15"
+            ]
+        ]
+    },
+    {
+        "id": "42f72c23e792c861",
+        "type": "link out",
+        "z": "843e382393ce9873",
+        "name": "AddedSetting",
+        "mode": "link",
+        "links": [
+            "62e80ce16e82b5c3"
+        ],
+        "x": 1525,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "9e8d456299a22421",
+        "type": "ui_text_input",
+        "z": "843e382393ce9873",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "group": "49282664ba5106a3",
+        "order": 1,
+        "width": "4",
+        "height": "1",
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1000,
+        "y": 160,
+        "wires": [
+            [
+                "df895ae8c3c14c2a"
+            ]
+        ]
+    },
+    {
+        "id": "7c9110228612734e",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.name",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 160,
+        "wires": [
+            [
+                "9e8d456299a22421"
+            ]
+        ]
+    },
+    {
+        "id": "df895ae8c3c14c2a",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ElementName",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1210,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1341a46167881102",
+        "type": "ui_button",
+        "z": "843e382393ce9873",
+        "name": "Button Add",
+        "group": "2273a1a7d66cb3a0",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "",
+        "tooltip": "Neues Element",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "note_add",
+        "payload": "{\"name\":\"Neu\"}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 940,
+        "y": 380,
+        "wires": [
+            [
+                "9c6303c4c57c890b"
+            ]
+        ]
+    },
+    {
+        "id": "299004ab39e669c9",
+        "type": "ui_button",
+        "z": "843e382393ce9873",
+        "name": "Button Delete",
+        "group": "2273a1a7d66cb3a0",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "",
+        "tooltip": "Löschen des ausgewählten Elements",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "delete_forever",
+        "payload": "currentElement",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 930,
+        "y": 440,
+        "wires": [
+            [
+                "80a7117cac334d87"
+            ]
+        ]
+    },
+    {
+        "id": "80a7117cac334d87",
+        "type": "postgresql",
+        "z": "843e382393ce9873",
+        "name": "",
+        "query": "DELETE FROM public.config\n\tWHERE id={{{msg.payload}}};",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1200,
+        "y": 440,
+        "wires": [
+            [
+                "42f72c23e792c861"
+            ]
+        ]
+    },
+    {
+        "id": "9c6303c4c57c890b",
+        "type": "postgresql",
+        "z": "843e382393ce9873",
+        "name": "",
+        "query": "INSERT INTO public.config(\n name)\n\tVALUES ('Neu');\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1160,
+        "y": 380,
+        "wires": [
+            [
+                "42f72c23e792c861"
+            ]
+        ]
+    },
+    {
+        "id": "a96e503d4c80b551",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1280,
+        "y": 220,
+        "wires": [
+            [
+                "8a56b94b86d3ca96"
+            ]
+        ]
+    },
+    {
+        "id": "43febc95e9b10677",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":\"selectRow\",\"arguments\":[payload.id]}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1490,
+        "y": 60,
+        "wires": [
+            [
+                "45722776e3d6c3cf"
+            ]
+        ]
+    },
+    {
+        "id": "e8a89d98fbde2695",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":\"deselectRow\",\"arguments\":[]}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 60,
+        "wires": [
+            [
+                "45722776e3d6c3cf"
+            ]
+        ]
+    },
+    {
+        "id": "4315eba9c6492985",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 300,
+        "wires": [
+            [
+                "99611047332d42f0"
+            ]
+        ]
+    },
+    {
         "id": "a1cc4c5d10b2f8d7",
         "type": "change",
         "z": "239da397959ae042",
@@ -2654,7 +3207,6 @@
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
