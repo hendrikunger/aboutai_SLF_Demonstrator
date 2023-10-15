@@ -300,6 +300,105 @@
         "y": 79
     },
     {
+        "id": "d012a80f9e9ec332",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Select and Deselect Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "43febc95e9b10677",
+            "e8a89d98fbde2695",
+            "bbb865b67a4031dc",
+            "e22ea1258be2f3fb",
+            "a6844f51d326e206"
+        ],
+        "x": 74,
+        "y": 239,
+        "w": 572,
+        "h": 142
+    },
+    {
+        "id": "9c8de91cb8590929",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Add Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f63836773607c117",
+            "9c6303c4c57c890b",
+            "a9ef6c5aca9e1dd1",
+            "1341a46167881102"
+        ],
+        "x": 1374,
+        "y": 259,
+        "w": 702,
+        "h": 82
+    },
+    {
+        "id": "a9655fa29a17dc9f",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Delete Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "80a7117cac334d87",
+            "299004ab39e669c9",
+            "f8e83d2b4ceaa493"
+        ],
+        "x": 1374,
+        "y": 379,
+        "w": 592,
+        "h": 82
+    },
+    {
+        "id": "29fe29895bc273be",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Save Button in Form",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a56b94b86d3ca96",
+            "a38913ba1ac7d1dd",
+            "42f72c23e792c861",
+            "f035e10af4f9378f"
+        ],
+        "x": 1374,
+        "y": 119,
+        "w": 702,
+        "h": 82
+    },
+    {
+        "id": "ad1cd725c146137b",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Form Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "99611047332d42f0",
+            "9e8d456299a22421",
+            "7c9110228612734e",
+            "df895ae8c3c14c2a",
+            "4315eba9c6492985",
+            "d676248d9fae3a1b",
+            "e79cb8ebea408e48",
+            "78722288da1f66e8"
+        ],
+        "x": 724,
+        "y": 39,
+        "w": 642,
+        "h": 282
+    },
+    {
         "id": "8b9d2116be6fd249",
         "type": "junction",
         "z": "fe233ff436b4d8c7",
@@ -1747,8 +1846,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 210,
-        "y": 100,
+        "x": 110,
+        "y": 140,
         "wires": [
             [
                 "7f4ed64953a22c15"
@@ -1765,8 +1864,8 @@
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 450,
-        "y": 140,
+        "x": 330,
+        "y": 160,
         "wires": [
             [
                 "45722776e3d6c3cf"
@@ -1796,14 +1895,14 @@
         ],
         "outputs": 1,
         "cts": true,
-        "x": 610,
-        "y": 140,
+        "x": 530,
+        "y": 160,
         "wires": [
             [
                 "7c9110228612734e",
                 "99611047332d42f0",
-                "5f486b31378ab6ae",
-                "e8a89d98fbde2695"
+                "e8a89d98fbde2695",
+                "df895ae8c3c14c2a"
             ]
         ]
     },
@@ -1811,6 +1910,7 @@
         "id": "99611047332d42f0",
         "type": "ui_form",
         "z": "843e382393ce9873",
+        "g": "ad1cd725c146137b",
         "name": "",
         "label": "",
         "group": "49282664ba5106a3",
@@ -1826,22 +1926,22 @@
                 "rows": null
             },
             {
-                "label": "Obergrenze",
-                "value": "obergrenze",
+                "label": "Abmaß",
+                "value": "abmass",
                 "type": "number",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untergrenze",
-                "value": "untergrenze",
+                "label": "Abmaßtoleranz",
+                "value": "abmasstoleranz",
                 "type": "number",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "andererWert",
-                "value": "andererWert",
+                "label": "Rundheitstoleranz",
+                "value": "rundheitstoleranz",
                 "type": "number",
                 "required": false,
                 "rows": null
@@ -1849,9 +1949,9 @@
         ],
         "formValue": {
             "nennmass": "",
-            "obergrenze": "",
-            "untergrenze": "",
-            "andererWert": ""
+            "abmass": "",
+            "abmasstoleranz": "",
+            "rundheitstoleranz": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -1860,8 +1960,8 @@
         "topicType": "msg",
         "splitLayout": false,
         "className": "",
-        "x": 790,
-        "y": 220,
+        "x": 1110,
+        "y": 160,
         "wires": [
             [
                 "a38913ba1ac7d1dd",
@@ -1870,47 +1970,21 @@
         ]
     },
     {
-        "id": "5f486b31378ab6ae",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "currentElement",
-                "pt": "flow",
-                "to": "payload.id",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1170,
-        "y": 40,
-        "wires": [
-            [
-                "43febc95e9b10677"
-            ]
-        ]
-    },
-    {
         "id": "8a56b94b86d3ca96",
         "type": "postgresql",
         "z": "843e382393ce9873",
+        "g": "29fe29895bc273be",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}', nennmass={{{msg.payload.nennmass}}}, obergrenze={{{msg.payload.obergrenze}}}, untergrenze={{{msg.payload.untergrenze}}}, \"andererWert\"={{{msg.payload.andererWert}}}\n\tWHERE id={{{msg.currentElement}}};",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}', nennmass={{{msg.payload.nennmass}}}, abmass={{{msg.payload.abmass}}}, abmasstoleranz={{{msg.payload.abmasstoleranz}}}, \"rundheitstoleranz\"={{{msg.payload.rundheitstoleranz}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1510,
-        "y": 220,
+        "x": 1670,
+        "y": 160,
         "wires": [
             [
-                "42f72c23e792c861"
+                "f035e10af4f9378f"
             ]
         ]
     },
@@ -1918,13 +1992,21 @@
         "id": "a38913ba1ac7d1dd",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "29fe29895bc273be",
+        "name": "Get Seleted Type",
         "rules": [
             {
                 "t": "set",
-                "p": "currentElement",
+                "p": "currentElementId",
                 "pt": "msg",
-                "to": "currentElement",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
                 "tot": "flow"
             }
         ],
@@ -1933,11 +2015,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1010,
-        "y": 220,
+        "x": 1490,
+        "y": 160,
         "wires": [
             [
-                "a96e503d4c80b551"
+                "8a56b94b86d3ca96"
             ]
         ]
     },
@@ -1945,12 +2027,14 @@
         "id": "62e80ce16e82b5c3",
         "type": "link in",
         "z": "843e382393ce9873",
-        "name": "UpdateSetting",
+        "name": "Refresh Table",
         "links": [
-            "42f72c23e792c861"
+            "42f72c23e792c861",
+            "a9ef6c5aca9e1dd1",
+            "f8e83d2b4ceaa493"
         ],
-        "x": 245,
-        "y": 140,
+        "x": 165,
+        "y": 180,
         "wires": [
             [
                 "7f4ed64953a22c15"
@@ -1961,20 +2045,23 @@
         "id": "42f72c23e792c861",
         "type": "link out",
         "z": "843e382393ce9873",
-        "name": "AddedSetting",
+        "g": "29fe29895bc273be",
+        "name": "Update Finished",
         "mode": "link",
         "links": [
-            "62e80ce16e82b5c3"
+            "62e80ce16e82b5c3",
+            "e22ea1258be2f3fb"
         ],
-        "x": 1525,
-        "y": 380,
+        "x": 2035,
+        "y": 160,
         "wires": []
     },
     {
         "id": "9e8d456299a22421",
         "type": "ui_text_input",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "ad1cd725c146137b",
+        "name": "Form Header",
         "label": "",
         "tooltip": "",
         "group": "49282664ba5106a3",
@@ -1988,11 +2075,11 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 1000,
-        "y": 160,
+        "x": 1130,
+        "y": 240,
         "wires": [
             [
-                "df895ae8c3c14c2a"
+                "78722288da1f66e8"
             ]
         ]
     },
@@ -2000,7 +2087,8 @@
         "id": "7c9110228612734e",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "ad1cd725c146137b",
+        "name": "Write Selected To Form Header",
         "rules": [
             {
                 "t": "set",
@@ -2015,8 +2103,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 830,
-        "y": 160,
+        "x": 910,
+        "y": 240,
         "wires": [
             [
                 "9e8d456299a22421"
@@ -2027,13 +2115,21 @@
         "id": "df895ae8c3c14c2a",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "ad1cd725c146137b",
+        "name": "Set Selected Type",
         "rules": [
             {
                 "t": "set",
                 "p": "ElementName",
                 "pt": "flow",
-                "to": "payload",
+                "to": "payload.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "flow",
+                "to": "payload.id",
                 "tot": "msg"
             }
         ],
@@ -2042,8 +2138,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1210,
-        "y": 160,
+        "x": 870,
+        "y": 280,
         "wires": [
             []
         ]
@@ -2052,6 +2148,7 @@
         "id": "1341a46167881102",
         "type": "ui_button",
         "z": "843e382393ce9873",
+        "g": "9c8de91cb8590929",
         "name": "Button Add",
         "group": "2273a1a7d66cb3a0",
         "order": 1,
@@ -2068,8 +2165,8 @@
         "payloadType": "json",
         "topic": "topic",
         "topicType": "msg",
-        "x": 940,
-        "y": 380,
+        "x": 1470,
+        "y": 300,
         "wires": [
             [
                 "9c6303c4c57c890b"
@@ -2080,6 +2177,7 @@
         "id": "299004ab39e669c9",
         "type": "ui_button",
         "z": "843e382393ce9873",
+        "g": "a9655fa29a17dc9f",
         "name": "Button Delete",
         "group": "2273a1a7d66cb3a0",
         "order": 1,
@@ -2092,12 +2190,12 @@
         "bgcolor": "",
         "className": "",
         "icon": "delete_forever",
-        "payload": "currentElement",
+        "payload": "currentElementId",
         "payloadType": "flow",
         "topic": "topic",
         "topicType": "msg",
-        "x": 930,
-        "y": 440,
+        "x": 1480,
+        "y": 420,
         "wires": [
             [
                 "80a7117cac334d87"
@@ -2108,17 +2206,18 @@
         "id": "80a7117cac334d87",
         "type": "postgresql",
         "z": "843e382393ce9873",
+        "g": "a9655fa29a17dc9f",
         "name": "",
         "query": "DELETE FROM public.config\n\tWHERE id={{{msg.payload}}};",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1200,
-        "y": 440,
+        "x": 1670,
+        "y": 420,
         "wires": [
             [
-                "42f72c23e792c861"
+                "f8e83d2b4ceaa493"
             ]
         ]
     },
@@ -2126,44 +2225,18 @@
         "id": "9c6303c4c57c890b",
         "type": "postgresql",
         "z": "843e382393ce9873",
+        "g": "9c8de91cb8590929",
         "name": "",
-        "query": "INSERT INTO public.config(\n name)\n\tVALUES ('Neu');\n\n",
+        "query": "INSERT INTO public.config(\n name)\n\tVALUES ('Neu')\nRETURNING *;\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1160,
-        "y": 380,
+        "x": 1670,
+        "y": 300,
         "wires": [
             [
-                "42f72c23e792c861"
-            ]
-        ]
-    },
-    {
-        "id": "a96e503d4c80b551",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload.elementname",
-                "pt": "msg",
-                "to": "ElementName",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1280,
-        "y": 220,
-        "wires": [
-            [
-                "8a56b94b86d3ca96"
+                "f63836773607c117"
             ]
         ]
     },
@@ -2171,13 +2244,14 @@
         "id": "43febc95e9b10677",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "d012a80f9e9ec332",
+        "name": "Select Clicked Row",
         "rules": [
             {
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"command\":\"selectRow\",\"arguments\":[payload.id]}",
+                "to": "{\"command\":\"selectRow\",\"arguments\":[temp]}",
                 "tot": "jsonata"
             }
         ],
@@ -2186,8 +2260,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1490,
-        "y": 60,
+        "x": 530,
+        "y": 340,
         "wires": [
             [
                 "45722776e3d6c3cf"
@@ -2198,8 +2272,16 @@
         "id": "e8a89d98fbde2695",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "d012a80f9e9ec332",
+        "name": "Deselect Old Row",
         "rules": [
+            {
+                "t": "set",
+                "p": "temp",
+                "pt": "msg",
+                "to": "payload.id",
+                "tot": "msg"
+            },
             {
                 "t": "set",
                 "p": "payload",
@@ -2213,11 +2295,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 610,
-        "y": 60,
+        "x": 530,
+        "y": 280,
         "wires": [
             [
-                "45722776e3d6c3cf"
+                "45722776e3d6c3cf",
+                "43febc95e9b10677"
             ]
         ]
     },
@@ -2225,7 +2308,8 @@
         "id": "4315eba9c6492985",
         "type": "change",
         "z": "843e382393ce9873",
-        "name": "",
+        "g": "ad1cd725c146137b",
+        "name": "Refresh Form",
         "rules": [
             {
                 "t": "set",
@@ -2240,11 +2324,247 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
-        "y": 300,
+        "x": 1120,
+        "y": 80,
         "wires": [
             [
                 "99611047332d42f0"
+            ]
+        ]
+    },
+    {
+        "id": "d676248d9fae3a1b",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "g": "ad1cd725c146137b",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 80,
+        "wires": [
+            [
+                "99611047332d42f0"
+            ]
+        ]
+    },
+    {
+        "id": "f8e83d2b4ceaa493",
+        "type": "link out",
+        "z": "843e382393ce9873",
+        "g": "a9655fa29a17dc9f",
+        "name": "Delete Finished",
+        "mode": "link",
+        "links": [
+            "62e80ce16e82b5c3",
+            "e79cb8ebea408e48"
+        ],
+        "x": 1925,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "e79cb8ebea408e48",
+        "type": "link in",
+        "z": "843e382393ce9873",
+        "g": "ad1cd725c146137b",
+        "name": "Reset Form",
+        "links": [
+            "f8e83d2b4ceaa493"
+        ],
+        "x": 765,
+        "y": 80,
+        "wires": [
+            [
+                "d676248d9fae3a1b"
+            ]
+        ]
+    },
+    {
+        "id": "a9ef6c5aca9e1dd1",
+        "type": "link out",
+        "z": "843e382393ce9873",
+        "g": "9c8de91cb8590929",
+        "name": "Add Finished",
+        "mode": "link",
+        "links": [
+            "62e80ce16e82b5c3",
+            "7019eef58c80ac8e",
+            "e22ea1258be2f3fb"
+        ],
+        "x": 2035,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "f63836773607c117",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "g": "9c8de91cb8590929",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1870,
+        "y": 300,
+        "wires": [
+            [
+                "a9ef6c5aca9e1dd1"
+            ]
+        ]
+    },
+    {
+        "id": "e22ea1258be2f3fb",
+        "type": "link in",
+        "z": "843e382393ce9873",
+        "g": "d012a80f9e9ec332",
+        "name": "Select Element",
+        "links": [
+            "a9ef6c5aca9e1dd1",
+            "42f72c23e792c861"
+        ],
+        "x": 115,
+        "y": 280,
+        "wires": [
+            [
+                "bbb865b67a4031dc",
+                "a6844f51d326e206"
+            ]
+        ]
+    },
+    {
+        "id": "bbb865b67a4031dc",
+        "type": "delay",
+        "z": "843e382393ce9873",
+        "g": "d012a80f9e9ec332",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "200",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 280,
+        "y": 280,
+        "wires": [
+            [
+                "e8a89d98fbde2695"
+            ]
+        ]
+    },
+    {
+        "id": "a6844f51d326e206",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "g": "d012a80f9e9ec332",
+        "name": "Set Selected Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ElementName",
+                "pt": "flow",
+                "to": "payload.name",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "flow",
+                "to": "payload.id",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 270,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "78722288da1f66e8",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "g": "ad1cd725c146137b",
+        "name": "Set Name",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ElementName",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1280,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f035e10af4f9378f",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "g": "29fe29895bc273be",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1870,
+        "y": 160,
+        "wires": [
+            [
+                "42f72c23e792c861"
             ]
         ]
     },
