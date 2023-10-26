@@ -26,6 +26,14 @@
     {
         "id": "843e382393ce9873",
         "type": "tab",
+        "label": "Start",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6b590c258a4420ac",
+        "type": "tab",
         "label": "Einstellungen",
         "disabled": false,
         "info": "",
@@ -64,14 +72,6 @@
         "env": []
     },
     {
-        "id": "b6b0fb2c90db26b6",
-        "type": "tab",
-        "label": "Startseite",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "191d11291a88de5f",
         "type": "group",
         "z": "239da397959ae042",
@@ -99,7 +99,9 @@
             "141f8ee6b1156445"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 1092,
+        "h": 322
     },
     {
         "id": "c267a2c65f9672c6",
@@ -141,7 +143,9 @@
             "0e48aac0cc361391"
         ],
         "x": 54,
-        "y": 159
+        "y": 159,
+        "w": 958,
+        "h": 282
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -166,7 +170,9 @@
             "ab0ab7c7db7e4c46"
         ],
         "x": 54,
-        "y": 486
+        "y": 486,
+        "w": 1169,
+        "h": 235
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -224,98 +230,9 @@
             "f81d2b1e8fb96cae"
         ],
         "x": 34,
-        "y": 39
-    },
-    {
-        "id": "d012a80f9e9ec332",
-        "type": "group",
-        "z": "843e382393ce9873",
-        "name": "Select and Deselect Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "43febc95e9b10677",
-            "e8a89d98fbde2695",
-            "bbb865b67a4031dc",
-            "e22ea1258be2f3fb",
-            "a6844f51d326e206",
-            "8bd6cd95a84f33fe"
-        ],
-        "x": 74,
-        "y": 239
-    },
-    {
-        "id": "9c8de91cb8590929",
-        "type": "group",
-        "z": "843e382393ce9873",
-        "name": "Add Button",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f63836773607c117",
-            "9c6303c4c57c890b",
-            "a9ef6c5aca9e1dd1",
-            "1341a46167881102"
-        ],
-        "x": 1374,
-        "y": 259
-    },
-    {
-        "id": "a9655fa29a17dc9f",
-        "type": "group",
-        "z": "843e382393ce9873",
-        "name": "Delete Button",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "80a7117cac334d87",
-            "299004ab39e669c9",
-            "f8e83d2b4ceaa493"
-        ],
-        "x": 1374,
-        "y": 379
-    },
-    {
-        "id": "29fe29895bc273be",
-        "type": "group",
-        "z": "843e382393ce9873",
-        "name": "Save Button in Form",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8a56b94b86d3ca96",
-            "a38913ba1ac7d1dd",
-            "42f72c23e792c861",
-            "f035e10af4f9378f"
-        ],
-        "x": 1374,
-        "y": 119
-    },
-    {
-        "id": "ad1cd725c146137b",
-        "type": "group",
-        "z": "843e382393ce9873",
-        "name": "Form Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "99611047332d42f0",
-            "9e8d456299a22421",
-            "7c9110228612734e",
-            "df895ae8c3c14c2a",
-            "4315eba9c6492985",
-            "d676248d9fae3a1b",
-            "e79cb8ebea408e48",
-            "78722288da1f66e8",
-            "f6ae1f8861dc5712"
-        ],
-        "x": 724,
-        "y": 39
+        "y": 39,
+        "w": 392,
+        "h": 282
     },
     {
         "id": "845f4268e3199e1d",
@@ -340,7 +257,9 @@
             "e8beecd43126c417"
         ],
         "x": 44,
-        "y": 759
+        "y": 759,
+        "w": 1222,
+        "h": 222
     },
     {
         "id": "986a61aab651f4f0",
@@ -357,7 +276,9 @@
             "bca680df5f2250f6"
         ],
         "x": 34,
-        "y": 19
+        "y": 19,
+        "w": 792,
+        "h": 82
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -380,7 +301,9 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 574,
-        "y": 239
+        "y": 239,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "4782014c59a1fc17",
@@ -401,6 +324,310 @@
         ],
         "x": 334,
         "y": 79
+    },
+    {
+        "id": "8a5269ad7e2db96a",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Select and Deselect Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bff6ed3738bf77bc",
+            "7c2582e8feb6bbb1",
+            "c78fec6200af8ad0",
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 54,
+        "y": 239,
+        "w": 572,
+        "h": 142
+    },
+    {
+        "id": "d3b265c86780b5ac",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Add Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "32b2d9ca3a36a03e",
+            "c8034f6ee3a91658",
+            "fc0a0938eaf441d5",
+            "96ec5cc051217439"
+        ],
+        "x": 34,
+        "y": 519,
+        "w": 702,
+        "h": 82
+    },
+    {
+        "id": "170bc2b0ca05699c",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Delete Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "af399766a2bd646a",
+            "e0bd90a4c4aaf3ad",
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 34,
+        "y": 619,
+        "w": 592,
+        "h": 82
+    },
+    {
+        "id": "6abae160f1c7a382",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M1",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "95a7230175c5100f",
+            "63ddbc7c66726e85",
+            "649113e1c3445c4f",
+            "7c55ec5b49c67f51",
+            "0086c4f4dbef6d44",
+            "dc91055327bbc092",
+            "d3d94a8a9d03b903",
+            "d9ac99f24584d5f8"
+        ],
+        "x": 924,
+        "y": 179,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "01925cd1e85e9280",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M2",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4fb57ae7914799ae",
+            "578e1c5b96c066ce",
+            "885b076be9ae77d2",
+            "c1936d554edc025b",
+            "fe57238dbfc69a0d",
+            "64bceb5428603054",
+            "8c358dc63bc0de98",
+            "95ca065e48f90be5"
+        ],
+        "x": 924,
+        "y": 359,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "1e8ef7fce0e3f0f1",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M3",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "19cb1ff75975d727",
+            "ed06f98329e28abe",
+            "4969fee41e86fd6c",
+            "14adc72dfbc3c143",
+            "e625662c773640a4",
+            "b5deeed6d6e538de",
+            "90cb07d2e85f028e",
+            "f50804780fdb1e39"
+        ],
+        "x": 924,
+        "y": 539,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "b9b6c6776205ea97",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M4",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9c79bcd5b9a27051",
+            "1b43b74280d4363a",
+            "7fcf4545f3da26e6",
+            "ec679c15301e469e",
+            "a4525c80701e1d6d",
+            "3a068a837bcb775d",
+            "4e9dc1c522ee07a9",
+            "bbf4bf63d34d6f10"
+        ],
+        "x": 924,
+        "y": 719,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "0a3c81f83d01120f",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M5",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "df74f72a3ae22380",
+            "a63a73200f23ef29",
+            "b617d9cfed9cdec1",
+            "564ba3122b3007f3",
+            "67322415decf55cc",
+            "f04d37540c2aa6f3",
+            "6624fcd415a4a069",
+            "b6dc2366865865fd"
+        ],
+        "x": 924,
+        "y": 899,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "fa4ae97e5a92823e",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M6",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "81f2828d3b65b24a",
+            "34b22309af3a4010",
+            "bc44068bbc50ed36",
+            "c87df6da31c2a48e",
+            "093d4bca2248c402",
+            "a6b7af5290241907",
+            "a50c763a04c9736d",
+            "64dfbddd69f4475f"
+        ],
+        "x": 924,
+        "y": 1079,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "22d4558fb92d5197",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M7",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cbba6f72f84ea8e4",
+            "a6b121eccff7bb8f",
+            "03b2484ee52fd467",
+            "a6804e07dbf8251d",
+            "689bb45675670133",
+            "942524fe34556d24",
+            "4cde1e65fc2b4213",
+            "e7756bcdeeac3982"
+        ],
+        "x": 924,
+        "y": 1259,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "eebaebbce7e5460d",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M8",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "99facd3624a283fc",
+            "0f573c88a0b3ac7f",
+            "0bed7ababbf1c96f",
+            "90f1188437db6671",
+            "fb24975fd0bb3a92",
+            "bd868672fa8aed5b",
+            "a7972aec080a6e9a",
+            "f4389f133d033e7b"
+        ],
+        "x": 924,
+        "y": 1439,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "3ff455c9ab26afe3",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M9",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "23713bebb1f7dc03",
+            "9f64768f73eb26a6",
+            "c6073f683084c2e8",
+            "47bb825f3a3c0651",
+            "34ef8fcf15dab94d",
+            "d26612e447e07de3",
+            "aed20feca5a18805",
+            "555dfde8b41fe7ba"
+        ],
+        "x": 924,
+        "y": 1619,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "6ae87c414fad9be1",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "M10",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "813a2fd5c89443bb",
+            "2925e823229f1268",
+            "55bd716d4a141fab",
+            "ebffa10d55cb050c",
+            "61528eb3537c538e",
+            "4018b14d90ea9bee",
+            "5c09d74059dfaa9b",
+            "bbbe1887735263e8"
+        ],
+        "x": 924,
+        "y": 1799,
+        "w": 1252,
+        "h": 162
+    },
+    {
+        "id": "d012a80f9e9ec332",
+        "type": "group",
+        "z": "843e382393ce9873",
+        "name": "Select and Deselect Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "43febc95e9b10677",
+            "e8a89d98fbde2695",
+            "bbb865b67a4031dc"
+        ],
+        "x": 254,
+        "y": 259,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "8b9d2116be6fd249",
@@ -477,6 +704,135 @@
         "wires": [
             [
                 "6c53f538b84293ec"
+            ]
+        ]
+    },
+    {
+        "id": "96517ba4678e4041",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 820,
+        "y": 260,
+        "wires": [
+            [
+                "0086c4f4dbef6d44",
+                "5ce39f2c3754497c"
+            ]
+        ]
+    },
+    {
+        "id": "5ce39f2c3754497c",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 440,
+        "wires": [
+            [
+                "d85e8d464dc5c10d",
+                "fe57238dbfc69a0d"
+            ]
+        ]
+    },
+    {
+        "id": "d85e8d464dc5c10d",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 620,
+        "wires": [
+            [
+                "d4f7cb8184b157e6",
+                "e625662c773640a4"
+            ]
+        ]
+    },
+    {
+        "id": "d4f7cb8184b157e6",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 800,
+        "wires": [
+            [
+                "850d6d543ab2bf2b",
+                "a4525c80701e1d6d"
+            ]
+        ]
+    },
+    {
+        "id": "850d6d543ab2bf2b",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 980,
+        "wires": [
+            [
+                "79aa4a204de6b65c",
+                "67322415decf55cc"
+            ]
+        ]
+    },
+    {
+        "id": "79aa4a204de6b65c",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 1160,
+        "wires": [
+            [
+                "4a5a2b3aad7e0a0a",
+                "093d4bca2248c402"
+            ]
+        ]
+    },
+    {
+        "id": "4a5a2b3aad7e0a0a",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 1340,
+        "wires": [
+            [
+                "87dbabde8ce0cae4",
+                "689bb45675670133"
+            ]
+        ]
+    },
+    {
+        "id": "87dbabde8ce0cae4",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 1540,
+        "wires": [
+            [
+                "1617a4bd5d8bca86",
+                "fb24975fd0bb3a92"
+            ]
+        ]
+    },
+    {
+        "id": "1617a4bd5d8bca86",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 1720,
+        "wires": [
+            [
+                "19426b73ed1ec286",
+                "34ef8fcf15dab94d"
+            ]
+        ]
+    },
+    {
+        "id": "19426b73ed1ec286",
+        "type": "junction",
+        "z": "6b590c258a4420ac",
+        "x": 840,
+        "y": 1900,
+        "wires": [
+            [
+                "61528eb3537c538e"
             ]
         ]
     },
@@ -607,7 +963,7 @@
         "type": "ui_tab",
         "name": "Datenbank Visualisierung",
         "icon": "dashboard",
-        "order": 3,
+        "order": 4,
         "disabled": false,
         "hidden": false
     },
@@ -630,9 +986,9 @@
     {
         "id": "0dda1d45e28b450a",
         "type": "ui_tab",
-        "name": "Channel 1",
+        "name": "m1",
         "icon": "dashboard",
-        "order": 1,
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -651,7 +1007,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 4,
+        "order": 5,
         "disabled": true,
         "hidden": true
     },
@@ -660,7 +1016,7 @@
         "type": "ui_tab",
         "name": "Messdaten Übersicht",
         "icon": "dashboard",
-        "order": 5,
+        "order": 6,
         "disabled": false,
         "hidden": false
     },
@@ -780,9 +1136,9 @@
     {
         "id": "21e0fd7e8b2db22d",
         "type": "ui_tab",
-        "name": "Einstellungen",
+        "name": "Start",
         "icon": "dashboard",
-        "order": 2,
+        "order": 1,
         "disabled": false,
         "hidden": false
     },
@@ -846,7 +1202,7 @@
         "type": "ui_tab",
         "name": "1",
         "icon": "dashboard",
-        "order": 6,
+        "order": 7,
         "disabled": false,
         "hidden": false
     },
@@ -855,7 +1211,7 @@
         "type": "ui_tab",
         "name": "2",
         "icon": "dashboard",
-        "order": 7,
+        "order": 8,
         "disabled": false,
         "hidden": false
     },
@@ -864,7 +1220,7 @@
         "type": "ui_tab",
         "name": "3",
         "icon": "dashboard",
-        "order": 8,
+        "order": 9,
         "disabled": false,
         "hidden": false
     },
@@ -929,14 +1285,145 @@
         "height": 1
     },
     {
-        "id": "9e4e645ed2901136",
-        "type": "ui_spacer",
-        "z": "9516ce2929752e9f",
-        "name": "spacer",
-        "group": "49282664ba5106a3",
+        "id": "c98af652824320aa",
+        "type": "ui_tab",
+        "name": "Einstellungen",
+        "icon": "dashboard",
         "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "2f7987c7396caf32",
+        "type": "ui_group",
+        "name": "Left",
+        "tab": "c98af652824320aa",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "baf72dc6c3c80a73",
+        "type": "ui_group",
+        "name": "Right_top",
+        "tab": "c98af652824320aa",
+        "order": 2,
+        "disp": false,
         "width": "12",
-        "height": "4"
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4f54b01da23ff22d",
+        "type": "ui_group",
+        "name": "M1",
+        "tab": "c98af652824320aa",
+        "order": 3,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "9970d46d9cf31b46",
+        "type": "ui_group",
+        "name": "M2",
+        "tab": "c98af652824320aa",
+        "order": 4,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "85bb91f3ac86b604",
+        "type": "ui_group",
+        "name": "M3",
+        "tab": "c98af652824320aa",
+        "order": 5,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "5a4b0f3b04feaad7",
+        "type": "ui_group",
+        "name": "M4",
+        "tab": "c98af652824320aa",
+        "order": 6,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "04e3398627aa4cdd",
+        "type": "ui_group",
+        "name": "M5",
+        "tab": "c98af652824320aa",
+        "order": 7,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "138ac021ab62fc93",
+        "type": "ui_group",
+        "name": "M6",
+        "tab": "c98af652824320aa",
+        "order": 8,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "601473f309089a61",
+        "type": "ui_group",
+        "name": "M7",
+        "tab": "c98af652824320aa",
+        "order": 9,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "cf1feb024de9b6b9",
+        "type": "ui_group",
+        "name": "M8",
+        "tab": "c98af652824320aa",
+        "order": 10,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "ceebc75f8b0df4e0",
+        "type": "ui_group",
+        "name": "M9",
+        "tab": "c98af652824320aa",
+        "order": 11,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
+    },
+    {
+        "id": "5152a05d490a0249",
+        "type": "ui_group",
+        "name": "M10",
+        "tab": "c98af652824320aa",
+        "order": 12,
+        "disp": true,
+        "width": "12",
+        "collapse": true,
+        "className": ""
     },
     {
         "id": "e9a8a374e1e65ca3",
@@ -1920,35 +2407,6 @@
         ]
     },
     {
-        "id": "1d669e6545539206",
-        "type": "inject",
-        "z": "843e382393ce9873",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 110,
-        "y": 140,
-        "wires": [
-            [
-                "7f4ed64953a22c15"
-            ]
-        ]
-    },
-    {
         "id": "7f4ed64953a22c15",
         "type": "postgresql",
         "z": "843e382393ce9873",
@@ -1958,7 +2416,7 @@
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 330,
+        "x": 370,
         "y": 160,
         "wires": [
             [
@@ -1989,192 +2447,13 @@
         ],
         "outputs": 1,
         "cts": true,
-        "x": 530,
+        "x": 570,
         "y": 160,
         "wires": [
             [
                 "7c9110228612734e",
-                "99611047332d42f0",
-                "e8a89d98fbde2695",
-                "df895ae8c3c14c2a"
-            ]
-        ]
-    },
-    {
-        "id": "99611047332d42f0",
-        "type": "ui_form",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "",
-        "label": "",
-        "group": "49282664ba5106a3",
-        "order": 2,
-        "width": "12",
-        "height": "8",
-        "options": [
-            {
-                "label": "Nennmaß",
-                "value": "nennmass",
-                "type": "number",
-                "required": false,
-                "rows": null
-            },
-            {
-                "label": "Abmaß",
-                "value": "abmass",
-                "type": "number",
-                "required": false,
-                "rows": null
-            },
-            {
-                "label": "Abmaßtoleranz",
-                "value": "abmasstoleranz",
-                "type": "number",
-                "required": false,
-                "rows": null
-            },
-            {
-                "label": "Rundheitstoleranz",
-                "value": "rundheitstoleranz",
-                "type": "number",
-                "required": false,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "nennmass": "",
-            "abmass": "",
-            "abmasstoleranz": "",
-            "rundheitstoleranz": ""
-        },
-        "payload": "",
-        "submit": "Speichern",
-        "cancel": "",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": false,
-        "className": "",
-        "x": 1110,
-        "y": 160,
-        "wires": [
-            [
-                "a38913ba1ac7d1dd",
-                "4315eba9c6492985"
-            ]
-        ]
-    },
-    {
-        "id": "8a56b94b86d3ca96",
-        "type": "postgresql",
-        "z": "843e382393ce9873",
-        "g": "29fe29895bc273be",
-        "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}', nennmass={{{msg.payload.nennmass}}}, abmass={{{msg.payload.abmass}}}, abmasstoleranz={{{msg.payload.abmasstoleranz}}}, \"rundheitstoleranz\"={{{msg.payload.rundheitstoleranz}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1670,
-        "y": 160,
-        "wires": [
-            [
-                "f035e10af4f9378f"
-            ]
-        ]
-    },
-    {
-        "id": "a38913ba1ac7d1dd",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "g": "29fe29895bc273be",
-        "name": "Get Seleted Type",
-        "rules": [
-            {
-                "t": "set",
-                "p": "currentElementId",
-                "pt": "msg",
-                "to": "currentElementId",
-                "tot": "global"
-            },
-            {
-                "t": "set",
-                "p": "payload.elementname",
-                "pt": "msg",
-                "to": "ElementName",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1490,
-        "y": 160,
-        "wires": [
-            [
-                "8a56b94b86d3ca96"
-            ]
-        ]
-    },
-    {
-        "id": "62e80ce16e82b5c3",
-        "type": "link in",
-        "z": "843e382393ce9873",
-        "name": "Refresh Table",
-        "links": [
-            "42f72c23e792c861",
-            "a9ef6c5aca9e1dd1",
-            "f8e83d2b4ceaa493",
-            "30058c91ae12a293"
-        ],
-        "x": 165,
-        "y": 180,
-        "wires": [
-            [
-                "7f4ed64953a22c15"
-            ]
-        ]
-    },
-    {
-        "id": "42f72c23e792c861",
-        "type": "link out",
-        "z": "843e382393ce9873",
-        "g": "29fe29895bc273be",
-        "name": "Update Finished",
-        "mode": "link",
-        "links": [
-            "62e80ce16e82b5c3",
-            "e22ea1258be2f3fb"
-        ],
-        "x": 2035,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "9e8d456299a22421",
-        "type": "ui_text_input",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Form Header",
-        "label": "",
-        "tooltip": "",
-        "group": "49282664ba5106a3",
-        "order": 1,
-        "width": "4",
-        "height": "1",
-        "passthru": true,
-        "mode": "text",
-        "delay": 300,
-        "topic": "topic",
-        "sendOnBlur": true,
-        "className": "",
-        "topicType": "msg",
-        "x": 1130,
-        "y": 240,
-        "wires": [
-            [
-                "78722288da1f66e8"
+                "df895ae8c3c14c2a",
+                "e8a89d98fbde2695"
             ]
         ]
     },
@@ -2182,7 +2461,6 @@
         "id": "7c9110228612734e",
         "type": "change",
         "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
         "name": "Write Selected To Form Header",
         "rules": [
             {
@@ -2198,11 +2476,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 910,
-        "y": 240,
+        "x": 890,
+        "y": 160,
         "wires": [
             [
-                "9e8d456299a22421"
+                "d3805f802f4e26e1"
             ]
         ]
     },
@@ -2210,7 +2488,6 @@
         "id": "df895ae8c3c14c2a",
         "type": "change",
         "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
         "name": "Set Selected Type",
         "rules": [
             {
@@ -2240,8 +2517,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 870,
-        "y": 280,
+        "x": 850,
+        "y": 200,
         "wires": [
             [
                 "f6ae1f8861dc5712"
@@ -2249,100 +2526,17 @@
         ]
     },
     {
-        "id": "1341a46167881102",
-        "type": "ui_button",
+        "id": "f6ae1f8861dc5712",
+        "type": "link out",
         "z": "843e382393ce9873",
-        "g": "9c8de91cb8590929",
-        "name": "Button Add",
-        "group": "2273a1a7d66cb3a0",
-        "order": 1,
-        "width": "3",
-        "height": "1",
-        "passthru": false,
-        "label": "",
-        "tooltip": "Neues Element",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "note_add",
-        "payload": "{\"name\":\"Neu\"}",
-        "payloadType": "json",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1470,
-        "y": 300,
-        "wires": [
-            [
-                "9c6303c4c57c890b"
-            ]
-        ]
-    },
-    {
-        "id": "299004ab39e669c9",
-        "type": "ui_button",
-        "z": "843e382393ce9873",
-        "g": "a9655fa29a17dc9f",
-        "name": "Button Delete",
-        "group": "2273a1a7d66cb3a0",
-        "order": 1,
-        "width": "3",
-        "height": "1",
-        "passthru": false,
-        "label": "",
-        "tooltip": "Löschen des ausgewählten Elements",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "delete_forever",
-        "payload": "currentElementId",
-        "payloadType": "flow",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1480,
-        "y": 420,
-        "wires": [
-            [
-                "80a7117cac334d87"
-            ]
-        ]
-    },
-    {
-        "id": "80a7117cac334d87",
-        "type": "postgresql",
-        "z": "843e382393ce9873",
-        "g": "a9655fa29a17dc9f",
-        "name": "",
-        "query": "DELETE FROM public.config\n\tWHERE id={{{msg.payload}}};",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1670,
-        "y": 420,
-        "wires": [
-            [
-                "f8e83d2b4ceaa493"
-            ]
-        ]
-    },
-    {
-        "id": "9c6303c4c57c890b",
-        "type": "postgresql",
-        "z": "843e382393ce9873",
-        "g": "9c8de91cb8590929",
-        "name": "",
-        "query": "INSERT INTO public.config(\n name)\n\tVALUES ('Neu')\nRETURNING *;\n",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1670,
-        "y": 300,
-        "wires": [
-            [
-                "f63836773607c117"
-            ]
-        ]
+        "name": "Selected Type",
+        "mode": "link",
+        "links": [
+            "7cfcc73117e72030"
+        ],
+        "x": 985,
+        "y": 200,
+        "wires": []
     },
     {
         "id": "43febc95e9b10677",
@@ -2355,7 +2549,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"command\":\"selectRow\",\"arguments\":[temp]}",
+                "to": "{\"command\":\"selectRow\",\t\"arguments\":[$globalContext('currentElementId')],\t\"name\":$globalContext('ElementName')\t}",
                 "tot": "jsonata"
             }
         ],
@@ -2364,11 +2558,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 530,
-        "y": 340,
+        "x": 650,
+        "y": 360,
         "wires": [
             [
-                "45722776e3d6c3cf"
+                "45722776e3d6c3cf",
+                "7c9110228612734e"
             ]
         ]
     },
@@ -2379,13 +2574,6 @@
         "g": "d012a80f9e9ec332",
         "name": "Deselect Old Row",
         "rules": [
-            {
-                "t": "set",
-                "p": "temp",
-                "pt": "msg",
-                "to": "payload.id",
-                "tot": "msg"
-            },
             {
                 "t": "set",
                 "p": "payload",
@@ -2399,164 +2587,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 530,
-        "y": 280,
-        "wires": [
-            [
-                "45722776e3d6c3cf",
-                "43febc95e9b10677"
-            ]
-        ]
-    },
-    {
-        "id": "4315eba9c6492985",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Refresh Form",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1120,
-        "y": 80,
-        "wires": [
-            [
-                "99611047332d42f0"
-            ]
-        ]
-    },
-    {
-        "id": "d676248d9fae3a1b",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Clear Form",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
-                "tot": "json"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 890,
-        "y": 80,
-        "wires": [
-            [
-                "99611047332d42f0"
-            ]
-        ]
-    },
-    {
-        "id": "f8e83d2b4ceaa493",
-        "type": "link out",
-        "z": "843e382393ce9873",
-        "g": "a9655fa29a17dc9f",
-        "name": "Delete Finished",
-        "mode": "link",
-        "links": [
-            "62e80ce16e82b5c3",
-            "e79cb8ebea408e48"
-        ],
-        "x": 1925,
-        "y": 420,
-        "wires": []
-    },
-    {
-        "id": "e79cb8ebea408e48",
-        "type": "link in",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Reset Form",
-        "links": [
-            "f8e83d2b4ceaa493"
-        ],
-        "x": 765,
-        "y": 80,
-        "wires": [
-            [
-                "d676248d9fae3a1b"
-            ]
-        ]
-    },
-    {
-        "id": "a9ef6c5aca9e1dd1",
-        "type": "link out",
-        "z": "843e382393ce9873",
-        "g": "9c8de91cb8590929",
-        "name": "Add Finished",
-        "mode": "link",
-        "links": [
-            "62e80ce16e82b5c3",
-            "7019eef58c80ac8e",
-            "e22ea1258be2f3fb"
-        ],
-        "x": 2035,
-        "y": 300,
-        "wires": []
-    },
-    {
-        "id": "f63836773607c117",
-        "type": "change",
-        "z": "843e382393ce9873",
-        "g": "9c8de91cb8590929",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload[0]",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1870,
+        "x": 650,
         "y": 300,
         "wires": [
             [
-                "a9ef6c5aca9e1dd1"
-            ]
-        ]
-    },
-    {
-        "id": "e22ea1258be2f3fb",
-        "type": "link in",
-        "z": "843e382393ce9873",
-        "g": "d012a80f9e9ec332",
-        "name": "Select Element",
-        "links": [
-            "a9ef6c5aca9e1dd1",
-            "42f72c23e792c861",
-            "c384e7a9f2baf0c6"
-        ],
-        "x": 115,
-        "y": 280,
-        "wires": [
-            [
-                "bbb865b67a4031dc",
-                "a6844f51d326e206"
+                "43febc95e9b10677",
+                "45722776e3d6c3cf"
             ]
         ]
     },
@@ -2578,8 +2614,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 260,
-        "y": 280,
+        "x": 380,
+        "y": 300,
         "wires": [
             [
                 "e8a89d98fbde2695"
@@ -2587,23 +2623,855 @@
         ]
     },
     {
-        "id": "a6844f51d326e206",
+        "id": "4e3b99ce3a60aedd",
+        "type": "ui_ui_control",
+        "z": "843e382393ce9873",
+        "name": "",
+        "events": "change",
+        "x": 80,
+        "y": 160,
+        "wires": [
+            [
+                "e147b3a601711f07"
+            ]
+        ]
+    },
+    {
+        "id": "e147b3a601711f07",
+        "type": "switch",
+        "z": "843e382393ce9873",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Start",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 210,
+        "y": 160,
+        "wires": [
+            [
+                "7f4ed64953a22c15",
+                "eb0e386f49251ed1",
+                "bbb865b67a4031dc"
+            ]
+        ]
+    },
+    {
+        "id": "d3805f802f4e26e1",
+        "type": "ui_text",
+        "z": "843e382393ce9873",
+        "group": "49282664ba5106a3",
+        "order": 1,
+        "width": "12",
+        "height": "1",
+        "name": "",
+        "label": "Ausgewählter Typ",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1170,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "f2020522810ae319",
+        "type": "ui_form",
+        "z": "843e382393ce9873",
+        "name": "",
+        "label": "",
+        "group": "49282664ba5106a3",
+        "order": 10,
+        "width": "12",
+        "height": "2",
+        "options": [
+            {
+                "label": "Losnummer",
+                "value": "lot",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "lot": ""
+        },
+        "payload": "",
+        "submit": "Messung starten",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 570,
+        "y": 20,
+        "wires": [
+            [
+                "bc29bd88ad8eee28",
+                "7a3981aaba011e3f"
+            ]
+        ]
+    },
+    {
+        "id": "6d87bb252c7f5bcb",
         "type": "change",
         "z": "843e382393ce9873",
-        "g": "d012a80f9e9ec332",
+        "name": "Losnummer speichern",
+        "rules": [
+            {
+                "t": "set",
+                "p": "lot",
+                "pt": "global",
+                "to": "payload.lot",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Start",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 60,
+        "wires": [
+            [
+                "fb47ce7bb210d3dd"
+            ]
+        ]
+    },
+    {
+        "id": "eb0e386f49251ed1",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"lot\":$globalContext('lot')\t}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 390,
+        "y": 20,
+        "wires": [
+            [
+                "f2020522810ae319"
+            ]
+        ]
+    },
+    {
+        "id": "fb47ce7bb210d3dd",
+        "type": "link out",
+        "z": "843e382393ce9873",
+        "name": "Start Measurement",
+        "mode": "link",
+        "links": [
+            "3b23593e843b3d2d"
+        ],
+        "x": 1055,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "bc29bd88ad8eee28",
+        "type": "switch",
+        "z": "843e382393ce9873",
+        "name": "",
+        "property": "ElementName",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "null"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 710,
+        "y": 20,
+        "wires": [
+            [
+                "7d03b9d4b3242171"
+            ],
+            [
+                "6d87bb252c7f5bcb"
+            ]
+        ]
+    },
+    {
+        "id": "7a3981aaba011e3f",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 80,
+        "wires": [
+            [
+                "f2020522810ae319"
+            ]
+        ]
+    },
+    {
+        "id": "21d3def47187cb02",
+        "type": "ui_toast",
+        "z": "843e382393ce9873",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1110,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "7d03b9d4b3242171",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "Fehlertext",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Typ auswählen.",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 860,
+        "y": 20,
+        "wires": [
+            [
+                "21d3def47187cb02"
+            ]
+        ]
+    },
+    {
+        "id": "560844fe456ab87d",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "query": "SELECT * FROM config\nORDER BY id;\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 310,
+        "y": 140,
+        "wires": [
+            [
+                "45ec7e18b4f97951"
+            ]
+        ]
+    },
+    {
+        "id": "45ec7e18b4f97951",
+        "type": "ui_table",
+        "z": "6b590c258a4420ac",
+        "group": "2f7987c7396caf32",
+        "name": "",
+        "order": 3,
+        "width": "6",
+        "height": "31",
+        "columns": [
+            {
+                "field": "name",
+                "title": "Typen",
+                "width": "",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 1,
+        "cts": true,
+        "x": 510,
+        "y": 160,
+        "wires": [
+            [
+                "57c349a93ed238a8",
+                "7c2582e8feb6bbb1",
+                "9a185ccb7ee58736",
+                "96517ba4678e4041",
+                "3cb98a8a7cd1f431"
+            ]
+        ]
+    },
+    {
+        "id": "9871c3adf3527e30",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "name": "Refresh Table",
+        "links": [
+            "76b25ae36ef5b731",
+            "f5adf1cfb8b83ef6",
+            "fc0a0938eaf441d5"
+        ],
+        "x": 145,
+        "y": 180,
+        "wires": [
+            [
+                "560844fe456ab87d"
+            ]
+        ]
+    },
+    {
+        "id": "bff6ed3738bf77bc",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "8a5269ad7e2db96a",
+        "name": "Select Clicked Row",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":\"selectRow\",\"arguments\":[$flowContext('currentElementId')\t]}",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 340,
+        "wires": [
+            [
+                "45ec7e18b4f97951"
+            ]
+        ]
+    },
+    {
+        "id": "7c2582e8feb6bbb1",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "8a5269ad7e2db96a",
+        "name": "Deselect Old Row",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"command\":\"deselectRow\",\"arguments\":[]}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 280,
+        "wires": [
+            [
+                "45ec7e18b4f97951",
+                "bff6ed3738bf77bc"
+            ]
+        ]
+    },
+    {
+        "id": "c78fec6200af8ad0",
+        "type": "delay",
+        "z": "6b590c258a4420ac",
+        "g": "8a5269ad7e2db96a",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "500",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 280,
+        "wires": [
+            [
+                "7c2582e8feb6bbb1"
+            ]
+        ]
+    },
+    {
+        "id": "4b405c6e9d95eeb5",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "8a5269ad7e2db96a",
+        "name": "Select Element",
+        "links": [
+            "03b2484ee52fd467",
+            "0bed7ababbf1c96f",
+            "4969fee41e86fd6c",
+            "55bd716d4a141fab",
+            "649113e1c3445c4f",
+            "7fcf4545f3da26e6",
+            "885b076be9ae77d2",
+            "b617d9cfed9cdec1",
+            "bc44068bbc50ed36",
+            "c6073f683084c2e8",
+            "fc0a0938eaf441d5",
+            "76b25ae36ef5b731"
+        ],
+        "x": 95,
+        "y": 280,
+        "wires": [
+            [
+                "c78fec6200af8ad0"
+            ]
+        ]
+    },
+    {
+        "id": "32b2d9ca3a36a03e",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "d3b265c86780b5ac",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 560,
+        "wires": [
+            [
+                "fc0a0938eaf441d5"
+            ]
+        ]
+    },
+    {
+        "id": "c8034f6ee3a91658",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "d3b265c86780b5ac",
+        "name": "",
+        "query": "INSERT INTO public.config(\n name)\n\tVALUES ('Neu')\nRETURNING *;\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 330,
+        "y": 560,
+        "wires": [
+            [
+                "32b2d9ca3a36a03e"
+            ]
+        ]
+    },
+    {
+        "id": "fc0a0938eaf441d5",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "d3b265c86780b5ac",
+        "name": "Add Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5",
+            "9871c3adf3527e30"
+        ],
+        "x": 695,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "96ec5cc051217439",
+        "type": "ui_button",
+        "z": "6b590c258a4420ac",
+        "g": "d3b265c86780b5ac",
+        "name": "Button Add",
+        "group": "2f7987c7396caf32",
+        "order": 1,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "",
+        "tooltip": "Neues Element",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "note_add",
+        "payload": "{\"name\":\"Neu\"}",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 130,
+        "y": 560,
+        "wires": [
+            [
+                "c8034f6ee3a91658"
+            ]
+        ]
+    },
+    {
+        "id": "af399766a2bd646a",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "170bc2b0ca05699c",
+        "name": "",
+        "query": "DELETE FROM public.config\n\tWHERE id={{{msg.payload}}};",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 330,
+        "y": 660,
+        "wires": [
+            [
+                "f5adf1cfb8b83ef6"
+            ]
+        ]
+    },
+    {
+        "id": "e0bd90a4c4aaf3ad",
+        "type": "ui_button",
+        "z": "6b590c258a4420ac",
+        "g": "170bc2b0ca05699c",
+        "name": "Button Delete",
+        "group": "2f7987c7396caf32",
+        "order": 2,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "",
+        "tooltip": "Löschen des ausgewählten Elements",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "delete_forever",
+        "payload": "currentElementId",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 660,
+        "wires": [
+            [
+                "af399766a2bd646a"
+            ]
+        ]
+    },
+    {
+        "id": "f5adf1cfb8b83ef6",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "170bc2b0ca05699c",
+        "name": "Delete Finished",
+        "mode": "link",
+        "links": [
+            "555dfde8b41fe7ba",
+            "64dfbddd69f4475f",
+            "95ca065e48f90be5",
+            "9871c3adf3527e30",
+            "b6dc2366865865fd",
+            "bbbe1887735263e8",
+            "bbf4bf63d34d6f10",
+            "d9ac99f24584d5f8",
+            "e7756bcdeeac3982",
+            "f4389f133d033e7b",
+            "f50804780fdb1e39"
+        ],
+        "x": 585,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "95a7230175c5100f",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m1_active={{{msg.payload.m1_active}}},\n    m1_abmass={{{msg.payload.m1_abmass}}},\n    m1_ot={{{msg.payload.m1_ot}}},\n    m1_ut={{{msg.payload.m1_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 300,
+        "wires": [
+            [
+                "7c55ec5b49c67f51"
+            ]
+        ]
+    },
+    {
+        "id": "63ddbc7c66726e85",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 300,
+        "wires": [
+            [
+                "95a7230175c5100f"
+            ]
+        ]
+    },
+    {
+        "id": "649113e1c3445c4f",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "7c55ec5b49c67f51",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 300,
+        "wires": [
+            [
+                "649113e1c3445c4f"
+            ]
+        ]
+    },
+    {
+        "id": "0086c4f4dbef6d44",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "",
+        "label": "",
+        "group": "4f54b01da23ff22d",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m1_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m1_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m1_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m1_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m1_active": false,
+            "m1_abmass": "",
+            "m1_ot": "",
+            "m1_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 300,
+        "wires": [
+            [
+                "63ddbc7c66726e85",
+                "dc91055327bbc092"
+            ]
+        ]
+    },
+    {
+        "id": "2581b8f2746fd1a9",
+        "type": "ui_text_input",
+        "z": "6b590c258a4420ac",
+        "name": "Form Header",
+        "label": "",
+        "tooltip": "",
+        "group": "baf72dc6c3c80a73",
+        "order": 1,
+        "width": "12",
+        "height": "1",
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1070,
+        "y": 40,
+        "wires": [
+            [
+                "f3b7450a6af29dde"
+            ]
+        ]
+    },
+    {
+        "id": "57c349a93ed238a8",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "name": "Write Selected To Form Header",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.name",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 850,
+        "y": 40,
+        "wires": [
+            [
+                "2581b8f2746fd1a9"
+            ]
+        ]
+    },
+    {
+        "id": "9a185ccb7ee58736",
+        "type": "change",
+        "z": "6b590c258a4420ac",
         "name": "Set Selected Type",
         "rules": [
             {
                 "t": "set",
                 "p": "ElementName",
-                "pt": "global",
+                "pt": "flow",
                 "to": "payload.name",
                 "tot": "msg"
             },
             {
                 "t": "set",
                 "p": "currentElementId",
-                "pt": "global",
+                "pt": "flow",
                 "to": "payload.id",
                 "tot": "msg"
             },
@@ -2620,25 +3488,25 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 250,
-        "y": 320,
+        "x": 810,
+        "y": 80,
         "wires": [
             [
-                "8bd6cd95a84f33fe"
+                "d2460b66f5c61d8e"
             ]
         ]
     },
     {
-        "id": "78722288da1f66e8",
+        "id": "dc91055327bbc092",
         "type": "change",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Set Name",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Refresh Form",
         "rules": [
             {
                 "t": "set",
-                "p": "ElementName",
-                "pt": "global",
+                "p": "payload",
+                "pt": "msg",
                 "to": "payload",
                 "tot": "msg"
             }
@@ -2648,17 +3516,296 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1280,
-        "y": 240,
+        "x": 1320,
+        "y": 220,
+        "wires": [
+            [
+                "0086c4f4dbef6d44"
+            ]
+        ]
+    },
+    {
+        "id": "d3d94a8a9d03b903",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 220,
+        "wires": [
+            [
+                "0086c4f4dbef6d44"
+            ]
+        ]
+    },
+    {
+        "id": "d9ac99f24584d5f8",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 220,
+        "wires": [
+            [
+                "d3d94a8a9d03b903"
+            ]
+        ]
+    },
+    {
+        "id": "f3b7450a6af29dde",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "name": "Set Name",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ElementName",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1220,
+        "y": 40,
         "wires": [
             []
         ]
     },
     {
-        "id": "f035e10af4f9378f",
+        "id": "d2460b66f5c61d8e",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "name": "Selected Type",
+        "mode": "link",
+        "links": [
+            "7cfcc73117e72030"
+        ],
+        "x": 945,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "1b58670ab9d9e6ac",
+        "type": "ui_text_input",
+        "z": "6b590c258a4420ac",
+        "name": "Nennmaß",
+        "label": "Nennmaß",
+        "tooltip": "",
+        "group": "baf72dc6c3c80a73",
+        "order": 1,
+        "width": "12",
+        "height": "1",
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 1080,
+        "y": 120,
+        "wires": [
+            [
+                "5d38393b465bb49e"
+            ]
+        ]
+    },
+    {
+        "id": "5d38393b465bb49e",
         "type": "change",
-        "z": "843e382393ce9873",
-        "g": "29fe29895bc273be",
+        "z": "6b590c258a4420ac",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"nennmass\":payload}",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1270,
+        "y": 120,
+        "wires": [
+            [
+                "d2828b764361c2a4"
+            ]
+        ]
+    },
+    {
+        "id": "d2828b764361c2a4",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}', nennmass={{{msg.payload.nennmass}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1490,
+        "y": 120,
+        "wires": [
+            [
+                "61f5783c078cbc4b"
+            ]
+        ]
+    },
+    {
+        "id": "3cb98a8a7cd1f431",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.nennmass",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 160,
+        "wires": [
+            [
+                "7e667df4f5e39c25"
+            ]
+        ]
+    },
+    {
+        "id": "76b25ae36ef5b731",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5",
+            "9871c3adf3527e30"
+        ],
+        "x": 1895,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "4fb57ae7914799ae",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm2_active={{{msg.payload.m2_active}}}, \n\tm2_abmass={{{msg.payload.m2_abmass}}}, \n\tm2_ot={{{msg.payload.m2_ot}}}, \n\tm2_ut={{{msg.payload.m2_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 480,
+        "wires": [
+            [
+                "c1936d554edc025b"
+            ]
+        ]
+    },
+    {
+        "id": "578e1c5b96c066ce",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 480,
+        "wires": [
+            [
+                "4fb57ae7914799ae"
+            ]
+        ]
+    },
+    {
+        "id": "885b076be9ae77d2",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "c1936d554edc025b",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
         "name": "",
         "rules": [
             {
@@ -2674,41 +3821,2091 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1870,
-        "y": 160,
+        "x": 1970,
+        "y": 480,
         "wires": [
             [
-                "42f72c23e792c861"
+                "885b076be9ae77d2"
             ]
         ]
     },
     {
-        "id": "8bd6cd95a84f33fe",
+        "id": "fe57238dbfc69a0d",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "",
+        "label": "",
+        "group": "9970d46d9cf31b46",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m2_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m2_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m2_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m2_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m2_active": false,
+            "m2_abmass": "",
+            "m2_ot": "",
+            "m2_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 480,
+        "wires": [
+            [
+                "578e1c5b96c066ce",
+                "64bceb5428603054"
+            ]
+        ]
+    },
+    {
+        "id": "64bceb5428603054",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 400,
+        "wires": [
+            [
+                "fe57238dbfc69a0d"
+            ]
+        ]
+    },
+    {
+        "id": "8c358dc63bc0de98",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 400,
+        "wires": [
+            [
+                "fe57238dbfc69a0d"
+            ]
+        ]
+    },
+    {
+        "id": "95ca065e48f90be5",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 400,
+        "wires": [
+            [
+                "8c358dc63bc0de98"
+            ]
+        ]
+    },
+    {
+        "id": "19cb1ff75975d727",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm3_active={{{msg.payload.m3_active}}}, \n\tm3_abmass={{{msg.payload.m3_abmass}}}, \n\tm3_ot={{{msg.payload.m3_ot}}}, \n\tm3_ut={{{msg.payload.m3_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 660,
+        "wires": [
+            [
+                "14adc72dfbc3c143"
+            ]
+        ]
+    },
+    {
+        "id": "ed06f98329e28abe",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 660,
+        "wires": [
+            [
+                "19cb1ff75975d727"
+            ]
+        ]
+    },
+    {
+        "id": "4969fee41e86fd6c",
         "type": "link out",
-        "z": "843e382393ce9873",
-        "g": "d012a80f9e9ec332",
-        "name": "Selected Type",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Update Finished",
         "mode": "link",
         "links": [
-            "7cfcc73117e72030"
+            "4b405c6e9d95eeb5"
         ],
-        "x": 375,
-        "y": 320,
+        "x": 2135,
+        "y": 660,
         "wires": []
     },
     {
-        "id": "f6ae1f8861dc5712",
+        "id": "14adc72dfbc3c143",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 660,
+        "wires": [
+            [
+                "4969fee41e86fd6c"
+            ]
+        ]
+    },
+    {
+        "id": "e625662c773640a4",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "",
+        "label": "",
+        "group": "85bb91f3ac86b604",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m3_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m3_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m3_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m3_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m3_active": false,
+            "m3_abmass": "",
+            "m3_ot": "",
+            "m3_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 660,
+        "wires": [
+            [
+                "ed06f98329e28abe",
+                "b5deeed6d6e538de"
+            ]
+        ]
+    },
+    {
+        "id": "b5deeed6d6e538de",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 580,
+        "wires": [
+            [
+                "e625662c773640a4"
+            ]
+        ]
+    },
+    {
+        "id": "90cb07d2e85f028e",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 580,
+        "wires": [
+            [
+                "e625662c773640a4"
+            ]
+        ]
+    },
+    {
+        "id": "f50804780fdb1e39",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 580,
+        "wires": [
+            [
+                "90cb07d2e85f028e"
+            ]
+        ]
+    },
+    {
+        "id": "9c79bcd5b9a27051",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm4_active={{{msg.payload.m4_active}}}, \n\tm4_abmass={{{msg.payload.m4_abmass}}}, \n\tm4_ot={{{msg.payload.m4_ot}}}, \n\tm4_ut={{{msg.payload.m4_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 840,
+        "wires": [
+            [
+                "ec679c15301e469e"
+            ]
+        ]
+    },
+    {
+        "id": "1b43b74280d4363a",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 840,
+        "wires": [
+            [
+                "9c79bcd5b9a27051"
+            ]
+        ]
+    },
+    {
+        "id": "7fcf4545f3da26e6",
         "type": "link out",
-        "z": "843e382393ce9873",
-        "g": "ad1cd725c146137b",
-        "name": "Selected Type",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Update Finished",
         "mode": "link",
         "links": [
-            "7cfcc73117e72030"
+            "4b405c6e9d95eeb5"
         ],
-        "x": 1005,
-        "y": 280,
+        "x": 2135,
+        "y": 840,
         "wires": []
+    },
+    {
+        "id": "ec679c15301e469e",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 840,
+        "wires": [
+            [
+                "7fcf4545f3da26e6"
+            ]
+        ]
+    },
+    {
+        "id": "a4525c80701e1d6d",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "",
+        "label": "",
+        "group": "5a4b0f3b04feaad7",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m4_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m4_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m4_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m4_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m4_active": false,
+            "m4_abmass": "",
+            "m4_ot": "",
+            "m4_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 840,
+        "wires": [
+            [
+                "1b43b74280d4363a",
+                "3a068a837bcb775d"
+            ]
+        ]
+    },
+    {
+        "id": "3a068a837bcb775d",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 760,
+        "wires": [
+            [
+                "a4525c80701e1d6d"
+            ]
+        ]
+    },
+    {
+        "id": "4e9dc1c522ee07a9",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 760,
+        "wires": [
+            [
+                "a4525c80701e1d6d"
+            ]
+        ]
+    },
+    {
+        "id": "bbf4bf63d34d6f10",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 760,
+        "wires": [
+            [
+                "4e9dc1c522ee07a9"
+            ]
+        ]
+    },
+    {
+        "id": "df74f72a3ae22380",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm5_active={{{msg.payload.m5_active}}}, \n\tm5_abmass={{{msg.payload.m5_abmass}}}, \n\tm5_ot={{{msg.payload.m5_ot}}}, \n\tm5_ut={{{msg.payload.m5_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1020,
+        "wires": [
+            [
+                "564ba3122b3007f3"
+            ]
+        ]
+    },
+    {
+        "id": "a63a73200f23ef29",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1020,
+        "wires": [
+            [
+                "df74f72a3ae22380"
+            ]
+        ]
+    },
+    {
+        "id": "b617d9cfed9cdec1",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "564ba3122b3007f3",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1020,
+        "wires": [
+            [
+                "b617d9cfed9cdec1"
+            ]
+        ]
+    },
+    {
+        "id": "67322415decf55cc",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "",
+        "label": "",
+        "group": "04e3398627aa4cdd",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m5_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m5_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m5_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m5_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m5_active": false,
+            "m5_abmass": "",
+            "m5_ot": "",
+            "m5_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1020,
+        "wires": [
+            [
+                "a63a73200f23ef29",
+                "f04d37540c2aa6f3"
+            ]
+        ]
+    },
+    {
+        "id": "f04d37540c2aa6f3",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 940,
+        "wires": [
+            [
+                "67322415decf55cc"
+            ]
+        ]
+    },
+    {
+        "id": "6624fcd415a4a069",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 940,
+        "wires": [
+            [
+                "67322415decf55cc"
+            ]
+        ]
+    },
+    {
+        "id": "b6dc2366865865fd",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 940,
+        "wires": [
+            [
+                "6624fcd415a4a069"
+            ]
+        ]
+    },
+    {
+        "id": "81f2828d3b65b24a",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm6_active={{{msg.payload.m6_active}}}, \n\tm6_abmass={{{msg.payload.m6_abmass}}}, \n\tm6_ot={{{msg.payload.m6_ot}}}, \n\tm6_ut={{{msg.payload.m6_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1200,
+        "wires": [
+            [
+                "c87df6da31c2a48e"
+            ]
+        ]
+    },
+    {
+        "id": "34b22309af3a4010",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1200,
+        "wires": [
+            [
+                "81f2828d3b65b24a"
+            ]
+        ]
+    },
+    {
+        "id": "bc44068bbc50ed36",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "c87df6da31c2a48e",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1200,
+        "wires": [
+            [
+                "bc44068bbc50ed36"
+            ]
+        ]
+    },
+    {
+        "id": "093d4bca2248c402",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "",
+        "label": "",
+        "group": "138ac021ab62fc93",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m6_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m6_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m6_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m6_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m6_active": false,
+            "m6_abmass": "",
+            "m6_ot": "",
+            "m6_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1200,
+        "wires": [
+            [
+                "34b22309af3a4010",
+                "a6b7af5290241907"
+            ]
+        ]
+    },
+    {
+        "id": "a6b7af5290241907",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 1120,
+        "wires": [
+            [
+                "093d4bca2248c402"
+            ]
+        ]
+    },
+    {
+        "id": "a50c763a04c9736d",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 1120,
+        "wires": [
+            [
+                "093d4bca2248c402"
+            ]
+        ]
+    },
+    {
+        "id": "64dfbddd69f4475f",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 1120,
+        "wires": [
+            [
+                "a50c763a04c9736d"
+            ]
+        ]
+    },
+    {
+        "id": "cbba6f72f84ea8e4",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm7_active={{{msg.payload.m7_active}}}, \n\tm7_abmass={{{msg.payload.m7_abmass}}}, \n\tm7_ot={{{msg.payload.m7_ot}}}, \n\tm7_ut={{{msg.payload.m7_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1380,
+        "wires": [
+            [
+                "a6804e07dbf8251d"
+            ]
+        ]
+    },
+    {
+        "id": "a6b121eccff7bb8f",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1380,
+        "wires": [
+            [
+                "cbba6f72f84ea8e4"
+            ]
+        ]
+    },
+    {
+        "id": "03b2484ee52fd467",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "a6804e07dbf8251d",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1380,
+        "wires": [
+            [
+                "03b2484ee52fd467"
+            ]
+        ]
+    },
+    {
+        "id": "689bb45675670133",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "",
+        "label": "",
+        "group": "601473f309089a61",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m7_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m7_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m7_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m7_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m7_active": false,
+            "m7_abmass": "",
+            "m7_ot": "",
+            "m7_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1380,
+        "wires": [
+            [
+                "a6b121eccff7bb8f",
+                "942524fe34556d24"
+            ]
+        ]
+    },
+    {
+        "id": "942524fe34556d24",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 1300,
+        "wires": [
+            [
+                "689bb45675670133"
+            ]
+        ]
+    },
+    {
+        "id": "4cde1e65fc2b4213",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 1300,
+        "wires": [
+            [
+                "689bb45675670133"
+            ]
+        ]
+    },
+    {
+        "id": "e7756bcdeeac3982",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 1300,
+        "wires": [
+            [
+                "4cde1e65fc2b4213"
+            ]
+        ]
+    },
+    {
+        "id": "99facd3624a283fc",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm8_active={{{msg.payload.m8_active}}}, \n\tm8_abmass={{{msg.payload.m8_abmass}}}, \n\tm8_ot={{{msg.payload.m8_ot}}}, \n\tm8_ut={{{msg.payload.m8_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1560,
+        "wires": [
+            [
+                "90f1188437db6671"
+            ]
+        ]
+    },
+    {
+        "id": "0f573c88a0b3ac7f",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1560,
+        "wires": [
+            [
+                "99facd3624a283fc"
+            ]
+        ]
+    },
+    {
+        "id": "0bed7ababbf1c96f",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "90f1188437db6671",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1560,
+        "wires": [
+            [
+                "0bed7ababbf1c96f"
+            ]
+        ]
+    },
+    {
+        "id": "fb24975fd0bb3a92",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "",
+        "label": "",
+        "group": "cf1feb024de9b6b9",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m8_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m8_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m8_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m8_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m8_active": false,
+            "m8_abmass": "",
+            "m8_ot": "",
+            "m8_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1560,
+        "wires": [
+            [
+                "0f573c88a0b3ac7f",
+                "bd868672fa8aed5b"
+            ]
+        ]
+    },
+    {
+        "id": "bd868672fa8aed5b",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 1480,
+        "wires": [
+            [
+                "fb24975fd0bb3a92"
+            ]
+        ]
+    },
+    {
+        "id": "a7972aec080a6e9a",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 1480,
+        "wires": [
+            [
+                "fb24975fd0bb3a92"
+            ]
+        ]
+    },
+    {
+        "id": "f4389f133d033e7b",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 1480,
+        "wires": [
+            [
+                "a7972aec080a6e9a"
+            ]
+        ]
+    },
+    {
+        "id": "23713bebb1f7dc03",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm9_active={{{msg.payload.m9_active}}}, \n\tm9_abmass={{{msg.payload.m9_abmass}}}, \n\tm9_ot={{{msg.payload.m9_ot}}}, \n\tm9_ut={{{msg.payload.m9_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1740,
+        "wires": [
+            [
+                "47bb825f3a3c0651"
+            ]
+        ]
+    },
+    {
+        "id": "9f64768f73eb26a6",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1740,
+        "wires": [
+            [
+                "23713bebb1f7dc03"
+            ]
+        ]
+    },
+    {
+        "id": "c6073f683084c2e8",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "47bb825f3a3c0651",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1740,
+        "wires": [
+            [
+                "c6073f683084c2e8"
+            ]
+        ]
+    },
+    {
+        "id": "34ef8fcf15dab94d",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "",
+        "label": "",
+        "group": "ceebc75f8b0df4e0",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m9_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m9_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m9_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m9_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m9_active": false,
+            "m9_abmass": "",
+            "m9_ot": "",
+            "m9_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1740,
+        "wires": [
+            [
+                "9f64768f73eb26a6",
+                "d26612e447e07de3"
+            ]
+        ]
+    },
+    {
+        "id": "d26612e447e07de3",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 1660,
+        "wires": [
+            [
+                "34ef8fcf15dab94d"
+            ]
+        ]
+    },
+    {
+        "id": "aed20feca5a18805",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 1660,
+        "wires": [
+            [
+                "34ef8fcf15dab94d"
+            ]
+        ]
+    },
+    {
+        "id": "555dfde8b41fe7ba",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 1660,
+        "wires": [
+            [
+                "aed20feca5a18805"
+            ]
+        ]
+    },
+    {
+        "id": "813a2fd5c89443bb",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm10_active={{{msg.payload.m10_active}}}, \n\tm10_abmass={{{msg.payload.m10_abmass}}}, \n\tm10_ot={{{msg.payload.m10_ot}}}, \n\tm10_ut={{{msg.payload.m10_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1770,
+        "y": 1920,
+        "wires": [
+            [
+                "ebffa10d55cb050c"
+            ]
+        ]
+    },
+    {
+        "id": "2925e823229f1268",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1590,
+        "y": 1920,
+        "wires": [
+            [
+                "813a2fd5c89443bb"
+            ]
+        ]
+    },
+    {
+        "id": "55bd716d4a141fab",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Update Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5"
+        ],
+        "x": 2135,
+        "y": 1920,
+        "wires": []
+    },
+    {
+        "id": "ebffa10d55cb050c",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1970,
+        "y": 1920,
+        "wires": [
+            [
+                "55bd716d4a141fab"
+            ]
+        ]
+    },
+    {
+        "id": "61528eb3537c538e",
+        "type": "ui_form",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "",
+        "label": "",
+        "group": "5152a05d490a0249",
+        "order": 2,
+        "width": "12",
+        "height": "1",
+        "options": [
+            {
+                "label": "Aktiviert",
+                "value": "m10_active",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Abmaß",
+                "value": "m10_abmass",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Obere Toleranz",
+                "value": "m10_ot",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Untere Toleranz",
+                "value": "m10_ut",
+                "type": "number",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "m10_active": false,
+            "m10_abmass": "",
+            "m10_ot": "",
+            "m10_ut": ""
+        },
+        "payload": "",
+        "submit": "Speichern",
+        "cancel": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": false,
+        "className": "",
+        "x": 1310,
+        "y": 1920,
+        "wires": [
+            [
+                "2925e823229f1268",
+                "4018b14d90ea9bee"
+            ]
+        ]
+    },
+    {
+        "id": "4018b14d90ea9bee",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Refresh Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1320,
+        "y": 1840,
+        "wires": [
+            [
+                "61528eb3537c538e"
+            ]
+        ]
+    },
+    {
+        "id": "5c09d74059dfaa9b",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Clear Form",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1090,
+        "y": 1840,
+        "wires": [
+            [
+                "61528eb3537c538e"
+            ]
+        ]
+    },
+    {
+        "id": "bbbe1887735263e8",
+        "type": "link in",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Reset Form",
+        "links": [
+            "f5adf1cfb8b83ef6"
+        ],
+        "x": 965,
+        "y": 1840,
+        "wires": [
+            [
+                "5c09d74059dfaa9b"
+            ]
+        ]
+    },
+    {
+        "id": "61f5783c078cbc4b",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1730,
+        "y": 120,
+        "wires": [
+            [
+                "76b25ae36ef5b731"
+            ]
+        ]
+    },
+    {
+        "id": "7e667df4f5e39c25",
+        "type": "rbe",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 930,
+        "y": 140,
+        "wires": [
+            [
+                "1b58670ab9d9e6ac"
+            ]
+        ]
+    },
+    {
+        "id": "a213d3d0674d375a",
+        "type": "ui_ui_control",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "events": "change",
+        "x": 100,
+        "y": 80,
+        "wires": [
+            [
+                "6f2c78b3f47dfc71"
+            ]
+        ]
+    },
+    {
+        "id": "6f2c78b3f47dfc71",
+        "type": "switch",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Einstellungen",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 250,
+        "y": 80,
+        "wires": [
+            [
+                "560844fe456ab87d"
+            ]
+        ]
     },
     {
         "id": "a1cc4c5d10b2f8d7",
@@ -3750,7 +6947,7 @@
         "checkall": "false",
         "repair": false,
         "outputs": 1,
-        "x": 570,
+        "x": 610,
         "y": 400,
         "wires": [
             [
@@ -3778,7 +6975,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 690,
+        "x": 770,
         "y": 400,
         "wires": [
             [
@@ -4893,13 +8090,10 @@
         "z": "9516ce2929752e9f",
         "name": "",
         "events": "all",
-        "x": 980,
-        "y": 820,
+        "x": 1220,
+        "y": 380,
         "wires": [
-            [
-                "a782218989a32720",
-                "570bfb13c4ce2077"
-            ]
+            []
         ]
     },
     {
@@ -5003,15 +8197,22 @@
         "outputStateChangeOnly": true,
         "throwException": false,
         "states": [
-            "Einstellungen",
+            "Start",
             "1",
             "2",
-            "3"
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
         ],
         "transitions": [
             {
                 "name": "Start",
-                "from": "Einstellungen",
+                "from": "Start",
                 "to": "1"
             },
             {
@@ -5027,22 +8228,22 @@
             {
                 "name": "3",
                 "from": "3",
-                "to": "Einstellungen"
+                "to": "Start"
             },
             {
                 "name": "Einstellungen",
                 "from": "3",
-                "to": "Einstellungen"
+                "to": "Start"
             },
             {
                 "name": "Einstellungen",
                 "from": "2",
-                "to": "Einstellungen"
+                "to": "Start"
             },
             {
                 "name": "Einstellungen",
                 "from": "1",
-                "to": "Einstellungen"
+                "to": "Start"
             }
         ],
         "x": 740,
@@ -5182,9 +8383,11 @@
         "name": "Set Heading Text",
         "links": [
             "8bd6cd95a84f33fe",
-            "f6ae1f8861dc5712"
+            "f6ae1f8861dc5712",
+            "745d0846411a41bf",
+            "d2460b66f5c61d8e"
         ],
-        "x": 765,
+        "x": 875,
         "y": 180,
         "wires": [
             [
@@ -5214,7 +8417,7 @@
         "to": "",
         "reg": false,
         "x": 990,
-        "y": 480,
+        "y": 380,
         "wires": [
             [
                 "9cfc7ccd9e3269ca"
@@ -5222,204 +8425,17 @@
         ]
     },
     {
-        "id": "a782218989a32720",
-        "type": "switch",
+        "id": "3b23593e843b3d2d",
+        "type": "link in",
         "z": "9516ce2929752e9f",
-        "name": "",
-        "property": "name",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Einstellungen",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 1,
-        "x": 1190,
-        "y": 820,
-        "wires": [
-            [
-                "30058c91ae12a293",
-                "92d88ef055bad02f",
-                "37e5d96e7b765ac4"
-            ]
-        ]
-    },
-    {
-        "id": "30058c91ae12a293",
-        "type": "link out",
-        "z": "9516ce2929752e9f",
-        "name": "Einstellungen aktiviert",
-        "mode": "link",
+        "name": "state machine input",
         "links": [
-            "62e80ce16e82b5c3"
+            "fb47ce7bb210d3dd"
         ],
-        "x": 1355,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "570bfb13c4ce2077",
-        "type": "debug",
-        "z": "9516ce2929752e9f",
-        "name": "debug 8",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1260,
-        "y": 740,
-        "wires": []
-    },
-    {
-        "id": "92d88ef055bad02f",
-        "type": "debug",
-        "z": "9516ce2929752e9f",
-        "name": "debug 9",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1540,
-        "y": 720,
-        "wires": []
-    },
-    {
-        "id": "37e5d96e7b765ac4",
-        "type": "change",
-        "z": "9516ce2929752e9f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "{\t    \"id\":$globalContext('currentElementId'),\t    \"name\":$globalContext('ElementName')\t    }",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1370,
-        "y": 880,
+        "x": 615,
+        "y": 460,
         "wires": [
             [
-                "c384e7a9f2baf0c6"
-            ]
-        ]
-    },
-    {
-        "id": "c384e7a9f2baf0c6",
-        "type": "link out",
-        "z": "9516ce2929752e9f",
-        "name": "link out 1",
-        "mode": "link",
-        "links": [
-            "e22ea1258be2f3fb"
-        ],
-        "x": 1555,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "ca87717fe5fc9189",
-        "type": "debug",
-        "z": "9516ce2929752e9f",
-        "name": "debug 10",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 840,
-        "y": 40,
-        "wires": []
-    },
-    {
-        "id": "f2020522810ae319",
-        "type": "ui_form",
-        "z": "9516ce2929752e9f",
-        "name": "",
-        "label": "",
-        "group": "49282664ba5106a3",
-        "order": 10,
-        "width": "12",
-        "height": "2",
-        "options": [
-            {
-                "label": "Losnummer",
-                "value": "lot",
-                "type": "number",
-                "required": true,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "lot": ""
-        },
-        "payload": "",
-        "submit": "Messung starten",
-        "cancel": "",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
-        "className": "",
-        "x": 330,
-        "y": 40,
-        "wires": [
-            [
-                "6d87bb252c7f5bcb"
-            ]
-        ]
-    },
-    {
-        "id": "6d87bb252c7f5bcb",
-        "type": "change",
-        "z": "9516ce2929752e9f",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "lot",
-                "pt": "global",
-                "to": "payload.lot",
-                "tot": "msg"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Start",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 530,
-        "y": 40,
-        "wires": [
-            [
-                "ca87717fe5fc9189",
                 "5255c1d1dac9e21d"
             ]
         ]
