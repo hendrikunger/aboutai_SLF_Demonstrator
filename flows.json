@@ -99,9 +99,7 @@
             "141f8ee6b1156445"
         ],
         "x": 14,
-        "y": 359,
-        "w": 1092,
-        "h": 322
+        "y": 359
     },
     {
         "id": "c267a2c65f9672c6",
@@ -230,9 +228,7 @@
             "f81d2b1e8fb96cae"
         ],
         "x": 34,
-        "y": 39,
-        "w": 392,
-        "h": 282
+        "y": 39
     },
     {
         "id": "845f4268e3199e1d",
@@ -248,18 +244,23 @@
             "2f5ae32c241db25c",
             "022d0485fdf0448b",
             "96a65acb3f480bde",
-            "fc17c993611d66a8",
             "1417102d265e83e5",
             "0bc7f6e47886b686",
             "eaa90a3437d84708",
             "1a3b8df5ab5514dc",
             "9767ae7be4407276",
-            "e8beecd43126c417"
+            "e8beecd43126c417",
+            "aa07f4d4a725865b",
+            "97449b59b1ded6be",
+            "da82ce4793672c6d",
+            "4875667208c4bb4f",
+            "b702da8cc8f48e1e",
+            "f7e679cb56cdfa0c"
         ],
-        "x": 44,
+        "x": 64,
         "y": 759,
-        "w": 1222,
-        "h": 222
+        "w": 1682,
+        "h": 282
     },
     {
         "id": "986a61aab651f4f0",
@@ -275,55 +276,10 @@
             "a4eeca75cb962bfe",
             "bca680df5f2250f6"
         ],
-        "x": 34,
+        "x": 54,
         "y": 19,
         "w": 792,
         "h": 82
-    },
-    {
-        "id": "fb5dfa943294e7a2",
-        "type": "group",
-        "z": "f76015fff1ab449b",
-        "g": "3db353d6ca535ffc",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "3a123b1d2a2ea28d",
-            "a99feee76da088f8",
-            "f9eafdbe8ae23397",
-            "6c0ba9e1b80d2e1c"
-        ],
-        "x": 574,
-        "y": 239,
-        "w": 412,
-        "h": 122
-    },
-    {
-        "id": "4782014c59a1fc17",
-        "type": "group",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "Initialsisation for Tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "0e5dbb12f9e794f9",
-            "c9cc6dc41f18932c",
-            "53cf2b326c916f1b",
-            "f9377c2829bfd504",
-            "21f6cfba3a1623f7",
-            "8d3c9719a67f5aef"
-        ],
-        "x": 334,
-        "y": 79
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -628,6 +584,51 @@
         "y": 259,
         "w": 512,
         "h": 142
+    },
+    {
+        "id": "fb5dfa943294e7a2",
+        "type": "group",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a123b1d2a2ea28d",
+            "a99feee76da088f8",
+            "f9eafdbe8ae23397",
+            "6c0ba9e1b80d2e1c"
+        ],
+        "x": 574,
+        "y": 239,
+        "w": 412,
+        "h": 122
+    },
+    {
+        "id": "4782014c59a1fc17",
+        "type": "group",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "Initialsisation for Tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0e5dbb12f9e794f9",
+            "c9cc6dc41f18932c",
+            "53cf2b326c916f1b",
+            "f9377c2829bfd504",
+            "21f6cfba3a1623f7",
+            "8d3c9719a67f5aef"
+        ],
+        "x": 334,
+        "y": 79
     },
     {
         "id": "8b9d2116be6fd249",
@@ -2453,7 +2454,8 @@
             [
                 "7c9110228612734e",
                 "df895ae8c3c14c2a",
-                "e8a89d98fbde2695"
+                "e8a89d98fbde2695",
+                "43b7800b03378e7c"
             ]
         ]
     },
@@ -2896,6 +2898,31 @@
             [
                 "21d3def47187cb02"
             ]
+        ]
+    },
+    {
+        "id": "43b7800b03378e7c",
+        "type": "change",
+        "z": "843e382393ce9873",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "config",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 850,
+        "y": 120,
+        "wires": [
+            []
         ]
     },
     {
@@ -7192,7 +7219,7 @@
         "sendOnBlur": true,
         "className": "",
         "topicType": "msg",
-        "x": 310,
+        "x": 330,
         "y": 60,
         "wires": [
             [
@@ -7220,7 +7247,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 700,
+        "x": 720,
         "y": 60,
         "wires": [
             []
@@ -7278,7 +7305,7 @@
         "topic": "",
         "payload": "0.0",
         "payloadType": "num",
-        "x": 130,
+        "x": 150,
         "y": 60,
         "wires": [
             [
@@ -7305,102 +7332,12 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 510,
+        "x": 530,
         "y": 60,
         "wires": [
             [],
             [
                 "81bcf5f3a9a06c5a"
-            ]
-        ]
-    },
-    {
-        "id": "8b6e67db34a83968",
-        "type": "inject",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 930,
-        "y": 1300,
-        "wires": [
-            [
-                "da82ce4793672c6d",
-                "4875667208c4bb4f"
-            ]
-        ]
-    },
-    {
-        "id": "1113691226a338da",
-        "type": "inject",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "false",
-        "payloadType": "bool",
-        "x": 930,
-        "y": 1360,
-        "wires": [
-            [
-                "da82ce4793672c6d",
-                "4875667208c4bb4f"
-            ]
-        ]
-    },
-    {
-        "id": "393bd8462074aaad",
-        "type": "inject",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "3",
-        "payloadType": "num",
-        "x": 930,
-        "y": 1240,
-        "wires": [
-            [
-                "da82ce4793672c6d",
-                "4875667208c4bb4f"
             ]
         ]
     },
@@ -7416,7 +7353,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 200,
+        "x": 220,
         "y": 880,
         "wires": [
             [
@@ -7436,7 +7373,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 340,
+        "x": 360,
         "y": 880,
         "wires": [
             [
@@ -7456,7 +7393,7 @@
         "constant": "",
         "round": false,
         "decimals": 0,
-        "x": 520,
+        "x": 540,
         "y": 880,
         "wires": [
             [
@@ -7476,14 +7413,13 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 680,
+        "x": 700,
         "y": 880,
         "wires": [
             [
-                "fc17c993611d66a8",
                 "e8beecd43126c417",
                 "9767ae7be4407276",
-                "deb6e4621765778e"
+                "97449b59b1ded6be"
             ]
         ]
     },
@@ -7493,46 +7429,17 @@
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "name": "",
-        "active": true,
+        "active": false,
         "tosidebar": true,
         "console": false,
         "tostatus": false,
-        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg, \"data\":payload, \"calc\":calc }\t",
+        "complete": "{\"min\": min, \"max\": max, \"length\":length, \"avg\":avg, \"data\":payload, \"pass\":pass }\t",
         "targetType": "jsonata",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1100,
-        "y": 940,
+        "x": 1300,
+        "y": 920,
         "wires": []
-    },
-    {
-        "id": "fc17c993611d66a8",
-        "type": "change",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "name": "Calculation",
-        "rules": [
-            {
-                "t": "set",
-                "p": "calc",
-                "pt": "msg",
-                "to": "msg.avg-msg.min",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 850,
-        "y": 880,
-        "wires": [
-            [
-                "96a65acb3f480bde",
-                "eaa90a3437d84708"
-            ]
-        ]
     },
     {
         "id": "1417102d265e83e5",
@@ -7543,7 +7450,7 @@
         "links": [
             "961c22119f4c0397"
         ],
-        "x": 85,
+        "x": 105,
         "y": 880,
         "wires": [
             [
@@ -7590,7 +7497,7 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1140,
+        "x": 1160,
         "y": 840,
         "wires": [
             []
@@ -7602,12 +7509,12 @@
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "name": "",
-        "query": "INSERT INTO qa_demonstrator(data, min, max, avg, calc)\n\tVALUES ( array[{{{msg.payload}}}], {{{msg.min}}}, {{{msg.max}}}, {{{msg.avg}}}, {{{msg.calc}}});",
+        "query": "INSERT INTO measurement_values(station, type, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1110,
+        "x": 1650,
         "y": 880,
         "wires": [
             []
@@ -7620,7 +7527,7 @@
         "g": "845f4268e3199e1d",
         "name": "Laufbahnmaß über Kugel + Maßkorrektur, Maximalwert über Messreihe  ",
         "info": "",
-        "x": 590,
+        "x": 610,
         "y": 940,
         "wires": []
     },
@@ -7640,7 +7547,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 830,
+        "x": 870,
         "y": 800,
         "wires": [
             []
@@ -7658,7 +7565,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 870,
+        "x": 910,
         "y": 840,
         "wires": [
             [
@@ -7670,19 +7577,20 @@
         "id": "da82ce4793672c6d",
         "type": "ui_template",
         "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
         "group": "814f49e501875186",
         "name": "LED right",
         "order": 3,
         "width": 6,
         "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.payload) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
+        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1240,
-        "y": 1100,
+        "x": 1300,
+        "y": 960,
         "wires": [
             []
         ]
@@ -7691,19 +7599,20 @@
         "id": "4875667208c4bb4f",
         "type": "ui_template",
         "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
         "group": "814f49e501875186",
         "name": "LED left",
         "order": 1,
         "width": 6,
         "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.payload) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
+        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1240,
-        "y": 1140,
+        "x": 1300,
+        "y": 1000,
         "wires": [
             []
         ]
@@ -7712,6 +7621,7 @@
         "id": "b702da8cc8f48e1e",
         "type": "ui_template",
         "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
         "group": "f5e2c3bf3d5a99b2",
         "name": "Led Style",
         "order": 30,
@@ -7723,84 +7633,10 @@
         "resendOnRefresh": true,
         "templateScope": "global",
         "className": "",
-        "x": 1380,
-        "y": 1120,
+        "x": 1440,
+        "y": 980,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "be182b18cf0c6c12",
-        "type": "postgresql",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "query": "SELECT *\n\tFROM public.config\n\tWHERE id={{{msg.payload}}};",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 710,
-        "y": 1120,
-        "wires": [
-            [
-                "97449b59b1ded6be"
-            ]
-        ]
-    },
-    {
-        "id": "9554e9098db9e6f7",
-        "type": "inject",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 1120,
-        "wires": [
-            [
-                "deb6e4621765778e"
-            ]
-        ]
-    },
-    {
-        "id": "deb6e4621765778e",
-        "type": "change",
-        "z": "f76015fff1ab449b",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "currentElementId",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 450,
-        "y": 1120,
-        "wires": [
-            [
-                "be182b18cf0c6c12"
-            ]
         ]
     },
     {
@@ -7899,19 +7735,22 @@
         "id": "97449b59b1ded6be",
         "type": "function",
         "z": "f76015fff1ab449b",
-        "name": "function 1",
-        "func": "\nlet measureResult = msg.max\nlet tolerance = msg.payload[0].abmass\n\nif (measureResult < tolerance)\n    {\n        msg.payload = true\n    }\nelse\n{\n    msg.payload = false\n}\n\n\n\nreturn msg;",
+        "g": "845f4268e3199e1d",
+        "name": "Check Quality Requirements",
+        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m1_abmass + config.m1_ot; \nlet lower = config.m1_abmass + config.m1_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
         "x": 940,
-        "y": 1120,
+        "y": 880,
         "wires": [
             [
                 "da82ce4793672c6d",
-                "4875667208c4bb4f"
+                "4875667208c4bb4f",
+                "aa07f4d4a725865b",
+                "96a65acb3f480bde"
             ]
         ]
     },
@@ -7925,7 +7764,7 @@
         "links": [
             "f7e679cb56cdfa0c"
         ],
-        "x": 455,
+        "x": 465,
         "y": 400,
         "wires": []
     },
@@ -7933,16 +7772,52 @@
         "id": "f7e679cb56cdfa0c",
         "type": "link in",
         "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
         "name": "LED Input",
         "links": [
             "0e48aac0cc361391"
         ],
-        "x": 975,
-        "y": 1080,
+        "x": 1045,
+        "y": 980,
         "wires": [
             [
                 "da82ce4793672c6d",
                 "4875667208c4bb4f"
+            ]
+        ]
+    },
+    {
+        "id": "aa07f4d4a725865b",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "Set Station / Measurement Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "m1",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "Demonstrator digitale Messungen",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1370,
+        "y": 880,
+        "wires": [
+            [
+                "eaa90a3437d84708"
             ]
         ]
     },
