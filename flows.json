@@ -136,7 +136,7 @@
         "id": "3db353d6ca535ffc",
         "type": "group",
         "z": "f76015fff1ab449b",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -257,13 +257,11 @@
         },
         "nodes": [
             "1ecf86fc28b14589",
-            "96a65acb3f480bde",
             "1417102d265e83e5",
             "0bc7f6e47886b686",
             "eaa90a3437d84708",
             "9767ae7be4407276",
             "e8beecd43126c417",
-            "aa07f4d4a725865b",
             "97449b59b1ded6be",
             "da82ce4793672c6d",
             "4875667208c4bb4f",
@@ -271,11 +269,17 @@
             "ee86c70c56328060",
             "85cc612c91620d6c",
             "6b0f09cdeb98f429",
-            "35f1244f368b0b5d"
+            "35f1244f368b0b5d",
+            "66803b3326eb2c57",
+            "bed6124a6e4b2b44",
+            "e11d74a4236cfe4a",
+            "00560dfe5cc54473",
+            "e996a38a3732f30b",
+            "163d9b335d64b232"
         ],
         "x": 34,
         "y": 1239,
-        "w": 1792,
+        "w": 2152,
         "h": 322
     },
     {
@@ -728,7 +732,7 @@
         "id": "3f9fc35ae66485ce",
         "type": "group",
         "z": "97bca276c16abc95",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -776,38 +780,6 @@
         "y": 966,
         "w": 1169,
         "h": 235
-    },
-    {
-        "id": "6b04a95194143a8f",
-        "type": "group",
-        "z": "97bca276c16abc95",
-        "name": "Calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6161f90d3e737a02",
-            "0b32a09f050d7ae6",
-            "5b5b93403a0f2a2c",
-            "304f5d0f7c10c3e5",
-            "1be5a0b420903852",
-            "8404b7afcd0fe9d9",
-            "2fad403dbcb0990a",
-            "a3c031a49f179523",
-            "8cbdd0231e85946d",
-            "cea205eeb07676b9",
-            "72139c05dceb8de0",
-            "ec2092bf9a6e3f3a",
-            "11406244e9f7324d",
-            "89025cf592f63261",
-            "dd7f943e5f16bdd3",
-            "19e09654c8035e74",
-            "bfaf4bd4abdf9da7"
-        ],
-        "x": 24,
-        "y": 1239,
-        "w": 1782,
-        "h": 322
     },
     {
         "id": "6e8953d914202ea4",
@@ -909,7 +881,7 @@
         "id": "64023274c0bbf8ed",
         "type": "group",
         "z": "2a0afd77453149d1",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -958,37 +930,6 @@
         "y": 926,
         "w": 1189,
         "h": 235
-    },
-    {
-        "id": "a17ceec2b362df29",
-        "type": "group",
-        "z": "2a0afd77453149d1",
-        "name": "Calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "0733e5753032918c",
-            "c8cfd71d21286cac",
-            "3850f7587d33dfc1",
-            "6749f8cee8567333",
-            "ac3fa9bbc9ec1ff0",
-            "d96bbb2ed204c5f8",
-            "865a96cbbe010c1a",
-            "e8fb24f128c3d285",
-            "3e5441e7c426ab89",
-            "09612004ac78da91",
-            "db9b3c1ba7d23d04",
-            "5af0d1e71236ec7c",
-            "626598177a5682fe",
-            "b62c69f80f165393",
-            "6c78225c1b0e8571",
-            "32d133f7480cdc31"
-        ],
-        "x": 44,
-        "y": 1199,
-        "w": 1782,
-        "h": 322
     },
     {
         "id": "58de42e9f0769879",
@@ -1153,7 +1094,7 @@
         "id": "89741ede3f7d6b39",
         "type": "group",
         "z": "e30c392695b4b813",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -1202,37 +1143,6 @@
         "y": 986,
         "w": 1169,
         "h": 235
-    },
-    {
-        "id": "65152ac9a515cf58",
-        "type": "group",
-        "z": "e30c392695b4b813",
-        "name": "Calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "d4d091d8a150214e",
-            "6979ebb3f24a1117",
-            "87886bd0c424fec2",
-            "08721a53d1644290",
-            "6462a4f256cccd80",
-            "4881eb2f5b7a3357",
-            "364faf3f261f3b7e",
-            "f205b6db6576d917",
-            "69f870b2e56ed0e6",
-            "32c42b81f3acf3de",
-            "2a15c47721c80d56",
-            "d02696bd698067c6",
-            "dc18057c08e0d453",
-            "038c9ce48dc34fe8",
-            "1166b4621b309a6c",
-            "f5713c6e95ce66b2"
-        ],
-        "x": 34,
-        "y": 1259,
-        "w": 1792,
-        "h": 322
     },
     {
         "id": "62658be016b831f9",
@@ -1355,7 +1265,7 @@
         "id": "a9a2051011125ffa",
         "type": "group",
         "z": "0b6f24f26e309bd0",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -1404,37 +1314,6 @@
         "y": 986,
         "w": 1169,
         "h": 235
-    },
-    {
-        "id": "f8458b166db7bfc8",
-        "type": "group",
-        "z": "0b6f24f26e309bd0",
-        "name": "Calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "d7c9527725a858d2",
-            "78bb48f1c95fcd20",
-            "6925d002472c9821",
-            "ec6d0b666ddc9d6e",
-            "40d07343229f02b2",
-            "2f31c1d74f9d3ecf",
-            "9ea7fabffcc6d350",
-            "cea37b9d7b61cf5c",
-            "8c5ebdce29a0b8ba",
-            "bb84f248ada66dbf",
-            "878169c4bc5fb49e",
-            "3fa3d56c1dc1986f",
-            "93ed7d0b0acfe8f1",
-            "de7cf1a8f394f795",
-            "562654ec796ba963",
-            "d8a55882fa4e5783"
-        ],
-        "x": 34,
-        "y": 1259,
-        "w": 1792,
-        "h": 322
     },
     {
         "id": "6c1d4390cec1ec27",
@@ -1557,7 +1436,7 @@
         "id": "864ae3af41e3661c",
         "type": "group",
         "z": "30e826456c806c39",
-        "name": "Channel 1 Start/Stop Measurement Logic",
+        "name": "Start/Stop Measurement Logic",
         "style": {
             "label": true
         },
@@ -1605,37 +1484,6 @@
         "y": 986,
         "w": 1169,
         "h": 235
-    },
-    {
-        "id": "03aa525ffbcb3472",
-        "type": "group",
-        "z": "30e826456c806c39",
-        "name": "Calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dc19cb70ce0999d9",
-            "4ce60d21ac5b8767",
-            "b0540487cb649448",
-            "56760126bbcb5506",
-            "8ae8bb81d46e5643",
-            "46147d3fc80cf372",
-            "01eeb0ee16dd9134",
-            "bc38f24339fa1533",
-            "54c0ee9e0d49baf5",
-            "beb987f7ca3d57ea",
-            "61cf45b74dbee639",
-            "fff06f5cec08a7b7",
-            "b7c126ed8d5a500a",
-            "19d3cd7e0e98e6f2",
-            "3e9778af52a3d615",
-            "8de12bdde368b76e"
-        ],
-        "x": 34,
-        "y": 1259,
-        "w": 1792,
-        "h": 322
     },
     {
         "id": "d06992dfd408b7aa",
@@ -1893,6 +1741,202 @@
         "y": 79,
         "w": 1102,
         "h": 122
+    },
+    {
+        "id": "8ab35d62324ce00c",
+        "type": "group",
+        "z": "e30c392695b4b813",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d4d091d8a150214e",
+            "87886bd0c424fec2",
+            "08721a53d1644290",
+            "6462a4f256cccd80",
+            "4881eb2f5b7a3357",
+            "364faf3f261f3b7e",
+            "32c42b81f3acf3de",
+            "2a15c47721c80d56",
+            "69f870b2e56ed0e6",
+            "d02696bd698067c6",
+            "f205b6db6576d917",
+            "dc18057c08e0d453",
+            "038c9ce48dc34fe8",
+            "1166b4621b309a6c",
+            "f5713c6e95ce66b2",
+            "bead1ed2f2cfc9d7",
+            "9c24b3e7406216db",
+            "5f141030a295d75b",
+            "3783ccd0ce112dfc",
+            "26a1bd15b517849b"
+        ],
+        "x": 34,
+        "y": 1299,
+        "w": 2092,
+        "h": 322
+    },
+    {
+        "id": "2cf293352e3cee14",
+        "type": "group",
+        "z": "2a0afd77453149d1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0733e5753032918c",
+            "3850f7587d33dfc1",
+            "6749f8cee8567333",
+            "ac3fa9bbc9ec1ff0",
+            "d96bbb2ed204c5f8",
+            "865a96cbbe010c1a",
+            "09612004ac78da91",
+            "db9b3c1ba7d23d04",
+            "3e5441e7c426ab89",
+            "5af0d1e71236ec7c",
+            "e8fb24f128c3d285",
+            "626598177a5682fe",
+            "b62c69f80f165393",
+            "6c78225c1b0e8571",
+            "32d133f7480cdc31",
+            "526607614dea0429",
+            "05eda313d9f1a0da",
+            "65a878d57042a6d5",
+            "91885593a13c7d9f",
+            "12e0e3429c9c565d"
+        ],
+        "x": 44,
+        "y": 1219,
+        "w": 2002,
+        "h": 322
+    },
+    {
+        "id": "aad35dc03f9f96dd",
+        "type": "group",
+        "z": "97bca276c16abc95",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5b5b93403a0f2a2c",
+            "304f5d0f7c10c3e5",
+            "1be5a0b420903852",
+            "2fad403dbcb0990a",
+            "a3c031a49f179523",
+            "8cbdd0231e85946d",
+            "cea205eeb07676b9",
+            "72139c05dceb8de0",
+            "ec2092bf9a6e3f3a",
+            "11406244e9f7324d",
+            "89025cf592f63261",
+            "dd7f943e5f16bdd3",
+            "19e09654c8035e74",
+            "bfaf4bd4abdf9da7",
+            "14858857104c0397",
+            "99a154e12652b722",
+            "99996707d223c678",
+            "8c2518c27f58308e",
+            "2b332a02ee366d75",
+            "8f9094aa1d80a49f",
+            "8404b7afcd0fe9d9"
+        ],
+        "x": 24,
+        "y": 1259,
+        "w": 1982,
+        "h": 322
+    },
+    {
+        "id": "49fe87a3db7441c6",
+        "type": "group",
+        "z": "0b6f24f26e309bd0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d7c9527725a858d2",
+            "6925d002472c9821",
+            "ec6d0b666ddc9d6e",
+            "40d07343229f02b2",
+            "2f31c1d74f9d3ecf",
+            "9ea7fabffcc6d350",
+            "bb84f248ada66dbf",
+            "878169c4bc5fb49e",
+            "8c5ebdce29a0b8ba",
+            "3fa3d56c1dc1986f",
+            "cea37b9d7b61cf5c",
+            "93ed7d0b0acfe8f1",
+            "de7cf1a8f394f795",
+            "562654ec796ba963",
+            "d8a55882fa4e5783",
+            "b80e56353e41d812",
+            "d3a821a67cf814c5",
+            "52398a715ca6cb23",
+            "db0e7368cd7daf06",
+            "9ddf41a1bb63d76b"
+        ],
+        "x": 34,
+        "y": 1279,
+        "w": 2052,
+        "h": 322
+    },
+    {
+        "id": "164f2485b94aaba9",
+        "type": "group",
+        "z": "30e826456c806c39",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dc19cb70ce0999d9",
+            "b0540487cb649448",
+            "56760126bbcb5506",
+            "8ae8bb81d46e5643",
+            "46147d3fc80cf372",
+            "01eeb0ee16dd9134",
+            "beb987f7ca3d57ea",
+            "61cf45b74dbee639",
+            "54c0ee9e0d49baf5",
+            "fff06f5cec08a7b7",
+            "bc38f24339fa1533",
+            "b7c126ed8d5a500a",
+            "19d3cd7e0e98e6f2",
+            "3e9778af52a3d615",
+            "8de12bdde368b76e",
+            "01eaad079db94657",
+            "c34c99fb9e63e1da",
+            "664bd6f77a062890",
+            "9077f5a7fd5adb92",
+            "f25232e36c7436d4"
+        ],
+        "x": 34,
+        "y": 1299,
+        "w": 2132,
+        "h": 322
     },
     {
         "id": "8b9d2116be6fd249",
@@ -4215,8 +4259,7 @@
         "wires": [
             [
                 "384f672b7f59aaae",
-                "c69fbea30e7e962c",
-                "117655354f300291"
+                "c69fbea30e7e962c"
             ]
         ]
     },
@@ -4372,34 +4415,16 @@
         "operation": "max",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
-        "x": 400,
+        "decimals2": "0",
+        "x": 820,
         "y": 1360,
         "wires": [
             [
-                "9767ae7be4407276",
-                "e8beecd43126c417",
-                "97449b59b1ded6be"
+                "e996a38a3732f30b"
             ]
         ]
-    },
-    {
-        "id": "96a65acb3f480bde",
-        "type": "debug",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1380,
-        "y": 1440,
-        "wires": []
     },
     {
         "id": "1417102d265e83e5",
@@ -4457,7 +4482,7 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1240,
+        "x": 1540,
         "y": 1320,
         "wires": [
             []
@@ -4469,12 +4494,12 @@
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1730,
+        "x": 2090,
         "y": 1400,
         "wires": [
             []
@@ -4490,14 +4515,14 @@
         "order": 9,
         "width": 6,
         "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 950,
-        "y": 1280,
+        "x": 1670,
+        "y": 1440,
         "wires": [
             []
         ]
@@ -4514,7 +4539,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
+        "x": 1290,
         "y": 1320,
         "wires": [
             [
@@ -4538,7 +4563,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
+        "x": 1680,
         "y": 1480,
         "wires": [
             []
@@ -4560,7 +4585,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
+        "x": 1680,
         "y": 1520,
         "wires": [
             []
@@ -4620,21 +4645,21 @@
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m1_abmass + config.m1_ot; \nlet lower = config.m1_abmass + config.m1_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "\nlet measureResult = 0.0;\n\nif (Math.abs(msg.min) > msg.max) {\n    measureResult = msg.min;\n}\nelse\n{\n    measureResult = msg.max;\n}\n\n\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m1_abmass + config.m1_ot; \nlet lower = config.m1_abmass + config.m1_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
+        "x": 1320,
         "y": 1360,
         "wires": [
             [
                 "da82ce4793672c6d",
                 "4875667208c4bb4f",
-                "aa07f4d4a725865b",
-                "96a65acb3f480bde",
-                "85cc612c91620d6c"
+                "85cc612c91620d6c",
+                "163d9b335d64b232",
+                "9767ae7be4407276"
             ]
         ]
     },
@@ -4663,54 +4688,12 @@
             "0e48aac0cc361391",
             "78c019123ce83008"
         ],
-        "x": 1125,
+        "x": 1425,
         "y": 1500,
         "wires": [
             [
                 "da82ce4793672c6d",
                 "4875667208c4bb4f"
-            ]
-        ]
-    },
-    {
-        "id": "aa07f4d4a725865b",
-        "type": "change",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "name": "Set Station / Measurement Type / Lot ",
-        "rules": [
-            {
-                "t": "set",
-                "p": "type",
-                "pt": "msg",
-                "to": "m1",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "station",
-                "pt": "msg",
-                "to": "name",
-                "tot": "global"
-            },
-            {
-                "t": "set",
-                "p": "lot",
-                "pt": "msg",
-                "to": "lot",
-                "tot": "global"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1470,
-        "y": 1400,
-        "wires": [
-            [
-                "eaa90a3437d84708"
             ]
         ]
     },
@@ -4739,7 +4722,8 @@
         "y": 620,
         "wires": [
             [
-                "bb72727e0e9710c1"
+                "bb72727e0e9710c1",
+                "d9111c50fe35a026"
             ]
         ]
     },
@@ -4859,7 +4843,7 @@
         "links": [
             "0e48aac0cc361391"
         ],
-        "x": 1085,
+        "x": 1385,
         "y": 1280,
         "wires": [
             [
@@ -4975,7 +4959,7 @@
         "links": [
             "1e226b5a011ce3e6"
         ],
-        "x": 1335,
+        "x": 1635,
         "y": 1360,
         "wires": []
     },
@@ -5001,7 +4985,7 @@
         "y": 1360,
         "wires": [
             [
-                "1ecf86fc28b14589"
+                "66803b3326eb2c57"
             ]
         ]
     },
@@ -5082,7 +5066,7 @@
         "g": "845f4268e3199e1d",
         "name": "Change type",
         "info": "",
-        "x": 1450,
+        "x": 1750,
         "y": 1360,
         "wires": []
     },
@@ -5410,6 +5394,154 @@
         ]
     },
     {
+        "id": "66803b3326eb2c57",
+        "type": "calculator",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 360,
+        "y": 1360,
+        "wires": [
+            [
+                "bed6124a6e4b2b44"
+            ]
+        ]
+    },
+    {
+        "id": "bed6124a6e4b2b44",
+        "type": "calculator",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 500,
+        "y": 1360,
+        "wires": [
+            [
+                "e11d74a4236cfe4a"
+            ]
+        ]
+    },
+    {
+        "id": "e11d74a4236cfe4a",
+        "type": "calculator",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 660,
+        "y": 1360,
+        "wires": [
+            [
+                "1ecf86fc28b14589"
+            ]
+        ]
+    },
+    {
+        "id": "00560dfe5cc54473",
+        "type": "comment",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "Change function",
+        "info": "",
+        "x": 1280,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "e996a38a3732f30b",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 1360,
+        "wires": [
+            [
+                "e8beecd43126c417",
+                "97449b59b1ded6be"
+            ]
+        ]
+    },
+    {
+        "id": "163d9b335d64b232",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "Set Station / Measurement Type / Lot ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "m1",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "name",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lot",
+                "pt": "msg",
+                "to": "lot",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1770,
+        "y": 1400,
+        "wires": [
+            [
+                "eaa90a3437d84708"
+            ]
+        ]
+    },
+    {
         "id": "41736038a9b15a36",
         "type": "ui_button",
         "z": "97bca276c16abc95",
@@ -5458,8 +5590,7 @@
         "wires": [
             [
                 "41736038a9b15a36",
-                "6e62c6f0b1c3ec18",
-                "9cd576e87f724997"
+                "6e62c6f0b1c3ec18"
             ]
         ]
     },
@@ -5650,7 +5781,8 @@
         "y": 620,
         "wires": [
             [
-                "69485b47d96d35c2"
+                "69485b47d96d35c2",
+                "5182ecd037d3faab"
             ]
         ]
     },
@@ -6201,56 +6333,16 @@
         "wires": []
     },
     {
-        "id": "6161f90d3e737a02",
-        "type": "calculator",
-        "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
-        "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "max",
-        "operation": "max",
-        "constant": "",
-        "round": true,
-        "decimals": "4",
-        "x": 380,
-        "y": 1360,
-        "wires": [
-            [
-                "8404b7afcd0fe9d9",
-                "2fad403dbcb0990a",
-                "8cbdd0231e85946d"
-            ]
-        ]
-    },
-    {
-        "id": "0b32a09f050d7ae6",
-        "type": "debug",
-        "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1360,
-        "y": 1440,
-        "wires": []
-    },
-    {
         "id": "5b5b93403a0f2a2c",
         "type": "link in",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Channel 1 Calculation Input",
         "links": [
             "fa815db6338a6830"
         ],
         "x": 65,
-        "y": 1360,
+        "y": 1340,
         "wires": [
             [
                 "dd7f943e5f16bdd3"
@@ -6261,7 +6353,7 @@
         "id": "304f5d0f7c10c3e5",
         "type": "ui_chart",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Measurement Diagram",
         "group": "7bf9d4f551c45f5e",
         "order": 5,
@@ -6296,8 +6388,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1220,
-        "y": 1320,
+        "x": 1420,
+        "y": 1340,
         "wires": [
             []
         ]
@@ -6306,37 +6398,15 @@
         "id": "1be5a0b420903852",
         "type": "postgresql",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1710,
-        "y": 1400,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "8404b7afcd0fe9d9",
-        "type": "ui_template",
-        "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
-        "group": "7bf9d4f551c45f5e",
-        "name": "Result",
-        "order": 6,
-        "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 930,
-        "y": 1280,
+        "x": 1910,
+        "y": 1420,
         "wires": [
             []
         ]
@@ -6345,7 +6415,7 @@
         "id": "2fad403dbcb0990a",
         "type": "function",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
@@ -6353,8 +6423,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 970,
-        "y": 1320,
+        "x": 1170,
+        "y": 1340,
         "wires": [
             [
                 "304f5d0f7c10c3e5"
@@ -6365,7 +6435,7 @@
         "id": "a3c031a49f179523",
         "type": "change",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Set Station / Measurement Type / Lot ",
         "rules": [
             {
@@ -6395,8 +6465,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1450,
-        "y": 1400,
+        "x": 1650,
+        "y": 1420,
         "wires": [
             [
                 "1be5a0b420903852"
@@ -6407,23 +6477,23 @@
         "id": "8cbdd0231e85946d",
         "type": "function",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1000,
-        "y": 1360,
+        "x": 1200,
+        "y": 1380,
         "wires": [
             [
                 "cea205eeb07676b9",
                 "72139c05dceb8de0",
                 "a3c031a49f179523",
-                "0b32a09f050d7ae6",
-                "89025cf592f63261"
+                "89025cf592f63261",
+                "8404b7afcd0fe9d9"
             ]
         ]
     },
@@ -6431,7 +6501,7 @@
         "id": "cea205eeb07676b9",
         "type": "ui_template",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "LED right",
         "order": 4,
@@ -6443,8 +6513,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1360,
-        "y": 1480,
+        "x": 1560,
+        "y": 1500,
         "wires": [
             []
         ]
@@ -6453,7 +6523,7 @@
         "id": "72139c05dceb8de0",
         "type": "ui_template",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "LED left",
         "order": 2,
@@ -6465,8 +6535,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1360,
-        "y": 1520,
+        "x": 1560,
+        "y": 1540,
         "wires": [
             []
         ]
@@ -6475,14 +6545,14 @@
         "id": "ec2092bf9a6e3f3a",
         "type": "link in",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "LED Input",
         "links": [
             "8884248bdebf81b8",
             "a723bedf7d8f47d2"
         ],
-        "x": 1105,
-        "y": 1500,
+        "x": 1305,
+        "y": 1520,
         "wires": [
             [
                 "cea205eeb07676b9",
@@ -6494,13 +6564,13 @@
         "id": "11406244e9f7324d",
         "type": "link in",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Diagram Input",
         "links": [
             "8884248bdebf81b8"
         ],
-        "x": 1065,
-        "y": 1280,
+        "x": 1265,
+        "y": 1300,
         "wires": [
             [
                 "304f5d0f7c10c3e5"
@@ -6511,21 +6581,21 @@
         "id": "89025cf592f63261",
         "type": "link out",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
             "da485c88a4d4e943"
         ],
-        "x": 1315,
-        "y": 1360,
+        "x": 1515,
+        "y": 1380,
         "wires": []
     },
     {
         "id": "dd7f943e5f16bdd3",
         "type": "switch",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Filter single data",
         "property": "payload",
         "propertyType": "msg",
@@ -6540,10 +6610,10 @@
         "repair": false,
         "outputs": 1,
         "x": 180,
-        "y": 1360,
+        "y": 1340,
         "wires": [
             [
-                "6161f90d3e737a02"
+                "14858857104c0397"
             ]
         ]
     },
@@ -6551,11 +6621,11 @@
         "id": "19e09654c8035e74",
         "type": "comment",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Change type",
         "info": "",
-        "x": 1430,
-        "y": 1360,
+        "x": 1630,
+        "y": 1380,
         "wires": []
     },
     {
@@ -6646,11 +6716,11 @@
         "id": "bfaf4bd4abdf9da7",
         "type": "comment",
         "z": "97bca276c16abc95",
-        "g": "6b04a95194143a8f",
+        "g": "aad35dc03f9f96dd",
         "name": "Change function",
         "info": "",
-        "x": 980,
-        "y": 1400,
+        "x": 1160,
+        "y": 1420,
         "wires": []
     },
     {
@@ -7033,6 +7103,164 @@
             [
                 "ec6ca3b1ab6cb8c8"
             ]
+        ]
+    },
+    {
+        "id": "14858857104c0397",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 340,
+        "y": 1340,
+        "wires": [
+            [
+                "99a154e12652b722"
+            ]
+        ]
+    },
+    {
+        "id": "99a154e12652b722",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 480,
+        "y": 1340,
+        "wires": [
+            [
+                "99996707d223c678"
+            ]
+        ]
+    },
+    {
+        "id": "99996707d223c678",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 640,
+        "y": 1340,
+        "wires": [
+            [
+                "8c2518c27f58308e"
+            ]
+        ]
+    },
+    {
+        "id": "8c2518c27f58308e",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "max",
+        "operation": "max",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 800,
+        "y": 1340,
+        "wires": [
+            [
+                "8f9094aa1d80a49f"
+            ]
+        ]
+    },
+    {
+        "id": "2b332a02ee366d75",
+        "type": "debug",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "8f9094aa1d80a49f",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 950,
+        "y": 1340,
+        "wires": [
+            [
+                "2fad403dbcb0990a",
+                "8cbdd0231e85946d",
+                "2b332a02ee366d75"
+            ]
+        ]
+    },
+    {
+        "id": "8404b7afcd0fe9d9",
+        "type": "ui_template",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "group": "7bf9d4f551c45f5e",
+        "name": "Result",
+        "order": 6,
+        "width": 6,
+        "height": 2,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite: </p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1550,
+        "y": 1460,
+        "wires": [
+            []
         ]
     },
     {
@@ -7456,8 +7684,7 @@
         "wires": [
             [
                 "e81a033e24196b32",
-                "8c3fc83036fe5b57",
-                "899f1554a1e92af1"
+                "8c3fc83036fe5b57"
             ]
         ]
     },
@@ -7495,7 +7722,7 @@
         "id": "0733e5753032918c",
         "type": "calculator",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "",
         "inputMsgField": "payload",
         "outputMsgField": "max",
@@ -7503,45 +7730,25 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 400,
-        "y": 1320,
+        "x": 820,
+        "y": 1300,
         "wires": [
             [
-                "d96bbb2ed204c5f8",
-                "865a96cbbe010c1a",
-                "3e5441e7c426ab89"
+                "12e0e3429c9c565d"
             ]
         ]
-    },
-    {
-        "id": "c8cfd71d21286cac",
-        "type": "debug",
-        "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1380,
-        "y": 1400,
-        "wires": []
     },
     {
         "id": "3850f7587d33dfc1",
         "type": "link in",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Channel 1 Calculation Input",
         "links": [
             "0798e3b4e76683bd"
         ],
         "x": 85,
-        "y": 1320,
+        "y": 1300,
         "wires": [
             [
                 "6c78225c1b0e8571"
@@ -7552,7 +7759,7 @@
         "id": "6749f8cee8567333",
         "type": "ui_chart",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Measurement Diagram",
         "group": "63ce761b912114ae",
         "order": 6,
@@ -7587,8 +7794,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1240,
-        "y": 1280,
+        "x": 1460,
+        "y": 1300,
         "wires": [
             []
         ]
@@ -7597,15 +7804,15 @@
         "id": "ac3fa9bbc9ec1ff0",
         "type": "postgresql",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "42c9ded4fca2ab01",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1730,
-        "y": 1360,
+        "x": 1950,
+        "y": 1380,
         "wires": [
             []
         ]
@@ -7614,20 +7821,20 @@
         "id": "d96bbb2ed204c5f8",
         "type": "ui_template",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "group": "63ce761b912114ae",
         "name": "Result",
         "order": 7,
         "width": 6,
         "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 950,
-        "y": 1240,
+        "x": 1590,
+        "y": 1420,
         "wires": [
             []
         ]
@@ -7636,7 +7843,7 @@
         "id": "865a96cbbe010c1a",
         "type": "function",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
@@ -7644,8 +7851,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
-        "y": 1280,
+        "x": 1210,
+        "y": 1300,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -7656,7 +7863,7 @@
         "id": "09612004ac78da91",
         "type": "ui_template",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "group": "63ce761b912114ae",
         "name": "LED right",
         "order": 4,
@@ -7668,8 +7875,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1440,
+        "x": 1600,
+        "y": 1460,
         "wires": [
             []
         ]
@@ -7678,7 +7885,7 @@
         "id": "db9b3c1ba7d23d04",
         "type": "ui_template",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "group": "63ce761b912114ae",
         "name": "LED left",
         "order": 2,
@@ -7690,8 +7897,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1480,
+        "x": 1600,
+        "y": 1500,
         "wires": [
             []
         ]
@@ -7748,23 +7955,23 @@
         "id": "3e5441e7c426ab89",
         "type": "function",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m3_abmass + config.m3_ot; \nlet lower = config.m3_abmass + config.m3_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m3_abmass + config.m3_ot; \nlet lower = config.m3_abmass + config.m3_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 1320,
+        "x": 1240,
+        "y": 1340,
         "wires": [
             [
                 "09612004ac78da91",
                 "db9b3c1ba7d23d04",
                 "e8fb24f128c3d285",
-                "c8cfd71d21286cac",
-                "b62c69f80f165393"
+                "b62c69f80f165393",
+                "d96bbb2ed204c5f8"
             ]
         ]
     },
@@ -7787,14 +7994,14 @@
         "id": "5af0d1e71236ec7c",
         "type": "link in",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "LED Input",
         "links": [
             "8672e4aebc04a782",
             "cbda48ad33ed0293"
         ],
-        "x": 1125,
-        "y": 1460,
+        "x": 1345,
+        "y": 1480,
         "wires": [
             [
                 "09612004ac78da91",
@@ -7806,7 +8013,7 @@
         "id": "e8fb24f128c3d285",
         "type": "change",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Set Station / Measurement Type / Lot ",
         "rules": [
             {
@@ -7836,8 +8043,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1470,
-        "y": 1360,
+        "x": 1690,
+        "y": 1380,
         "wires": [
             [
                 "ac3fa9bbc9ec1ff0"
@@ -7869,7 +8076,8 @@
         "y": 580,
         "wires": [
             [
-                "f480cf459eb1a279"
+                "f480cf459eb1a279",
+                "995ee7b3f6a759bb"
             ]
         ]
     },
@@ -7984,13 +8192,13 @@
         "id": "626598177a5682fe",
         "type": "link in",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Diagram Input",
         "links": [
             "8672e4aebc04a782"
         ],
-        "x": 1085,
-        "y": 1240,
+        "x": 1305,
+        "y": 1260,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -8099,21 +8307,21 @@
         "id": "b62c69f80f165393",
         "type": "link out",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
             "6dcbd36e5e957f25"
         ],
-        "x": 1335,
-        "y": 1320,
+        "x": 1555,
+        "y": 1340,
         "wires": []
     },
     {
         "id": "6c78225c1b0e8571",
         "type": "switch",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Filter single data",
         "property": "payload",
         "propertyType": "msg",
@@ -8128,10 +8336,10 @@
         "repair": false,
         "outputs": 1,
         "x": 200,
-        "y": 1320,
+        "y": 1300,
         "wires": [
             [
-                "0733e5753032918c"
+                "526607614dea0429"
             ]
         ]
     },
@@ -8209,11 +8417,11 @@
         "id": "32d133f7480cdc31",
         "type": "comment",
         "z": "2a0afd77453149d1",
-        "g": "a17ceec2b362df29",
+        "g": "2cf293352e3cee14",
         "name": "Change type",
         "info": "",
-        "x": 1450,
-        "y": 1320,
+        "x": 1670,
+        "y": 1340,
         "wires": []
     },
     {
@@ -8663,6 +8871,112 @@
         ]
     },
     {
+        "id": "526607614dea0429",
+        "type": "calculator",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 360,
+        "y": 1300,
+        "wires": [
+            [
+                "05eda313d9f1a0da"
+            ]
+        ]
+    },
+    {
+        "id": "05eda313d9f1a0da",
+        "type": "calculator",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 500,
+        "y": 1300,
+        "wires": [
+            [
+                "65a878d57042a6d5"
+            ]
+        ]
+    },
+    {
+        "id": "65a878d57042a6d5",
+        "type": "calculator",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 660,
+        "y": 1300,
+        "wires": [
+            [
+                "0733e5753032918c"
+            ]
+        ]
+    },
+    {
+        "id": "91885593a13c7d9f",
+        "type": "comment",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "Change function",
+        "info": "",
+        "x": 1200,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "12e0e3429c9c565d",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 1300,
+        "wires": [
+            [
+                "865a96cbbe010c1a",
+                "3e5441e7c426ab89"
+            ]
+        ]
+    },
+    {
         "id": "2aebc267cf28930f",
         "type": "ui_button",
         "z": "e30c392695b4b813",
@@ -9083,8 +9397,7 @@
         "wires": [
             [
                 "2aebc267cf28930f",
-                "d47de1df6b7f93c8",
-                "c2c45f3f7b2aec0b"
+                "d47de1df6b7f93c8"
             ]
         ]
     },
@@ -9122,7 +9435,7 @@
         "id": "d4d091d8a150214e",
         "type": "calculator",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "",
         "inputMsgField": "payload",
         "outputMsgField": "max",
@@ -9130,39 +9443,19 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 400,
+        "x": 860,
         "y": 1380,
         "wires": [
             [
-                "4881eb2f5b7a3357",
-                "364faf3f261f3b7e",
-                "69f870b2e56ed0e6"
+                "26a1bd15b517849b"
             ]
         ]
-    },
-    {
-        "id": "6979ebb3f24a1117",
-        "type": "debug",
-        "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1380,
-        "y": 1460,
-        "wires": []
     },
     {
         "id": "87886bd0c424fec2",
         "type": "link in",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Channel 1 Calculation Input",
         "links": [
             "5566086642576388"
@@ -9179,7 +9472,7 @@
         "id": "08721a53d1644290",
         "type": "ui_chart",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Measurement Diagram",
         "group": "60bfac62dc9f6f0b",
         "order": 6,
@@ -9214,8 +9507,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1240,
-        "y": 1340,
+        "x": 1540,
+        "y": 1380,
         "wires": [
             []
         ]
@@ -9224,15 +9517,15 @@
         "id": "6462a4f256cccd80",
         "type": "postgresql",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "4aac4f2055323abb",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1730,
-        "y": 1420,
+        "x": 2030,
+        "y": 1460,
         "wires": [
             []
         ]
@@ -9241,20 +9534,20 @@
         "id": "4881eb2f5b7a3357",
         "type": "ui_template",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "group": "60bfac62dc9f6f0b",
         "name": "Result",
         "order": 7,
         "width": 6,
         "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 950,
-        "y": 1300,
+        "x": 1670,
+        "y": 1500,
         "wires": [
             []
         ]
@@ -9263,7 +9556,7 @@
         "id": "364faf3f261f3b7e",
         "type": "function",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
@@ -9271,8 +9564,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
-        "y": 1340,
+        "x": 1290,
+        "y": 1380,
         "wires": [
             [
                 "08721a53d1644290"
@@ -9283,7 +9576,7 @@
         "id": "32c42b81f3acf3de",
         "type": "ui_template",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "group": "60bfac62dc9f6f0b",
         "name": "LED right",
         "order": 4,
@@ -9295,8 +9588,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1500,
+        "x": 1680,
+        "y": 1540,
         "wires": [
             []
         ]
@@ -9305,7 +9598,7 @@
         "id": "2a15c47721c80d56",
         "type": "ui_template",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "group": "60bfac62dc9f6f0b",
         "name": "LED left",
         "order": 2,
@@ -9317,8 +9610,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1540,
+        "x": 1680,
+        "y": 1580,
         "wires": [
             []
         ]
@@ -9375,23 +9668,23 @@
         "id": "69f870b2e56ed0e6",
         "type": "function",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m4_abmass + config.m4_ot; \nlet lower = config.m4_abmass + config.m4_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m4_abmass + config.m4_ot; \nlet lower = config.m4_abmass + config.m4_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 1380,
+        "x": 1320,
+        "y": 1420,
         "wires": [
             [
                 "32c42b81f3acf3de",
                 "2a15c47721c80d56",
                 "f205b6db6576d917",
-                "6979ebb3f24a1117",
-                "038c9ce48dc34fe8"
+                "038c9ce48dc34fe8",
+                "4881eb2f5b7a3357"
             ]
         ]
     },
@@ -9414,14 +9707,14 @@
         "id": "d02696bd698067c6",
         "type": "link in",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "LED Input",
         "links": [
             "aa5839c7724e9704",
             "cae63d41e2588c75"
         ],
-        "x": 1125,
-        "y": 1520,
+        "x": 1425,
+        "y": 1560,
         "wires": [
             [
                 "32c42b81f3acf3de",
@@ -9433,7 +9726,7 @@
         "id": "f205b6db6576d917",
         "type": "change",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Set Station / Measurement Type / Lot ",
         "rules": [
             {
@@ -9463,8 +9756,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1470,
-        "y": 1420,
+        "x": 1770,
+        "y": 1460,
         "wires": [
             [
                 "6462a4f256cccd80"
@@ -9496,7 +9789,8 @@
         "y": 640,
         "wires": [
             [
-                "c0ae9e6398bd567d"
+                "c0ae9e6398bd567d",
+                "7d8d2eeefe6b8715"
             ]
         ]
     },
@@ -9611,13 +9905,13 @@
         "id": "dc18057c08e0d453",
         "type": "link in",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Diagram Input",
         "links": [
             "aa5839c7724e9704"
         ],
-        "x": 1085,
-        "y": 1300,
+        "x": 1385,
+        "y": 1340,
         "wires": [
             [
                 "08721a53d1644290"
@@ -9726,21 +10020,21 @@
         "id": "038c9ce48dc34fe8",
         "type": "link out",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
             "5797429f53036dd9"
         ],
-        "x": 1335,
-        "y": 1380,
+        "x": 1635,
+        "y": 1420,
         "wires": []
     },
     {
         "id": "1166b4621b309a6c",
         "type": "switch",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Filter single data",
         "property": "payload",
         "propertyType": "msg",
@@ -9758,7 +10052,7 @@
         "y": 1380,
         "wires": [
             [
-                "d4d091d8a150214e"
+                "bead1ed2f2cfc9d7"
             ]
         ]
     },
@@ -9836,11 +10130,11 @@
         "id": "f5713c6e95ce66b2",
         "type": "comment",
         "z": "e30c392695b4b813",
-        "g": "65152ac9a515cf58",
+        "g": "8ab35d62324ce00c",
         "name": "Change type",
         "info": "",
-        "x": 1450,
-        "y": 1380,
+        "x": 1750,
+        "y": 1420,
         "wires": []
     },
     {
@@ -10290,6 +10584,112 @@
         ]
     },
     {
+        "id": "bead1ed2f2cfc9d7",
+        "type": "calculator",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 380,
+        "y": 1380,
+        "wires": [
+            [
+                "9c24b3e7406216db"
+            ]
+        ]
+    },
+    {
+        "id": "9c24b3e7406216db",
+        "type": "calculator",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 540,
+        "y": 1380,
+        "wires": [
+            [
+                "5f141030a295d75b"
+            ]
+        ]
+    },
+    {
+        "id": "5f141030a295d75b",
+        "type": "calculator",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 700,
+        "y": 1380,
+        "wires": [
+            [
+                "d4d091d8a150214e"
+            ]
+        ]
+    },
+    {
+        "id": "3783ccd0ce112dfc",
+        "type": "comment",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "Change function",
+        "info": "",
+        "x": 1280,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "26a1bd15b517849b",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1380,
+        "wires": [
+            [
+                "364faf3f261f3b7e",
+                "69f870b2e56ed0e6"
+            ]
+        ]
+    },
+    {
         "id": "7a5f9f8b17fb4354",
         "type": "ui_button",
         "z": "0b6f24f26e309bd0",
@@ -10710,8 +11110,7 @@
         "wires": [
             [
                 "7a5f9f8b17fb4354",
-                "b1a01bc904211349",
-                "44c6f14c5dca7a33"
+                "b1a01bc904211349"
             ]
         ]
     },
@@ -10749,7 +11148,7 @@
         "id": "d7c9527725a858d2",
         "type": "calculator",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "",
         "inputMsgField": "payload",
         "outputMsgField": "max",
@@ -10757,45 +11156,25 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 400,
-        "y": 1380,
+        "x": 900,
+        "y": 1360,
         "wires": [
             [
-                "2f31c1d74f9d3ecf",
-                "9ea7fabffcc6d350",
-                "8c5ebdce29a0b8ba"
+                "9ddf41a1bb63d76b"
             ]
         ]
-    },
-    {
-        "id": "78bb48f1c95fcd20",
-        "type": "debug",
-        "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1380,
-        "y": 1460,
-        "wires": []
     },
     {
         "id": "6925d002472c9821",
         "type": "link in",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Channel 1 Calculation Input",
         "links": [
             "8ae2b886c49354ee"
         ],
         "x": 75,
-        "y": 1380,
+        "y": 1360,
         "wires": [
             [
                 "562654ec796ba963"
@@ -10806,7 +11185,7 @@
         "id": "ec6d0b666ddc9d6e",
         "type": "ui_chart",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Measurement Diagram",
         "group": "7811cf98b737806b",
         "order": 6,
@@ -10841,8 +11220,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1240,
-        "y": 1340,
+        "x": 1500,
+        "y": 1360,
         "wires": [
             []
         ]
@@ -10851,15 +11230,15 @@
         "id": "40d07343229f02b2",
         "type": "postgresql",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "7d7a6998ed6c7a2e",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1730,
-        "y": 1420,
+        "x": 1990,
+        "y": 1440,
         "wires": [
             []
         ]
@@ -10868,20 +11247,20 @@
         "id": "2f31c1d74f9d3ecf",
         "type": "ui_template",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "group": "7811cf98b737806b",
         "name": "Result",
         "order": 7,
         "width": 6,
         "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Durchschnitt</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 950,
-        "y": 1300,
+        "x": 1630,
+        "y": 1480,
         "wires": [
             []
         ]
@@ -10890,7 +11269,7 @@
         "id": "9ea7fabffcc6d350",
         "type": "function",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
@@ -10898,8 +11277,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
-        "y": 1340,
+        "x": 1250,
+        "y": 1360,
         "wires": [
             [
                 "ec6d0b666ddc9d6e"
@@ -10910,7 +11289,7 @@
         "id": "bb84f248ada66dbf",
         "type": "ui_template",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "group": "7811cf98b737806b",
         "name": "LED right",
         "order": 4,
@@ -10922,8 +11301,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1500,
+        "x": 1640,
+        "y": 1520,
         "wires": [
             []
         ]
@@ -10932,7 +11311,7 @@
         "id": "878169c4bc5fb49e",
         "type": "ui_template",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "group": "7811cf98b737806b",
         "name": "LED left",
         "order": 2,
@@ -10944,8 +11323,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1540,
+        "x": 1640,
+        "y": 1560,
         "wires": [
             []
         ]
@@ -11002,23 +11381,23 @@
         "id": "8c5ebdce29a0b8ba",
         "type": "function",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_abmass + config.m5_ot; \nlet lower = config.m5_abmass + config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.avg;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_abmass + config.m5_ot; \nlet lower = config.m5_abmass + config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 1380,
+        "x": 1280,
+        "y": 1400,
         "wires": [
             [
                 "bb84f248ada66dbf",
                 "878169c4bc5fb49e",
                 "cea37b9d7b61cf5c",
-                "78bb48f1c95fcd20",
-                "de7cf1a8f394f795"
+                "de7cf1a8f394f795",
+                "2f31c1d74f9d3ecf"
             ]
         ]
     },
@@ -11041,14 +11420,14 @@
         "id": "3fa3d56c1dc1986f",
         "type": "link in",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "LED Input",
         "links": [
             "b0f2e927af94dbc9",
             "5f620d8aa7e730ca"
         ],
-        "x": 1125,
-        "y": 1520,
+        "x": 1385,
+        "y": 1540,
         "wires": [
             [
                 "bb84f248ada66dbf",
@@ -11060,7 +11439,7 @@
         "id": "cea37b9d7b61cf5c",
         "type": "change",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Set Station / Measurement Type / Lot ",
         "rules": [
             {
@@ -11090,8 +11469,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1470,
-        "y": 1420,
+        "x": 1730,
+        "y": 1440,
         "wires": [
             [
                 "40d07343229f02b2"
@@ -11123,7 +11502,8 @@
         "y": 640,
         "wires": [
             [
-                "a3bc0624683336e1"
+                "a3bc0624683336e1",
+                "87a85dc14ad7bb5c"
             ]
         ]
     },
@@ -11238,13 +11618,13 @@
         "id": "93ed7d0b0acfe8f1",
         "type": "link in",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Diagram Input",
         "links": [
             "b0f2e927af94dbc9"
         ],
-        "x": 1085,
-        "y": 1300,
+        "x": 1345,
+        "y": 1320,
         "wires": [
             [
                 "ec6d0b666ddc9d6e"
@@ -11353,21 +11733,21 @@
         "id": "de7cf1a8f394f795",
         "type": "link out",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
             "8831711ddfcef315"
         ],
-        "x": 1335,
-        "y": 1380,
+        "x": 1595,
+        "y": 1400,
         "wires": []
     },
     {
         "id": "562654ec796ba963",
         "type": "switch",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Filter single data",
         "property": "payload",
         "propertyType": "msg",
@@ -11382,10 +11762,10 @@
         "repair": false,
         "outputs": 1,
         "x": 200,
-        "y": 1380,
+        "y": 1360,
         "wires": [
             [
-                "d7c9527725a858d2"
+                "b80e56353e41d812"
             ]
         ]
     },
@@ -11463,11 +11843,11 @@
         "id": "d8a55882fa4e5783",
         "type": "comment",
         "z": "0b6f24f26e309bd0",
-        "g": "f8458b166db7bfc8",
+        "g": "49fe87a3db7441c6",
         "name": "Change type",
         "info": "",
-        "x": 1450,
-        "y": 1380,
+        "x": 1710,
+        "y": 1400,
         "wires": []
     },
     {
@@ -11917,6 +12297,112 @@
         ]
     },
     {
+        "id": "b80e56353e41d812",
+        "type": "calculator",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 420,
+        "y": 1360,
+        "wires": [
+            [
+                "d3a821a67cf814c5"
+            ]
+        ]
+    },
+    {
+        "id": "d3a821a67cf814c5",
+        "type": "calculator",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 560,
+        "y": 1360,
+        "wires": [
+            [
+                "52398a715ca6cb23"
+            ]
+        ]
+    },
+    {
+        "id": "52398a715ca6cb23",
+        "type": "calculator",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 720,
+        "y": 1360,
+        "wires": [
+            [
+                "d7c9527725a858d2"
+            ]
+        ]
+    },
+    {
+        "id": "db0e7368cd7daf06",
+        "type": "comment",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "Change function",
+        "info": "",
+        "x": 1240,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "9ddf41a1bb63d76b",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 1360,
+        "wires": [
+            [
+                "9ea7fabffcc6d350",
+                "8c5ebdce29a0b8ba"
+            ]
+        ]
+    },
+    {
         "id": "66c1d714ea98bfc2",
         "type": "ui_button",
         "z": "30e826456c806c39",
@@ -12337,8 +12823,7 @@
         "wires": [
             [
                 "66c1d714ea98bfc2",
-                "9f8418ce83e6170f",
-                "c10e98293c3c78d0"
+                "9f8418ce83e6170f"
             ]
         ]
     },
@@ -12376,47 +12861,29 @@
         "id": "dc19cb70ce0999d9",
         "type": "calculator",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "",
         "inputMsgField": "payload",
         "outputMsgField": "max",
         "operation": "max",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
-        "x": 400,
+        "decimals2": "0",
+        "x": 900,
         "y": 1380,
         "wires": [
             [
-                "46147d3fc80cf372",
-                "01eeb0ee16dd9134",
-                "54c0ee9e0d49baf5"
+                "f25232e36c7436d4"
             ]
         ]
-    },
-    {
-        "id": "4ce60d21ac5b8767",
-        "type": "debug",
-        "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "{\"max\": max,\t\"data\":payload,\t \"pass\":pass }\t",
-        "targetType": "jsonata",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1380,
-        "y": 1460,
-        "wires": []
     },
     {
         "id": "b0540487cb649448",
         "type": "link in",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Channel 1 Calculation Input",
         "links": [
             "e449368f349b6296"
@@ -12433,7 +12900,7 @@
         "id": "56760126bbcb5506",
         "type": "ui_chart",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Measurement Diagram",
         "group": "3326e113a2f7ba6b",
         "order": 6,
@@ -12468,8 +12935,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1240,
-        "y": 1340,
+        "x": 1580,
+        "y": 1380,
         "wires": [
             []
         ]
@@ -12478,15 +12945,15 @@
         "id": "8ae8bb81d46e5643",
         "type": "postgresql",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.max}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "a3abe67d83bd0a15",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1730,
-        "y": 1420,
+        "x": 2070,
+        "y": 1460,
         "wires": [
             []
         ]
@@ -12495,20 +12962,20 @@
         "id": "46147d3fc80cf372",
         "type": "ui_template",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "group": "3326e113a2f7ba6b",
         "name": "Result",
         "order": 7,
         "width": 6,
         "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.max\"></b>\n     </center>\n</div>",
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 950,
-        "y": 1300,
+        "x": 1710,
+        "y": 1500,
         "wires": [
             []
         ]
@@ -12517,7 +12984,7 @@
         "id": "01eeb0ee16dd9134",
         "type": "function",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
@@ -12525,8 +12992,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 990,
-        "y": 1340,
+        "x": 1330,
+        "y": 1380,
         "wires": [
             [
                 "56760126bbcb5506"
@@ -12537,7 +13004,7 @@
         "id": "beb987f7ca3d57ea",
         "type": "ui_template",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "group": "3326e113a2f7ba6b",
         "name": "LED right",
         "order": 4,
@@ -12549,8 +13016,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1500,
+        "x": 1720,
+        "y": 1540,
         "wires": [
             []
         ]
@@ -12559,7 +13026,7 @@
         "id": "61cf45b74dbee639",
         "type": "ui_template",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "group": "3326e113a2f7ba6b",
         "name": "LED left",
         "order": 2,
@@ -12571,8 +13038,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1380,
-        "y": 1540,
+        "x": 1720,
+        "y": 1580,
         "wires": [
             []
         ]
@@ -12629,23 +13096,23 @@
         "id": "54c0ee9e0d49baf5",
         "type": "function",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.max;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m6_abmass + config.m6_ot; \nlet lower = config.m6_abmass + config.m6_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\n\nreturn msg;",
+        "func": "let measureResult = 0.0;\n\nif (Math.abs(msg.min) > msg.max) {\n    measureResult = msg.min;\n}\nelse {\n    measureResult = msg.max;\n}\n\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m6_abmass + config.m6_ot; \nlet lower = config.m6_abmass + config.m6_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1020,
-        "y": 1380,
+        "x": 1360,
+        "y": 1420,
         "wires": [
             [
                 "beb987f7ca3d57ea",
                 "61cf45b74dbee639",
                 "bc38f24339fa1533",
-                "4ce60d21ac5b8767",
-                "19d3cd7e0e98e6f2"
+                "19d3cd7e0e98e6f2",
+                "46147d3fc80cf372"
             ]
         ]
     },
@@ -12668,14 +13135,14 @@
         "id": "fff06f5cec08a7b7",
         "type": "link in",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "LED Input",
         "links": [
             "86b57a598da4bf16",
             "5629b32e35ca4460"
         ],
-        "x": 1125,
-        "y": 1520,
+        "x": 1465,
+        "y": 1560,
         "wires": [
             [
                 "beb987f7ca3d57ea",
@@ -12687,7 +13154,7 @@
         "id": "bc38f24339fa1533",
         "type": "change",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Set Station / Measurement Type / Lot ",
         "rules": [
             {
@@ -12717,8 +13184,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1470,
-        "y": 1420,
+        "x": 1810,
+        "y": 1460,
         "wires": [
             [
                 "8ae8bb81d46e5643"
@@ -12750,7 +13217,8 @@
         "y": 640,
         "wires": [
             [
-                "7d8d3bb0b4aed567"
+                "7d8d3bb0b4aed567",
+                "188b28276ce18e5f"
             ]
         ]
     },
@@ -12865,13 +13333,13 @@
         "id": "b7c126ed8d5a500a",
         "type": "link in",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Diagram Input",
         "links": [
             "86b57a598da4bf16"
         ],
-        "x": 1085,
-        "y": 1300,
+        "x": 1425,
+        "y": 1340,
         "wires": [
             [
                 "56760126bbcb5506"
@@ -12980,21 +13448,21 @@
         "id": "19d3cd7e0e98e6f2",
         "type": "link out",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
             "9d5a46938e598218"
         ],
-        "x": 1335,
-        "y": 1380,
+        "x": 1675,
+        "y": 1420,
         "wires": []
     },
     {
         "id": "3e9778af52a3d615",
         "type": "switch",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Filter single data",
         "property": "payload",
         "propertyType": "msg",
@@ -13012,7 +13480,7 @@
         "y": 1380,
         "wires": [
             [
-                "dc19cb70ce0999d9"
+                "01eaad079db94657"
             ]
         ]
     },
@@ -13090,11 +13558,11 @@
         "id": "8de12bdde368b76e",
         "type": "comment",
         "z": "30e826456c806c39",
-        "g": "03aa525ffbcb3472",
+        "g": "164f2485b94aaba9",
         "name": "Change type",
         "info": "",
-        "x": 1450,
-        "y": 1380,
+        "x": 1790,
+        "y": 1420,
         "wires": []
     },
     {
@@ -13528,6 +13996,112 @@
         "wires": [
             [
                 "3a5db96765acaa05"
+            ]
+        ]
+    },
+    {
+        "id": "01eaad079db94657",
+        "type": "calculator",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 420,
+        "y": 1380,
+        "wires": [
+            [
+                "c34c99fb9e63e1da"
+            ]
+        ]
+    },
+    {
+        "id": "c34c99fb9e63e1da",
+        "type": "calculator",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 560,
+        "y": 1380,
+        "wires": [
+            [
+                "664bd6f77a062890"
+            ]
+        ]
+    },
+    {
+        "id": "664bd6f77a062890",
+        "type": "calculator",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
+        "x": 720,
+        "y": 1380,
+        "wires": [
+            [
+                "dc19cb70ce0999d9"
+            ]
+        ]
+    },
+    {
+        "id": "9077f5a7fd5adb92",
+        "type": "comment",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "Change function",
+        "info": "",
+        "x": 1320,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "f25232e36c7436d4",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "msg.max - msg.min",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 1380,
+        "wires": [
+            [
+                "01eeb0ee16dd9134",
+                "54c0ee9e0d49baf5"
             ]
         ]
     },
