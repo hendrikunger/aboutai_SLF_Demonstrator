@@ -209,11 +209,11 @@
             "ba7a7c88bbe56428",
             "8f13a6ec18871833",
             "83d4cf8d174ea79d",
-            "60aac990440ed53b",
             "68faedd18f2cbfb7",
             "6da455b1ee388cb2",
             "4782014c59a1fc17",
-            "0add7a7bfa64c05f"
+            "0add7a7bfa64c05f",
+            "60aac990440ed53b"
         ],
         "x": 14,
         "y": 34,
@@ -17424,7 +17424,6 @@
         "y": 280,
         "wires": [
             [
-                "8d3c9719a67f5aef",
                 "e147caf0cd14a036"
             ]
         ]
@@ -17513,6 +17512,13 @@
                 "t": "delete",
                 "p": "parts",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.dValue",
+                "tot": "msg"
             }
         ],
         "action": "",
@@ -17524,7 +17530,8 @@
         "y": 280,
         "wires": [
             [
-                "60aac990440ed53b"
+                "0add7a7bfa64c05f",
+                "8d3c9719a67f5aef"
             ]
         ]
     },
@@ -17734,7 +17741,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "Tara[msg.payload.ChannelIdx]",
+                "p": "Tara[msg.topic]",
                 "pt": "global",
                 "to": "0",
                 "tot": "num"
@@ -17762,9 +17769,9 @@
         "rules": [
             {
                 "t": "set",
-                "p": "lastValue[msg.payload.ChannelIdx]",
+                "p": "lastValue[msg.topic]",
                 "pt": "global",
-                "to": "payload.dValue",
+                "to": "payload",
                 "tot": "msg"
             }
         ],
@@ -17778,26 +17785,6 @@
         "wires": [
             [
                 "0e5dbb12f9e794f9"
-            ]
-        ]
-    },
-    {
-        "id": "60aac990440ed53b",
-        "type": "calculator",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "",
-        "inputMsgField": "payload.dValue",
-        "outputMsgField": "payload",
-        "operation": "rdec",
-        "constant": "4",
-        "round": false,
-        "decimals": 0,
-        "x": 640,
-        "y": 280,
-        "wires": [
-            [
-                "0add7a7bfa64c05f"
             ]
         ]
     },
@@ -17859,7 +17846,29 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 860,
+        "x": 640,
+        "y": 280,
+        "wires": [
+            [
+                "60aac990440ed53b"
+            ]
+        ]
+    },
+    {
+        "id": "60aac990440ed53b",
+        "type": "calculator",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "rdec",
+        "constant": "4",
+        "round": false,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": "0",
+        "x": 840,
         "y": 280,
         "wires": [
             [
