@@ -153,12 +153,17 @@
             "e93f7bfc305fe380",
             "92b4f553da63bd74",
             "b3fd24249d4d3b07",
-            "da027978bd71a098"
+            "da027978bd71a098",
+            "26686f7b09641b5e",
+            "c19ab16f2d16948f",
+            "39f8d9e65913bf7e",
+            "368fb0505d632eea",
+            "58b9826bda0a9c07"
         ],
         "x": 34,
-        "y": 539,
+        "y": 533,
         "w": 1658,
-        "h": 408
+        "h": 434
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -319,9 +324,7 @@
             "4b405c6e9d95eeb5"
         ],
         "x": 14,
-        "y": 179,
-        "w": 572,
-        "h": 142
+        "y": 179
     },
     {
         "id": "d3b265c86780b5ac",
@@ -339,9 +342,7 @@
             "06cf91f0a304d82c"
         ],
         "x": 14,
-        "y": 359,
-        "w": 782,
-        "h": 82
+        "y": 359
     },
     {
         "id": "170bc2b0ca05699c",
@@ -357,9 +358,7 @@
             "f5adf1cfb8b83ef6"
         ],
         "x": 14,
-        "y": 479,
-        "w": 592,
-        "h": 82
+        "y": 479
     },
     {
         "id": "6abae160f1c7a382",
@@ -380,9 +379,7 @@
             "d9ac99f24584d5f8"
         ],
         "x": 1004,
-        "y": 219,
-        "w": 1252,
-        "h": 162
+        "y": 219
     },
     {
         "id": "01925cd1e85e9280",
@@ -403,9 +400,7 @@
             "95ca065e48f90be5"
         ],
         "x": 1004,
-        "y": 399,
-        "w": 1252,
-        "h": 162
+        "y": 399
     },
     {
         "id": "1e8ef7fce0e3f0f1",
@@ -426,9 +421,7 @@
             "f50804780fdb1e39"
         ],
         "x": 1004,
-        "y": 579,
-        "w": 1252,
-        "h": 162
+        "y": 579
     },
     {
         "id": "b9b6c6776205ea97",
@@ -449,9 +442,7 @@
             "bbf4bf63d34d6f10"
         ],
         "x": 1004,
-        "y": 759,
-        "w": 1252,
-        "h": 162
+        "y": 759
     },
     {
         "id": "0a3c81f83d01120f",
@@ -472,9 +463,7 @@
             "b6dc2366865865fd"
         ],
         "x": 1004,
-        "y": 939,
-        "w": 1252,
-        "h": 162
+        "y": 939
     },
     {
         "id": "fa4ae97e5a92823e",
@@ -495,9 +484,7 @@
             "64dfbddd69f4475f"
         ],
         "x": 1004,
-        "y": 1119,
-        "w": 1252,
-        "h": 162
+        "y": 1119
     },
     {
         "id": "22d4558fb92d5197",
@@ -518,9 +505,7 @@
             "e7756bcdeeac3982"
         ],
         "x": 1004,
-        "y": 1299,
-        "w": 1252,
-        "h": 162
+        "y": 1299
     },
     {
         "id": "eebaebbce7e5460d",
@@ -541,9 +526,7 @@
             "f4389f133d033e7b"
         ],
         "x": 1004,
-        "y": 1479,
-        "w": 1252,
-        "h": 162
+        "y": 1479
     },
     {
         "id": "3ff455c9ab26afe3",
@@ -564,9 +547,7 @@
             "555dfde8b41fe7ba"
         ],
         "x": 1004,
-        "y": 1659,
-        "w": 1252,
-        "h": 162
+        "y": 1659
     },
     {
         "id": "6ae87c414fad9be1",
@@ -587,9 +568,7 @@
             "bbbe1887735263e8"
         ],
         "x": 1004,
-        "y": 1839,
-        "w": 1252,
-        "h": 162
+        "y": 1839
     },
     {
         "id": "d012a80f9e9ec332",
@@ -649,12 +628,17 @@
             "1f51def5131b3b7a",
             "435f5a4ef9be5352",
             "5a6cdcabd29d8b90",
-            "fdba60af1b912228"
+            "fdba60af1b912228",
+            "74c133d7746661bb",
+            "1f7b0840c48ffe46",
+            "c4dea8c6a263db21",
+            "bc51760521d4c654",
+            "4ebce9f00ed5b64d"
         ],
         "x": 14,
-        "y": 539,
+        "y": 453,
         "w": 1658,
-        "h": 408
+        "h": 494
     },
     {
         "id": "a46784b1fcaec318",
@@ -721,12 +705,17 @@
             "f1e5439bc975e477",
             "8e09028c3e635399",
             "b01e530512d8d9a9",
-            "a09f863763d5f088"
+            "a09f863763d5f088",
+            "f787ccb5a0e2be80",
+            "b53e358e8878e15a",
+            "c9f90c7e9122a70e",
+            "eeb022b622084cda",
+            "fb700a512f088cff"
         ],
         "x": 34,
-        "y": 499,
+        "y": 393,
         "w": 1658,
-        "h": 408
+        "h": 494
     },
     {
         "id": "70dff54ed083811d",
@@ -787,11 +776,12 @@
             "060c65dd44959d12",
             "5d5cceac3f84325f",
             "44692290234530b5",
-            "3e82769bec249e8e"
+            "3e82769bec249e8e",
+            "19375a1a97e5e381"
         ],
-        "x": 34,
+        "x": 24,
         "y": 239,
-        "w": 852,
+        "w": 862,
         "h": 142
     },
     {
@@ -808,11 +798,12 @@
             "33c77ca329c9c8f6",
             "dc8135d61969292c",
             "fb679b9624bba8af",
-            "447cc73799bc4537"
+            "447cc73799bc4537",
+            "3a49a2fdf70fc6df"
         ],
-        "x": 14,
-        "y": 239,
-        "w": 852,
+        "x": 4,
+        "y": 219,
+        "w": 902,
         "h": 142
     },
     {
@@ -829,11 +820,12 @@
             "df3437c192e327a4",
             "15b571f04e293c57",
             "a393193261d2f6ae",
-            "e435706e196da350"
+            "e435706e196da350",
+            "6b3350dbc9be6b70"
         ],
-        "x": 34,
+        "x": 24,
         "y": 199,
-        "w": 852,
+        "w": 922,
         "h": 142
     },
     {
@@ -857,12 +849,17 @@
             "3056371dd636280a",
             "bb5cc5c3c893028a",
             "8994a81854bb7933",
-            "233a541051e7ed8e"
+            "233a541051e7ed8e",
+            "062367bf6a0e763f",
+            "2181731f2dc41d81",
+            "b221e55d5f929e68",
+            "1ea9dd61680263b0",
+            "9d2224175927cd20"
         ],
         "x": 34,
-        "y": 559,
+        "y": 453,
         "w": 1658,
-        "h": 408
+        "h": 494
     },
     {
         "id": "f32343183e9c9e51",
@@ -923,11 +920,12 @@
             "347ef04f7b2c713a",
             "8fe372815edeb19f",
             "9efb7392b70c8624",
-            "121f071d36410882"
+            "121f071d36410882",
+            "9c02dae2ec572fa2"
         ],
-        "x": 34,
-        "y": 259,
-        "w": 852,
+        "x": 14,
+        "y": 239,
+        "w": 912,
         "h": 142
     },
     {
@@ -951,12 +949,17 @@
             "b09b4ed3e741e5f0",
             "5559395d3310f426",
             "1a918390909cd2b6",
-            "1ebc9d41600f7525"
+            "1ebc9d41600f7525",
+            "0c8eb4d91bb85d0a",
+            "c03afb36fa2a22f6",
+            "972f99a541260e79",
+            "faa021aa7aff4777",
+            "2feda9b1252c9bb1"
         ],
         "x": 34,
-        "y": 559,
+        "y": 493,
         "w": 1658,
-        "h": 408
+        "h": 434
     },
     {
         "id": "bca4306ba871994a",
@@ -1017,11 +1020,12 @@
             "43aa90394542254c",
             "a13168f30a23d987",
             "61f594925343f578",
-            "a6137f636babfa4a"
+            "a6137f636babfa4a",
+            "aed0a478b1e382c4"
         ],
-        "x": 34,
+        "x": 44,
         "y": 259,
-        "w": 852,
+        "w": 902,
         "h": 142
     },
     {
@@ -1045,12 +1049,17 @@
             "a130c28386315d62",
             "edfd75f3f4fbfed5",
             "d722f1b2758996e7",
-            "b1f3cd6fb06c7257"
+            "b1f3cd6fb06c7257",
+            "5eacc9d1fc468110",
+            "397df1fbb2ee4562",
+            "f3e4ab06b8ec7dab",
+            "f0ab2e02637c9152",
+            "b8952d1b12c9db14"
         ],
         "x": 34,
-        "y": 559,
+        "y": 453,
         "w": 1658,
-        "h": 408
+        "h": 494
     },
     {
         "id": "827aa793e91b64c2",
@@ -1110,11 +1119,12 @@
             "780dfe3f1f50fe4d",
             "90258ee03c25eaa4",
             "82816fdc08d0a57a",
-            "9601244e9b459e32"
+            "9601244e9b459e32",
+            "7cf02ee2d3f6ee7b"
         ],
-        "x": 34,
-        "y": 259,
-        "w": 852,
+        "x": 24,
+        "y": 239,
+        "w": 902,
         "h": 142
     },
     {
@@ -1253,9 +1263,7 @@
             "7e667df4f5e39c25"
         ],
         "x": 1014,
-        "y": 79,
-        "w": 1102,
-        "h": 122
+        "y": 79
     },
     {
         "id": "8ab35d62324ce00c",
@@ -1373,8 +1381,7 @@
             "8c2518c27f58308e",
             "8f9094aa1d80a49f",
             "8404b7afcd0fe9d9",
-            "a883423f1f215a7e",
-            "ee318269a761f18c"
+            "a883423f1f215a7e"
         ],
         "x": 24,
         "y": 1259,
@@ -1473,7 +1480,7 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1254,
-        "y": 759,
+        "y": 819,
         "w": 412,
         "h": 122
     },
@@ -1516,7 +1523,7 @@
             "9bfe7534ced40b66"
         ],
         "x": 334,
-        "y": 579,
+        "y": 639,
         "w": 292,
         "h": 202
     },
@@ -1530,15 +1537,13 @@
             "label": true
         },
         "nodes": [
-            "117655354f300291",
             "d9111c50fe35a026",
-            "78c019123ce83008",
             "0e48aac0cc361391"
         ],
-        "x": 874,
-        "y": 799,
-        "w": 342,
-        "h": 122
+        "x": 1194,
+        "y": 559,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "92b4f553da63bd74",
@@ -1553,7 +1558,7 @@
             "efa429021e13e670"
         ],
         "x": 1254,
-        "y": 659,
+        "y": 719,
         "w": 272,
         "h": 82
     },
@@ -1572,7 +1577,7 @@
             "cd16c16d48b3e81e"
         ],
         "x": 1234,
-        "y": 759,
+        "y": 799,
         "w": 412,
         "h": 122
     },
@@ -1593,7 +1598,7 @@
             "e704a86a762eefb1"
         ],
         "x": 314,
-        "y": 579,
+        "y": 619,
         "w": 292,
         "h": 202
     },
@@ -1607,15 +1612,13 @@
             "label": true
         },
         "nodes": [
-            "9cd576e87f724997",
             "5182ecd037d3faab",
-            "a723bedf7d8f47d2",
             "8884248bdebf81b8"
         ],
-        "x": 854,
-        "y": 799,
-        "w": 342,
-        "h": 122
+        "x": 974,
+        "y": 479,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "435f5a4ef9be5352",
@@ -1630,7 +1633,7 @@
             "09d0c11c82ace869"
         ],
         "x": 1234,
-        "y": 659,
+        "y": 699,
         "w": 272,
         "h": 82
     },
@@ -1649,7 +1652,7 @@
             "d010a26ef3363e22"
         ],
         "x": 1254,
-        "y": 719,
+        "y": 739,
         "w": 412,
         "h": 122
     },
@@ -1670,7 +1673,7 @@
             "1ff92f3ce8c6991f"
         ],
         "x": 334,
-        "y": 539,
+        "y": 559,
         "w": 292,
         "h": 202
     },
@@ -1684,15 +1687,13 @@
             "label": true
         },
         "nodes": [
-            "899f1554a1e92af1",
             "995ee7b3f6a759bb",
-            "cbda48ad33ed0293",
             "8672e4aebc04a782"
         ],
-        "x": 874,
-        "y": 759,
-        "w": 342,
-        "h": 122
+        "x": 934,
+        "y": 419,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "8e09028c3e635399",
@@ -1707,7 +1708,7 @@
             "0243e77734a30f41"
         ],
         "x": 1254,
-        "y": 619,
+        "y": 639,
         "w": 272,
         "h": 82
     },
@@ -1726,7 +1727,7 @@
             "4ef1ca564fefdfe8"
         ],
         "x": 1254,
-        "y": 779,
+        "y": 799,
         "w": 412,
         "h": 122
     },
@@ -1747,7 +1748,7 @@
             "504785485f46b90c"
         ],
         "x": 334,
-        "y": 599,
+        "y": 619,
         "w": 292,
         "h": 202
     },
@@ -1761,15 +1762,13 @@
             "label": true
         },
         "nodes": [
-            "c2c45f3f7b2aec0b",
             "7d8d2eeefe6b8715",
-            "cae63d41e2588c75",
             "aa5839c7724e9704"
         ],
-        "x": 874,
-        "y": 819,
-        "w": 342,
-        "h": 122
+        "x": 1114,
+        "y": 479,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "bb5cc5c3c893028a",
@@ -1784,7 +1783,7 @@
             "a6fac1a51ec27b69"
         ],
         "x": 1254,
-        "y": 679,
+        "y": 699,
         "w": 272,
         "h": 82
     },
@@ -1838,15 +1837,13 @@
             "label": true
         },
         "nodes": [
-            "44c6f14c5dca7a33",
             "87a85dc14ad7bb5c",
-            "5f620d8aa7e730ca",
             "b0f2e927af94dbc9"
         ],
-        "x": 874,
-        "y": 819,
-        "w": 342,
-        "h": 122
+        "x": 994,
+        "y": 519,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "5559395d3310f426",
@@ -1880,7 +1877,7 @@
             "fc842d462185a2b5"
         ],
         "x": 1254,
-        "y": 779,
+        "y": 799,
         "w": 412,
         "h": 122
     },
@@ -1901,7 +1898,7 @@
             "b1e16f6837f1a266"
         ],
         "x": 334,
-        "y": 599,
+        "y": 619,
         "w": 292,
         "h": 202
     },
@@ -1915,15 +1912,13 @@
             "label": true
         },
         "nodes": [
-            "c10e98293c3c78d0",
             "188b28276ce18e5f",
-            "5629b32e35ca4460",
             "86b57a598da4bf16"
         ],
-        "x": 874,
-        "y": 819,
-        "w": 342,
-        "h": 122
+        "x": 1034,
+        "y": 479,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "edfd75f3f4fbfed5",
@@ -1938,8 +1933,128 @@
             "71424d2078547abd"
         ],
         "x": 1254,
-        "y": 679,
+        "y": 699,
         "w": 272,
+        "h": 82
+    },
+    {
+        "id": "4829d01fa6230cb2",
+        "type": "group",
+        "z": "f76015fff1ab449b",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "fd3f626fb3a65944",
+            "b745e19c0b2e94ad",
+            "8fd3a4c8f09340f6",
+            "9cb718af527c5cf1",
+            "f5504d7c5079dde1"
+        ],
+        "x": 774,
+        "y": 419,
+        "w": 782,
+        "h": 82
+    },
+    {
+        "id": "25aa3564c26c7cc1",
+        "type": "group",
+        "z": "97bca276c16abc95",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f2d4e6fcc6eb6884",
+            "b02a2378267b0a64",
+            "a0da46edcba68c0d",
+            "4aeaf35727d2a17c",
+            "6e63f224e8dc88af"
+        ],
+        "x": 734,
+        "y": 399,
+        "w": 782,
+        "h": 82
+    },
+    {
+        "id": "867a2d344952db65",
+        "type": "group",
+        "z": "2a0afd77453149d1",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4efbee3347b4c01f",
+            "eb93f2e62ec87467",
+            "1afe7b58b381367c",
+            "ede93632d06fb68f",
+            "372f6fe592efbfb6"
+        ],
+        "x": 734,
+        "y": 339,
+        "w": 782,
+        "h": 82
+    },
+    {
+        "id": "a8cdf078a528a441",
+        "type": "group",
+        "z": "e30c392695b4b813",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ba6940aa100f480f",
+            "1ac6f5f9b4b5660b",
+            "81d5ad460744ea5a",
+            "4def985f6dab6355",
+            "5c1f494f22c9e211"
+        ],
+        "x": 914,
+        "y": 379,
+        "w": 782,
+        "h": 82
+    },
+    {
+        "id": "77dd6a7dee83ca06",
+        "type": "group",
+        "z": "0b6f24f26e309bd0",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "43fe6ba894e0ea59",
+            "246dfede9d4ee34f",
+            "df0cef62b32ee5f0",
+            "6024f78b820d8a7f",
+            "23a82ad2e61292b6"
+        ],
+        "x": 774,
+        "y": 419,
+        "w": 782,
+        "h": 82
+    },
+    {
+        "id": "42735bfaa53df92b",
+        "type": "group",
+        "z": "30e826456c806c39",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "43cc55db673ad45b",
+            "1068b05a9b1f6ef8",
+            "3f8520c3f66a42b9",
+            "df9bfa01fde449ef",
+            "dc58c79840dfd4c1"
+        ],
+        "x": 894,
+        "y": 379,
+        "w": 782,
         "h": 82
     },
     {
@@ -3119,7 +3234,7 @@
         "z": "9516ce2929752e9f",
         "name": "",
         "events": "all",
-        "x": 760,
+        "x": 720,
         "y": 100,
         "wires": [
             []
@@ -3856,15 +3971,15 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
         "payloadType": "str",
         "topic": "control",
         "topicType": "str",
-        "x": 780,
-        "y": 700,
+        "x": 800,
+        "y": 760,
         "wires": [
             [
                 "86a2b1f5d365cc3b"
@@ -3892,7 +4007,7 @@
         "to": "",
         "reg": false,
         "x": 1390,
-        "y": 700,
+        "y": 760,
         "wires": [
             []
         ]
@@ -3916,8 +4031,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1070,
-        "y": 720,
+        "x": 1170,
+        "y": 780,
         "wires": [
             [
                 "efa429021e13e670"
@@ -3948,7 +4063,7 @@
         "to": "",
         "reg": false,
         "x": 1550,
-        "y": 840,
+        "y": 900,
         "wires": [
             []
         ]
@@ -3981,7 +4096,7 @@
         "to": "",
         "reg": false,
         "x": 1370,
-        "y": 800,
+        "y": 860,
         "wires": [
             []
         ]
@@ -4009,44 +4124,10 @@
         "payload": "",
         "payloadType": "date",
         "x": 1370,
-        "y": 840,
+        "y": 900,
         "wires": [
             [
                 "3a123b1d2a2ea28d"
-            ]
-        ]
-    },
-    {
-        "id": "117655354f300291",
-        "type": "switch",
-        "z": "f76015fff1ab449b",
-        "g": "e93f7bfc305fe380",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 950,
-        "y": 860,
-        "wires": [
-            [
-                "d9111c50fe35a026"
-            ],
-            [
-                "78c019123ce83008"
             ]
         ]
     },
@@ -4070,8 +4151,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 840,
+        "x": 1270,
+        "y": 600,
         "wires": [
             [
                 "0e48aac0cc361391"
@@ -4258,12 +4339,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 770,
-        "y": 780,
+        "x": 970,
+        "y": 800,
         "wires": [
             [
-                "384f672b7f59aaae",
-                "c69fbea30e7e962c"
+                "c69fbea30e7e962c",
+                "368fb0505d632eea"
             ]
         ]
     },
@@ -4539,7 +4620,6 @@
         "name": "Transform for Chart",
         "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -4548,8 +4628,7 @@
         "y": 1320,
         "wires": [
             [
-                "0bc7f6e47886b686",
-                "9d61f251e1734717"
+                "0bc7f6e47886b686"
             ]
         ]
     },
@@ -4653,7 +4732,6 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.max\n\n\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m1_abmass + config.m1_ot; \nlet lower = config.m1_abmass + config.m1_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -4681,8 +4759,8 @@
             "ee86c70c56328060",
             "f7e679cb56cdfa0c"
         ],
-        "x": 1175,
-        "y": 840,
+        "x": 1355,
+        "y": 600,
         "wires": []
     },
     {
@@ -4727,7 +4805,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 770,
-        "y": 620,
+        "y": 680,
         "wires": [
             [
                 "bb72727e0e9710c1",
@@ -4743,7 +4821,7 @@
         "name": "",
         "events": "change",
         "x": 120,
-        "y": 620,
+        "y": 680,
         "wires": [
             [
                 "e343bbd45bd67953"
@@ -4769,12 +4847,13 @@
         "repair": false,
         "outputs": 1,
         "x": 250,
-        "y": 620,
+        "y": 680,
         "wires": [
             [
                 "aca43af245261e16",
                 "e04b533ceb172f09",
-                "88a865df6bb9805d"
+                "88a865df6bb9805d",
+                "fd3f626fb3a65944"
             ]
         ]
     },
@@ -4799,7 +4878,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 620,
+        "y": 680,
         "wires": [
             [
                 "03e2e8f876519839"
@@ -4834,7 +4913,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 740,
+        "y": 800,
         "wires": [
             [
                 "384f672b7f59aaae",
@@ -4855,24 +4934,9 @@
         "y": 1280,
         "wires": [
             [
-                "0bc7f6e47886b686",
-                "9d61f251e1734717"
+                "0bc7f6e47886b686"
             ]
         ]
-    },
-    {
-        "id": "78c019123ce83008",
-        "type": "link out",
-        "z": "f76015fff1ab449b",
-        "g": "e93f7bfc305fe380",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "f7e679cb56cdfa0c"
-        ],
-        "x": 1055,
-        "y": 880,
-        "wires": []
     },
     {
         "id": "1e226b5a011ce3e6",
@@ -4884,7 +4948,7 @@
             "85cc612c91620d6c"
         ],
         "x": 375,
-        "y": 680,
+        "y": 740,
         "wires": [
             [
                 "33ef557b9fa977e1",
@@ -4918,7 +4982,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 700,
+        "y": 760,
         "wires": [
             [
                 "384f672b7f59aaae"
@@ -4951,7 +5015,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 660,
+        "y": 720,
         "wires": [
             [
                 "03e2e8f876519839"
@@ -5009,7 +5073,7 @@
             "c4490923838778c8"
         ],
         "x": 905,
-        "y": 620,
+        "y": 680,
         "wires": []
     },
     {
@@ -5064,7 +5128,7 @@
         "name": "Change type",
         "info": "",
         "x": 250,
-        "y": 660,
+        "y": 720,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -5127,7 +5191,7 @@
         "name": "Change type",
         "info": "",
         "x": 770,
-        "y": 580,
+        "y": 640,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -5158,7 +5222,7 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 110,
+        "x": 150,
         "y": 300,
         "wires": [
             [
@@ -5186,7 +5250,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
+        "x": 310,
         "y": 300,
         "wires": [
             [
@@ -5237,6 +5301,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -5244,7 +5315,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
+        "x": 690,
         "y": 280,
         "wires": [
             []
@@ -5551,22 +5622,6 @@
         ]
     },
     {
-        "id": "9d61f251e1734717",
-        "type": "debug",
-        "z": "f76015fff1ab449b",
-        "name": "debug 10",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1540,
-        "y": 1160,
-        "wires": []
-    },
-    {
         "id": "a6eb399a30aa2b6c",
         "type": "change",
         "z": "f76015fff1ab449b",
@@ -5595,6 +5650,271 @@
         ]
     },
     {
+        "id": "26686f7b09641b5e",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 880,
+        "wires": [
+            [
+                "384f672b7f59aaae"
+            ]
+        ]
+    },
+    {
+        "id": "c19ab16f2d16948f",
+        "type": "switch",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 390,
+        "y": 900,
+        "wires": [
+            [
+                "26686f7b09641b5e"
+            ],
+            [
+                "39f8d9e65913bf7e"
+            ]
+        ]
+    },
+    {
+        "id": "39f8d9e65913bf7e",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 920,
+        "wires": [
+            [
+                "384f672b7f59aaae"
+            ]
+        ]
+    },
+    {
+        "id": "368fb0505d632eea",
+        "type": "link out",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "58b9826bda0a9c07"
+        ],
+        "x": 1045,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "58b9826bda0a9c07",
+        "type": "link in",
+        "z": "f76015fff1ab449b",
+        "g": "3db353d6ca535ffc",
+        "name": "Change Messure Color",
+        "links": [
+            "368fb0505d632eea"
+        ],
+        "x": 265,
+        "y": 900,
+        "wires": [
+            [
+                "c19ab16f2d16948f"
+            ]
+        ]
+    },
+    {
+        "id": "19375a1a97e5e381",
+        "type": "link in",
+        "z": "f76015fff1ab449b",
+        "g": "f012c22f57440622",
+        "name": "Tara Input",
+        "links": [
+            "f5504d7c5079dde1"
+        ],
+        "x": 65,
+        "y": 300,
+        "wires": [
+            [
+                "0228b2e4a794ea92"
+            ]
+        ]
+    },
+    {
+        "id": "fd3f626fb3a65944",
+        "type": "switch",
+        "z": "f76015fff1ab449b",
+        "g": "4829d01fa6230cb2",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 850,
+        "y": 460,
+        "wires": [
+            [
+                "b745e19c0b2e94ad"
+            ]
+        ]
+    },
+    {
+        "id": "b745e19c0b2e94ad",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "4829d01fa6230cb2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 460,
+        "wires": [
+            [
+                "8fd3a4c8f09340f6"
+            ]
+        ]
+    },
+    {
+        "id": "8fd3a4c8f09340f6",
+        "type": "ui_toast",
+        "z": "f76015fff1ab449b",
+        "g": "4829d01fa6230cb2",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1210,
+        "y": 460,
+        "wires": [
+            [
+                "9cb718af527c5cf1"
+            ]
+        ]
+    },
+    {
+        "id": "9cb718af527c5cf1",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "4829d01fa6230cb2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 460,
+        "wires": [
+            [
+                "f5504d7c5079dde1"
+            ]
+        ]
+    },
+    {
+        "id": "f5504d7c5079dde1",
+        "type": "link out",
+        "z": "f76015fff1ab449b",
+        "g": "4829d01fa6230cb2",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "19375a1a97e5e381"
+        ],
+        "x": 1515,
+        "y": 460,
+        "wires": []
+    },
+    {
         "id": "41736038a9b15a36",
         "type": "ui_button",
         "z": "97bca276c16abc95",
@@ -5608,7 +5928,7 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
@@ -5616,7 +5936,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 760,
-        "y": 700,
+        "y": 740,
         "wires": [
             [
                 "5e25999a13286d2e"
@@ -5638,12 +5958,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 750,
+        "x": 930,
         "y": 780,
         "wires": [
             [
-                "41736038a9b15a36",
-                "6e62c6f0b1c3ec18"
+                "6e62c6f0b1c3ec18",
+                "74c133d7746661bb"
             ]
         ]
     },
@@ -5666,8 +5986,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1050,
-        "y": 720,
+        "x": 1130,
+        "y": 740,
         "wires": [
             [
                 "09d0c11c82ace869"
@@ -5698,7 +6018,7 @@
         "to": "",
         "reg": false,
         "x": 1530,
-        "y": 840,
+        "y": 880,
         "wires": [
             []
         ]
@@ -5731,7 +6051,7 @@
         "to": "",
         "reg": false,
         "x": 1350,
-        "y": 800,
+        "y": 840,
         "wires": [
             []
         ]
@@ -5759,7 +6079,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 1350,
-        "y": 840,
+        "y": 880,
         "wires": [
             [
                 "154418cb9abb6cbb"
@@ -5785,12 +6105,13 @@
         "repair": false,
         "outputs": 1,
         "x": 230,
-        "y": 620,
+        "y": 660,
         "wires": [
             [
                 "0e37ee1f1e91a59a",
                 "46b37cf5a72acc41",
-                "fb5e7e1071bae65f"
+                "fb5e7e1071bae65f",
+                "f2d4e6fcc6eb6884"
             ]
         ]
     },
@@ -5802,7 +6123,7 @@
         "name": "",
         "events": "change",
         "x": 100,
-        "y": 620,
+        "y": 660,
         "wires": [
             [
                 "ce274b46a50e8b42"
@@ -5831,7 +6152,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 750,
-        "y": 620,
+        "y": 660,
         "wires": [
             [
                 "69485b47d96d35c2",
@@ -5850,7 +6171,7 @@
             "c4490923838778c8"
         ],
         "x": 885,
-        "y": 620,
+        "y": 660,
         "wires": []
     },
     {
@@ -5874,7 +6195,7 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 620,
+        "y": 660,
         "wires": [
             [
                 "88209b88c49aeb1a"
@@ -5909,7 +6230,7 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 740,
+        "y": 780,
         "wires": [
             [
                 "41736038a9b15a36",
@@ -5927,7 +6248,7 @@
             "89025cf592f63261"
         ],
         "x": 355,
-        "y": 680,
+        "y": 720,
         "wires": [
             [
                 "9b39643fe965c30e",
@@ -5961,7 +6282,7 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 700,
+        "y": 740,
         "wires": [
             [
                 "41736038a9b15a36"
@@ -5994,44 +6315,10 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 660,
+        "y": 700,
         "wires": [
             [
                 "88209b88c49aeb1a"
-            ]
-        ]
-    },
-    {
-        "id": "9cd576e87f724997",
-        "type": "switch",
-        "z": "97bca276c16abc95",
-        "g": "1f51def5131b3b7a",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 930,
-        "y": 860,
-        "wires": [
-            [
-                "5182ecd037d3faab"
-            ],
-            [
-                "a723bedf7d8f47d2"
             ]
         ]
     },
@@ -6055,27 +6342,13 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1070,
-        "y": 840,
+        "x": 1050,
+        "y": 520,
         "wires": [
             [
                 "8884248bdebf81b8"
             ]
         ]
-    },
-    {
-        "id": "a723bedf7d8f47d2",
-        "type": "link out",
-        "z": "97bca276c16abc95",
-        "g": "1f51def5131b3b7a",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "ec2092bf9a6e3f3a"
-        ],
-        "x": 1035,
-        "y": 880,
-        "wires": []
     },
     {
         "id": "8884248bdebf81b8",
@@ -6088,8 +6361,8 @@
             "11406244e9f7324d",
             "ec2092bf9a6e3f3a"
         ],
-        "x": 1155,
-        "y": 840,
+        "x": 1135,
+        "y": 520,
         "wires": []
     },
     {
@@ -6113,7 +6386,7 @@
         "to": "",
         "reg": false,
         "x": 1370,
-        "y": 700,
+        "y": 740,
         "wires": [
             []
         ]
@@ -6126,7 +6399,7 @@
         "name": "Change type",
         "info": "",
         "x": 230,
-        "y": 660,
+        "y": 700,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -6138,7 +6411,7 @@
         "name": "Change type",
         "info": "",
         "x": 750,
-        "y": 580,
+        "y": 620,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -6480,8 +6753,7 @@
         "y": 1340,
         "wires": [
             [
-                "304f5d0f7c10c3e5",
-                "ee318269a761f18c"
+                "304f5d0f7c10c3e5"
             ]
         ]
     },
@@ -6535,7 +6807,6 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\n\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -6629,8 +6900,7 @@
         "y": 1300,
         "wires": [
             [
-                "304f5d0f7c10c3e5",
-                "ee318269a761f18c"
+                "304f5d0f7c10c3e5"
             ]
         ]
     },
@@ -6800,8 +7070,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 270,
-        "y": 300,
+        "x": 310,
+        "y": 280,
         "wires": [
             [
                 "da792d4f34911411"
@@ -6827,8 +7097,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 470,
-        "y": 300,
+        "x": 510,
+        "y": 280,
         "wires": [
             [
                 "33c77ca329c9c8f6"
@@ -6851,6 +7121,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -6859,7 +7136,7 @@
         "to": "",
         "reg": false,
         "x": 710,
-        "y": 280,
+        "y": 260,
         "wires": [
             []
         ]
@@ -6884,8 +7161,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 710,
-        "y": 320,
+        "x": 750,
+        "y": 300,
         "wires": [
             []
         ]
@@ -6917,8 +7194,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 90,
-        "y": 300,
+        "x": 130,
+        "y": 280,
         "wires": [
             [
                 "c8be7d90a92480e0"
@@ -6932,8 +7209,8 @@
         "g": "a4fa0b2b0b924c26",
         "name": "Change Channel Number",
         "info": "",
-        "x": 270,
-        "y": 340,
+        "x": 310,
+        "y": 320,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -7330,21 +7607,269 @@
         ]
     },
     {
-        "id": "ee318269a761f18c",
-        "type": "debug",
+        "id": "4ebce9f00ed5b64d",
+        "type": "link in",
         "z": "97bca276c16abc95",
-        "g": "aad35dc03f9f96dd",
-        "name": "debug 11",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1420,
-        "y": 1300,
+        "g": "3f9fc35ae66485ce",
+        "name": "Change Messure Color",
+        "links": [
+            "74c133d7746661bb"
+        ],
+        "x": 165,
+        "y": 860,
+        "wires": [
+            [
+                "bc51760521d4c654"
+            ]
+        ]
+    },
+    {
+        "id": "bc51760521d4c654",
+        "type": "switch",
+        "z": "97bca276c16abc95",
+        "g": "3f9fc35ae66485ce",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 290,
+        "y": 860,
+        "wires": [
+            [
+                "1f7b0840c48ffe46"
+            ],
+            [
+                "c4dea8c6a263db21"
+            ]
+        ]
+    },
+    {
+        "id": "1f7b0840c48ffe46",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "3f9fc35ae66485ce",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 480,
+        "y": 840,
+        "wires": [
+            [
+                "41736038a9b15a36"
+            ]
+        ]
+    },
+    {
+        "id": "c4dea8c6a263db21",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "3f9fc35ae66485ce",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 480,
+        "y": 880,
+        "wires": [
+            [
+                "41736038a9b15a36"
+            ]
+        ]
+    },
+    {
+        "id": "74c133d7746661bb",
+        "type": "link out",
+        "z": "97bca276c16abc95",
+        "g": "3f9fc35ae66485ce",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "4ebce9f00ed5b64d"
+        ],
+        "x": 1055,
+        "y": 820,
         "wires": []
+    },
+    {
+        "id": "f2d4e6fcc6eb6884",
+        "type": "switch",
+        "z": "97bca276c16abc95",
+        "g": "25aa3564c26c7cc1",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 810,
+        "y": 440,
+        "wires": [
+            [
+                "b02a2378267b0a64"
+            ]
+        ]
+    },
+    {
+        "id": "b02a2378267b0a64",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "25aa3564c26c7cc1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 440,
+        "wires": [
+            [
+                "a0da46edcba68c0d"
+            ]
+        ]
+    },
+    {
+        "id": "a0da46edcba68c0d",
+        "type": "ui_toast",
+        "z": "97bca276c16abc95",
+        "g": "25aa3564c26c7cc1",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1170,
+        "y": 440,
+        "wires": [
+            [
+                "4aeaf35727d2a17c"
+            ]
+        ]
+    },
+    {
+        "id": "4aeaf35727d2a17c",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "25aa3564c26c7cc1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1350,
+        "y": 440,
+        "wires": [
+            [
+                "6e63f224e8dc88af"
+            ]
+        ]
+    },
+    {
+        "id": "6e63f224e8dc88af",
+        "type": "link out",
+        "z": "97bca276c16abc95",
+        "g": "25aa3564c26c7cc1",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "3a49a2fdf70fc6df"
+        ],
+        "x": 1475,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "3a49a2fdf70fc6df",
+        "type": "link in",
+        "z": "97bca276c16abc95",
+        "g": "a4fa0b2b0b924c26",
+        "name": "Tara Input",
+        "links": [
+            "6e63f224e8dc88af"
+        ],
+        "x": 45,
+        "y": 280,
+        "wires": [
+            [
+                "fb679b9624bba8af"
+            ]
+        ]
     },
     {
         "id": "e81a033e24196b32",
@@ -7360,7 +7885,7 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
@@ -7368,7 +7893,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 780,
-        "y": 660,
+        "y": 680,
         "wires": [
             [
                 "1d5ca7aed65183b8"
@@ -7396,7 +7921,7 @@
         "to": "",
         "reg": false,
         "x": 1390,
-        "y": 660,
+        "y": 680,
         "wires": [
             []
         ]
@@ -7420,8 +7945,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1070,
-        "y": 680,
+        "x": 1130,
+        "y": 700,
         "wires": [
             [
                 "0243e77734a30f41"
@@ -7452,7 +7977,7 @@
         "to": "",
         "reg": false,
         "x": 1550,
-        "y": 800,
+        "y": 820,
         "wires": [
             []
         ]
@@ -7485,7 +8010,7 @@
         "to": "",
         "reg": false,
         "x": 1370,
-        "y": 760,
+        "y": 780,
         "wires": [
             []
         ]
@@ -7513,44 +8038,10 @@
         "payload": "",
         "payloadType": "date",
         "x": 1370,
-        "y": 800,
-        "wires": [
-            [
-                "21dc03e738c98254"
-            ]
-        ]
-    },
-    {
-        "id": "899f1554a1e92af1",
-        "type": "switch",
-        "z": "2a0afd77453149d1",
-        "g": "f1e5439bc975e477",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 950,
         "y": 820,
         "wires": [
             [
-                "995ee7b3f6a759bb"
-            ],
-            [
-                "cbda48ad33ed0293"
+                "21dc03e738c98254"
             ]
         ]
     },
@@ -7574,8 +8065,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 800,
+        "x": 1010,
+        "y": 460,
         "wires": [
             [
                 "8672e4aebc04a782"
@@ -7762,12 +8253,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 770,
-        "y": 740,
+        "x": 950,
+        "y": 720,
         "wires": [
             [
-                "e81a033e24196b32",
-                "8c3fc83036fe5b57"
+                "8c3fc83036fe5b57",
+                "f787ccb5a0e2be80"
             ]
         ]
     },
@@ -8069,8 +8560,8 @@
             "626598177a5682fe",
             "5af0d1e71236ec7c"
         ],
-        "x": 1175,
-        "y": 800,
+        "x": 1095,
+        "y": 460,
         "wires": []
     },
     {
@@ -8157,7 +8648,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 770,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "f480cf459eb1a279",
@@ -8173,7 +8664,7 @@
         "name": "",
         "events": "change",
         "x": 120,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "0a7ee78f60855b78"
@@ -8199,12 +8690,13 @@
         "repair": false,
         "outputs": 1,
         "x": 250,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "22d7720ab4574a96",
                 "33265bf3bf299cbc",
-                "5a2a5a9a0cbc6f99"
+                "5a2a5a9a0cbc6f99",
+                "4efbee3347b4c01f"
             ]
         ]
     },
@@ -8229,7 +8721,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 580,
+        "y": 600,
         "wires": [
             [
                 "e1f41ec837eacd20"
@@ -8264,7 +8756,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 700,
+        "y": 720,
         "wires": [
             [
                 "e81a033e24196b32",
@@ -8290,20 +8782,6 @@
         ]
     },
     {
-        "id": "cbda48ad33ed0293",
-        "type": "link out",
-        "z": "2a0afd77453149d1",
-        "g": "f1e5439bc975e477",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "5af0d1e71236ec7c"
-        ],
-        "x": 1055,
-        "y": 840,
-        "wires": []
-    },
-    {
         "id": "6dcbd36e5e957f25",
         "type": "link in",
         "z": "2a0afd77453149d1",
@@ -8313,7 +8791,7 @@
             "b62c69f80f165393"
         ],
         "x": 375,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "fb4d06b8f11bb955",
@@ -8347,7 +8825,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 660,
+        "y": 680,
         "wires": [
             [
                 "e81a033e24196b32"
@@ -8380,7 +8858,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 620,
+        "y": 640,
         "wires": [
             [
                 "e1f41ec837eacd20"
@@ -8438,7 +8916,7 @@
             "c4490923838778c8"
         ],
         "x": 905,
-        "y": 580,
+        "y": 600,
         "wires": []
     },
     {
@@ -8493,7 +8971,7 @@
         "name": "Change type",
         "info": "",
         "x": 250,
-        "y": 620,
+        "y": 640,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -8556,7 +9034,7 @@
         "name": "Change type",
         "info": "",
         "x": 770,
-        "y": 540,
+        "y": 560,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -8580,7 +9058,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
+        "x": 350,
         "y": 260,
         "wires": [
             [
@@ -8607,7 +9085,7 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 490,
+        "x": 550,
         "y": 260,
         "wires": [
             [
@@ -8631,6 +9109,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -8638,7 +9123,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
+        "x": 750,
         "y": 240,
         "wires": [
             []
@@ -8664,7 +9149,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
+        "x": 790,
         "y": 280,
         "wires": [
             []
@@ -8697,7 +9182,7 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 110,
+        "x": 170,
         "y": 260,
         "wires": [
             [
@@ -8712,7 +9197,7 @@
         "g": "c8fba86045d3d8b3",
         "name": "Change Channel Number",
         "info": "",
-        "x": 290,
+        "x": 350,
         "y": 300,
         "wires": [],
         "icon": "node-red/alert.svg"
@@ -9089,6 +9574,271 @@
         ]
     },
     {
+        "id": "fb700a512f088cff",
+        "type": "link in",
+        "z": "2a0afd77453149d1",
+        "g": "64023274c0bbf8ed",
+        "name": "Change Messure Color",
+        "links": [
+            "f787ccb5a0e2be80"
+        ],
+        "x": 245,
+        "y": 820,
+        "wires": [
+            [
+                "eeb022b622084cda"
+            ]
+        ]
+    },
+    {
+        "id": "eeb022b622084cda",
+        "type": "switch",
+        "z": "2a0afd77453149d1",
+        "g": "64023274c0bbf8ed",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 820,
+        "wires": [
+            [
+                "b53e358e8878e15a"
+            ],
+            [
+                "c9f90c7e9122a70e"
+            ]
+        ]
+    },
+    {
+        "id": "b53e358e8878e15a",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "64023274c0bbf8ed",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 800,
+        "wires": [
+            [
+                "e81a033e24196b32"
+            ]
+        ]
+    },
+    {
+        "id": "c9f90c7e9122a70e",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "64023274c0bbf8ed",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 840,
+        "wires": [
+            [
+                "e81a033e24196b32"
+            ]
+        ]
+    },
+    {
+        "id": "f787ccb5a0e2be80",
+        "type": "link out",
+        "z": "2a0afd77453149d1",
+        "g": "64023274c0bbf8ed",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "fb700a512f088cff"
+        ],
+        "x": 1095,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "4efbee3347b4c01f",
+        "type": "switch",
+        "z": "2a0afd77453149d1",
+        "g": "867a2d344952db65",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 810,
+        "y": 380,
+        "wires": [
+            [
+                "eb93f2e62ec87467"
+            ]
+        ]
+    },
+    {
+        "id": "eb93f2e62ec87467",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "867a2d344952db65",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 380,
+        "wires": [
+            [
+                "1afe7b58b381367c"
+            ]
+        ]
+    },
+    {
+        "id": "1afe7b58b381367c",
+        "type": "ui_toast",
+        "z": "2a0afd77453149d1",
+        "g": "867a2d344952db65",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1170,
+        "y": 380,
+        "wires": [
+            [
+                "ede93632d06fb68f"
+            ]
+        ]
+    },
+    {
+        "id": "ede93632d06fb68f",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "867a2d344952db65",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1350,
+        "y": 380,
+        "wires": [
+            [
+                "372f6fe592efbfb6"
+            ]
+        ]
+    },
+    {
+        "id": "372f6fe592efbfb6",
+        "type": "link out",
+        "z": "2a0afd77453149d1",
+        "g": "867a2d344952db65",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "6b3350dbc9be6b70"
+        ],
+        "x": 1475,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "6b3350dbc9be6b70",
+        "type": "link in",
+        "z": "2a0afd77453149d1",
+        "g": "c8fba86045d3d8b3",
+        "name": "Tara Input",
+        "links": [
+            "372f6fe592efbfb6"
+        ],
+        "x": 65,
+        "y": 260,
+        "wires": [
+            [
+                "a393193261d2f6ae"
+            ]
+        ]
+    },
+    {
         "id": "2aebc267cf28930f",
         "type": "ui_button",
         "z": "e30c392695b4b813",
@@ -9102,7 +9852,7 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
@@ -9110,7 +9860,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 780,
-        "y": 720,
+        "y": 740,
         "wires": [
             [
                 "90166222e0986d9a"
@@ -9138,7 +9888,7 @@
         "to": "",
         "reg": false,
         "x": 1390,
-        "y": 720,
+        "y": 740,
         "wires": [
             []
         ]
@@ -9162,8 +9912,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1070,
-        "y": 740,
+        "x": 1110,
+        "y": 760,
         "wires": [
             [
                 "a6fac1a51ec27b69"
@@ -9194,7 +9944,7 @@
         "to": "",
         "reg": false,
         "x": 1550,
-        "y": 860,
+        "y": 880,
         "wires": [
             []
         ]
@@ -9227,7 +9977,7 @@
         "to": "",
         "reg": false,
         "x": 1370,
-        "y": 820,
+        "y": 840,
         "wires": [
             []
         ]
@@ -9255,44 +10005,10 @@
         "payload": "",
         "payloadType": "date",
         "x": 1370,
-        "y": 860,
-        "wires": [
-            [
-                "d48d83629262fd95"
-            ]
-        ]
-    },
-    {
-        "id": "c2c45f3f7b2aec0b",
-        "type": "switch",
-        "z": "e30c392695b4b813",
-        "g": "3056371dd636280a",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 950,
         "y": 880,
         "wires": [
             [
-                "7d8d2eeefe6b8715"
-            ],
-            [
-                "cae63d41e2588c75"
+                "d48d83629262fd95"
             ]
         ]
     },
@@ -9316,8 +10032,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 860,
+        "x": 1190,
+        "y": 520,
         "wires": [
             [
                 "aa5839c7724e9704"
@@ -9504,12 +10220,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 770,
-        "y": 800,
+        "x": 970,
+        "y": 780,
         "wires": [
             [
-                "2aebc267cf28930f",
-                "d47de1df6b7f93c8"
+                "d47de1df6b7f93c8",
+                "062367bf6a0e763f"
             ]
         ]
     },
@@ -9784,7 +10500,6 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m4_abmass + config.m4_ot; \nlet lower = config.m4_abmass + config.m4_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -9812,8 +10527,8 @@
             "dc18057c08e0d453",
             "d02696bd698067c6"
         ],
-        "x": 1175,
-        "y": 860,
+        "x": 1275,
+        "y": 520,
         "wires": []
     },
     {
@@ -9900,7 +10615,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 770,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "c0ae9e6398bd567d",
@@ -9916,7 +10631,7 @@
         "name": "",
         "events": "change",
         "x": 120,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "e1b6c8f4ee3f2785"
@@ -9942,12 +10657,13 @@
         "repair": false,
         "outputs": 1,
         "x": 250,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "b0db019913472c43",
                 "71ccbdec1efa318c",
-                "9629ebadf94c7612"
+                "9629ebadf94c7612",
+                "ba6940aa100f480f"
             ]
         ]
     },
@@ -9972,7 +10688,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "41a6e339090f6574"
@@ -10007,7 +10723,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 760,
+        "y": 780,
         "wires": [
             [
                 "2aebc267cf28930f",
@@ -10033,20 +10749,6 @@
         ]
     },
     {
-        "id": "cae63d41e2588c75",
-        "type": "link out",
-        "z": "e30c392695b4b813",
-        "g": "3056371dd636280a",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "d02696bd698067c6"
-        ],
-        "x": 1055,
-        "y": 900,
-        "wires": []
-    },
-    {
         "id": "5797429f53036dd9",
         "type": "link in",
         "z": "e30c392695b4b813",
@@ -10056,7 +10758,7 @@
             "038c9ce48dc34fe8"
         ],
         "x": 375,
-        "y": 700,
+        "y": 720,
         "wires": [
             [
                 "dcddcf9524619050",
@@ -10090,7 +10792,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 720,
+        "y": 740,
         "wires": [
             [
                 "2aebc267cf28930f"
@@ -10123,7 +10825,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 680,
+        "y": 700,
         "wires": [
             [
                 "41a6e339090f6574"
@@ -10181,7 +10883,7 @@
             "c4490923838778c8"
         ],
         "x": 905,
-        "y": 640,
+        "y": 660,
         "wires": []
     },
     {
@@ -10236,7 +10938,7 @@
         "name": "Change type",
         "info": "",
         "x": 250,
-        "y": 680,
+        "y": 700,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -10299,7 +11001,7 @@
         "name": "Change type",
         "info": "",
         "x": 770,
-        "y": 600,
+        "y": 620,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -10330,8 +11032,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 110,
-        "y": 320,
+        "x": 150,
+        "y": 300,
         "wires": [
             [
                 "ddb09273e6ab1c11"
@@ -10358,8 +11060,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 320,
+        "x": 330,
+        "y": 300,
         "wires": [
             [
                 "347ef04f7b2c713a"
@@ -10385,8 +11087,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 490,
-        "y": 320,
+        "x": 530,
+        "y": 300,
         "wires": [
             [
                 "8fe372815edeb19f"
@@ -10409,6 +11111,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -10417,7 +11126,7 @@
         "to": "",
         "reg": false,
         "x": 730,
-        "y": 300,
+        "y": 280,
         "wires": [
             []
         ]
@@ -10442,8 +11151,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
-        "y": 340,
+        "x": 770,
+        "y": 320,
         "wires": [
             []
         ]
@@ -10455,8 +11164,8 @@
         "g": "5dea7495e52bcfb6",
         "name": "Change Channel Number",
         "info": "",
-        "x": 290,
-        "y": 360,
+        "x": 330,
+        "y": 340,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -10832,6 +11541,271 @@
         ]
     },
     {
+        "id": "9d2224175927cd20",
+        "type": "link in",
+        "z": "e30c392695b4b813",
+        "g": "89741ede3f7d6b39",
+        "name": "Change Messure Color",
+        "links": [
+            "062367bf6a0e763f"
+        ],
+        "x": 225,
+        "y": 880,
+        "wires": [
+            [
+                "1ea9dd61680263b0"
+            ]
+        ]
+    },
+    {
+        "id": "1ea9dd61680263b0",
+        "type": "switch",
+        "z": "e30c392695b4b813",
+        "g": "89741ede3f7d6b39",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 350,
+        "y": 880,
+        "wires": [
+            [
+                "2181731f2dc41d81"
+            ],
+            [
+                "b221e55d5f929e68"
+            ]
+        ]
+    },
+    {
+        "id": "2181731f2dc41d81",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "89741ede3f7d6b39",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 860,
+        "wires": [
+            [
+                "2aebc267cf28930f"
+            ]
+        ]
+    },
+    {
+        "id": "b221e55d5f929e68",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "89741ede3f7d6b39",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 900,
+        "wires": [
+            [
+                "2aebc267cf28930f"
+            ]
+        ]
+    },
+    {
+        "id": "062367bf6a0e763f",
+        "type": "link out",
+        "z": "e30c392695b4b813",
+        "g": "89741ede3f7d6b39",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "9d2224175927cd20"
+        ],
+        "x": 1115,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "ba6940aa100f480f",
+        "type": "switch",
+        "z": "e30c392695b4b813",
+        "g": "a8cdf078a528a441",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 990,
+        "y": 420,
+        "wires": [
+            [
+                "1ac6f5f9b4b5660b"
+            ]
+        ]
+    },
+    {
+        "id": "1ac6f5f9b4b5660b",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "a8cdf078a528a441",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 420,
+        "wires": [
+            [
+                "81d5ad460744ea5a"
+            ]
+        ]
+    },
+    {
+        "id": "81d5ad460744ea5a",
+        "type": "ui_toast",
+        "z": "e30c392695b4b813",
+        "g": "a8cdf078a528a441",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1350,
+        "y": 420,
+        "wires": [
+            [
+                "4def985f6dab6355"
+            ]
+        ]
+    },
+    {
+        "id": "4def985f6dab6355",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "a8cdf078a528a441",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1530,
+        "y": 420,
+        "wires": [
+            [
+                "5c1f494f22c9e211"
+            ]
+        ]
+    },
+    {
+        "id": "5c1f494f22c9e211",
+        "type": "link out",
+        "z": "e30c392695b4b813",
+        "g": "a8cdf078a528a441",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "9c02dae2ec572fa2"
+        ],
+        "x": 1655,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "9c02dae2ec572fa2",
+        "type": "link in",
+        "z": "e30c392695b4b813",
+        "g": "5dea7495e52bcfb6",
+        "name": "Tara Input",
+        "links": [
+            "5c1f494f22c9e211"
+        ],
+        "x": 55,
+        "y": 300,
+        "wires": [
+            [
+                "c585fe5bf5f4e6fe"
+            ]
+        ]
+    },
+    {
         "id": "7a5f9f8b17fb4354",
         "type": "ui_button",
         "z": "0b6f24f26e309bd0",
@@ -10845,7 +11819,7 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
@@ -10905,7 +11879,7 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1070,
+        "x": 1090,
         "y": 740,
         "wires": [
             [
@@ -11006,40 +11980,6 @@
         ]
     },
     {
-        "id": "44c6f14c5dca7a33",
-        "type": "switch",
-        "z": "0b6f24f26e309bd0",
-        "g": "b09b4ed3e741e5f0",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 950,
-        "y": 880,
-        "wires": [
-            [
-                "87a85dc14ad7bb5c"
-            ],
-            [
-                "5f620d8aa7e730ca"
-            ]
-        ]
-    },
-    {
         "id": "87a85dc14ad7bb5c",
         "type": "change",
         "z": "0b6f24f26e309bd0",
@@ -11059,8 +11999,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 860,
+        "x": 1070,
+        "y": 560,
         "wires": [
             [
                 "b0f2e927af94dbc9"
@@ -11247,12 +12187,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 770,
+        "x": 930,
         "y": 800,
         "wires": [
             [
-                "7a5f9f8b17fb4354",
-                "b1a01bc904211349"
+                "b1a01bc904211349",
+                "0c8eb4d91bb85d0a"
             ]
         ]
     },
@@ -11554,8 +12494,8 @@
             "93ed7d0b0acfe8f1",
             "3fa3d56c1dc1986f"
         ],
-        "x": 1175,
-        "y": 860,
+        "x": 1155,
+        "y": 560,
         "wires": []
     },
     {
@@ -11689,7 +12629,8 @@
             [
                 "37bad5a24437dfbe",
                 "00e2a3a0301346fb",
-                "7710aff7b38605a3"
+                "7710aff7b38605a3",
+                "43fe6ba894e0ea59"
             ]
         ]
     },
@@ -11773,20 +12714,6 @@
                 "ec6d0b666ddc9d6e"
             ]
         ]
-    },
-    {
-        "id": "5f620d8aa7e730ca",
-        "type": "link out",
-        "z": "0b6f24f26e309bd0",
-        "g": "b09b4ed3e741e5f0",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "3fa3d56c1dc1986f"
-        ],
-        "x": 1055,
-        "y": 900,
-        "wires": []
     },
     {
         "id": "8831711ddfcef315",
@@ -12072,7 +12999,7 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 110,
+        "x": 170,
         "y": 320,
         "wires": [
             [
@@ -12100,7 +13027,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
+        "x": 350,
         "y": 320,
         "wires": [
             [
@@ -12127,7 +13054,7 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 490,
+        "x": 550,
         "y": 320,
         "wires": [
             [
@@ -12151,6 +13078,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -12158,7 +13092,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
+        "x": 750,
         "y": 300,
         "wires": [
             []
@@ -12184,7 +13118,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
+        "x": 790,
         "y": 340,
         "wires": [
             []
@@ -12197,7 +13131,7 @@
         "g": "1379c8709e0ece67",
         "name": "Change Channel Number",
         "info": "",
-        "x": 290,
+        "x": 350,
         "y": 360,
         "wires": [],
         "icon": "node-red/alert.svg"
@@ -12574,6 +13508,271 @@
         ]
     },
     {
+        "id": "2feda9b1252c9bb1",
+        "type": "link in",
+        "z": "0b6f24f26e309bd0",
+        "g": "a9a2051011125ffa",
+        "name": "Change Messure Color",
+        "links": [
+            "0c8eb4d91bb85d0a"
+        ],
+        "x": 185,
+        "y": 860,
+        "wires": [
+            [
+                "faa021aa7aff4777"
+            ]
+        ]
+    },
+    {
+        "id": "faa021aa7aff4777",
+        "type": "switch",
+        "z": "0b6f24f26e309bd0",
+        "g": "a9a2051011125ffa",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 310,
+        "y": 860,
+        "wires": [
+            [
+                "c03afb36fa2a22f6"
+            ],
+            [
+                "972f99a541260e79"
+            ]
+        ]
+    },
+    {
+        "id": "c03afb36fa2a22f6",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "a9a2051011125ffa",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 500,
+        "y": 840,
+        "wires": [
+            [
+                "7a5f9f8b17fb4354"
+            ]
+        ]
+    },
+    {
+        "id": "972f99a541260e79",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "a9a2051011125ffa",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 500,
+        "y": 880,
+        "wires": [
+            [
+                "7a5f9f8b17fb4354"
+            ]
+        ]
+    },
+    {
+        "id": "0c8eb4d91bb85d0a",
+        "type": "link out",
+        "z": "0b6f24f26e309bd0",
+        "g": "a9a2051011125ffa",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "2feda9b1252c9bb1"
+        ],
+        "x": 1075,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "43fe6ba894e0ea59",
+        "type": "switch",
+        "z": "0b6f24f26e309bd0",
+        "g": "77dd6a7dee83ca06",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 850,
+        "y": 460,
+        "wires": [
+            [
+                "246dfede9d4ee34f"
+            ]
+        ]
+    },
+    {
+        "id": "246dfede9d4ee34f",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "77dd6a7dee83ca06",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 460,
+        "wires": [
+            [
+                "df0cef62b32ee5f0"
+            ]
+        ]
+    },
+    {
+        "id": "df0cef62b32ee5f0",
+        "type": "ui_toast",
+        "z": "0b6f24f26e309bd0",
+        "g": "77dd6a7dee83ca06",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1210,
+        "y": 460,
+        "wires": [
+            [
+                "6024f78b820d8a7f"
+            ]
+        ]
+    },
+    {
+        "id": "6024f78b820d8a7f",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "77dd6a7dee83ca06",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 460,
+        "wires": [
+            [
+                "23a82ad2e61292b6"
+            ]
+        ]
+    },
+    {
+        "id": "23a82ad2e61292b6",
+        "type": "link out",
+        "z": "0b6f24f26e309bd0",
+        "g": "77dd6a7dee83ca06",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "aed0a478b1e382c4"
+        ],
+        "x": 1515,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "aed0a478b1e382c4",
+        "type": "link in",
+        "z": "0b6f24f26e309bd0",
+        "g": "1379c8709e0ece67",
+        "name": "Tara Input",
+        "links": [
+            "23a82ad2e61292b6"
+        ],
+        "x": 85,
+        "y": 320,
+        "wires": [
+            [
+                "26617f9485f78c3e"
+            ]
+        ]
+    },
+    {
         "id": "66c1d714ea98bfc2",
         "type": "ui_button",
         "z": "30e826456c806c39",
@@ -12587,7 +13786,7 @@
         "label": "{{payload}}",
         "tooltip": "",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "{{background}}",
         "className": "",
         "icon": "",
         "payload": "Button1",
@@ -12595,7 +13794,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 780,
-        "y": 720,
+        "y": 740,
         "wires": [
             [
                 "bb4796f99371d009"
@@ -12623,7 +13822,7 @@
         "to": "",
         "reg": false,
         "x": 1390,
-        "y": 720,
+        "y": 740,
         "wires": [
             []
         ]
@@ -12647,8 +13846,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1070,
-        "y": 740,
+        "x": 1110,
+        "y": 760,
         "wires": [
             [
                 "71424d2078547abd"
@@ -12679,7 +13878,7 @@
         "to": "",
         "reg": false,
         "x": 1550,
-        "y": 860,
+        "y": 880,
         "wires": [
             []
         ]
@@ -12712,7 +13911,7 @@
         "to": "",
         "reg": false,
         "x": 1370,
-        "y": 820,
+        "y": 840,
         "wires": [
             []
         ]
@@ -12740,44 +13939,10 @@
         "payload": "",
         "payloadType": "date",
         "x": 1370,
-        "y": 860,
-        "wires": [
-            [
-                "737f25ef6c9b6d83"
-            ]
-        ]
-    },
-    {
-        "id": "c10e98293c3c78d0",
-        "type": "switch",
-        "z": "30e826456c806c39",
-        "g": "a130c28386315d62",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 950,
         "y": 880,
         "wires": [
             [
-                "188b28276ce18e5f"
-            ],
-            [
-                "5629b32e35ca4460"
+                "737f25ef6c9b6d83"
             ]
         ]
     },
@@ -12801,8 +13966,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
-        "y": 860,
+        "x": 1110,
+        "y": 520,
         "wires": [
             [
                 "86b57a598da4bf16"
@@ -12989,12 +14154,12 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 770,
-        "y": 800,
+        "x": 950,
+        "y": 780,
         "wires": [
             [
-                "66c1d714ea98bfc2",
-                "9f8418ce83e6170f"
+                "9f8418ce83e6170f",
+                "5eacc9d1fc468110"
             ]
         ]
     },
@@ -13271,7 +14436,6 @@
         "name": "Check Quality Requirements",
         "func": "let measureResult = msg.span;\n\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m6_abmass + config.m6_ot; \nlet lower = config.m6_abmass + config.m6_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -13299,8 +14463,8 @@
             "b7c126ed8d5a500a",
             "fff06f5cec08a7b7"
         ],
-        "x": 1175,
-        "y": 860,
+        "x": 1195,
+        "y": 520,
         "wires": []
     },
     {
@@ -13387,7 +14551,7 @@
         "topic": "control",
         "topicType": "str",
         "x": 770,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "7d8d3bb0b4aed567",
@@ -13403,7 +14567,7 @@
         "name": "",
         "events": "change",
         "x": 120,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "1a9c4705385ecc90"
@@ -13429,12 +14593,13 @@
         "repair": false,
         "outputs": 1,
         "x": 250,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "502c5f180b6429ff",
                 "987e4df9e12eea5b",
-                "5f5ac2efc1a86f21"
+                "5f5ac2efc1a86f21",
+                "43cc55db673ad45b"
             ]
         ]
     },
@@ -13459,7 +14624,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 640,
+        "y": 660,
         "wires": [
             [
                 "30d7d534792e0f5b"
@@ -13494,7 +14659,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 760,
+        "y": 780,
         "wires": [
             [
                 "66c1d714ea98bfc2",
@@ -13520,20 +14685,6 @@
         ]
     },
     {
-        "id": "5629b32e35ca4460",
-        "type": "link out",
-        "z": "30e826456c806c39",
-        "g": "a130c28386315d62",
-        "name": "Messurement Started",
-        "mode": "link",
-        "links": [
-            "fff06f5cec08a7b7"
-        ],
-        "x": 1055,
-        "y": 900,
-        "wires": []
-    },
-    {
         "id": "9d5a46938e598218",
         "type": "link in",
         "z": "30e826456c806c39",
@@ -13543,7 +14694,7 @@
             "19d3cd7e0e98e6f2"
         ],
         "x": 375,
-        "y": 700,
+        "y": 720,
         "wires": [
             [
                 "86f50591202ffaaa",
@@ -13577,7 +14728,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 720,
+        "y": 740,
         "wires": [
             [
                 "66c1d714ea98bfc2"
@@ -13610,7 +14761,7 @@
         "to": "",
         "reg": false,
         "x": 510,
-        "y": 680,
+        "y": 700,
         "wires": [
             [
                 "30d7d534792e0f5b"
@@ -13668,7 +14819,7 @@
             "c4490923838778c8"
         ],
         "x": 905,
-        "y": 640,
+        "y": 660,
         "wires": []
     },
     {
@@ -13723,7 +14874,7 @@
         "name": "Change type",
         "info": "",
         "x": 250,
-        "y": 680,
+        "y": 700,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -13786,7 +14937,7 @@
         "name": "Change type",
         "info": "",
         "x": 770,
-        "y": 600,
+        "y": 620,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -13817,8 +14968,8 @@
         "offcolor": "",
         "animate": false,
         "className": "",
-        "x": 110,
-        "y": 320,
+        "x": 150,
+        "y": 300,
         "wires": [
             [
                 "6107ec4f8243eb92"
@@ -13845,8 +14996,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 290,
-        "y": 320,
+        "x": 330,
+        "y": 300,
         "wires": [
             [
                 "780dfe3f1f50fe4d"
@@ -13872,8 +15023,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 490,
-        "y": 320,
+        "x": 530,
+        "y": 300,
         "wires": [
             [
                 "90258ee03c25eaa4"
@@ -13896,6 +15047,13 @@
                 "pt": "global",
                 "to": "lastValue[msg.channel]",
                 "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
             }
         ],
         "action": "",
@@ -13904,7 +15062,7 @@
         "to": "",
         "reg": false,
         "x": 730,
-        "y": 300,
+        "y": 280,
         "wires": [
             []
         ]
@@ -13929,8 +15087,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 730,
-        "y": 340,
+        "x": 770,
+        "y": 320,
         "wires": [
             []
         ]
@@ -13942,8 +15100,8 @@
         "g": "79d4f9ad1ab959d6",
         "name": "Change Channel Number",
         "info": "",
-        "x": 290,
-        "y": 360,
+        "x": 330,
+        "y": 340,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -14303,6 +15461,271 @@
         "wires": [
             [
                 "46147d3fc80cf372"
+            ]
+        ]
+    },
+    {
+        "id": "b8952d1b12c9db14",
+        "type": "link in",
+        "z": "30e826456c806c39",
+        "g": "864ae3af41e3661c",
+        "name": "Change Messure Color",
+        "links": [
+            "5eacc9d1fc468110"
+        ],
+        "x": 205,
+        "y": 880,
+        "wires": [
+            [
+                "f0ab2e02637c9152"
+            ]
+        ]
+    },
+    {
+        "id": "f0ab2e02637c9152",
+        "type": "switch",
+        "z": "30e826456c806c39",
+        "g": "864ae3af41e3661c",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 330,
+        "y": 880,
+        "wires": [
+            [
+                "397df1fbb2ee4562"
+            ],
+            [
+                "f3e4ab06b8ec7dab"
+            ]
+        ]
+    },
+    {
+        "id": "397df1fbb2ee4562",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "864ae3af41e3661c",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 860,
+        "wires": [
+            [
+                "66c1d714ea98bfc2"
+            ]
+        ]
+    },
+    {
+        "id": "f3e4ab06b8ec7dab",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "864ae3af41e3661c",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 900,
+        "wires": [
+            [
+                "66c1d714ea98bfc2"
+            ]
+        ]
+    },
+    {
+        "id": "5eacc9d1fc468110",
+        "type": "link out",
+        "z": "30e826456c806c39",
+        "g": "864ae3af41e3661c",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "b8952d1b12c9db14"
+        ],
+        "x": 1085,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "43cc55db673ad45b",
+        "type": "switch",
+        "z": "30e826456c806c39",
+        "g": "42735bfaa53df92b",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 970,
+        "y": 420,
+        "wires": [
+            [
+                "1068b05a9b1f6ef8"
+            ]
+        ]
+    },
+    {
+        "id": "1068b05a9b1f6ef8",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "42735bfaa53df92b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1150,
+        "y": 420,
+        "wires": [
+            [
+                "3f8520c3f66a42b9"
+            ]
+        ]
+    },
+    {
+        "id": "3f8520c3f66a42b9",
+        "type": "ui_toast",
+        "z": "30e826456c806c39",
+        "g": "42735bfaa53df92b",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1330,
+        "y": 420,
+        "wires": [
+            [
+                "df9bfa01fde449ef"
+            ]
+        ]
+    },
+    {
+        "id": "df9bfa01fde449ef",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "42735bfaa53df92b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1510,
+        "y": 420,
+        "wires": [
+            [
+                "dc58c79840dfd4c1"
+            ]
+        ]
+    },
+    {
+        "id": "dc58c79840dfd4c1",
+        "type": "link out",
+        "z": "30e826456c806c39",
+        "g": "42735bfaa53df92b",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "7cf02ee2d3f6ee7b"
+        ],
+        "x": 1635,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "7cf02ee2d3f6ee7b",
+        "type": "link in",
+        "z": "30e826456c806c39",
+        "g": "79d4f9ad1ab959d6",
+        "name": "Tara Input",
+        "links": [
+            "dc58c79840dfd4c1"
+        ],
+        "x": 65,
+        "y": 300,
+        "wires": [
+            [
+                "aaf62278c68bbe79"
             ]
         ]
     },
@@ -17895,7 +19318,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": 0.1,
+        "onceDelay": "0.0",
         "topic": "",
         "payload": "",
         "payloadType": "date",
