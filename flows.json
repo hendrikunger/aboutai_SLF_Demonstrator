@@ -1282,7 +1282,6 @@
             "d4d091d8a150214e",
             "87886bd0c424fec2",
             "08721a53d1644290",
-            "6462a4f256cccd80",
             "4881eb2f5b7a3357",
             "364faf3f261f3b7e",
             "32c42b81f3acf3de",
@@ -1299,7 +1298,8 @@
             "5f141030a295d75b",
             "3783ccd0ce112dfc",
             "26a1bd15b517849b",
-            "43e877f04bea6a12"
+            "43e877f04bea6a12",
+            "e2e81e86f782cabe"
         ],
         "x": 34,
         "y": 1299,
@@ -1323,7 +1323,6 @@
             "0733e5753032918c",
             "3850f7587d33dfc1",
             "6749f8cee8567333",
-            "ac3fa9bbc9ec1ff0",
             "d96bbb2ed204c5f8",
             "865a96cbbe010c1a",
             "09612004ac78da91",
@@ -1340,10 +1339,11 @@
             "65a878d57042a6d5",
             "91885593a13c7d9f",
             "12e0e3429c9c565d",
-            "ccd9069e9ce80e04"
+            "ccd9069e9ce80e04",
+            "e52498fc154f2fa8"
         ],
-        "x": 44,
-        "y": 1219,
+        "x": 124,
+        "y": 1239,
         "w": 2002,
         "h": 322
     },
@@ -1363,7 +1363,6 @@
         "nodes": [
             "5b5b93403a0f2a2c",
             "304f5d0f7c10c3e5",
-            "1be5a0b420903852",
             "2fad403dbcb0990a",
             "a3c031a49f179523",
             "8cbdd0231e85946d",
@@ -1381,7 +1380,8 @@
             "8c2518c27f58308e",
             "8f9094aa1d80a49f",
             "8404b7afcd0fe9d9",
-            "a883423f1f215a7e"
+            "a883423f1f215a7e",
+            "7dfc06bc03e703ce"
         ],
         "x": 24,
         "y": 1259,
@@ -1405,7 +1405,6 @@
             "d7c9527725a858d2",
             "6925d002472c9821",
             "ec6d0b666ddc9d6e",
-            "40d07343229f02b2",
             "2f31c1d74f9d3ecf",
             "9ea7fabffcc6d350",
             "bb84f248ada66dbf",
@@ -1422,11 +1421,12 @@
             "52398a715ca6cb23",
             "db0e7368cd7daf06",
             "9ddf41a1bb63d76b",
-            "696049c0e837b246"
+            "696049c0e837b246",
+            "9d66e76b2610d937"
         ],
-        "x": 34,
+        "x": 14,
         "y": 1279,
-        "w": 2052,
+        "w": 2072,
         "h": 322
     },
     {
@@ -1441,7 +1441,6 @@
             "dc19cb70ce0999d9",
             "b0540487cb649448",
             "56760126bbcb5506",
-            "8ae8bb81d46e5643",
             "46147d3fc80cf372",
             "01eeb0ee16dd9134",
             "beb987f7ca3d57ea",
@@ -1458,7 +1457,8 @@
             "664bd6f77a062890",
             "9077f5a7fd5adb92",
             "f25232e36c7436d4",
-            "46816b8f315dab0a"
+            "46816b8f315dab0a",
+            "bb28d9f0fb4eb217"
         ],
         "x": 34,
         "y": 1299,
@@ -2787,31 +2787,6 @@
         "className": ""
     },
     {
-        "id": "42c9ded4fca2ab01",
-        "type": "postgreSQLConfig",
-        "name": "",
-        "host": "127.0.0.1",
-        "hostFieldType": "str",
-        "port": "5432",
-        "portFieldType": "num",
-        "database": "qa_measurements",
-        "databaseFieldType": "str",
-        "ssl": "false",
-        "sslFieldType": "bool",
-        "applicationName": "",
-        "applicationNameType": "str",
-        "max": "10",
-        "maxFieldType": "num",
-        "idle": "1000",
-        "idleFieldType": "num",
-        "connectionTimeout": "10000",
-        "connectionTimeoutFieldType": "num",
-        "user": "qa_measurements",
-        "userFieldType": "str",
-        "password": "qa_measurements",
-        "passwordFieldType": "str"
-    },
-    {
         "id": "4671633212a670b3",
         "type": "ui_tab",
         "name": "m3",
@@ -2841,31 +2816,6 @@
         "width": "18",
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "4aac4f2055323abb",
-        "type": "postgreSQLConfig",
-        "name": "",
-        "host": "127.0.0.1",
-        "hostFieldType": "str",
-        "port": "5432",
-        "portFieldType": "num",
-        "database": "qa_measurements",
-        "databaseFieldType": "str",
-        "ssl": "false",
-        "sslFieldType": "bool",
-        "applicationName": "",
-        "applicationNameType": "str",
-        "max": "10",
-        "maxFieldType": "num",
-        "idle": "1000",
-        "idleFieldType": "num",
-        "connectionTimeout": "10000",
-        "connectionTimeoutFieldType": "num",
-        "user": "qa_measurements",
-        "userFieldType": "str",
-        "password": "qa_measurements",
-        "passwordFieldType": "str"
     },
     {
         "id": "a3dc161c5fef5f2e",
@@ -2899,31 +2849,6 @@
         "className": ""
     },
     {
-        "id": "7d7a6998ed6c7a2e",
-        "type": "postgreSQLConfig",
-        "name": "",
-        "host": "127.0.0.1",
-        "hostFieldType": "str",
-        "port": "5432",
-        "portFieldType": "num",
-        "database": "qa_measurements",
-        "databaseFieldType": "str",
-        "ssl": "false",
-        "sslFieldType": "bool",
-        "applicationName": "",
-        "applicationNameType": "str",
-        "max": "10",
-        "maxFieldType": "num",
-        "idle": "1000",
-        "idleFieldType": "num",
-        "connectionTimeout": "10000",
-        "connectionTimeoutFieldType": "num",
-        "user": "qa_measurements",
-        "userFieldType": "str",
-        "password": "qa_measurements",
-        "passwordFieldType": "str"
-    },
-    {
         "id": "7a4c58e7d60b4f66",
         "type": "ui_tab",
         "name": "m5",
@@ -2953,31 +2878,6 @@
         "width": "18",
         "collapse": false,
         "className": ""
-    },
-    {
-        "id": "a3abe67d83bd0a15",
-        "type": "postgreSQLConfig",
-        "name": "",
-        "host": "127.0.0.1",
-        "hostFieldType": "str",
-        "port": "5432",
-        "portFieldType": "num",
-        "database": "qa_measurements",
-        "databaseFieldType": "str",
-        "ssl": "false",
-        "sslFieldType": "bool",
-        "applicationName": "",
-        "applicationNameType": "str",
-        "max": "10",
-        "maxFieldType": "num",
-        "idle": "1000",
-        "idleFieldType": "num",
-        "connectionTimeout": "10000",
-        "connectionTimeoutFieldType": "num",
-        "user": "qa_measurements",
-        "userFieldType": "str",
-        "password": "qa_measurements",
-        "passwordFieldType": "str"
     },
     {
         "id": "89aad962637a3752",
@@ -4579,7 +4479,7 @@
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -6721,23 +6621,6 @@
         ]
     },
     {
-        "id": "1be5a0b420903852",
-        "type": "postgresql",
-        "z": "97bca276c16abc95",
-        "g": "aad35dc03f9f96dd",
-        "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1910,
-        "y": 1420,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "2fad403dbcb0990a",
         "type": "function",
         "z": "97bca276c16abc95",
@@ -6795,7 +6678,7 @@
         "y": 1420,
         "wires": [
             [
-                "1be5a0b420903852"
+                "7dfc06bc03e703ce"
             ]
         ]
     },
@@ -7872,6 +7755,23 @@
         ]
     },
     {
+        "id": "7dfc06bc03e703ce",
+        "type": "postgresql",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1910,
+        "y": 1420,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "e81a033e24196b32",
         "type": "ui_button",
         "z": "2a0afd77453149d1",
@@ -8304,8 +8204,8 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 820,
-        "y": 1300,
+        "x": 900,
+        "y": 1320,
         "wires": [
             [
                 "12e0e3429c9c565d"
@@ -8321,8 +8221,8 @@
         "links": [
             "0798e3b4e76683bd"
         ],
-        "x": 85,
-        "y": 1300,
+        "x": 165,
+        "y": 1320,
         "wires": [
             [
                 "6c78225c1b0e8571"
@@ -8368,25 +8268,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1460,
-        "y": 1300,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "ac3fa9bbc9ec1ff0",
-        "type": "postgresql",
-        "z": "2a0afd77453149d1",
-        "g": "2cf293352e3cee14",
-        "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
-        "postgreSQLConfig": "42c9ded4fca2ab01",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1950,
-        "y": 1380,
+        "x": 1540,
+        "y": 1320,
         "wires": [
             []
         ]
@@ -8407,8 +8290,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1590,
-        "y": 1420,
+        "x": 1670,
+        "y": 1440,
         "wires": [
             []
         ]
@@ -8425,8 +8308,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1210,
-        "y": 1300,
+        "x": 1290,
+        "y": 1320,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -8449,8 +8332,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1600,
-        "y": 1460,
+        "x": 1680,
+        "y": 1480,
         "wires": [
             []
         ]
@@ -8471,8 +8354,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1600,
-        "y": 1500,
+        "x": 1680,
+        "y": 1520,
         "wires": [
             []
         ]
@@ -8537,8 +8420,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1240,
-        "y": 1340,
+        "x": 1320,
+        "y": 1360,
         "wires": [
             [
                 "09612004ac78da91",
@@ -8574,8 +8457,8 @@
             "8672e4aebc04a782",
             "cbda48ad33ed0293"
         ],
-        "x": 1195,
-        "y": 1480,
+        "x": 1275,
+        "y": 1500,
         "wires": [
             [
                 "09612004ac78da91",
@@ -8618,11 +8501,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1690,
-        "y": 1380,
+        "x": 1770,
+        "y": 1400,
         "wires": [
             [
-                "ac3fa9bbc9ec1ff0"
+                "e52498fc154f2fa8"
             ]
         ]
     },
@@ -8773,8 +8656,8 @@
         "links": [
             "8672e4aebc04a782"
         ],
-        "x": 1305,
-        "y": 1260,
+        "x": 1385,
+        "y": 1280,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -8875,8 +8758,8 @@
         "links": [
             "6dcbd36e5e957f25"
         ],
-        "x": 1555,
-        "y": 1340,
+        "x": 1635,
+        "y": 1360,
         "wires": []
     },
     {
@@ -8897,8 +8780,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 200,
-        "y": 1300,
+        "x": 280,
+        "y": 1320,
         "wires": [
             [
                 "526607614dea0429"
@@ -8982,8 +8865,8 @@
         "g": "2cf293352e3cee14",
         "name": "Change type",
         "info": "",
-        "x": 1670,
-        "y": 1340,
+        "x": 1750,
+        "y": 1360,
         "wires": []
     },
     {
@@ -9453,8 +9336,8 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 360,
-        "y": 1300,
+        "x": 440,
+        "y": 1320,
         "wires": [
             [
                 "05eda313d9f1a0da"
@@ -9475,8 +9358,8 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 500,
-        "y": 1300,
+        "x": 580,
+        "y": 1320,
         "wires": [
             [
                 "65a878d57042a6d5"
@@ -9497,8 +9380,8 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 660,
-        "y": 1300,
+        "x": 740,
+        "y": 1320,
         "wires": [
             [
                 "0733e5753032918c"
@@ -9512,8 +9395,8 @@
         "g": "2cf293352e3cee14",
         "name": "Change function",
         "info": "",
-        "x": 1200,
-        "y": 1380,
+        "x": 1280,
+        "y": 1400,
         "wires": []
     },
     {
@@ -9536,8 +9419,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1300,
+        "x": 1050,
+        "y": 1320,
         "wires": [
             [
                 "865a96cbbe010c1a",
@@ -9565,8 +9448,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1340,
-        "y": 1420,
+        "x": 1420,
+        "y": 1440,
         "wires": [
             [
                 "d96bbb2ed204c5f8"
@@ -9836,6 +9719,23 @@
             [
                 "a393193261d2f6ae"
             ]
+        ]
+    },
+    {
+        "id": "e52498fc154f2fa8",
+        "type": "postgresql",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 2030,
+        "y": 1400,
+        "wires": [
+            []
         ]
     },
     {
@@ -10342,23 +10242,6 @@
         ]
     },
     {
-        "id": "6462a4f256cccd80",
-        "type": "postgresql",
-        "z": "e30c392695b4b813",
-        "g": "8ab35d62324ce00c",
-        "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
-        "postgreSQLConfig": "4aac4f2055323abb",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 2030,
-        "y": 1460,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "4881eb2f5b7a3357",
         "type": "ui_template",
         "z": "e30c392695b4b813",
@@ -10589,7 +10472,7 @@
         "y": 1460,
         "wires": [
             [
-                "6462a4f256cccd80"
+                "e2e81e86f782cabe"
             ]
         ]
     },
@@ -11806,6 +11689,23 @@
         ]
     },
     {
+        "id": "e2e81e86f782cabe",
+        "type": "postgresql",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 2030,
+        "y": 1460,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "7a5f9f8b17fb4354",
         "type": "ui_button",
         "z": "0b6f24f26e309bd0",
@@ -12238,7 +12138,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 900,
+        "x": 880,
         "y": 1360,
         "wires": [
             [
@@ -12255,7 +12155,7 @@
         "links": [
             "8ae2b886c49354ee"
         ],
-        "x": 75,
+        "x": 55,
         "y": 1360,
         "wires": [
             [
@@ -12302,25 +12202,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1500,
+        "x": 1480,
         "y": 1360,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "40d07343229f02b2",
-        "type": "postgresql",
-        "z": "0b6f24f26e309bd0",
-        "g": "49fe87a3db7441c6",
-        "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
-        "postgreSQLConfig": "7d7a6998ed6c7a2e",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1990,
-        "y": 1440,
         "wires": [
             []
         ]
@@ -12341,7 +12224,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1630,
+        "x": 1610,
         "y": 1480,
         "wires": [
             []
@@ -12359,7 +12242,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1250,
+        "x": 1230,
         "y": 1360,
         "wires": [
             [
@@ -12383,7 +12266,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1640,
+        "x": 1620,
         "y": 1520,
         "wires": [
             []
@@ -12405,7 +12288,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1640,
+        "x": 1620,
         "y": 1560,
         "wires": [
             []
@@ -12471,7 +12354,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1280,
+        "x": 1260,
         "y": 1400,
         "wires": [
             [
@@ -12508,7 +12391,7 @@
             "b0f2e927af94dbc9",
             "5f620d8aa7e730ca"
         ],
-        "x": 1295,
+        "x": 1275,
         "y": 1540,
         "wires": [
             [
@@ -12552,11 +12435,11 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1730,
+        "x": 1710,
         "y": 1440,
         "wires": [
             [
-                "40d07343229f02b2"
+                "9d66e76b2610d937"
             ]
         ]
     },
@@ -12707,7 +12590,7 @@
         "links": [
             "b0f2e927af94dbc9"
         ],
-        "x": 1345,
+        "x": 1325,
         "y": 1320,
         "wires": [
             [
@@ -12809,7 +12692,7 @@
         "links": [
             "8831711ddfcef315"
         ],
-        "x": 1595,
+        "x": 1575,
         "y": 1400,
         "wires": []
     },
@@ -12831,7 +12714,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 200,
+        "x": 180,
         "y": 1360,
         "wires": [
             [
@@ -12916,7 +12799,7 @@
         "g": "49fe87a3db7441c6",
         "name": "Change type",
         "info": "",
-        "x": 1710,
+        "x": 1690,
         "y": 1400,
         "wires": []
     },
@@ -13387,7 +13270,7 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 420,
+        "x": 400,
         "y": 1360,
         "wires": [
             [
@@ -13409,7 +13292,7 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 560,
+        "x": 540,
         "y": 1360,
         "wires": [
             [
@@ -13431,7 +13314,7 @@
         "truncate": false,
         "decimals": "4",
         "decimals2": "0",
-        "x": 720,
+        "x": 700,
         "y": 1360,
         "wires": [
             [
@@ -13446,7 +13329,7 @@
         "g": "49fe87a3db7441c6",
         "name": "Change function",
         "info": "",
-        "x": 1240,
+        "x": 1220,
         "y": 1440,
         "wires": []
     },
@@ -13470,7 +13353,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1050,
+        "x": 1030,
         "y": 1360,
         "wires": [
             [
@@ -13499,7 +13382,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1400,
+        "x": 1380,
         "y": 1480,
         "wires": [
             [
@@ -13770,6 +13653,23 @@
             [
                 "26617f9485f78c3e"
             ]
+        ]
+    },
+    {
+        "id": "9d66e76b2610d937",
+        "type": "postgresql",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1990,
+        "y": 1440,
+        "wires": [
+            []
         ]
     },
     {
@@ -14278,23 +14178,6 @@
         ]
     },
     {
-        "id": "8ae8bb81d46e5643",
-        "type": "postgresql",
-        "z": "30e826456c806c39",
-        "g": "164f2485b94aaba9",
-        "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}' , {{{msg.value}}}, array[{{{msg.payload}}}], {{{msg.pass}}});\n\n",
-        "postgreSQLConfig": "a3abe67d83bd0a15",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 2070,
-        "y": 1460,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "46147d3fc80cf372",
         "type": "ui_template",
         "z": "30e826456c806c39",
@@ -14525,7 +14408,7 @@
         "y": 1460,
         "wires": [
             [
-                "8ae8bb81d46e5643"
+                "bb28d9f0fb4eb217"
             ]
         ]
     },
@@ -15727,6 +15610,23 @@
             [
                 "aaf62278c68bbe79"
             ]
+        ]
+    },
+    {
+        "id": "bb28d9f0fb4eb217",
+        "type": "postgresql",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}});\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 2070,
+        "y": 1460,
+        "wires": [
+            []
         ]
     },
     {
