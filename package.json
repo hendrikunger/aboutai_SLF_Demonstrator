@@ -9,8 +9,7 @@
         "@aboutai/node-red-contrib-millimar-n-1701": "0.0.1",
         "node-red-node-ui-table": "0.4.3",
         "node-red-contrib-toggle": "0.1.1",
-        "node-red-contrib-ui-value-trail": "0.2.3",
-        "node-red-contrib-persistent-fsm": "1.2.1"
+        "node-red-contrib-ui-value-trail": "0.2.3"
     },
     "node-red": {
         "settings": {
