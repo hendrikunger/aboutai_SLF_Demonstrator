@@ -244,7 +244,6 @@
             "9767ae7be4407276",
             "e8beecd43126c417",
             "97449b59b1ded6be",
-            "da82ce4793672c6d",
             "4875667208c4bb4f",
             "f7e679cb56cdfa0c",
             "ee86c70c56328060",
@@ -258,7 +257,8 @@
             "e996a38a3732f30b",
             "163d9b335d64b232",
             "a6eb399a30aa2b6c",
-            "5e64db70d3489eb2"
+            "5e64db70d3489eb2",
+            "9620512234b7b62f"
         ],
         "x": 14,
         "y": 1619,
@@ -303,9 +303,7 @@
             "4b405c6e9d95eeb5"
         ],
         "x": 14,
-        "y": 179,
-        "w": 572,
-        "h": 142
+        "y": 179
     },
     {
         "id": "d3b265c86780b5ac",
@@ -323,9 +321,7 @@
             "06cf91f0a304d82c"
         ],
         "x": 14,
-        "y": 359,
-        "w": 782,
-        "h": 82
+        "y": 359
     },
     {
         "id": "170bc2b0ca05699c",
@@ -341,9 +337,7 @@
             "f5adf1cfb8b83ef6"
         ],
         "x": 14,
-        "y": 479,
-        "w": 592,
-        "h": 82
+        "y": 479
     },
     {
         "id": "6abae160f1c7a382",
@@ -365,9 +359,7 @@
             "c78237a0de83ea19"
         ],
         "x": 1004,
-        "y": 219,
-        "w": 1252,
-        "h": 162
+        "y": 219
     },
     {
         "id": "01925cd1e85e9280",
@@ -389,9 +381,7 @@
             "b8128bb4f831bb2d"
         ],
         "x": 1004,
-        "y": 399,
-        "w": 1252,
-        "h": 162
+        "y": 399
     },
     {
         "id": "1e8ef7fce0e3f0f1",
@@ -413,9 +403,7 @@
             "d8020c18a70ec45a"
         ],
         "x": 1004,
-        "y": 579,
-        "w": 1252,
-        "h": 162
+        "y": 579
     },
     {
         "id": "b9b6c6776205ea97",
@@ -437,9 +425,7 @@
             "84f32043f18c7e48"
         ],
         "x": 1004,
-        "y": 759,
-        "w": 1252,
-        "h": 162
+        "y": 759
     },
     {
         "id": "0a3c81f83d01120f",
@@ -461,9 +447,7 @@
             "d16ef79308fdcf96"
         ],
         "x": 1004,
-        "y": 939,
-        "w": 1252,
-        "h": 162
+        "y": 939
     },
     {
         "id": "fa4ae97e5a92823e",
@@ -485,9 +469,7 @@
             "f657b6c40fc9fa3c"
         ],
         "x": 1004,
-        "y": 1119,
-        "w": 1252,
-        "h": 162
+        "y": 1119
     },
     {
         "id": "22d4558fb92d5197",
@@ -509,9 +491,7 @@
             "f79bbe2020d945de"
         ],
         "x": 1004,
-        "y": 1299,
-        "w": 1252,
-        "h": 162
+        "y": 1299
     },
     {
         "id": "eebaebbce7e5460d",
@@ -533,9 +513,7 @@
             "5ee5ee1ea1d2a7f8"
         ],
         "x": 1004,
-        "y": 1479,
-        "w": 1252,
-        "h": 162
+        "y": 1479
     },
     {
         "id": "3ff455c9ab26afe3",
@@ -557,9 +535,7 @@
             "a460621fe1f9fecc"
         ],
         "x": 1004,
-        "y": 1659,
-        "w": 1252,
-        "h": 162
+        "y": 1659
     },
     {
         "id": "6ae87c414fad9be1",
@@ -581,9 +557,7 @@
             "11e620d0f598e695"
         ],
         "x": 1004,
-        "y": 1839,
-        "w": 1252,
-        "h": 162
+        "y": 1839
     },
     {
         "id": "d012a80f9e9ec332",
@@ -1113,9 +1087,7 @@
             "7e667df4f5e39c25"
         ],
         "x": 1014,
-        "y": 79,
-        "w": 1102,
-        "h": 122
+        "y": 79
     },
     {
         "id": "8ab35d62324ce00c",
@@ -1136,7 +1108,6 @@
             "08721a53d1644290",
             "4881eb2f5b7a3357",
             "364faf3f261f3b7e",
-            "32c42b81f3acf3de",
             "2a15c47721c80d56",
             "69f870b2e56ed0e6",
             "d02696bd698067c6",
@@ -1152,7 +1123,8 @@
             "26a1bd15b517849b",
             "43e877f04bea6a12",
             "e2e81e86f782cabe",
-            "e45b092c3fec91bc"
+            "e45b092c3fec91bc",
+            "93f564cbef5b9603"
         ],
         "x": 34,
         "y": 1619,
@@ -1178,7 +1150,6 @@
             "6749f8cee8567333",
             "d96bbb2ed204c5f8",
             "865a96cbbe010c1a",
-            "09612004ac78da91",
             "db9b3c1ba7d23d04",
             "3e5441e7c426ab89",
             "5af0d1e71236ec7c",
@@ -1194,7 +1165,8 @@
             "12e0e3429c9c565d",
             "ccd9069e9ce80e04",
             "e52498fc154f2fa8",
-            "c972581bc9f8476e"
+            "c972581bc9f8476e",
+            "4756f886debe829f"
         ],
         "x": 44,
         "y": 1459,
@@ -1220,7 +1192,6 @@
             "2fad403dbcb0990a",
             "a3c031a49f179523",
             "8cbdd0231e85946d",
-            "cea205eeb07676b9",
             "72139c05dceb8de0",
             "ec2092bf9a6e3f3a",
             "11406244e9f7324d",
@@ -1236,7 +1207,8 @@
             "8404b7afcd0fe9d9",
             "a883423f1f215a7e",
             "7dfc06bc03e703ce",
-            "0e8c505c5b9b76f4"
+            "0e8c505c5b9b76f4",
+            "3fc96acc2a200a40"
         ],
         "x": 4,
         "y": 1539,
@@ -1262,7 +1234,6 @@
             "ec6d0b666ddc9d6e",
             "2f31c1d74f9d3ecf",
             "9ea7fabffcc6d350",
-            "bb84f248ada66dbf",
             "878169c4bc5fb49e",
             "8c5ebdce29a0b8ba",
             "3fa3d56c1dc1986f",
@@ -1277,7 +1248,8 @@
             "db0e7368cd7daf06",
             "9ddf41a1bb63d76b",
             "696049c0e837b246",
-            "1de449f3a678c7c0"
+            "1de449f3a678c7c0",
+            "a9cb839cc1d8808d"
         ],
         "x": 34,
         "y": 1579,
@@ -1298,7 +1270,6 @@
             "56760126bbcb5506",
             "46147d3fc80cf372",
             "01eeb0ee16dd9134",
-            "beb987f7ca3d57ea",
             "61cf45b74dbee639",
             "54c0ee9e0d49baf5",
             "fff06f5cec08a7b7",
@@ -1314,7 +1285,8 @@
             "f25232e36c7436d4",
             "46816b8f315dab0a",
             "bb28d9f0fb4eb217",
-            "7c3f16fbae17aa11"
+            "7c3f16fbae17aa11",
+            "14d3b2d4c42730e9"
         ],
         "x": 34,
         "y": 1539,
@@ -1461,9 +1433,7 @@
             "bf5bfafbf4c28a8e"
         ],
         "x": 14,
-        "y": 2059,
-        "w": 1212,
-        "h": 142
+        "y": 2059
     },
     {
         "id": "3ca77137896b95fb",
@@ -1800,7 +1770,6 @@
             "cafa1af88d14707d",
             "385623d0ee294538",
             "5226d1dd4cddbf90",
-            "eff855fdfd2c79c1",
             "dcaf5f82011321ca",
             "8954d50521f2f282",
             "e4a68addc96c963e",
@@ -1817,7 +1786,8 @@
             "3bb269e6b6d55cc7",
             "1469e1fa689ec355",
             "c9f4dfb0fcb6c8fb",
-            "2e168885c60a7af9"
+            "2e168885c60a7af9",
+            "2d52a2c7339593f5"
         ],
         "x": 54,
         "y": 1579,
@@ -1881,6 +1851,114 @@
         "y": 619,
         "w": 1658,
         "h": 508
+    },
+    {
+        "id": "7939283416aa5d31",
+        "type": "group",
+        "z": "97bca276c16abc95",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "606ba2871e2b4fbf",
+            "73d5ae96bcfd9a62",
+            "35bfc4626ffbdfc0"
+        ],
+        "x": 384,
+        "y": 1119,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "1f62cb200d20d6bb",
+        "type": "group",
+        "z": "2a0afd77453149d1",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bb37f2e55771102f",
+            "281b69f2e0396436",
+            "b273537a03a12c39"
+        ],
+        "x": 464,
+        "y": 1039,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "13ee7e1ef14318b5",
+        "type": "group",
+        "z": "e30c392695b4b813",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f48bdf8d72c056c0",
+            "aa8a759f6b956fee",
+            "506ec0f72bd64107"
+        ],
+        "x": 434,
+        "y": 1179,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "cee70ecb980b809f",
+        "type": "group",
+        "z": "0b6f24f26e309bd0",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "96eb2b8d0531eda3",
+            "3890dadace968fcf",
+            "f14f5a0ca02dba42"
+        ],
+        "x": 424,
+        "y": 1119,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "660885a7a5be28cf",
+        "type": "group",
+        "z": "a8b2e7178cc214e3",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8c766fcdc7fccc64",
+            "b28a29cfe752834a",
+            "537b0e41812d4647"
+        ],
+        "x": 384,
+        "y": 1119,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "f611b156e28bb993",
+        "type": "group",
+        "z": "30e826456c806c39",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8fe5a2c820b3c062",
+            "5812a85ada33c215",
+            "36d6d81a9bc1a922"
+        ],
+        "x": 414,
+        "y": 1119,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "4782014c59a1fc17",
@@ -2452,114 +2530,6 @@
         ],
         "x": 474,
         "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "7939283416aa5d31",
-        "type": "group",
-        "z": "97bca276c16abc95",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "606ba2871e2b4fbf",
-            "73d5ae96bcfd9a62",
-            "35bfc4626ffbdfc0"
-        ],
-        "x": 384,
-        "y": 1119,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "1f62cb200d20d6bb",
-        "type": "group",
-        "z": "2a0afd77453149d1",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "bb37f2e55771102f",
-            "281b69f2e0396436",
-            "b273537a03a12c39"
-        ],
-        "x": 464,
-        "y": 1039,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "13ee7e1ef14318b5",
-        "type": "group",
-        "z": "e30c392695b4b813",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f48bdf8d72c056c0",
-            "aa8a759f6b956fee",
-            "506ec0f72bd64107"
-        ],
-        "x": 434,
-        "y": 1179,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "cee70ecb980b809f",
-        "type": "group",
-        "z": "0b6f24f26e309bd0",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "96eb2b8d0531eda3",
-            "3890dadace968fcf",
-            "f14f5a0ca02dba42"
-        ],
-        "x": 424,
-        "y": 1119,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "660885a7a5be28cf",
-        "type": "group",
-        "z": "a8b2e7178cc214e3",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8c766fcdc7fccc64",
-            "b28a29cfe752834a",
-            "537b0e41812d4647"
-        ],
-        "x": 384,
-        "y": 1119,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "f611b156e28bb993",
-        "type": "group",
-        "z": "30e826456c806c39",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8fe5a2c820b3c062",
-            "5812a85ada33c215",
-            "36d6d81a9bc1a922"
-        ],
-        "x": 414,
-        "y": 1119,
         "w": 272,
         "h": 122
     },
@@ -3395,76 +3365,6 @@
         "hidden": false
     },
     {
-        "id": "75368cc76b7e556f",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "5324db76841ab3ea",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ab7f2d91d4f9c0ea",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "6f4767ced2e802f1",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "bb4bd7c6bf41aca8",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "6f4767ced2e802f1",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "35e7a479fea28de6",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "054f93d7b0373556",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "e194f946e5bd4860",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "a29ef7af40a2b4a4",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "fdd99b1aa9b3020e",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "092f8a944cbf2576",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ca75742496bde451",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "a04b8dcd59043bf9",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
         "id": "560a3c9e59d3d598",
         "type": "ui_group",
         "name": "Measuring Devices",
@@ -3521,11 +3421,421 @@
         "hidden": false
     },
     {
-        "id": "a165301f4612fcc2",
+        "id": "7e11534c3946398b",
         "type": "ui_spacer",
-        "z": "a8b2e7178cc214e3",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "16375858875bafc1",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "8ed1b64e9d4aceac",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "c2cedd1eea0abc72",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "52f05996ec97d7e3",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "c81b856e413ba6a6",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "6f4767ced2e802f1",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "989f105ab9c1310f",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "60aad0bb05a54aff",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "9257dbf4867979da",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "391a9ce8b475ee97",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "db1e130e280d704b",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "6961d0d10410de12",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "5324db76841ab3ea",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "04bf82ae91f0bc44",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "e12ba0fe41c84a47",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "953e638dd5b8abc3",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "b9bb401dcfb1283e",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "088705549dc88a61",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "7e84efa507ca4996",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "054f93d7b0373556",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "643d6a960b482f91",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "5a3c5e0450c796bf",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "546f567f2dda1f25",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "648f34cb90b1e475",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "b3a739929cfcabed",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "22b27059c002f0fa",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "092f8a944cbf2576",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "f49c091fac287da1",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "20fbb0d9188859b3",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "549a94ec4efbd055",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "f1529c24f4311017",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a483e85e883b68c8",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "de6048d5f2640b49",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "a29ef7af40a2b4a4",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4ee8a305226d6317",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "69da8f3478fa4f57",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "163a15596b136938",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "9bd191bb16198709",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "3e4c9cd194bdbdc2",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "19f4449f207b66ae",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
         "name": "spacer",
         "group": "e1cf677fc8d9cbda",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8fea59d190aa1e9f",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d996f0be74deb40e",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "9387e01586969513",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "52d069eed6ee8c96",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "28b2098830e9fadb",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "6db6e347b4c3ff4e",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "a04b8dcd59043bf9",
         "order": 5,
         "width": 1,
         "height": 1
@@ -4536,7 +4846,7 @@
         "g": "845f4268e3199e1d",
         "name": "Measurement Diagram",
         "group": "814f49e501875186",
-        "order": 8,
+        "order": 11,
         "width": 12,
         "height": 5,
         "label": "",
@@ -4600,17 +4910,17 @@
         "g": "845f4268e3199e1d",
         "group": "814f49e501875186",
         "name": "Result",
-        "order": 9,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div>\n     <p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <font size=\"+4\">\n          <center>     \n                    <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1650,
-        "y": 1820,
+        "x": 1730,
+        "y": 1840,
         "wires": [
             []
         ]
@@ -4633,28 +4943,6 @@
             [
                 "0bc7f6e47886b686"
             ]
-        ]
-    },
-    {
-        "id": "da82ce4793672c6d",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "group": "814f49e501875186",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1660,
-        "y": 1860,
-        "wires": [
-            []
         ]
     },
     {
@@ -4707,7 +4995,7 @@
         "z": "f76015fff1ab449b",
         "g": "8e9639dd6a52feb3",
         "group": "814f49e501875186",
-        "order": 10,
+        "order": 14,
         "width": 6,
         "height": 1,
         "name": "",
@@ -4743,11 +5031,10 @@
         "y": 1740,
         "wires": [
             [
-                "da82ce4793672c6d",
                 "4875667208c4bb4f",
                 "85cc612c91620d6c",
                 "163d9b335d64b232",
-                "9767ae7be4407276"
+                "9620512234b7b62f"
             ]
         ]
     },
@@ -4765,7 +5052,6 @@
         "y": 1900,
         "wires": [
             [
-                "da82ce4793672c6d",
                 "4875667208c4bb4f",
                 "a6eb399a30aa2b6c"
             ]
@@ -4857,7 +5143,7 @@
         "g": "780c740174ed8448",
         "group": "814f49e501875186",
         "name": "Heading Overrides",
-        "order": 6,
+        "order": 9,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -5528,7 +5814,7 @@
         "g": "c95c71c85f7f9849",
         "name": "Button Messung",
         "group": "814f49e501875186",
-        "order": 11,
+        "order": 15,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -5744,7 +6030,7 @@
         "g": "c95c71c85f7f9849",
         "name": "Button Next",
         "group": "6f4767ced2e802f1",
-        "order": 11,
+        "order": 7,
         "width": 6,
         "height": 1,
         "passthru": false,
@@ -6376,13 +6662,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "9620512234b7b62f",
+        "type": "calculator",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1580,
+        "y": 1820,
+        "wires": [
+            [
+                "9767ae7be4407276"
+            ]
+        ]
+    },
+    {
         "id": "41736038a9b15a36",
         "type": "ui_button",
         "z": "97bca276c16abc95",
         "g": "3ca77137896b95fb",
         "name": "Button Messung",
         "group": "7bf9d4f551c45f5e",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -7101,7 +7409,7 @@
         "z": "97bca276c16abc95",
         "g": "a46784b1fcaec318",
         "group": "7bf9d4f551c45f5e",
-        "order": 7,
+        "order": 11,
         "width": 6,
         "height": 1,
         "name": "",
@@ -7145,7 +7453,7 @@
         "g": "aad35dc03f9f96dd",
         "name": "Measurement Diagram",
         "group": "7bf9d4f551c45f5e",
-        "order": 5,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -7261,34 +7569,11 @@
         "y": 1660,
         "wires": [
             [
-                "cea205eeb07676b9",
                 "72139c05dceb8de0",
                 "a3c031a49f179523",
                 "89025cf592f63261",
-                "8404b7afcd0fe9d9"
+                "3fc96acc2a200a40"
             ]
-        ]
-    },
-    {
-        "id": "cea205eeb07676b9",
-        "type": "ui_template",
-        "z": "97bca276c16abc95",
-        "g": "aad35dc03f9f96dd",
-        "group": "7bf9d4f551c45f5e",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1540,
-        "y": 1780,
-        "wires": [
-            []
         ]
     },
     {
@@ -7327,7 +7612,6 @@
         "y": 1820,
         "wires": [
             [
-                "cea205eeb07676b9",
                 "72139c05dceb8de0",
                 "a883423f1f215a7e"
             ]
@@ -7430,7 +7714,7 @@
         "g": "6e8953d914202ea4",
         "group": "814f49e501875186",
         "name": "Heading Overrides",
-        "order": 7,
+        "order": 10,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -8009,17 +8293,17 @@
         "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "Result",
-        "order": 6,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite: </p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite: </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1530,
-        "y": 1740,
+        "x": 1630,
+        "y": 1760,
         "wires": [
             []
         ]
@@ -8563,13 +8847,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "3fc96acc2a200a40",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1460,
+        "y": 1740,
+        "wires": [
+            [
+                "8404b7afcd0fe9d9"
+            ]
+        ]
+    },
+    {
         "id": "e81a033e24196b32",
         "type": "ui_button",
         "z": "2a0afd77453149d1",
         "g": "acb23dac66fe0d8b",
         "name": "Button Messung",
         "group": "63ce761b912114ae",
-        "order": 9,
+        "order": 13,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -9027,7 +9333,7 @@
         "g": "2cf293352e3cee14",
         "name": "Measurement Diagram",
         "group": "63ce761b912114ae",
-        "order": 6,
+        "order": 9,
         "width": 12,
         "height": 5,
         "label": "",
@@ -9072,17 +9378,17 @@
         "g": "2cf293352e3cee14",
         "group": "63ce761b912114ae",
         "name": "Result",
-        "order": 7,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1590,
-        "y": 1660,
+        "x": 1710,
+        "y": 1700,
         "wires": [
             []
         ]
@@ -9105,28 +9411,6 @@
             [
                 "6749f8cee8567333"
             ]
-        ]
-    },
-    {
-        "id": "09612004ac78da91",
-        "type": "ui_template",
-        "z": "2a0afd77453149d1",
-        "g": "2cf293352e3cee14",
-        "group": "63ce761b912114ae",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1600,
-        "y": 1700,
-        "wires": [
-            []
         ]
     },
     {
@@ -9179,7 +9463,7 @@
         "z": "2a0afd77453149d1",
         "g": "70dff54ed083811d",
         "group": "63ce761b912114ae",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 1,
         "name": "",
@@ -9215,11 +9499,10 @@
         "y": 1580,
         "wires": [
             [
-                "09612004ac78da91",
                 "db9b3c1ba7d23d04",
                 "e8fb24f128c3d285",
                 "b62c69f80f165393",
-                "d96bbb2ed204c5f8"
+                "4756f886debe829f"
             ]
         ]
     },
@@ -9252,7 +9535,6 @@
         "y": 1720,
         "wires": [
             [
-                "09612004ac78da91",
                 "db9b3c1ba7d23d04",
                 "ccd9069e9ce80e04"
             ]
@@ -9624,7 +9906,7 @@
         "g": "58de42e9f0769879",
         "group": "63ce761b912114ae",
         "name": "Heading Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -10760,13 +11042,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "4756f886debe829f",
+        "type": "calculator",
+        "z": "2a0afd77453149d1",
+        "g": "2cf293352e3cee14",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1600,
+        "y": 1660,
+        "wires": [
+            [
+                "d96bbb2ed204c5f8"
+            ]
+        ]
+    },
+    {
         "id": "2aebc267cf28930f",
         "type": "ui_button",
         "z": "e30c392695b4b813",
         "g": "f2672f5d109f47ae",
         "name": "Button Messung",
         "group": "60bfac62dc9f6f0b",
-        "order": 9,
+        "order": 13,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -11224,7 +11528,7 @@
         "g": "8ab35d62324ce00c",
         "name": "Measurement Diagram",
         "group": "60bfac62dc9f6f0b",
-        "order": 6,
+        "order": 9,
         "width": 12,
         "height": 5,
         "label": "",
@@ -11269,17 +11573,17 @@
         "g": "8ab35d62324ce00c",
         "group": "60bfac62dc9f6f0b",
         "name": "Result",
-        "order": 7,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1670,
-        "y": 1820,
+        "x": 1810,
+        "y": 1860,
         "wires": [
             []
         ]
@@ -11302,28 +11606,6 @@
             [
                 "08721a53d1644290"
             ]
-        ]
-    },
-    {
-        "id": "32c42b81f3acf3de",
-        "type": "ui_template",
-        "z": "e30c392695b4b813",
-        "g": "8ab35d62324ce00c",
-        "group": "60bfac62dc9f6f0b",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1680,
-        "y": 1860,
-        "wires": [
-            []
         ]
     },
     {
@@ -11376,7 +11658,7 @@
         "z": "e30c392695b4b813",
         "g": "f32343183e9c9e51",
         "group": "60bfac62dc9f6f0b",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 1,
         "name": "",
@@ -11412,11 +11694,10 @@
         "y": 1740,
         "wires": [
             [
-                "32c42b81f3acf3de",
                 "2a15c47721c80d56",
                 "f205b6db6576d917",
                 "038c9ce48dc34fe8",
-                "4881eb2f5b7a3357"
+                "93f564cbef5b9603"
             ]
         ]
     },
@@ -11449,7 +11730,6 @@
         "y": 1900,
         "wires": [
             [
-                "32c42b81f3acf3de",
                 "2a15c47721c80d56",
                 "43e877f04bea6a12"
             ]
@@ -11821,7 +12101,7 @@
         "g": "62658be016b831f9",
         "group": "60bfac62dc9f6f0b",
         "name": "Heading Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -12957,13 +13237,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "93f564cbef5b9603",
+        "type": "calculator",
+        "z": "e30c392695b4b813",
+        "g": "8ab35d62324ce00c",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1680,
+        "y": 1820,
+        "wires": [
+            [
+                "4881eb2f5b7a3357"
+            ]
+        ]
+    },
+    {
         "id": "7a5f9f8b17fb4354",
         "type": "ui_button",
         "z": "0b6f24f26e309bd0",
         "g": "efec034816e3d1a4",
         "name": "Button Messung",
         "group": "7811cf98b737806b",
-        "order": 9,
+        "order": 13,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -13421,7 +13723,7 @@
         "g": "49fe87a3db7441c6",
         "name": "Measurement Diagram",
         "group": "7811cf98b737806b",
-        "order": 6,
+        "order": 9,
         "width": 12,
         "height": 5,
         "label": "",
@@ -13466,17 +13768,17 @@
         "g": "49fe87a3db7441c6",
         "group": "7811cf98b737806b",
         "name": "Result",
-        "order": 7,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Durchschnitt</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Durchschnitt</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1630,
-        "y": 1780,
+        "x": 1770,
+        "y": 1820,
         "wires": [
             []
         ]
@@ -13499,28 +13801,6 @@
             [
                 "ec6d0b666ddc9d6e"
             ]
-        ]
-    },
-    {
-        "id": "bb84f248ada66dbf",
-        "type": "ui_template",
-        "z": "0b6f24f26e309bd0",
-        "g": "49fe87a3db7441c6",
-        "group": "7811cf98b737806b",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1640,
-        "y": 1820,
-        "wires": [
-            []
         ]
     },
     {
@@ -13573,7 +13853,7 @@
         "z": "0b6f24f26e309bd0",
         "g": "bca4306ba871994a",
         "group": "7811cf98b737806b",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 1,
         "name": "",
@@ -13611,7 +13891,7 @@
             [
                 "cea37b9d7b61cf5c",
                 "de7cf1a8f394f795",
-                "2f31c1d74f9d3ecf"
+                "a9cb839cc1d8808d"
             ]
         ]
     },
@@ -13644,7 +13924,6 @@
         "y": 1840,
         "wires": [
             [
-                "bb84f248ada66dbf",
                 "878169c4bc5fb49e",
                 "696049c0e837b246"
             ]
@@ -14016,7 +14295,7 @@
         "g": "6c1d4390cec1ec27",
         "group": "7811cf98b737806b",
         "name": "Heading Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -15053,13 +15332,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "a9cb839cc1d8808d",
+        "type": "calculator",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1620,
+        "y": 1780,
+        "wires": [
+            [
+                "2f31c1d74f9d3ecf"
+            ]
+        ]
+    },
+    {
         "id": "b9af135a6526b151",
         "type": "ui_button",
         "z": "a8b2e7178cc214e3",
         "g": "e880cd819650d6b7",
         "name": "Button Messung",
         "group": "560a3c9e59d3d598",
-        "order": 9,
+        "order": 13,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -15517,7 +15818,7 @@
         "g": "eb83fb8c6cd63b51",
         "name": "Measurement Diagram",
         "group": "560a3c9e59d3d598",
-        "order": 6,
+        "order": 9,
         "width": 12,
         "height": 5,
         "label": "",
@@ -15562,17 +15863,17 @@
         "g": "eb83fb8c6cd63b51",
         "group": "560a3c9e59d3d598",
         "name": "Result",
-        "order": 7,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Rundheitstoleranz </p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Rundheitstoleranz </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1810,
-        "y": 1780,
+        "x": 1910,
+        "y": 1820,
         "wires": [
             []
         ]
@@ -15595,28 +15896,6 @@
             [
                 "cafa1af88d14707d"
             ]
-        ]
-    },
-    {
-        "id": "eff855fdfd2c79c1",
-        "type": "ui_template",
-        "z": "a8b2e7178cc214e3",
-        "g": "eb83fb8c6cd63b51",
-        "group": "560a3c9e59d3d598",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1820,
-        "y": 1820,
-        "wires": [
-            []
         ]
     },
     {
@@ -15669,7 +15948,7 @@
         "z": "a8b2e7178cc214e3",
         "g": "74ad2d205941a89c",
         "group": "560a3c9e59d3d598",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 1,
         "name": "",
@@ -15738,7 +16017,6 @@
         "y": 1840,
         "wires": [
             [
-                "eff855fdfd2c79c1",
                 "dcaf5f82011321ca",
                 "3bb269e6b6d55cc7"
             ]
@@ -16110,7 +16388,7 @@
         "g": "a815e39e328ee9b9",
         "group": "560a3c9e59d3d598",
         "name": "Heading Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -17201,9 +17479,8 @@
             [
                 "fc39133fdce4ab4c",
                 "2ad41fcff6767048",
-                "385623d0ee294538",
-                "eff855fdfd2c79c1",
-                "dcaf5f82011321ca"
+                "dcaf5f82011321ca",
+                "2d52a2c7339593f5"
             ]
         ]
     },
@@ -17272,13 +17549,35 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "2d52a2c7339593f5",
+        "type": "calculator",
+        "z": "a8b2e7178cc214e3",
+        "g": "eb83fb8c6cd63b51",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1800,
+        "y": 1780,
+        "wires": [
+            [
+                "385623d0ee294538"
+            ]
+        ]
+    },
+    {
         "id": "66c1d714ea98bfc2",
         "type": "ui_button",
         "z": "30e826456c806c39",
         "g": "50392007280f7ee4",
         "name": "Button Messung",
         "group": "3326e113a2f7ba6b",
-        "order": 9,
+        "order": 13,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -17738,7 +18037,7 @@
         "g": "164f2485b94aaba9",
         "name": "Measurement Diagram",
         "group": "3326e113a2f7ba6b",
-        "order": 6,
+        "order": 9,
         "width": 12,
         "height": 5,
         "label": "",
@@ -17783,17 +18082,17 @@
         "g": "164f2485b94aaba9",
         "group": "3326e113a2f7ba6b",
         "name": "Result",
-        "order": 7,
+        "order": 4,
         "width": 6,
-        "height": 2,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spamnnweite:</p></div>\n<div>\n     <center>\n          <b ng-bind-html=\"msg.value\"></b>\n     </center>\n</div>",
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spamnnweite:</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1710,
-        "y": 1740,
+        "x": 1790,
+        "y": 1780,
         "wires": [
             []
         ]
@@ -17816,28 +18115,6 @@
             [
                 "56760126bbcb5506"
             ]
-        ]
-    },
-    {
-        "id": "beb987f7ca3d57ea",
-        "type": "ui_template",
-        "z": "30e826456c806c39",
-        "g": "164f2485b94aaba9",
-        "group": "3326e113a2f7ba6b",
-        "name": "LED right",
-        "order": 4,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1720,
-        "y": 1780,
-        "wires": [
-            []
         ]
     },
     {
@@ -17890,7 +18167,7 @@
         "z": "30e826456c806c39",
         "g": "827aa793e91b64c2",
         "group": "3326e113a2f7ba6b",
-        "order": 8,
+        "order": 12,
         "width": 6,
         "height": 1,
         "name": "",
@@ -17926,11 +18203,10 @@
         "y": 1660,
         "wires": [
             [
-                "beb987f7ca3d57ea",
                 "61cf45b74dbee639",
                 "bc38f24339fa1533",
                 "19d3cd7e0e98e6f2",
-                "46147d3fc80cf372"
+                "14d3b2d4c42730e9"
             ]
         ]
     },
@@ -17963,7 +18239,6 @@
         "y": 1820,
         "wires": [
             [
-                "beb987f7ca3d57ea",
                 "61cf45b74dbee639",
                 "46816b8f315dab0a"
             ]
@@ -18335,7 +18610,7 @@
         "g": "d06992dfd408b7aa",
         "group": "3326e113a2f7ba6b",
         "name": "Heading Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -19457,6 +19732,28 @@
         "y": 1200,
         "wires": [],
         "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "14d3b2d4c42730e9",
+        "type": "calculator",
+        "z": "30e826456c806c39",
+        "g": "164f2485b94aaba9",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1680,
+        "y": 1740,
+        "wires": [
+            [
+                "46147d3fc80cf372"
+            ]
+        ]
     },
     {
         "id": "560844fe456ab87d",
@@ -23043,7 +23340,7 @@
         "z": "055a1f062782b51d",
         "group": "814f49e501875186",
         "name": "Gauge3 Overrides",
-        "order": 5,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\nmd-card.nr-dashboard-template.gauge3 .g-body {\n    border-radius: 50%;\n}\n\nmd-card.nr-dashboard-template.gauge3 .g-body::before {    \n    border-radius:50%;\n}\nmd-card.nr-dashboard-template.gauge3 .g-rivets {\n    display:none;\n}\n</style>",
@@ -23094,7 +23391,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "1",
+        "repeat": "0.5",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
@@ -23156,9 +23453,7 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [
-            "368c3c772a33762d"
-        ],
+        "links": [],
         "x": 1465,
         "y": 600,
         "wires": []
@@ -23694,9 +23989,7 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [
-            "ebcbe221c3431249"
-        ],
+        "links": [],
         "x": 245,
         "y": 400,
         "wires": [
