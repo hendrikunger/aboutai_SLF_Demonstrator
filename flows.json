@@ -573,9 +573,7 @@
             "bbb865b67a4031dc"
         ],
         "x": 414,
-        "y": 259,
-        "w": 512,
-        "h": 142
+        "y": 259
     },
     {
         "id": "780c740174ed8448",
@@ -840,9 +838,7 @@
             "93d4d514da70c38d"
         ],
         "x": 34,
-        "y": 1306,
-        "w": 1169,
-        "h": 235
+        "y": 1306
     },
     {
         "id": "6c1d4390cec1ec27",
@@ -859,9 +855,7 @@
             "b24e033732d305c4"
         ],
         "x": 34,
-        "y": 419,
-        "w": 652,
-        "h": 122
+        "y": 419
     },
     {
         "id": "1379c8709e0ece67",
@@ -881,9 +875,7 @@
             "aed0a478b1e382c4"
         ],
         "x": 44,
-        "y": 259,
-        "w": 902,
-        "h": 142
+        "y": 259
     },
     {
         "id": "827aa793e91b64c2",
@@ -906,9 +898,7 @@
             "55ac36156805d683"
         ],
         "x": 34,
-        "y": 1266,
-        "w": 1169,
-        "h": 235
+        "y": 1266
     },
     {
         "id": "d06992dfd408b7aa",
@@ -925,9 +915,7 @@
             "af42f3863319b754"
         ],
         "x": 34,
-        "y": 419,
-        "w": 652,
-        "h": 122
+        "y": 419
     },
     {
         "id": "79d4f9ad1ab959d6",
@@ -947,9 +935,7 @@
             "7cf02ee2d3f6ee7b"
         ],
         "x": 24,
-        "y": 239,
-        "w": 902,
-        "h": 142
+        "y": 239
     },
     {
         "id": "273d420bd5ddf182",
@@ -1039,9 +1025,7 @@
             "d0a8d92641ee3be3"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1042,
-        "h": 162
+        "y": 39
     },
     {
         "id": "0c0f177a54113eb9",
@@ -1062,9 +1046,7 @@
             "65dc63400b7e7095"
         ],
         "x": 34,
-        "y": 39,
-        "w": 992,
-        "h": 162
+        "y": 39
     },
     {
         "id": "11ba5c55451f20f8",
@@ -1208,12 +1190,14 @@
             "a883423f1f215a7e",
             "7dfc06bc03e703ce",
             "0e8c505c5b9b76f4",
-            "3fc96acc2a200a40"
+            "3fc96acc2a200a40",
+            "483481edec182f43",
+            "8a84098978f0d5c0"
         ],
         "x": 4,
         "y": 1539,
         "w": 2202,
-        "h": 322
+        "h": 382
     },
     {
         "id": "49fe87a3db7441c6",
@@ -1252,9 +1236,7 @@
             "a9cb839cc1d8808d"
         ],
         "x": 34,
-        "y": 1579,
-        "w": 2032,
-        "h": 322
+        "y": 1579
     },
     {
         "id": "164f2485b94aaba9",
@@ -1289,9 +1271,7 @@
             "14d3b2d4c42730e9"
         ],
         "x": 34,
-        "y": 1539,
-        "w": 2352,
-        "h": 322
+        "y": 1539
     },
     {
         "id": "4829d01fa6230cb2",
@@ -1389,9 +1369,7 @@
             "23a82ad2e61292b6"
         ],
         "x": 774,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "42735bfaa53df92b",
@@ -1409,9 +1387,7 @@
             "dc58c79840dfd4c1"
         ],
         "x": 894,
-        "y": 379,
-        "w": 782,
-        "h": 82
+        "y": 379
     },
     {
         "id": "3805328bf6053039",
@@ -1580,9 +1556,7 @@
             "5559395d3310f426"
         ],
         "x": 54,
-        "y": 679,
-        "w": 1658,
-        "h": 448
+        "y": 679
     },
     {
         "id": "50392007280f7ee4",
@@ -1618,9 +1592,7 @@
             "edfd75f3f4fbfed5"
         ],
         "x": 34,
-        "y": 619,
-        "w": 1658,
-        "h": 508
+        "y": 619
     },
     {
         "id": "c95c71c85f7f9849",
@@ -1920,9 +1892,7 @@
             "f14f5a0ca02dba42"
         ],
         "x": 424,
-        "y": 1119,
-        "w": 272,
-        "h": 122
+        "y": 1119
     },
     {
         "id": "660885a7a5be28cf",
@@ -1956,9 +1926,7 @@
             "36d6d81a9bc1a922"
         ],
         "x": 414,
-        "y": 1119,
-        "w": 272,
-        "h": 122
+        "y": 1119
     },
     {
         "id": "4782014c59a1fc17",
@@ -2225,9 +2193,7 @@
             "281e8267145e75b9"
         ],
         "x": 1274,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "47119d105f62d791",
@@ -2247,9 +2213,7 @@
             "55ea92167a359d6d"
         ],
         "x": 304,
-        "y": 799,
-        "w": 342,
-        "h": 202
+        "y": 799
     },
     {
         "id": "b09b4ed3e741e5f0",
@@ -2265,9 +2229,7 @@
             "b0f2e927af94dbc9"
         ],
         "x": 1094,
-        "y": 739,
-        "w": 202,
-        "h": 82
+        "y": 739
     },
     {
         "id": "5559395d3310f426",
@@ -2282,9 +2244,7 @@
             "131bf85a21c92239"
         ],
         "x": 1274,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "e73064b668513727",
@@ -2301,9 +2261,7 @@
             "fc842d462185a2b5"
         ],
         "x": 1254,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "f19af0c1598a7869",
@@ -2323,9 +2281,7 @@
             "cc352ce9cc2b5d42"
         ],
         "x": 274,
-        "y": 799,
-        "w": 352,
-        "h": 202
+        "y": 799
     },
     {
         "id": "a130c28386315d62",
@@ -2341,9 +2297,7 @@
             "86b57a598da4bf16"
         ],
         "x": 1094,
-        "y": 759,
-        "w": 202,
-        "h": 82
+        "y": 759
     },
     {
         "id": "edfd75f3f4fbfed5",
@@ -2358,9 +2312,7 @@
             "71424d2078547abd"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -3387,31 +3339,6 @@
         "className": ""
     },
     {
-        "id": "88302e22f637012d",
-        "type": "postgreSQLConfig",
-        "name": "",
-        "host": "127.0.0.1",
-        "hostFieldType": "str",
-        "port": "5432",
-        "portFieldType": "num",
-        "database": "qa_measurements",
-        "databaseFieldType": "str",
-        "ssl": "false",
-        "sslFieldType": "bool",
-        "applicationName": "",
-        "applicationNameType": "str",
-        "max": "10",
-        "maxFieldType": "num",
-        "idle": "1000",
-        "idleFieldType": "num",
-        "connectionTimeout": "10000",
-        "connectionTimeoutFieldType": "num",
-        "user": "qa_measurements",
-        "userFieldType": "str",
-        "password": "qa_measurements",
-        "passwordFieldType": "str"
-    },
-    {
         "id": "32dc656ac87c3519",
         "type": "ui_tab",
         "name": "m5_1",
@@ -3476,66 +3403,6 @@
         "z": "f76015fff1ab449b",
         "name": "spacer",
         "group": "6f4767ced2e802f1",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "989f105ab9c1310f",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "60aad0bb05a54aff",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "9257dbf4867979da",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "391a9ce8b475ee97",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "db1e130e280d704b",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "6961d0d10410de12",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "5324db76841ab3ea",
         "order": 5,
         "width": 1,
         "height": 1
@@ -3836,6 +3703,46 @@
         "z": "2a0afd77453149d1",
         "name": "spacer",
         "group": "a04b8dcd59043bf9",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "b6d6ba9446f8ef5c",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 6,
+        "width": 18,
+        "height": 1
+    },
+    {
+        "id": "ab80dd32287bf4ac",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "6a0009551d7884c1",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "f91afad6dff4a7be",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "5324db76841ab3ea",
         "order": 5,
         "width": 1,
         "height": 1
@@ -6690,7 +6597,7 @@
         "g": "3ca77137896b95fb",
         "name": "Button Messung",
         "group": "7bf9d4f551c45f5e",
-        "order": 12,
+        "order": 11,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -7409,7 +7316,7 @@
         "z": "97bca276c16abc95",
         "g": "a46784b1fcaec318",
         "group": "7bf9d4f551c45f5e",
-        "order": 11,
+        "order": 10,
         "width": 6,
         "height": 1,
         "name": "",
@@ -7453,7 +7360,7 @@
         "g": "aad35dc03f9f96dd",
         "name": "Measurement Diagram",
         "group": "7bf9d4f551c45f5e",
-        "order": 8,
+        "order": 7,
         "width": 12,
         "height": 5,
         "label": "",
@@ -7527,6 +7434,13 @@
             },
             {
                 "t": "set",
+                "p": "type2",
+                "pt": "msg",
+                "to": "m2_1",
+                "tot": "str"
+            },
+            {
+                "t": "set",
                 "p": "station",
                 "pt": "msg",
                 "to": "name",
@@ -7559,7 +7473,7 @@
         "z": "97bca276c16abc95",
         "g": "aad35dc03f9f96dd",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.span;\nlet tolerance = msg.payload[0].abmass;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nmsg.value2 = msg.avg\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -7572,7 +7486,8 @@
                 "72139c05dceb8de0",
                 "a3c031a49f179523",
                 "89025cf592f63261",
-                "3fc96acc2a200a40"
+                "3fc96acc2a200a40",
+                "8a84098978f0d5c0"
             ]
         ]
     },
@@ -7592,8 +7507,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1540,
-        "y": 1820,
+        "x": 1640,
+        "y": 1880,
         "wires": [
             []
         ]
@@ -8302,8 +8217,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1630,
-        "y": 1760,
+        "x": 2010,
+        "y": 1740,
         "wires": [
             []
         ]
@@ -8328,11 +8243,12 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1280,
-        "y": 1760,
+        "x": 1660,
+        "y": 1820,
         "wires": [
             [
-                "8404b7afcd0fe9d9"
+                "8404b7afcd0fe9d9",
+                "483481edec182f43"
             ]
         ]
     },
@@ -8608,7 +8524,7 @@
         "z": "97bca276c16abc95",
         "g": "aad35dc03f9f96dd",
         "name": "",
-        "query": "INSERT INTO measurement_values(station, type, lot, ringid,value, data, pass)\n\tVALUES ('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}})\n\tRETURNING extract(epoch from created);",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid, value, data, pass)\n\tVALUES \n\t\t('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, array[{{{msg.payload}}}] , {{{msg.pass}}}),\n\t\t('{{{msg.station}}}', '{{{msg.type2}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value2}}}, array[{{{msg.payload}}}] , {{{msg.pass}}})\n\tRETURNING extract(epoch from created);",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -8739,6 +8655,13 @@
             },
             {
                 "t": "set",
+                "p": "type2",
+                "pt": "msg",
+                "to": "m2_1",
+                "tot": "str"
+            },
+            {
+                "t": "set",
                 "p": "station",
                 "pt": "msg",
                 "to": "name",
@@ -8771,7 +8694,7 @@
         "z": "97bca276c16abc95",
         "g": "3ca77137896b95fb",
         "name": "",
-        "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND type = '{{{msg.type}}}';\n",
+        "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND (type = '{{{msg.type}}}' OR type = '{{{msg.type2}}}');\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -8860,11 +8783,55 @@
         "truncate": false,
         "decimals": 0,
         "decimals2": 0,
-        "x": 1460,
+        "x": 1640,
         "y": 1740,
         "wires": [
             [
                 "8404b7afcd0fe9d9"
+            ]
+        ]
+    },
+    {
+        "id": "483481edec182f43",
+        "type": "ui_template",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "group": "7bf9d4f551c45f5e",
+        "name": "Result2",
+        "order": 5,
+        "width": 6,
+        "height": 3,
+        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Abmaß: </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </center>\n     </font>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 2000,
+        "y": 1780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a84098978f0d5c0",
+        "type": "calculator",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "name": "",
+        "inputMsgField": "value2",
+        "outputMsgField": "value2",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "truncate": false,
+        "decimals": 0,
+        "decimals2": 0,
+        "x": 1640,
+        "y": 1780,
+        "wires": [
+            [
+                "483481edec182f43"
             ]
         ]
     },
@@ -17449,7 +17416,7 @@
         "g": "e880cd819650d6b7",
         "name": "",
         "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND type = '{{{msg.type}}}';\n",
-        "postgreSQLConfig": "88302e22f637012d",
+        "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
@@ -23453,7 +23420,9 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [],
+        "links": [
+            "368c3c772a33762d"
+        ],
         "x": 1465,
         "y": 600,
         "wires": []
@@ -23989,7 +23958,9 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [],
+        "links": [
+            "ebcbe221c3431249"
+        ],
         "x": 245,
         "y": 400,
         "wires": [
