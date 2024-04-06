@@ -159,9 +159,7 @@
             "ab0ab7c7db7e4c46"
         ],
         "x": 34,
-        "y": 1326,
-        "w": 1169,
-        "h": 235
+        "y": 1326
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -222,9 +220,7 @@
             "f81d2b1e8fb96cae"
         ],
         "x": 34,
-        "y": 39,
-        "w": 392,
-        "h": 282
+        "y": 39
     },
     {
         "id": "845f4268e3199e1d",
@@ -259,9 +255,7 @@
             "9620512234b7b62f"
         ],
         "x": 14,
-        "y": 1619,
-        "w": 2432,
-        "h": 322
+        "y": 1619
     },
     {
         "id": "986a61aab651f4f0",
@@ -282,9 +276,7 @@
             "93e53c79c8468f79"
         ],
         "x": 34,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -614,9 +606,7 @@
             "b3c4c44513a239ec"
         ],
         "x": 34,
-        "y": 399,
-        "w": 652,
-        "h": 122
+        "y": 399
     },
     {
         "id": "a46784b1fcaec318",
@@ -717,9 +707,7 @@
             "19375a1a97e5e381"
         ],
         "x": 24,
-        "y": 239,
-        "w": 862,
-        "h": 142
+        "y": 239
     },
     {
         "id": "a4fa0b2b0b924c26",
@@ -1066,7 +1054,9 @@
             "3cb98a8a7cd1f431",
             "76b25ae36ef5b731",
             "61f5783c078cbc4b",
-            "7e667df4f5e39c25"
+            "7e667df4f5e39c25",
+            "a5fe38970d82e328",
+            "bff7024756cbbb19"
         ],
         "x": 1014,
         "y": 79,
@@ -1285,9 +1275,7 @@
             "f5504d7c5079dde1"
         ],
         "x": 774,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "25aa3564c26c7cc1",
@@ -1615,9 +1603,7 @@
             "9ec6774c0f289716"
         ],
         "x": 34,
-        "y": 559,
-        "w": 1658,
-        "h": 648
+        "y": 559
     },
     {
         "id": "74ad2d205941a89c",
@@ -2267,9 +2253,7 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1254,
-        "y": 919,
-        "w": 412,
-        "h": 122
+        "y": 919
     },
     {
         "id": "8fb1da913ebbb0a8",
@@ -2289,9 +2273,7 @@
             "fda943f3a6add609"
         ],
         "x": 274,
-        "y": 739,
-        "w": 352,
-        "h": 202
+        "y": 739
     },
     {
         "id": "e93f7bfc305fe380",
@@ -2307,9 +2289,7 @@
             "0e48aac0cc361391"
         ],
         "x": 1194,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "92b4f553da63bd74",
@@ -2324,9 +2304,7 @@
             "efa429021e13e670"
         ],
         "x": 1254,
-        "y": 819,
-        "w": 272,
-        "h": 82
+        "y": 819
     },
     {
         "id": "a56ec20e5c83b6c4",
@@ -2411,9 +2389,26 @@
             "e82976f501f1a67d"
         ],
         "x": 474,
-        "y": 1059,
-        "w": 272,
-        "h": 122
+        "y": 1059
+    },
+    {
+        "id": "1554faecc8bedb61",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Copy Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "38ce5cde89dc5418",
+            "821bc399a1d43b58",
+            "d10239a037cdef9f",
+            "c7399e8aba6f51d7"
+        ],
+        "x": 14,
+        "y": 599,
+        "w": 772,
+        "h": 82
     },
     {
         "id": "8b9d2116be6fd249",
@@ -3666,22 +3661,6 @@
         "order": 5,
         "width": 1,
         "height": 1
-    },
-    {
-        "id": "66f9da05.cd6dec",
-        "type": "ui_tab",
-        "name": "Summary",
-        "icon": "flight_takeoff",
-        "order": 1,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "5d86edbf.ced464",
-        "type": "ui_tab",
-        "name": "Übersicht",
-        "icon": "dashboard",
-        "order": 1
     },
     {
         "id": "9cfc7ccd9e3269ca",
@@ -19616,7 +19595,7 @@
         "z": "6b590c258a4420ac",
         "group": "2f7987c7396caf32",
         "name": "",
-        "order": 3,
+        "order": 4,
         "width": 6,
         "height": 63,
         "columns": [
@@ -19653,7 +19632,9 @@
         "links": [
             "76b25ae36ef5b731",
             "f5adf1cfb8b83ef6",
-            "fc0a0938eaf441d5"
+            "fc0a0938eaf441d5",
+            "7a0e9bc575be2893",
+            "d10239a037cdef9f"
         ],
         "x": 265,
         "y": 120,
@@ -19764,7 +19745,8 @@
             "bc44068bbc50ed36",
             "c6073f683084c2e8",
             "fc0a0938eaf441d5",
-            "76b25ae36ef5b731"
+            "76b25ae36ef5b731",
+            "d10239a037cdef9f"
         ],
         "x": 55,
         "y": 220,
@@ -19844,7 +19826,7 @@
         "name": "Button Add",
         "group": "2f7987c7396caf32",
         "order": 1,
-        "width": 3,
+        "width": 2,
         "height": 1,
         "passthru": false,
         "label": "",
@@ -19891,14 +19873,14 @@
         "g": "170bc2b0ca05699c",
         "name": "Button Delete",
         "group": "2f7987c7396caf32",
-        "order": 2,
-        "width": 3,
+        "order": 3,
+        "width": 2,
         "height": 1,
         "passthru": false,
         "label": "",
         "tooltip": "Löschen des ausgewählten Elements",
         "color": "",
-        "bgcolor": "",
+        "bgcolor": "#FF0000",
         "className": "",
         "icon": "delete_forever",
         "payload": "currentElementId",
@@ -20018,23 +20000,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m1_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m1_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m1_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -20218,7 +20200,8 @@
         "g": "6abae160f1c7a382",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 260,
@@ -20251,7 +20234,9 @@
         "x": 1540,
         "y": 120,
         "wires": [
-            []
+            [
+                "bff7024756cbbb19"
+            ]
         ]
     },
     {
@@ -20267,7 +20252,7 @@
         "width": 12,
         "height": 1,
         "passthru": true,
-        "mode": "number",
+        "mode": "text",
         "delay": 300,
         "topic": "topic",
         "sendOnBlur": true,
@@ -20466,23 +20451,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m2_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m2_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m2_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -20572,7 +20557,8 @@
         "g": "01925cd1e85e9280",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 440,
@@ -20663,23 +20649,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m3_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m3_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m3_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -20769,7 +20755,8 @@
         "g": "1e8ef7fce0e3f0f1",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 620,
@@ -20860,23 +20847,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m4_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m4_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m4_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -20966,7 +20953,8 @@
         "g": "b9b6c6776205ea97",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 800,
@@ -21057,23 +21045,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m5_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m5_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m5_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -21163,7 +21151,8 @@
         "g": "0a3c81f83d01120f",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 980,
@@ -21254,23 +21243,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m6_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m6_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m6_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -21360,7 +21349,8 @@
         "g": "fa4ae97e5a92823e",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 1160,
@@ -21451,23 +21441,23 @@
                 "rows": null
             },
             {
-                "label": "Abmaß",
+                "label": "Abmaß in µm",
                 "value": "m7_abmass",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Obere Toleranz",
+                "label": "Obere Toleranz in µm",
                 "value": "m7_ot",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Untere Toleranz",
+                "label": "Untere Toleranz in µm",
                 "value": "m7_ut",
-                "type": "number",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
@@ -21557,7 +21547,8 @@
         "g": "22d4558fb92d5197",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 1340,
@@ -21649,31 +21640,31 @@
             },
             {
                 "label": "Abmaß",
-                "value": "m8_abmass",
-                "type": "number",
+                "value": "m8_abmass in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Obere Toleranz",
-                "value": "m8_ot",
-                "type": "number",
+                "value": "m8_ot in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Untere Toleranz",
-                "value": "m8_ut",
-                "type": "number",
+                "value": "m8_ut in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
         ],
         "formValue": {
             "m8_active": false,
-            "m8_abmass": "",
-            "m8_ot": "",
-            "m8_ut": ""
+            "m8_abmass in µm": "",
+            "m8_ot in µm": "",
+            "m8_ut in µm": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -21754,7 +21745,8 @@
         "g": "eebaebbce7e5460d",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 1520,
@@ -21846,31 +21838,31 @@
             },
             {
                 "label": "Abmaß",
-                "value": "m9_abmass",
-                "type": "number",
+                "value": "m9_abmass in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Obere Toleranz",
-                "value": "m9_ot",
-                "type": "number",
+                "value": "m9_ot in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Untere Toleranz",
-                "value": "m9_ut",
-                "type": "number",
+                "value": "m9_ut in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
         ],
         "formValue": {
             "m9_active": false,
-            "m9_abmass": "",
-            "m9_ot": "",
-            "m9_ut": ""
+            "m9_abmass in µm": "",
+            "m9_ot in µm": "",
+            "m9_ut in µm": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -21951,7 +21943,8 @@
         "g": "3ff455c9ab26afe3",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 1700,
@@ -22043,31 +22036,31 @@
             },
             {
                 "label": "Abmaß",
-                "value": "m10_abmass",
-                "type": "number",
+                "value": "m10_abmass in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Obere Toleranz",
-                "value": "m10_ot",
-                "type": "number",
+                "value": "m10_ot in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             },
             {
                 "label": "Untere Toleranz",
-                "value": "m10_ut",
-                "type": "number",
+                "value": "m10_ut in µm",
+                "type": "text",
                 "required": false,
                 "rows": null
             }
         ],
         "formValue": {
             "m10_active": false,
-            "m10_abmass": "",
-            "m10_ot": "",
-            "m10_ut": ""
+            "m10_abmass in µm": "",
+            "m10_ot in µm": "",
+            "m10_ut in µm": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -22148,7 +22141,8 @@
         "g": "6ae87c414fad9be1",
         "name": "Reset Form",
         "links": [
-            "f5adf1cfb8b83ef6"
+            "f5adf1cfb8b83ef6",
+            "7a0e9bc575be2893"
         ],
         "x": 1045,
         "y": 1880,
@@ -23093,6 +23087,158 @@
         "wires": [
             [
                 "93beaccf57698dcb"
+            ]
+        ]
+    },
+    {
+        "id": "38ce5cde89dc5418",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "1554faecc8bedb61",
+        "name": "",
+        "query": "INSERT INTO public.config( \nstation,\nname,\nnennmass,\nm1_active,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_active,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_active,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_active,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_active,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_active,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_active,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_active,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_active,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_active,\nm10_abmass,\nm10_ot,\nm10_ut\n)\nSELECT station,\nname,\nnennmass,\nm1_active,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_active,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_active,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_active,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_active,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_active,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_active,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_active,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_active,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_active,\nm10_abmass,\nm10_ot,\nm10_ut \nFROM public.config WHERE id={{{msg.payload}}}\nRETURNING *;\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 430,
+        "y": 640,
+        "wires": [
+            [
+                "c7399e8aba6f51d7"
+            ]
+        ]
+    },
+    {
+        "id": "821bc399a1d43b58",
+        "type": "ui_button",
+        "z": "6b590c258a4420ac",
+        "g": "1554faecc8bedb61",
+        "name": "Button Copy",
+        "group": "2f7987c7396caf32",
+        "order": 2,
+        "width": 2,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "Kopieren des ausgewählten Elements",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "content_copy",
+        "payload": "currentElementId",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 110,
+        "y": 640,
+        "wires": [
+            [
+                "38ce5cde89dc5418"
+            ]
+        ]
+    },
+    {
+        "id": "d10239a037cdef9f",
+        "type": "link out",
+        "z": "6b590c258a4420ac",
+        "g": "1554faecc8bedb61",
+        "name": "Copy Finished",
+        "mode": "link",
+        "links": [
+            "4b405c6e9d95eeb5",
+            "9871c3adf3527e30"
+        ],
+        "x": 745,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "c7399e8aba6f51d7",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "1554faecc8bedb61",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload[0]",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 640,
+        "wires": [
+            [
+                "d10239a037cdef9f"
+            ]
+        ]
+    },
+    {
+        "id": "a5fe38970d82e328",
+        "type": "postgresql",
+        "z": "6b590c258a4420ac",
+        "g": "11ba5c55451f20f8",
+        "name": "",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}'\n\tWHERE id={{{msg.currentElementId}}}\n\tRETURNING *;",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1910,
+        "y": 120,
+        "wires": [
+            [
+                "61f5783c078cbc4b"
+            ]
+        ]
+    },
+    {
+        "id": "bff7024756cbbb19",
+        "type": "change",
+        "z": "6b590c258a4420ac",
+        "g": "11ba5c55451f20f8",
+        "name": "Get Seleted Type",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"nennmass\":payload}",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "currentElementId",
+                "pt": "msg",
+                "to": "currentElementId",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "payload.elementname",
+                "pt": "msg",
+                "to": "ElementName",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1730,
+        "y": 120,
+        "wires": [
+            [
+                "a5fe38970d82e328"
             ]
         ]
     },
