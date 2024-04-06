@@ -159,7 +159,9 @@
             "ab0ab7c7db7e4c46"
         ],
         "x": 34,
-        "y": 1326
+        "y": 1326,
+        "w": 1169,
+        "h": 235
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -220,7 +222,9 @@
             "f81d2b1e8fb96cae"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 392,
+        "h": 282
     },
     {
         "id": "845f4268e3199e1d",
@@ -255,7 +259,9 @@
             "9620512234b7b62f"
         ],
         "x": 14,
-        "y": 1619
+        "y": 1619,
+        "w": 2432,
+        "h": 322
     },
     {
         "id": "986a61aab651f4f0",
@@ -276,7 +282,9 @@
             "93e53c79c8468f79"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -293,7 +301,9 @@
             "4b405c6e9d95eeb5"
         ],
         "x": 14,
-        "y": 179
+        "y": 179,
+        "w": 572,
+        "h": 142
     },
     {
         "id": "d3b265c86780b5ac",
@@ -311,7 +321,9 @@
             "06cf91f0a304d82c"
         ],
         "x": 14,
-        "y": 359
+        "y": 359,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "170bc2b0ca05699c",
@@ -327,7 +339,9 @@
             "f5adf1cfb8b83ef6"
         ],
         "x": 14,
-        "y": 479
+        "y": 479,
+        "w": 592,
+        "h": 82
     },
     {
         "id": "6abae160f1c7a382",
@@ -349,7 +363,9 @@
             "c78237a0de83ea19"
         ],
         "x": 1004,
-        "y": 219
+        "y": 219,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "01925cd1e85e9280",
@@ -371,7 +387,9 @@
             "b8128bb4f831bb2d"
         ],
         "x": 1004,
-        "y": 399
+        "y": 399,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "1e8ef7fce0e3f0f1",
@@ -393,7 +411,9 @@
             "d8020c18a70ec45a"
         ],
         "x": 1004,
-        "y": 579
+        "y": 579,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "b9b6c6776205ea97",
@@ -415,7 +435,9 @@
             "84f32043f18c7e48"
         ],
         "x": 1004,
-        "y": 759
+        "y": 759,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "0a3c81f83d01120f",
@@ -437,7 +459,9 @@
             "d16ef79308fdcf96"
         ],
         "x": 1004,
-        "y": 939
+        "y": 939,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "fa4ae97e5a92823e",
@@ -459,7 +483,9 @@
             "f657b6c40fc9fa3c"
         ],
         "x": 1004,
-        "y": 1119
+        "y": 1119,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "22d4558fb92d5197",
@@ -481,7 +507,9 @@
             "f79bbe2020d945de"
         ],
         "x": 1004,
-        "y": 1299
+        "y": 1299,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "eebaebbce7e5460d",
@@ -503,7 +531,9 @@
             "5ee5ee1ea1d2a7f8"
         ],
         "x": 1004,
-        "y": 1479
+        "y": 1479,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "3ff455c9ab26afe3",
@@ -525,7 +555,9 @@
             "a460621fe1f9fecc"
         ],
         "x": 1004,
-        "y": 1659
+        "y": 1659,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "6ae87c414fad9be1",
@@ -547,7 +579,9 @@
             "11e620d0f598e695"
         ],
         "x": 1004,
-        "y": 1839
+        "y": 1839,
+        "w": 1252,
+        "h": 162
     },
     {
         "id": "d012a80f9e9ec332",
@@ -580,7 +614,9 @@
             "b3c4c44513a239ec"
         ],
         "x": 34,
-        "y": 399
+        "y": 399,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "a46784b1fcaec318",
@@ -681,7 +717,9 @@
             "19375a1a97e5e381"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 862,
+        "h": 142
     },
     {
         "id": "a4fa0b2b0b924c26",
@@ -1031,7 +1069,9 @@
             "7e667df4f5e39c25"
         ],
         "x": 1014,
-        "y": 79
+        "y": 79,
+        "w": 1102,
+        "h": 122
     },
     {
         "id": "8ab35d62324ce00c",
@@ -1245,7 +1285,9 @@
             "f5504d7c5079dde1"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "25aa3564c26c7cc1",
@@ -1357,7 +1399,9 @@
             "bf5bfafbf4c28a8e"
         ],
         "x": 14,
-        "y": 2059
+        "y": 2059,
+        "w": 1212,
+        "h": 142
     },
     {
         "id": "3ca77137896b95fb",
@@ -1571,7 +1615,9 @@
             "9ec6774c0f289716"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1658,
+        "h": 648
     },
     {
         "id": "74ad2d205941a89c",
@@ -2221,7 +2267,9 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1254,
-        "y": 919
+        "y": 919,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "8fb1da913ebbb0a8",
@@ -2241,7 +2289,9 @@
             "fda943f3a6add609"
         ],
         "x": 274,
-        "y": 739
+        "y": 739,
+        "w": 352,
+        "h": 202
     },
     {
         "id": "e93f7bfc305fe380",
@@ -2257,7 +2307,9 @@
             "0e48aac0cc361391"
         ],
         "x": 1194,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "92b4f553da63bd74",
@@ -2272,7 +2324,9 @@
             "efa429021e13e670"
         ],
         "x": 1254,
-        "y": 819
+        "y": 819,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "a56ec20e5c83b6c4",
@@ -2357,7 +2411,9 @@
             "e82976f501f1a67d"
         ],
         "x": 474,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "8b9d2116be6fd249",
@@ -3612,6 +3668,22 @@
         "height": 1
     },
     {
+        "id": "66f9da05.cd6dec",
+        "type": "ui_tab",
+        "name": "Summary",
+        "icon": "flight_takeoff",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5d86edbf.ced464",
+        "type": "ui_tab",
+        "name": "Übersicht",
+        "icon": "dashboard",
+        "order": 1
+    },
+    {
         "id": "9cfc7ccd9e3269ca",
         "type": "ui_ui_control",
         "z": "9516ce2929752e9f",
@@ -4582,9 +4654,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 800,
         "y": 1740,
         "wires": [
@@ -5269,9 +5339,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 340,
         "y": 1740,
         "wires": [
@@ -5291,9 +5359,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 480,
         "y": 1740,
         "wires": [
@@ -5313,9 +5379,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 640,
         "y": 1740,
         "wires": [
@@ -6443,9 +6507,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1580,
         "y": 1820,
         "wires": [
@@ -7959,9 +8021,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 320,
         "y": 1620,
         "wires": [
@@ -7981,9 +8041,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 460,
         "y": 1620,
         "wires": [
@@ -8003,9 +8061,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 620,
         "y": 1620,
         "wires": [
@@ -8025,9 +8081,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 780,
         "y": 1620,
         "wires": [
@@ -8644,9 +8698,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1640,
         "y": 1740,
         "wires": [
@@ -8688,9 +8740,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1640,
         "y": 1780,
         "wires": [
@@ -10239,9 +10289,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 360,
         "y": 1540,
         "wires": [
@@ -10261,9 +10309,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 500,
         "y": 1540,
         "wires": [
@@ -10283,9 +10329,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 660,
         "y": 1540,
         "wires": [
@@ -10883,9 +10927,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1600,
         "y": 1660,
         "wires": [
@@ -12434,9 +12476,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 380,
         "y": 1700,
         "wires": [
@@ -12456,9 +12496,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 540,
         "y": 1700,
         "wires": [
@@ -12478,9 +12516,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 700,
         "y": 1700,
         "wires": [
@@ -13078,9 +13114,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1680,
         "y": 1820,
         "wires": [
@@ -14628,9 +14662,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 420,
         "y": 1660,
         "wires": [
@@ -14650,9 +14682,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 560,
         "y": 1660,
         "wires": [
@@ -14672,9 +14702,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 720,
         "y": 1660,
         "wires": [
@@ -15173,9 +15201,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1620,
         "y": 1780,
         "wires": [
@@ -16721,9 +16747,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 440,
         "y": 1660,
         "wires": [
@@ -16743,9 +16767,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 580,
         "y": 1660,
         "wires": [
@@ -16765,9 +16787,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 740,
         "y": 1660,
         "wires": [
@@ -17301,9 +17321,7 @@
         "operation": "rdec",
         "constant": "4",
         "round": false,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1560,
         "y": 1700,
         "wires": [
@@ -17390,9 +17408,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1800,
         "y": 1780,
         "wires": [
@@ -17833,9 +17849,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 900,
         "y": 1620,
         "wires": [
@@ -18931,9 +18945,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 420,
         "y": 1620,
         "wires": [
@@ -18953,9 +18965,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 560,
         "y": 1620,
         "wires": [
@@ -18975,9 +18985,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 720,
         "y": 1620,
         "wires": [
@@ -19575,9 +19583,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": 0,
         "x": 1680,
         "y": 1740,
         "wires": [
@@ -23208,6 +23214,27 @@
         ]
     },
     {
+        "id": "9f1e1fb.3fc78e",
+        "type": "ui_template",
+        "z": "055a1f062782b51d",
+        "group": "f5e2c3bf3d5a99b2",
+        "name": "Logo",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    $(function () {\n        \n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = \"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI3IiBoZWlnaHQ9IjEyNyIgdmlld0JveD0iMCAwIDEyNyAxMjciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8Y2lyY2xlIGN4PSI2My41IiBjeT0iNjMuNSIgcj0iNjMuNSIgZmlsbD0id2hpdGUiLz4NCjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF8xOTc5XzE0OTMwKSI+DQo8cGF0aCBkPSJNNjYuODk0MyAxNi4xNjgyQzY1LjcxNzMgMTYgNjQuNTQwMiAxNiA2My4zNjMxIDE2QzYyLjE4NiAxNiA2MS4xNzcxIDE2IDYwIDE2LjE2ODJWMTAwLjc1SDkxLjc4MTJDOTQuMzAzNiA5OC45MDAzIDk2LjQ4OTYgOTYuODgyNSA5OC4zMzkzIDk0LjUyODNINjYuODk0M1YxNi4xNjgyWiIgZmlsbD0iIzAwOUNERCIvPg0KPHBhdGggZD0iTTQyLjM1NTcgNTkuMjE0M0MzOC42NTYyIDU4LjcwOTggMzguMTUxOCA1OC41NDE3IDM1LjQ2MTMgNTguMjA1NEMyOS41NzU5IDU3LjM2NDYgMjcuODk0MyA1Mi4zMTk5IDI3Ljg5NDMgNDkuMTI1QzI3Ljg5NDMgNDUuMjU3NCAzMS4wODkzIDQxLjIyMTcgMzYuMzAyMSA0MS4yMjE3SDU1LjQ3MTdWMzVIMzQuNjIwNUMyNy41NTggMzUgMjEgNDEuODk0MyAyMSA0OS4xMjVDMjEgNTYuMTg3NSAyNC4zNjMxIDYzLjQxODIgMzUuMjkzMiA2NC45MzE1QzM4LjY1NjIgNjUuMjY3OSAzOC45OTI2IDY1LjQzNiA0Mi4xODc1IDY1Ljc3MjNDNDUuODg2OSA2Ni4xMDg2IDUwLjI1ODkgNjkuNDcxNyA1MC4yNTg5IDc0LjY4NDVDNTAuMjU4OSA3OS41NjEgNDYuODk1OCA4My43NjQ5IDQxLjM0NjcgODMuNzY0OUgyMS4zMzYzQzIyLjE3NzEgODUuOTUwOSAyMy4xODYgODcuOTY4OCAyNC44Njc2IDkwLjE1NDhINDMuMTk2NEM1MC45MzE1IDkwLjE1NDggNTcuMTUzMyA4NC4xMDEyIDU3LjE1MzMgNzQuODUyN0M1Ny4xNTMzIDY3Ljk1ODMgNTMuOTU4MyA2MC44OTU4IDQyLjM1NTcgNTkuMjE0M1oiIGZpbGw9IiMwMDlDREQiLz4NCjxwYXRoIGQ9Ik0xMDkuNTA3IDU5LjA0NjFINzcuODk0M1Y0MS4yMjE3SDEwMy45NThDMTAyLjk0OSAzOS4wMzU3IDEwMS42MDQgMzYuODQ5NyA5OS45MjI2IDM1SDcxVjkwLjE1NDhINzcuODk0M1Y2NS4yNjc5SDEwOS42NzZDMTA5Ljg0NCA2NC43NjM0IDEwOS44NDQgNjQuMjU4OSAxMDkuODQ0IDYzLjkyMjZDMTA5Ljg0NCA2Mi4wNzI5IDEwOS42NzYgNjAuODk1OCAxMDkuNTA3IDU5LjA0NjFaIiBmaWxsPSIjMDA5Q0REIi8+DQo8cGF0aCBkPSJNNjMuNSA3QzMyLjM5MTQgNyA3IDMyLjIyMzIgNyA2My41QzcgOTQuNzc2OCAzMi4zOTE0IDEyMC4xNjggNjMuNSAxMjBDOTQuNjA4NiAxMjAgMTIwIDk0LjYwODYgMTIwIDYzLjVDMTIwIDMyLjM5MTQgOTQuNzc2OCA3IDYzLjUgN1pNNjMuNjY4MiAxMTMuOTQ2QzM1Ljc1NDUgMTEzLjk0NiAxNC4wNjI1IDkxLjQxMzcgMTQuMDYyNSA2My41QzE0LjA2MjUgMzUuNTg2MyAzNS45MjI2IDEzLjA1MzYgNjMuNjY4MiAxMy4wNTM2QzkxLjU4MTggMTMuMDUzNiAxMTMuMjc0IDM1LjU4NjMgMTEzLjI3NCA2My41QzExMy4yNzQgOTEuNDEzNyA5MS40MTM3IDExMy45NDYgNjMuNjY4MiAxMTMuOTQ2WiIgZmlsbD0iIzAwOUNERCIvPg0KPC9nPg0KPGRlZnM+DQo8Y2xpcFBhdGggaWQ9ImNsaXAwXzE5NzlfMTQ5MzAiPg0KPHJlY3Qgd2lkdGg9IjExMyIgaGVpZ2h0PSIxMTMiIGZpbGw9IndoaXRlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3IDcpIi8+DQo8L2NsaXBQYXRoPg0KPC9kZWZzPg0KPC9zdmc+DQo=\"\n        logo.height = 45;\n        div1[0].style.margin = 'auto 10px auto auto';\n        div1[0].id=\"CustomLogo\"\n\n        div1.append(logo);\n\n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            var div2 = $('div#CustomLogo');\n            if(div2.length) return;\n            \n            toolbar.append(div1);\n        }\n        addToToolbar()\n    });\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 90,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "7b584dba0f5faffe",
         "type": "inject",
         "z": "fe233ff436b4d8c7",
@@ -23747,9 +23774,7 @@
         "operation": "rdec",
         "constant": "4",
         "round": false,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": "0",
         "x": 860,
         "y": 300,
         "wires": [
