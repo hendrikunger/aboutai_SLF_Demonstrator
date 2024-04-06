@@ -161,7 +161,9 @@
             "ab0ab7c7db7e4c46"
         ],
         "x": 34,
-        "y": 1326
+        "y": 1326,
+        "w": 1169,
+        "h": 235
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -259,7 +261,9 @@
             "9620512234b7b62f"
         ],
         "x": 14,
-        "y": 1619
+        "y": 1619,
+        "w": 2432,
+        "h": 322
     },
     {
         "id": "986a61aab651f4f0",
@@ -280,7 +284,9 @@
             "93e53c79c8468f79"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -356,7 +362,8 @@
             "d3d94a8a9d03b903",
             "d9ac99f24584d5f8",
             "63ddbc7c66726e85",
-            "c78237a0de83ea19"
+            "c78237a0de83ea19",
+            "c139e0802906f9f5"
         ],
         "x": 1004,
         "y": 219,
@@ -380,7 +387,8 @@
             "8c358dc63bc0de98",
             "95ca065e48f90be5",
             "1b97bc7d7d76cac8",
-            "b8128bb4f831bb2d"
+            "b8128bb4f831bb2d",
+            "2321b48f45cd160f"
         ],
         "x": 1004,
         "y": 399,
@@ -404,7 +412,8 @@
             "90cb07d2e85f028e",
             "f50804780fdb1e39",
             "c7ebedd310ec9aee",
-            "d8020c18a70ec45a"
+            "d8020c18a70ec45a",
+            "572da9a4981a9860"
         ],
         "x": 1004,
         "y": 579,
@@ -428,7 +437,8 @@
             "4e9dc1c522ee07a9",
             "bbf4bf63d34d6f10",
             "f54cda64b6cbf685",
-            "84f32043f18c7e48"
+            "84f32043f18c7e48",
+            "6f86872a505a484e"
         ],
         "x": 1004,
         "y": 759,
@@ -452,7 +462,8 @@
             "6624fcd415a4a069",
             "b6dc2366865865fd",
             "59bb49ccf38e5c79",
-            "d16ef79308fdcf96"
+            "d16ef79308fdcf96",
+            "e7f89b9e6dd51ab4"
         ],
         "x": 1004,
         "y": 939,
@@ -476,7 +487,8 @@
             "a50c763a04c9736d",
             "64dfbddd69f4475f",
             "7b576f2e7005f878",
-            "f657b6c40fc9fa3c"
+            "f657b6c40fc9fa3c",
+            "478e4c18fb129f91"
         ],
         "x": 1004,
         "y": 1119,
@@ -500,7 +512,8 @@
             "4cde1e65fc2b4213",
             "e7756bcdeeac3982",
             "5600da61517bbcba",
-            "f79bbe2020d945de"
+            "f79bbe2020d945de",
+            "f9aa817b08df3993"
         ],
         "x": 1004,
         "y": 1299,
@@ -524,7 +537,8 @@
             "a7972aec080a6e9a",
             "f4389f133d033e7b",
             "3df77274db52b37a",
-            "5ee5ee1ea1d2a7f8"
+            "5ee5ee1ea1d2a7f8",
+            "e74ebaf8cefeaf50"
         ],
         "x": 1004,
         "y": 1479,
@@ -548,7 +562,8 @@
             "aed20feca5a18805",
             "555dfde8b41fe7ba",
             "c256dca92653571a",
-            "a460621fe1f9fecc"
+            "a460621fe1f9fecc",
+            "c5085d21779d6e0f"
         ],
         "x": 1004,
         "y": 1659,
@@ -572,7 +587,8 @@
             "5c09d74059dfaa9b",
             "bbbe1887735263e8",
             "0469523940f68568",
-            "11e620d0f598e695"
+            "11e620d0f598e695",
+            "50216228ab515259"
         ],
         "x": 1004,
         "y": 1839,
@@ -593,7 +609,9 @@
             "bbb865b67a4031dc"
         ],
         "x": 414,
-        "y": 259
+        "y": 259,
+        "w": 512,
+        "h": 142
     },
     {
         "id": "780c740174ed8448",
@@ -610,7 +628,9 @@
             "b3c4c44513a239ec"
         ],
         "x": 34,
-        "y": 399
+        "y": 399,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "a46784b1fcaec318",
@@ -711,7 +731,9 @@
             "19375a1a97e5e381"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 862,
+        "h": 142
     },
     {
         "id": "a4fa0b2b0b924c26",
@@ -1279,7 +1301,9 @@
             "f5504d7c5079dde1"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "25aa3564c26c7cc1",
@@ -1607,7 +1631,9 @@
             "9ec6774c0f289716"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1658,
+        "h": 648
     },
     {
         "id": "74ad2d205941a89c",
@@ -2278,7 +2304,9 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1254,
-        "y": 919
+        "y": 919,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "8fb1da913ebbb0a8",
@@ -2298,7 +2326,9 @@
             "fda943f3a6add609"
         ],
         "x": 274,
-        "y": 739
+        "y": 739,
+        "w": 352,
+        "h": 202
     },
     {
         "id": "e93f7bfc305fe380",
@@ -2314,7 +2344,9 @@
             "0e48aac0cc361391"
         ],
         "x": 1194,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "92b4f553da63bd74",
@@ -2329,7 +2361,9 @@
             "efa429021e13e670"
         ],
         "x": 1254,
-        "y": 819
+        "y": 819,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "a56ec20e5c83b6c4",
@@ -2414,7 +2448,28 @@
             "e82976f501f1a67d"
         ],
         "x": 474,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "289b36906f3be2f3",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Searchbar",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c3fb53f1604749d8",
+            "88e81bbdc59088bb",
+            "43ca5268e270a5e8",
+            "5a13b4ca526b06c2"
+        ],
+        "x": 14,
+        "y": 359,
+        "w": 652,
+        "h": 82
     },
     {
         "id": "8b9d2116be6fd249",
@@ -3694,7 +3749,7 @@
             "f480cf459eb1a279",
             "fb47ce7bb210d3dd"
         ],
-        "x": 105,
+        "x": 195,
         "y": 100,
         "wires": [
             [
@@ -19932,12 +19987,12 @@
         "z": "6b590c258a4420ac",
         "g": "6abae160f1c7a382",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m1_active={{{msg.payload.m1_active}}},\n    m1_abmass={{{msg.payload.m1_abmass}}},\n    m1_ot={{{msg.payload.m1_ot}}},\n    m1_ut={{{msg.payload.m1_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m1_order={{{msg.payload.m1_order}}},\n    m1_sensor_id={{{msg.payload.m1_sensor_id}}},\n    m1_abmass={{{msg.payload.m1_abmass}}},\n    m1_ot={{{msg.payload.m1_ot}}},\n    m1_ut={{{msg.payload.m1_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 340,
         "wires": [
             [
@@ -19979,7 +20034,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 340,
         "wires": [
             [
@@ -20000,10 +20055,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m1_active",
-                "type": "checkbox",
-                "required": true,
+                "label": "Messungsreihenfolge",
+                "value": "m1_order",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m1_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -20029,7 +20091,8 @@
             }
         ],
         "formValue": {
-            "m1_active": false,
+            "m1_order": "",
+            "m1_sensor_id": "",
             "m1_abmass": "",
             "m1_ot": "",
             "m1_ut": ""
@@ -20138,7 +20201,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1090,
+        "x": 1130,
         "y": 40,
         "wires": [
             []
@@ -20183,7 +20246,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{\"m1_abmass\":\"0\",\"m1_ot\":0,\"m1_ut\":0,\"m1_sensor_id\":null,\"m1_order\":null}",
                 "tot": "json"
             }
         ],
@@ -20383,12 +20446,12 @@
         "z": "6b590c258a4420ac",
         "g": "01925cd1e85e9280",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm2_active={{{msg.payload.m2_active}}}, \n\tm2_abmass={{{msg.payload.m2_abmass}}}, \n\tm2_ot={{{msg.payload.m2_ot}}}, \n\tm2_ut=0\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m2_order={{{msg.payload.m2_order}}},\n    m2_sensor_id={{{msg.payload.m2_sensor_id}}},\n    m2_abmass={{{msg.payload.m2_abmass}}},\n    m2_ot={{{msg.payload.m2_ot}}},\n    m2_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 520,
         "wires": [
             [
@@ -20430,7 +20493,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 520,
         "wires": [
             [
@@ -20451,10 +20514,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m2_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m2_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m2_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -20473,7 +20543,8 @@
             }
         ],
         "formValue": {
-            "m2_active": false,
+            "m2_order": "",
+            "m2_sensor_id": "",
             "m2_abmass": "",
             "m2_ot": ""
         },
@@ -20532,7 +20603,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{\"m2_abmass\":\"0\",\"m2_ot\":0,\"m2_ut\":0,\"m2_sensor_id\":null,\"m2_order\":null}",
                 "tot": "json"
             }
         ],
@@ -20573,12 +20644,12 @@
         "z": "6b590c258a4420ac",
         "g": "1e8ef7fce0e3f0f1",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm3_active={{{msg.payload.m3_active}}}, \n\tm3_abmass={{{msg.payload.m3_abmass}}}, \n\tm3_ot={{{msg.payload.m3_ot}}}, \n\tm3_ut=0\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m3_order={{{msg.payload.m3_order}}},\n    m3_sensor_id={{{msg.payload.m3_sensor_id}}},\n    m3_abmass={{{msg.payload.m3_abmass}}},\n    m3_ot={{{msg.payload.m3_ot}}},\n    m3_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 700,
         "wires": [
             [
@@ -20620,7 +20691,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 700,
         "wires": [
             [
@@ -20641,10 +20712,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m3_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m3_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m3_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -20663,7 +20741,8 @@
             }
         ],
         "formValue": {
-            "m3_active": false,
+            "m3_order": "",
+            "m3_sensor_id": "",
             "m3_abmass": "",
             "m3_ot": ""
         },
@@ -20722,7 +20801,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m3_abmass\": \"0\",     \"m3_ot\": 0,     \"m3_ut\": 0,     \"m3_sensor_id\": null,     \"m3_order\": null }",
                 "tot": "json"
             }
         ],
@@ -20763,12 +20842,12 @@
         "z": "6b590c258a4420ac",
         "g": "b9b6c6776205ea97",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm4_active={{{msg.payload.m4_active}}}, \n\tm4_abmass={{{msg.payload.m4_abmass}}}, \n\tm4_ot={{{msg.payload.m4_ot}}}, \n\tm4_ut={{{msg.payload.m4_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m4_order={{{msg.payload.m4_order}}},\n    m4_sensor_id={{{msg.payload.m4_sensor_id}}},\n    m4_abmass={{{msg.payload.m4_abmass}}},\n    m4_ot={{{msg.payload.m4_ot}}},\n    m4_ut={{{msg.payload.m4_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 880,
         "wires": [
             [
@@ -20810,7 +20889,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 880,
         "wires": [
             [
@@ -20831,10 +20910,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m4_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m4_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m4_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -20860,7 +20946,8 @@
             }
         ],
         "formValue": {
-            "m4_active": false,
+            "m4_order": "",
+            "m4_sensor_id": "",
             "m4_abmass": "",
             "m4_ot": "",
             "m4_ut": ""
@@ -20920,7 +21007,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m4_abmass\": \"0\",     \"m4_ot\": 0,     \"m4_ut\": 0,     \"m4_sensor_id\": null,     \"m4_order\": null }",
                 "tot": "json"
             }
         ],
@@ -20961,12 +21048,12 @@
         "z": "6b590c258a4420ac",
         "g": "0a3c81f83d01120f",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm5_active={{{msg.payload.m5_active}}}, \n\tm5_abmass={{{msg.payload.m5_abmass}}}, \n\tm5_ot={{{msg.payload.m5_ot}}}, \n\tm5_ut={{{msg.payload.m5_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m5_order={{{msg.payload.m5_order}}},\n    m5_sensor_id={{{msg.payload.m5_sensor_id}}},\n    m5_abmass={{{msg.payload.m5_abmass}}},\n    m5_ot={{{msg.payload.m5_ot}}},\n    m5_ut={{{msg.payload.m5_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1060,
         "wires": [
             [
@@ -21008,7 +21095,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1060,
         "wires": [
             [
@@ -21029,10 +21116,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m5_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m5_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m5_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -21058,7 +21152,8 @@
             }
         ],
         "formValue": {
-            "m5_active": false,
+            "m5_order": "",
+            "m5_sensor_id": "",
             "m5_abmass": "",
             "m5_ot": "",
             "m5_ut": ""
@@ -21118,7 +21213,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m5_abmass\": \"0\",     \"m5_ot\": 0,     \"m5_ut\": 0,     \"m5_sensor_id\": null,     \"m5_order\": null }",
                 "tot": "json"
             }
         ],
@@ -21159,12 +21254,12 @@
         "z": "6b590c258a4420ac",
         "g": "fa4ae97e5a92823e",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm6_active={{{msg.payload.m6_active}}}, \n\tm6_abmass={{{msg.payload.m6_abmass}}}, \n\tm6_ot={{{msg.payload.m6_ot}}}, \n\tm6_ut={{{msg.payload.m6_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m6_order={{{msg.payload.m6_order}}},\n    m6_sensor_id={{{msg.payload.m6_sensor_id}}},\n    m6_abmass={{{msg.payload.m6_abmass}}},\n    m6_ot={{{msg.payload.m6_ot}}},\n    m6_ut={{{msg.payload.m6_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1240,
         "wires": [
             [
@@ -21206,7 +21301,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1240,
         "wires": [
             [
@@ -21227,10 +21322,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m6_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m6_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m6_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -21256,7 +21358,8 @@
             }
         ],
         "formValue": {
-            "m6_active": false,
+            "m6_order": "",
+            "m6_sensor_id": "",
             "m6_abmass": "",
             "m6_ot": "",
             "m6_ut": ""
@@ -21316,7 +21419,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m6_abmass\": \"0\",     \"m6_ot\": 0,     \"m6_ut\": 0,     \"m6_sensor_id\": null,     \"m6_order\": null }",
                 "tot": "json"
             }
         ],
@@ -21357,12 +21460,12 @@
         "z": "6b590c258a4420ac",
         "g": "22d4558fb92d5197",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm7_active={{{msg.payload.m7_active}}}, \n\tm7_abmass={{{msg.payload.m7_abmass}}}, \n\tm7_ot={{{msg.payload.m7_ot}}}, \n\tm7_ut={{{msg.payload.m7_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m7_order={{{msg.payload.m7_order}}},\n    m7_sensor_id={{{msg.payload.m7_sensor_id}}},\n    m7_abmass={{{msg.payload.m7_abmass}}},\n    m7_ot={{{msg.payload.m7_ot}}},\n    m7_ut={{{msg.payload.m7_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1420,
         "wires": [
             [
@@ -21404,7 +21507,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1420,
         "wires": [
             [
@@ -21425,10 +21528,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m7_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m7_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m7_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -21454,7 +21564,8 @@
             }
         ],
         "formValue": {
-            "m7_active": false,
+            "m7_order": "",
+            "m7_sensor_id": "",
             "m7_abmass": "",
             "m7_ot": "",
             "m7_ut": ""
@@ -21514,7 +21625,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m7_abmass\": \"0\",     \"m7_ot\": 0,     \"m7_ut\": 0,     \"m7_sensor_id\": null,     \"m7_order\": null }",
                 "tot": "json"
             }
         ],
@@ -21555,12 +21666,12 @@
         "z": "6b590c258a4420ac",
         "g": "eebaebbce7e5460d",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm8_active={{{msg.payload.m8_active}}}, \n\tm8_abmass={{{msg.payload.m8_abmass}}}, \n\tm8_ot={{{msg.payload.m8_ot}}}, \n\tm8_ut={{{msg.payload.m8_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m8_order={{{msg.payload.m8_order}}},\n    m8_sensor_id={{{msg.payload.m8_sensor_id}}},\n    m8_abmass={{{msg.payload.m8_abmass}}},\n    m8_ot={{{msg.payload.m8_ot}}},\n    m8_ut={{{msg.payload.m8_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1600,
         "wires": [
             [
@@ -21602,7 +21713,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1600,
         "wires": [
             [
@@ -21623,10 +21734,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m8_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m8_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m8_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -21652,7 +21770,8 @@
             }
         ],
         "formValue": {
-            "m8_active": false,
+            "m8_order": "",
+            "m8_sensor_id": "",
             "m8_abmass in µm": "",
             "m8_ot in µm": "",
             "m8_ut in µm": ""
@@ -21712,7 +21831,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m8_abmass\": \"0\",     \"m8_ot\": 0,     \"m8_ut\": 0,     \"m8_sensor_id\": null,     \"m8_order\": null }",
                 "tot": "json"
             }
         ],
@@ -21753,12 +21872,12 @@
         "z": "6b590c258a4420ac",
         "g": "3ff455c9ab26afe3",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm9_active={{{msg.payload.m9_active}}}, \n\tm9_abmass={{{msg.payload.m9_abmass}}}, \n\tm9_ot={{{msg.payload.m9_ot}}}, \n\tm9_ut={{{msg.payload.m9_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m9_order={{{msg.payload.m9_order}}},\n    m9_sensor_id={{{msg.payload.m9_sensor_id}}},\n    m9_abmass={{{msg.payload.m9_abmass}}},\n    m9_ot={{{msg.payload.m9_ot}}},\n    m9_ut={{{msg.payload.m9_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1780,
         "wires": [
             [
@@ -21800,7 +21919,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1780,
         "wires": [
             [
@@ -21821,10 +21940,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m9_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m9_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m9_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -21850,7 +21976,8 @@
             }
         ],
         "formValue": {
-            "m9_active": false,
+            "m9_order": "",
+            "m9_sensor_id": "",
             "m9_abmass in µm": "",
             "m9_ot in µm": "",
             "m9_ut in µm": ""
@@ -21910,7 +22037,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m9_abmass\": \"0\",     \"m9_ot\": 0,     \"m9_ut\": 0,     \"m9_sensor_id\": null,     \"m9_order\": null }",
                 "tot": "json"
             }
         ],
@@ -21951,12 +22078,12 @@
         "z": "6b590c258a4420ac",
         "g": "6ae87c414fad9be1",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm10_active={{{msg.payload.m10_active}}}, \n\tm10_abmass={{{msg.payload.m10_abmass}}}, \n\tm10_ot={{{msg.payload.m10_ot}}}, \n\tm10_ut={{{msg.payload.m10_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m10_order={{{msg.payload.m10_order}}},\n    m10_sensor_id={{{msg.payload.m10_sensor_id}}},\n    m10_abmass={{{msg.payload.m10_abmass}}},\n    m10_ot={{{msg.payload.m10_ot}}},\n    m10_ut={{{msg.payload.m10_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1750,
+        "x": 1910,
         "y": 1960,
         "wires": [
             [
@@ -21998,7 +22125,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1930,
+        "x": 2090,
         "y": 1960,
         "wires": [
             [
@@ -22019,10 +22146,17 @@
         "height": 1,
         "options": [
             {
-                "label": "Aktiviert",
-                "value": "m10_active",
-                "type": "checkbox",
+                "label": "Messungsreihenfolge",
+                "value": "m10_order",
+                "type": "number",
                 "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sensornummer",
+                "value": "m10_sensor_id",
+                "type": "number",
+                "required": false,
                 "rows": null
             },
             {
@@ -22048,7 +22182,8 @@
             }
         ],
         "formValue": {
-            "m10_active": false,
+            "m10_order": "",
+            "m10_sensor_id": "",
             "m10_abmass in µm": "",
             "m10_ot in µm": "",
             "m10_ut in µm": ""
@@ -22108,7 +22243,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "{\"id\":\"\",\"name\":\"\",\"nennmass\":0,\"abmass\":0,\"abmasstoleranz\":0,\"rundheitstoleranz\":0}",
+                "to": "{     \"m10_abmass\": \"0\",     \"m10_ot\": 0,     \"m10_ut\": 0,     \"m10_sensor_id\": null,     \"m10_order\": null }",
                 "tot": "json"
             }
         ],
@@ -22337,7 +22472,6 @@
         "y": 2100,
         "wires": [
             [
-                "8acfd2f84f9e069a",
                 "7ee357743140de4c"
             ]
         ]
@@ -22430,8 +22564,8 @@
         "y": 340,
         "wires": [
             [
-                "95a7230175c5100f",
-                "c78237a0de83ea19"
+                "c78237a0de83ea19",
+                "c139e0802906f9f5"
             ]
         ]
     },
@@ -22473,8 +22607,8 @@
         "y": 520,
         "wires": [
             [
-                "4fb57ae7914799ae",
-                "b8128bb4f831bb2d"
+                "b8128bb4f831bb2d",
+                "2321b48f45cd160f"
             ]
         ]
     },
@@ -22516,8 +22650,8 @@
         "y": 700,
         "wires": [
             [
-                "19cb1ff75975d727",
-                "d8020c18a70ec45a"
+                "d8020c18a70ec45a",
+                "572da9a4981a9860"
             ]
         ]
     },
@@ -22559,8 +22693,8 @@
         "y": 880,
         "wires": [
             [
-                "9c79bcd5b9a27051",
-                "84f32043f18c7e48"
+                "84f32043f18c7e48",
+                "6f86872a505a484e"
             ]
         ]
     },
@@ -22602,8 +22736,8 @@
         "y": 1060,
         "wires": [
             [
-                "df74f72a3ae22380",
-                "d16ef79308fdcf96"
+                "d16ef79308fdcf96",
+                "e7f89b9e6dd51ab4"
             ]
         ]
     },
@@ -22645,8 +22779,8 @@
         "y": 1240,
         "wires": [
             [
-                "81f2828d3b65b24a",
-                "f657b6c40fc9fa3c"
+                "f657b6c40fc9fa3c",
+                "478e4c18fb129f91"
             ]
         ]
     },
@@ -22688,8 +22822,8 @@
         "y": 1420,
         "wires": [
             [
-                "cbba6f72f84ea8e4",
-                "f79bbe2020d945de"
+                "f79bbe2020d945de",
+                "f9aa817b08df3993"
             ]
         ]
     },
@@ -22731,8 +22865,8 @@
         "y": 1600,
         "wires": [
             [
-                "99facd3624a283fc",
-                "5ee5ee1ea1d2a7f8"
+                "5ee5ee1ea1d2a7f8",
+                "e74ebaf8cefeaf50"
             ]
         ]
     },
@@ -22774,8 +22908,8 @@
         "y": 1780,
         "wires": [
             [
-                "23713bebb1f7dc03",
-                "a460621fe1f9fecc"
+                "a460621fe1f9fecc",
+                "c5085d21779d6e0f"
             ]
         ]
     },
@@ -22817,8 +22951,8 @@
         "y": 1960,
         "wires": [
             [
-                "813a2fd5c89443bb",
-                "11e620d0f598e695"
+                "11e620d0f598e695",
+                "50216228ab515259"
             ]
         ]
     },
@@ -23087,7 +23221,7 @@
         "z": "6b590c258a4420ac",
         "g": "1554faecc8bedb61",
         "name": "",
-        "query": "INSERT INTO public.config( \nstation,\nname,\nnennmass,\nm1_active,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_active,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_active,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_active,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_active,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_active,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_active,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_active,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_active,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_active,\nm10_abmass,\nm10_ot,\nm10_ut\n)\nSELECT station,\nname,\nnennmass,\nm1_active,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_active,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_active,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_active,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_active,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_active,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_active,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_active,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_active,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_active,\nm10_abmass,\nm10_ot,\nm10_ut \nFROM public.config WHERE id={{{msg.payload}}}\nRETURNING *;\n",
+        "query": "INSERT INTO public.config( \nstation,\nname,\nnennmass,\nm1_order,\nm1_sensor_id,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_order,\nm2_sensor_id,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_order,\nm3_sensor_id,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_order,\nm4_sensor_id,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_order,\nm5_sensor_id,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_order,\nm6_sensor_id,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_order,\nm7_sensor_id,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_order,\nm8_sensor_id,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_order,\nm9_sensor_id,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_order,\nm10_sensor_id,\nm10_abmass,\nm10_ot,\nm10_ut\n)\nSELECT station,\nname,\nnennmass,\nm1_order,\nm1_sensor_id,\nm1_abmass,\nm1_ot,\nm1_ut,\nm2_order,\nm2_sensor_id,\nm2_abmass,\nm2_ot,\nm2_ut,\nm3_order,\nm3_sensor_id,\nm3_abmass,\nm3_ot,\nm3_ut,\nm4_order,\nm4_sensor_id,\nm4_abmass,\nm4_ot,\nm4_ut,\nm5_order,\nm5_sensor_id,\nm5_abmass,\nm5_ot,\nm5_ut,\nm6_order,\nm6_sensor_id,\nm6_abmass,\nm6_ot,\nm6_ut,\nm7_order,\nm7_sensor_id,\nm7_abmass,\nm7_ot,\nm7_ut,\nm8_order,\nm8_sensor_id,\nm8_abmass,\nm8_ot,\nm8_ut,\nm9_order,\nm9_sensor_id,\nm9_abmass,\nm9_ot,\nm9_ut,\nm10_order,\nm10_sensor_id,\nm10_abmass,\nm10_ot,\nm10_ut\nFROM public.config WHERE id={{{msg.payload}}}\nRETURNING *;\n",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -23237,6 +23371,7 @@
         "id": "c3fb53f1604749d8",
         "type": "ui_text_input",
         "z": "6b590c258a4420ac",
+        "g": "289b36906f3be2f3",
         "name": "",
         "label": "Filter",
         "tooltip": "Filter",
@@ -23263,6 +23398,7 @@
         "id": "88e81bbdc59088bb",
         "type": "change",
         "z": "6b590c258a4420ac",
+        "g": "289b36906f3be2f3",
         "name": "Add Filter",
         "rules": [
             {
@@ -23306,6 +23442,7 @@
         "id": "43ca5268e270a5e8",
         "type": "ui_button",
         "z": "6b590c258a4420ac",
+        "g": "289b36906f3be2f3",
         "name": "Button Clear",
         "group": "2f7987c7396caf32",
         "order": 5,
@@ -23334,6 +23471,7 @@
         "id": "5a13b4ca526b06c2",
         "type": "change",
         "z": "6b590c258a4420ac",
+        "g": "289b36906f3be2f3",
         "name": "Clear Payload",
         "rules": [
             {
@@ -23354,6 +23492,206 @@
         "wires": [
             [
                 "c3fb53f1604749d8"
+            ]
+        ]
+    },
+    {
+        "id": "c139e0802906f9f5",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "6abae160f1c7a382",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m1_order == null){\n    msg.payload.m1_order = \"NULL::smallint\"\n}\nif (msg.payload.m1_sensor_id == null) {\n    msg.payload.m1_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 340,
+        "wires": [
+            [
+                "95a7230175c5100f"
+            ]
+        ]
+    },
+    {
+        "id": "2321b48f45cd160f",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "01925cd1e85e9280",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m2_order == null){\n    msg.payload.m2_order = \"NULL::smallint\"\n}\nif (msg.payload.m2_sensor_id == null) {\n    msg.payload.m2_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 520,
+        "wires": [
+            [
+                "4fb57ae7914799ae"
+            ]
+        ]
+    },
+    {
+        "id": "572da9a4981a9860",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "1e8ef7fce0e3f0f1",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m3_order == null){\n    msg.payload.m3_order = \"NULL::smallint\"\n}\nif (msg.payload.m3_sensor_id == null) {\n    msg.payload.m3_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 700,
+        "wires": [
+            [
+                "19cb1ff75975d727"
+            ]
+        ]
+    },
+    {
+        "id": "6f86872a505a484e",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "b9b6c6776205ea97",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m4_order == null){\n    msg.payload.m4_order = \"NULL::smallint\"\n}\nif (msg.payload.m4_sensor_id == null) {\n    msg.payload.m4_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 880,
+        "wires": [
+            [
+                "9c79bcd5b9a27051"
+            ]
+        ]
+    },
+    {
+        "id": "e7f89b9e6dd51ab4",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "0a3c81f83d01120f",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m5_order == null){\n    msg.payload.m5_order = \"NULL::smallint\"\n}\nif (msg.payload.m5_sensor_id == null) {\n    msg.payload.m5_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1060,
+        "wires": [
+            [
+                "df74f72a3ae22380"
+            ]
+        ]
+    },
+    {
+        "id": "478e4c18fb129f91",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "fa4ae97e5a92823e",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m6_order == null){\n    msg.payload.m6_order = \"NULL::smallint\"\n}\nif (msg.payload.m6_sensor_id == null) {\n    msg.payload.m6_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1240,
+        "wires": [
+            [
+                "81f2828d3b65b24a"
+            ]
+        ]
+    },
+    {
+        "id": "f9aa817b08df3993",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "22d4558fb92d5197",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m7_order == null){\n    msg.payload.m7_order = \"NULL::smallint\"\n}\nif (msg.payload.m7_sensor_id == null) {\n    msg.payload.m7_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1420,
+        "wires": [
+            [
+                "cbba6f72f84ea8e4"
+            ]
+        ]
+    },
+    {
+        "id": "e74ebaf8cefeaf50",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "eebaebbce7e5460d",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m8_order == null){\n    msg.payload.m8_order = \"NULL::smallint\"\n}\nif (msg.payload.m8_sensor_id == null) {\n    msg.payload.m8_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1600,
+        "wires": [
+            [
+                "99facd3624a283fc"
+            ]
+        ]
+    },
+    {
+        "id": "c5085d21779d6e0f",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "3ff455c9ab26afe3",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m9_order == null){\n    msg.payload.m9_order = \"NULL::smallint\"\n}\nif (msg.payload.m9_sensor_id == null) {\n    msg.payload.m9_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1780,
+        "wires": [
+            [
+                "23713bebb1f7dc03"
+            ]
+        ]
+    },
+    {
+        "id": "50216228ab515259",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "g": "6ae87c414fad9be1",
+        "name": "Handle Null",
+        "func": "\nif (msg.payload.m10_order == null){\n    msg.payload.m10_order = \"NULL::smallint\"\n}\nif (msg.payload.m10_sensor_id == null) {\n    msg.payload.m10_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1750,
+        "y": 1960,
+        "wires": [
+            [
+                "813a2fd5c89443bb"
             ]
         ]
     },
