@@ -136,7 +136,9 @@
             "8b0dbb210dc7063c"
         ],
         "x": 14,
-        "y": 559
+        "y": 559,
+        "w": 1492,
+        "h": 82
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -195,7 +197,9 @@
             "368c3c772a33762d"
         ],
         "x": 34,
-        "y": 54
+        "y": 54,
+        "w": 1372,
+        "h": 487
     },
     {
         "id": "fa8d67f658e81534",
@@ -1879,6 +1883,25 @@
         "y": 1119
     },
     {
+        "id": "1554faecc8bedb61",
+        "type": "group",
+        "z": "6b590c258a4420ac",
+        "name": "Copy Button",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "38ce5cde89dc5418",
+            "821bc399a1d43b58",
+            "d10239a037cdef9f",
+            "c7399e8aba6f51d7"
+        ],
+        "x": 14,
+        "y": 599,
+        "w": 772,
+        "h": 82
+    },
+    {
         "id": "4782014c59a1fc17",
         "type": "group",
         "z": "fe233ff436b4d8c7",
@@ -1896,7 +1919,9 @@
             "8d3c9719a67f5aef"
         ],
         "x": 354,
-        "y": 99
+        "y": 99,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "7eb72b1d55d66ff5",
@@ -2390,25 +2415,6 @@
         ],
         "x": 474,
         "y": 1059
-    },
-    {
-        "id": "1554faecc8bedb61",
-        "type": "group",
-        "z": "6b590c258a4420ac",
-        "name": "Copy Button",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "38ce5cde89dc5418",
-            "821bc399a1d43b58",
-            "d10239a037cdef9f",
-            "c7399e8aba6f51d7"
-        ],
-        "x": 14,
-        "y": 599,
-        "w": 772,
-        "h": 82
     },
     {
         "id": "8b9d2116be6fd249",
@@ -20376,7 +20382,7 @@
         "z": "6b590c258a4420ac",
         "g": "01925cd1e85e9280",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm2_active={{{msg.payload.m2_active}}}, \n\tm2_abmass={{{msg.payload.m2_abmass}}}, \n\tm2_ot={{{msg.payload.m2_ot}}}, \n\tm2_ut={{{msg.payload.m2_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm2_active={{{msg.payload.m2_active}}}, \n\tm2_abmass={{{msg.payload.m2_abmass}}}, \n\tm2_ot={{{msg.payload.m2_ot}}}, \n\tm2_ut=0\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -20463,20 +20469,12 @@
                 "type": "text",
                 "required": false,
                 "rows": null
-            },
-            {
-                "label": "Untere Toleranz in µm",
-                "value": "m2_ut",
-                "type": "text",
-                "required": false,
-                "rows": null
             }
         ],
         "formValue": {
             "m2_active": false,
             "m2_abmass": "",
-            "m2_ot": "",
-            "m2_ut": ""
+            "m2_ot": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -20574,7 +20572,7 @@
         "z": "6b590c258a4420ac",
         "g": "1e8ef7fce0e3f0f1",
         "name": "",
-        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm3_active={{{msg.payload.m3_active}}}, \n\tm3_abmass={{{msg.payload.m3_abmass}}}, \n\tm3_ot={{{msg.payload.m3_ot}}}, \n\tm3_ut={{{msg.payload.m3_ut}}}\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n\tSET name='{{{msg.payload.elementname}}}',\n\tm3_active={{{msg.payload.m3_active}}}, \n\tm3_abmass={{{msg.payload.m3_abmass}}}, \n\tm3_ot={{{msg.payload.m3_ot}}}, \n\tm3_ut=0\n\tWHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -20661,20 +20659,12 @@
                 "type": "text",
                 "required": false,
                 "rows": null
-            },
-            {
-                "label": "Untere Toleranz in µm",
-                "value": "m3_ut",
-                "type": "text",
-                "required": false,
-                "rows": null
             }
         ],
         "formValue": {
             "m3_active": false,
             "m3_abmass": "",
-            "m3_ot": "",
-            "m3_ut": ""
+            "m3_ot": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -23872,7 +23862,7 @@
         "name": "",
         "device": "fe2aa5f270d5ee3c",
         "updateIntervalMs": "100",
-        "channelPicker": "1,2,3,4,5,6",
+        "channelPicker": "",
         "x": 130,
         "y": 300,
         "wires": [
