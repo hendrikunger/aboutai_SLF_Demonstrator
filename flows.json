@@ -3762,7 +3762,7 @@
         "type": "function",
         "z": "9516ce2929752e9f",
         "name": "state machine",
-        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].active){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    measurePlan = [\n        { \"active\": config.m1_active, \"name\": \"m1\" },\n        { \"active\": config.m2_active, \"name\": \"m2\" },\n        { \"active\": config.m3_active, \"name\": \"m3\" },\n        { \"active\": config.m4_active, \"name\": \"m4\" },\n        { \"active\": config.m5_active, \"name\": \"m5\" },\n        { \"active\": config.m5_active, \"name\": \"m5_1\" },\n        { \"active\": config.m5_active, \"name\": \"m6\" },\n        { \"active\": config.m7_active, \"name\": \"m7\" },\n        { \"active\": config.m8_active, \"name\": \"m8\" },\n        { \"active\": config.m9_active, \"name\": \"m9\" },\n        { \"active\": config.m10_active, \"name\": \"m10\" }\n    ]\n\n    \n\n    var next = getNext(measurePlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            measurePlan.shift()\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
+        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": \"m1\", \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": \"m2\", \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": \"m3\", \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": \"m4\", \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": \"m5\", \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": \"m5_1\", \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": \"m6\", \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m7_order, \"name\": \"m7\", \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": \"m8\", \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": \"m9\", \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": \"m10\", \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n    node.warn(filteredPlan)\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            measurePlan.shift()\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -20517,7 +20517,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m2_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -20715,7 +20715,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m3_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -20913,7 +20913,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m4_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -21119,7 +21119,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m5_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -21325,7 +21325,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m6_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -21531,7 +21531,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m7_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -21737,7 +21737,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m8_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -21943,7 +21943,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m9_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -22149,7 +22149,7 @@
                 "label": "Messungsreihenfolge",
                 "value": "m10_order",
                 "type": "number",
-                "required": true,
+                "required": false,
                 "rows": null
             },
             {
@@ -23910,7 +23910,9 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [],
+        "links": [
+            "368c3c772a33762d"
+        ],
         "x": 1465,
         "y": 600,
         "wires": []
@@ -24444,7 +24446,9 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [],
+        "links": [
+            "ebcbe221c3431249"
+        ],
         "x": 245,
         "y": 400,
         "wires": [
