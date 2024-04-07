@@ -1221,12 +1221,13 @@
             "0e8c505c5b9b76f4",
             "3fc96acc2a200a40",
             "483481edec182f43",
-            "8a84098978f0d5c0"
+            "8a84098978f0d5c0",
+            "11b9e14c02e19ddf"
         ],
         "x": 4,
         "y": 1539,
         "w": 2202,
-        "h": 382
+        "h": 422
     },
     {
         "id": "49fe87a3db7441c6",
@@ -3405,126 +3406,6 @@
         "hidden": false
     },
     {
-        "id": "7e11534c3946398b",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "16375858875bafc1",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "8ed1b64e9d4aceac",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "c2cedd1eea0abc72",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "52f05996ec97d7e3",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "c81b856e413ba6a6",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "6f4767ced2e802f1",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "04bf82ae91f0bc44",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "e12ba0fe41c84a47",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "953e638dd5b8abc3",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "b9bb401dcfb1283e",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "088705549dc88a61",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "7e84efa507ca4996",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "054f93d7b0373556",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
         "id": "643d6a960b482f91",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
@@ -3765,19 +3646,69 @@
         "height": 1
     },
     {
-        "id": "6975a764dbf7944f",
+        "id": "2981cab5af82ad9d",
         "type": "ui_spacer",
-        "z": "9516ce2929752e9f",
+        "z": "97bca276c16abc95",
         "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
+        "group": "63ce761b912114ae",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "75a8fac5ac1f9a64",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "868e505f28f93151",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
         "order": 7,
         "width": 6,
         "height": 1
     },
     {
-        "id": "575ce451c11df04a",
+        "id": "e37aa0585a8cbf0b",
         "type": "ui_spacer",
-        "z": "9516ce2929752e9f",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "027cd468d2a7207c",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a4731bf9188e1148",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "054f93d7b0373556",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "64b731fe88cffcc8",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
         "name": "spacer",
         "group": "7bf9d4f551c45f5e",
         "order": 8,
@@ -3785,11 +3716,81 @@
         "height": 1
     },
     {
-        "id": "caedabd401a730a9",
+        "id": "1b0acfdf39122f6c",
         "type": "ui_spacer",
-        "z": "9516ce2929752e9f",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d2566db2c13dd113",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
         "name": "spacer",
         "group": "5324db76841ab3ea",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "c7ce45199c1a5d45",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "6afae8892e6f9183",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "fa79be893a83aff9",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "8a6a856245ef3e32",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a308ccc131f5bf73",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "873e60490b25bcd3",
+        "type": "ui_spacer",
+        "z": "97bca276c16abc95",
+        "name": "spacer",
+        "group": "6f4767ced2e802f1",
         "order": 5,
         "width": 1,
         "height": 1
@@ -6676,7 +6677,7 @@
         "g": "3ca77137896b95fb",
         "name": "Button Messung",
         "group": "7bf9d4f551c45f5e",
-        "order": 10,
+        "order": 11,
         "width": 6,
         "height": 2,
         "passthru": false,
@@ -7395,7 +7396,7 @@
         "z": "97bca276c16abc95",
         "g": "a46784b1fcaec318",
         "group": "7bf9d4f551c45f5e",
-        "order": 9,
+        "order": 10,
         "width": 6,
         "height": 1,
         "name": "",
@@ -7439,7 +7440,7 @@
         "g": "aad35dc03f9f96dd",
         "name": "Measurement Diagram",
         "group": "7bf9d4f551c45f5e",
-        "order": 6,
+        "order": 7,
         "width": 12,
         "height": 5,
         "label": "",
@@ -7552,7 +7553,7 @@
         "z": "97bca276c16abc95",
         "g": "aad35dc03f9f96dd",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.span;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nmsg.value2 = msg.avg\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.span;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nnode.warn(lower)\nnode.warn(upper)\nnode.warn(msg.span)\n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\nif (measureResult >= lower && measureResult <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nmsg.value = measureResult;\n\nmsg.value2 = msg.avg\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -7566,7 +7567,8 @@
                 "a3c031a49f179523",
                 "89025cf592f63261",
                 "3fc96acc2a200a40",
-                "8a84098978f0d5c0"
+                "8a84098978f0d5c0",
+                "11b9e14c02e19ddf"
             ]
         ]
     },
@@ -7579,7 +7581,7 @@
         "name": "LED left",
         "order": 2,
         "width": 6,
-        "height": 6,
+        "height": 3,
         "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
@@ -7607,7 +7609,8 @@
         "wires": [
             [
                 "72139c05dceb8de0",
-                "a883423f1f215a7e"
+                "a883423f1f215a7e",
+                "11b9e14c02e19ddf"
             ]
         ]
     },
@@ -8867,7 +8870,7 @@
         "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "Result2",
-        "order": 5,
+        "order": 6,
         "width": 6,
         "height": 3,
         "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Abmaß: </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </center>\n     </font>\n</div>",
@@ -8943,6 +8946,28 @@
         "y": 1380,
         "wires": [],
         "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "11b9e14c02e19ddf",
+        "type": "ui_template",
+        "z": "97bca276c16abc95",
+        "g": "aad35dc03f9f96dd",
+        "group": "7bf9d4f551c45f5e",
+        "name": "LED Abmaß",
+        "order": 5,
+        "width": 6,
+        "height": 3,
+        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass2) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1650,
+        "y": 1920,
+        "wires": [
+            []
+        ]
     },
     {
         "id": "e81a033e24196b32",
@@ -19992,10 +20017,9 @@
             [
                 "57c349a93ed238a8",
                 "9a185ccb7ee58736",
-                "96517ba4678e4041",
                 "3cb98a8a7cd1f431",
                 "7c2582e8feb6bbb1",
-                "248bf15927c57f22"
+                "418b172be64d596d"
             ]
         ]
     },
@@ -20300,7 +20324,7 @@
         "z": "6b590c258a4420ac",
         "g": "6abae160f1c7a382",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m1_order={{{msg.payload.m1_order}}},\n    m1_sensor_id={{{msg.payload.m1_sensor_id}}},\n    m1_abmass={{{msg.payload.m1_abmass}}},\n    m1_ot={{{msg.payload.m1_ot}}},\n    m1_ut={{{msg.payload.m1_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m1_order={{{msg.payload.m1_order}}},\n    m1_sensor_id={{{msg.payload.m1_sensor_id}}},\n    m1_abmass={{{msg.payload.m1_abmass}}}/1000.0,\n    m1_ot={{{msg.payload.m1_ot}}}/1000.0,\n    m1_ut={{{msg.payload.m1_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -20759,7 +20783,7 @@
         "z": "6b590c258a4420ac",
         "g": "01925cd1e85e9280",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m2_order={{{msg.payload.m2_order}}},\n    m2_sensor_id={{{msg.payload.m2_sensor_id}}},\n    m2_abmass={{{msg.payload.m2_abmass}}},\n    m2_ot={{{msg.payload.m2_ot}}},\n    m2_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m2_order={{{msg.payload.m2_order}}},\n    m2_sensor_id={{{msg.payload.m2_sensor_id}}},\n    m2_abmass={{{msg.payload.m2_abmass}}}/1000.0,\n    m2_ot={{{msg.payload.m2_ot}}}/1000.0,\n    m2_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -20957,7 +20981,7 @@
         "z": "6b590c258a4420ac",
         "g": "1e8ef7fce0e3f0f1",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m3_order={{{msg.payload.m3_order}}},\n    m3_sensor_id={{{msg.payload.m3_sensor_id}}},\n    m3_abmass={{{msg.payload.m3_abmass}}},\n    m3_ot={{{msg.payload.m3_ot}}},\n    m3_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m3_order={{{msg.payload.m3_order}}},\n    m3_sensor_id={{{msg.payload.m3_sensor_id}}},\n    m3_abmass={{{msg.payload.m3_abmass}}}/1000.0,\n    m3_ot={{{msg.payload.m3_ot}}}/1000.0,\n    m3_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -21155,7 +21179,7 @@
         "z": "6b590c258a4420ac",
         "g": "b9b6c6776205ea97",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m4_order={{{msg.payload.m4_order}}},\n    m4_sensor_id={{{msg.payload.m4_sensor_id}}},\n    m4_abmass={{{msg.payload.m4_abmass}}},\n    m4_ot={{{msg.payload.m4_ot}}},\n    m4_ut={{{msg.payload.m4_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m4_order={{{msg.payload.m4_order}}},\n    m4_sensor_id={{{msg.payload.m4_sensor_id}}},\n    m4_abmass={{{msg.payload.m4_abmass}}}/1000.0,\n    m4_ot={{{msg.payload.m4_ot}}}/1000.0,\n    m4_ut={{{msg.payload.m4_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -21361,7 +21385,7 @@
         "z": "6b590c258a4420ac",
         "g": "0a3c81f83d01120f",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m5_order={{{msg.payload.m5_order}}},\n    m5_sensor_id={{{msg.payload.m5_sensor_id}}},\n    m5_1_sensor_id={{{msg.payload.m5_1_sensor_id}}},\n    m5_abmass={{{msg.payload.m5_abmass}}},\n    m5_ot={{{msg.payload.m5_ot}}},\n    m5_ut={{{msg.payload.m5_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m5_order={{{msg.payload.m5_order}}},\n    m5_sensor_id={{{msg.payload.m5_sensor_id}}},\n    m5_1_sensor_id={{{msg.payload.m5_1_sensor_id}}},\n    m5_abmass={{{msg.payload.m5_abmass}}}/1000.0,\n    m5_ot={{{msg.payload.m5_ot}}}/1000.0,\n    m5_ut={{{msg.payload.m5_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -21575,7 +21599,7 @@
         "z": "6b590c258a4420ac",
         "g": "fa4ae97e5a92823e",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m6_order={{{msg.payload.m6_order}}},\n    m6_sensor_id={{{msg.payload.m6_sensor_id}}},\n    m6_abmass={{{msg.payload.m6_abmass}}},\n    m6_ot={{{msg.payload.m6_ot}}},\n    m6_ut={{{msg.payload.m6_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m6_order={{{msg.payload.m6_order}}},\n    m6_sensor_id={{{msg.payload.m6_sensor_id}}},\n    m6_abmass={{{msg.payload.m6_abmass}}}/1000.0,\n    m6_ot={{{msg.payload.m6_ot}}}/1000.0,\n    m6_ut={{{msg.payload.m6_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -21781,7 +21805,7 @@
         "z": "6b590c258a4420ac",
         "g": "22d4558fb92d5197",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m7_order={{{msg.payload.m7_order}}},\n    m7_sensor_id={{{msg.payload.m7_sensor_id}}},\n    m7_abmass={{{msg.payload.m7_abmass}}},\n    m7_ot={{{msg.payload.m7_ot}}},\n    m7_ut={{{msg.payload.m7_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m7_order={{{msg.payload.m7_order}}},\n    m7_sensor_id={{{msg.payload.m7_sensor_id}}},\n    m7_abmass={{{msg.payload.m7_abmass}}}/1000.0,\n    m7_ot={{{msg.payload.m7_ot}}}/1000.0,\n    m7_ut={{{msg.payload.m7_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -21987,7 +22011,7 @@
         "z": "6b590c258a4420ac",
         "g": "eebaebbce7e5460d",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m8_order={{{msg.payload.m8_order}}},\n    m8_sensor_id={{{msg.payload.m8_sensor_id}}},\n    m8_abmass={{{msg.payload.m8_abmass}}},\n    m8_ot={{{msg.payload.m8_ot}}},\n    m8_ut={{{msg.payload.m8_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m8_order={{{msg.payload.m8_order}}},\n    m8_sensor_id={{{msg.payload.m8_sensor_id}}},\n    m8_abmass={{{msg.payload.m8_abmass}}}/1000.0,\n    m8_ot={{{msg.payload.m8_ot}}}/1000.0,\n    m8_ut={{{msg.payload.m8_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -22193,7 +22217,7 @@
         "z": "6b590c258a4420ac",
         "g": "3ff455c9ab26afe3",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m9_order={{{msg.payload.m9_order}}},\n    m9_sensor_id={{{msg.payload.m9_sensor_id}}},\n    m9_abmass={{{msg.payload.m9_abmass}}},\n    m9_ot={{{msg.payload.m9_ot}}},\n    m9_ut={{{msg.payload.m9_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m9_order={{{msg.payload.m9_order}}},\n    m9_sensor_id={{{msg.payload.m9_sensor_id}}},\n    m9_abmass={{{msg.payload.m9_abmass}}}/1000.0,\n    m9_ot={{{msg.payload.m9_ot}}}/1000.0,\n    m9_ut={{{msg.payload.m9_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -22399,7 +22423,7 @@
         "z": "6b590c258a4420ac",
         "g": "6ae87c414fad9be1",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m10_order={{{msg.payload.m10_order}}},\n    m10_sensor_id={{{msg.payload.m10_sensor_id}}},\n    m10_abmass={{{msg.payload.m10_abmass}}},\n    m10_ot={{{msg.payload.m10_ot}}},\n    m10_ut={{{msg.payload.m10_ut}}}\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m10_order={{{msg.payload.m10_order}}},\n    m10_sensor_id={{{msg.payload.m10_sensor_id}}},\n    m10_abmass={{{msg.payload.m10_abmass}}}/1000.0,\n    m10_ot={{{msg.payload.m10_ot}}}/1000.0,\n    m10_ut={{{msg.payload.m10_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -23744,22 +23768,6 @@
         ]
     },
     {
-        "id": "248bf15927c57f22",
-        "type": "debug",
-        "z": "6b590c258a4420ac",
-        "name": "debug 9",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 820,
-        "y": 200,
-        "wires": []
-    },
-    {
         "id": "43ca5268e270a5e8",
         "type": "ui_button",
         "z": "6b590c258a4420ac",
@@ -24013,6 +24021,25 @@
         "wires": [
             [
                 "813a2fd5c89443bb"
+            ]
+        ]
+    },
+    {
+        "id": "418b172be64d596d",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "name": "format in ym",
+        "func": "msg.payload.m1_abmass *= 1000\nmsg.payload.m1_ot *= 1000\nmsg.payload.m1_ut *= 1000\nmsg.payload.m2_abmass *= 1000\nmsg.payload.m2_ot *= 1000\nmsg.payload.m2_ut *= 1000\nmsg.payload.m3_abmass *= 1000\nmsg.payload.m3_ot *= 1000\nmsg.payload.m3_ut *= 1000\nmsg.payload.m4_abmass *= 1000\nmsg.payload.m4_ot *= 1000\nmsg.payload.m4_ut *= 1000\nmsg.payload.m5_abmass *= 1000\nmsg.payload.m5_ot *= 1000\nmsg.payload.m5_ut *= 1000\nmsg.payload.m6_abmass *= 1000\nmsg.payload.m6_ot *= 1000\nmsg.payload.m6_ut *= 1000\nmsg.payload.m7_abmass *= 1000\nmsg.payload.m7_ot *= 1000\nmsg.payload.m7_ut *= 1000\nmsg.payload.m8_abmass *= 1000\nmsg.payload.m8_ot *= 1000\nmsg.payload.m8_ut *= 1000\nmsg.payload.m9_abmass *= 1000\nmsg.payload.m9_ot *= 1000\nmsg.payload.m9_ut *= 1000\nmsg.payload.m10_abmass *= 1000\nmsg.payload.m10_ot *= 1000\nmsg.payload.m10_ut *= 1000\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 180,
+        "wires": [
+            [
+                "96517ba4678e4041"
             ]
         ]
     },
