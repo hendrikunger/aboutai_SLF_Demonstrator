@@ -96,25 +96,9 @@
         "env": []
     },
     {
-        "id": "239da397959ae042",
-        "type": "tab",
-        "label": "Dashboard Übersicht",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "8b889a82bab4ead6",
         "type": "tab",
         "label": "Environment Data",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
-        "id": "4c3e5ac1458c0e57",
-        "type": "tab",
-        "label": "Database",
         "disabled": false,
         "info": "",
         "env": []
@@ -163,32 +147,9 @@
             "6678252c60ace251"
         ],
         "x": 14,
-        "y": 1326
-    },
-    {
-        "id": "fa8d67f658e81534",
-        "type": "group",
-        "z": "239da397959ae042",
-        "name": "Gauge Elements",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cb7afa64cc116d3f",
-            "861a06f5e0e080fa",
-            "de3070bc03fe8636",
-            "6464a63cdf0e4934",
-            "fb7ed64a28e9d9bd",
-            "07508d46a3716912",
-            "98873490e339f652",
-            "2faa106ada272312",
-            "7047e0ddec4200e5",
-            "7961dcdc3d64dbf2",
-            "fe809c0e0031e5d9",
-            "f81d2b1e8fb96cae"
-        ],
-        "x": 34,
-        "y": 39
+        "y": 1326,
+        "w": 1449,
+        "h": 235
     },
     {
         "id": "845f4268e3199e1d",
@@ -203,10 +164,8 @@
             "1417102d265e83e5",
             "0bc7f6e47886b686",
             "eaa90a3437d84708",
-            "9767ae7be4407276",
             "e8beecd43126c417",
             "97449b59b1ded6be",
-            "4875667208c4bb4f",
             "f7e679cb56cdfa0c",
             "ee86c70c56328060",
             "85cc612c91620d6c",
@@ -220,10 +179,14 @@
             "163d9b335d64b232",
             "a6eb399a30aa2b6c",
             "5e64db70d3489eb2",
-            "9620512234b7b62f"
+            "9620512234b7b62f",
+            "4875667208c4bb4f",
+            "9767ae7be4407276"
         ],
         "x": 14,
-        "y": 1619
+        "y": 1619,
+        "w": 2432,
+        "h": 322
     },
     {
         "id": "986a61aab651f4f0",
@@ -244,7 +207,9 @@
             "93e53c79c8468f79"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -581,12 +546,14 @@
         },
         "nodes": [
             "455bec90a0e7131b",
-            "7fb80ff82e71bd7b",
             "88a865df6bb9805d",
-            "b3c4c44513a239ec"
+            "b3c4c44513a239ec",
+            "7fb80ff82e71bd7b"
         ],
         "x": 34,
-        "y": 399
+        "y": 399,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "a46784b1fcaec318",
@@ -654,10 +621,13 @@
             "98a33f35b2e0638b",
             "29a69a8ac92c74f8",
             "61a23a4602284fda",
-            "dfde147112837060"
+            "dfde147112837060",
+            "48b4b857970c3e7f"
         ],
         "x": 54,
-        "y": 1199
+        "y": 1199,
+        "w": 1372,
+        "h": 235
     },
     {
         "id": "58de42e9f0769879",
@@ -674,7 +644,9 @@
             "364ddbb7cfa3804f"
         ],
         "x": 34,
-        "y": 399
+        "y": 399,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "f012c22f57440622",
@@ -694,7 +666,9 @@
             "19375a1a97e5e381"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 862,
+        "h": 142
     },
     {
         "id": "a4fa0b2b0b924c26",
@@ -736,7 +710,9 @@
             "6b3350dbc9be6b70"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 922,
+        "h": 142
     },
     {
         "id": "f32343183e9c9e51",
@@ -761,7 +737,9 @@
             "93c899f39247de2a"
         ],
         "x": 34,
-        "y": 1339
+        "y": 1339,
+        "w": 1432,
+        "h": 235
     },
     {
         "id": "62658be016b831f9",
@@ -778,7 +756,9 @@
             "4f457d7fbaa77a04"
         ],
         "x": 34,
-        "y": 419
+        "y": 419,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "5dea7495e52bcfb6",
@@ -798,7 +778,9 @@
             "9c02dae2ec572fa2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 912,
+        "h": 142
     },
     {
         "id": "bca4306ba871994a",
@@ -823,7 +805,9 @@
             "6581ac48ae0a5768"
         ],
         "x": 54,
-        "y": 1306
+        "y": 1306,
+        "w": 1449,
+        "h": 235
     },
     {
         "id": "6c1d4390cec1ec27",
@@ -840,7 +824,9 @@
             "b24e033732d305c4"
         ],
         "x": 34,
-        "y": 419
+        "y": 419,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "1379c8709e0ece67",
@@ -860,7 +846,9 @@
             "aed0a478b1e382c4"
         ],
         "x": 44,
-        "y": 259
+        "y": 259,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "827aa793e91b64c2",
@@ -885,7 +873,9 @@
             "45acccec90286900"
         ],
         "x": 34,
-        "y": 1259
+        "y": 1259,
+        "w": 1382,
+        "h": 235
     },
     {
         "id": "d06992dfd408b7aa",
@@ -902,7 +892,9 @@
             "af42f3863319b754"
         ],
         "x": 34,
-        "y": 419
+        "y": 419,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "79d4f9ad1ab959d6",
@@ -922,7 +914,9 @@
             "7cf02ee2d3f6ee7b"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "273d420bd5ddf182",
@@ -966,7 +960,9 @@
             "2565ee0ff0a52834"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "20d4b66822901145",
@@ -987,7 +983,9 @@
             "4176b53c51be74a8"
         ],
         "x": 14,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "15b3bcc68d99a783",
@@ -1008,7 +1006,9 @@
             "d0a8d92641ee3be3"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "0c0f177a54113eb9",
@@ -1029,7 +1029,9 @@
             "65dc63400b7e7095"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "11ba5c55451f20f8",
@@ -1096,7 +1098,9 @@
             "93f564cbef5b9603"
         ],
         "x": 34,
-        "y": 1619
+        "y": 1619,
+        "w": 2312,
+        "h": 322
     },
     {
         "id": "2cf293352e3cee14",
@@ -1136,7 +1140,9 @@
             "4756f886debe829f"
         ],
         "x": 44,
-        "y": 1459
+        "y": 1459,
+        "w": 2242,
+        "h": 322
     },
     {
         "id": "aad35dc03f9f96dd",
@@ -1220,7 +1226,9 @@
             "a9cb839cc1d8808d"
         ],
         "x": 34,
-        "y": 1579
+        "y": 1579,
+        "w": 2032,
+        "h": 322
     },
     {
         "id": "164f2485b94aaba9",
@@ -1255,7 +1263,9 @@
             "14d3b2d4c42730e9"
         ],
         "x": 34,
-        "y": 1539
+        "y": 1539,
+        "w": 2352,
+        "h": 322
     },
     {
         "id": "4829d01fa6230cb2",
@@ -1273,7 +1283,9 @@
             "f5504d7c5079dde1"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "25aa3564c26c7cc1",
@@ -1311,7 +1323,9 @@
             "372f6fe592efbfb6"
         ],
         "x": 714,
-        "y": 399
+        "y": 399,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "a8cdf078a528a441",
@@ -1329,7 +1343,9 @@
             "5c1f494f22c9e211"
         ],
         "x": 914,
-        "y": 379
+        "y": 379,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "77dd6a7dee83ca06",
@@ -1347,7 +1363,9 @@
             "23a82ad2e61292b6"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "42735bfaa53df92b",
@@ -1365,7 +1383,9 @@
             "dc58c79840dfd4c1"
         ],
         "x": 894,
-        "y": 379
+        "y": 379,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "3805328bf6053039",
@@ -1463,7 +1483,9 @@
             "8e09028c3e635399"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1658,
+        "h": 488
     },
     {
         "id": "f2672f5d109f47ae",
@@ -1499,7 +1521,9 @@
             "bb5cc5c3c893028a"
         ],
         "x": 34,
-        "y": 699
+        "y": 699,
+        "w": 1658,
+        "h": 488
     },
     {
         "id": "efec034816e3d1a4",
@@ -1532,7 +1556,9 @@
             "5559395d3310f426"
         ],
         "x": 54,
-        "y": 679
+        "y": 679,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "50392007280f7ee4",
@@ -1568,7 +1594,9 @@
             "edfd75f3f4fbfed5"
         ],
         "x": 34,
-        "y": 619
+        "y": 619,
+        "w": 1658,
+        "h": 508
     },
     {
         "id": "c95c71c85f7f9849",
@@ -1605,7 +1633,9 @@
             "9ec6774c0f289716"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1658,
+        "h": 648
     },
     {
         "id": "74ad2d205941a89c",
@@ -1630,7 +1660,9 @@
             "1c5aa8a7294a403e"
         ],
         "x": 51,
-        "y": 1306
+        "y": 1306,
+        "w": 1572,
+        "h": 235
     },
     {
         "id": "a815e39e328ee9b9",
@@ -1647,7 +1679,9 @@
             "fb8fd71fbfcae4b5"
         ],
         "x": 34,
-        "y": 419
+        "y": 419,
+        "w": 652,
+        "h": 122
     },
     {
         "id": "cbea317f5cb77e95",
@@ -1667,7 +1701,9 @@
             "8a3b01f5ac1c8920"
         ],
         "x": 44,
-        "y": 259
+        "y": 259,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "e3e6a0c08b3a0b9b",
@@ -1688,7 +1724,9 @@
             "48aec082628aacd1"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "eb83fb8c6cd63b51",
@@ -1729,7 +1767,9 @@
             "2d52a2c7339593f5"
         ],
         "x": 54,
-        "y": 1579
+        "y": 1579,
+        "w": 2452,
+        "h": 322
     },
     {
         "id": "c3a5fdfc8859962e",
@@ -1747,7 +1787,9 @@
             "d2c8e4fa1dd895ab"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "e880cd819650d6b7",
@@ -1783,7 +1825,9 @@
             "009640f2328f81cc"
         ],
         "x": 34,
-        "y": 619
+        "y": 619,
+        "w": 1658,
+        "h": 508
     },
     {
         "id": "7939283416aa5d31",
@@ -1817,7 +1861,9 @@
             "b273537a03a12c39"
         ],
         "x": 464,
-        "y": 1039
+        "y": 1039,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "13ee7e1ef14318b5",
@@ -1833,7 +1879,9 @@
             "506ec0f72bd64107"
         ],
         "x": 434,
-        "y": 1179
+        "y": 1179,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "cee70ecb980b809f",
@@ -1849,7 +1897,9 @@
             "f14f5a0ca02dba42"
         ],
         "x": 424,
-        "y": 1119
+        "y": 1119,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "660885a7a5be28cf",
@@ -1865,7 +1915,9 @@
             "537b0e41812d4647"
         ],
         "x": 384,
-        "y": 1119
+        "y": 1119,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "f611b156e28bb993",
@@ -1881,7 +1933,9 @@
             "36d6d81a9bc1a922"
         ],
         "x": 414,
-        "y": 1119
+        "y": 1119,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "1554faecc8bedb61",
@@ -2039,7 +2093,9 @@
             "d010a26ef3363e22"
         ],
         "x": 1254,
-        "y": 899
+        "y": 899,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "495e8211f9a42b12",
@@ -2059,7 +2115,9 @@
             "64f0cc8dd2ce3933"
         ],
         "x": 264,
-        "y": 719
+        "y": 719,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "f1e5439bc975e477",
@@ -2075,7 +2133,9 @@
             "8672e4aebc04a782"
         ],
         "x": 1154,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "8e09028c3e635399",
@@ -2090,7 +2150,9 @@
             "0243e77734a30f41"
         ],
         "x": 1254,
-        "y": 799
+        "y": 799,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "a2d6f713081c06fb",
@@ -2107,7 +2169,9 @@
             "4ef1ca564fefdfe8"
         ],
         "x": 1254,
-        "y": 1039
+        "y": 1039,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "c68dec796d1c08a2",
@@ -2127,7 +2191,9 @@
             "2fdd83224f15da97"
         ],
         "x": 264,
-        "y": 859
+        "y": 859,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "3056371dd636280a",
@@ -2143,7 +2209,9 @@
             "aa5839c7724e9704"
         ],
         "x": 1114,
-        "y": 839
+        "y": 839,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "bb5cc5c3c893028a",
@@ -2158,7 +2226,9 @@
             "a6fac1a51ec27b69"
         ],
         "x": 1254,
-        "y": 939
+        "y": 939,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "e0131b648a26632f",
@@ -2175,7 +2245,9 @@
             "281e8267145e75b9"
         ],
         "x": 1274,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "47119d105f62d791",
@@ -2195,7 +2267,9 @@
             "55ea92167a359d6d"
         ],
         "x": 304,
-        "y": 799
+        "y": 799,
+        "w": 342,
+        "h": 202
     },
     {
         "id": "b09b4ed3e741e5f0",
@@ -2211,7 +2285,9 @@
             "b0f2e927af94dbc9"
         ],
         "x": 1094,
-        "y": 739
+        "y": 739,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "5559395d3310f426",
@@ -2226,7 +2302,9 @@
             "131bf85a21c92239"
         ],
         "x": 1274,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "e73064b668513727",
@@ -2243,7 +2321,9 @@
             "fc842d462185a2b5"
         ],
         "x": 1254,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "f19af0c1598a7869",
@@ -2263,7 +2343,9 @@
             "cc352ce9cc2b5d42"
         ],
         "x": 274,
-        "y": 799
+        "y": 799,
+        "w": 352,
+        "h": 202
     },
     {
         "id": "a130c28386315d62",
@@ -2279,7 +2361,9 @@
             "86b57a598da4bf16"
         ],
         "x": 1094,
-        "y": 759
+        "y": 759,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "edfd75f3f4fbfed5",
@@ -2294,7 +2378,9 @@
             "71424d2078547abd"
         ],
         "x": 1254,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -2311,7 +2397,9 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1254,
-        "y": 919
+        "y": 919,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "8fb1da913ebbb0a8",
@@ -2331,7 +2419,9 @@
             "fda943f3a6add609"
         ],
         "x": 274,
-        "y": 739
+        "y": 739,
+        "w": 352,
+        "h": 202
     },
     {
         "id": "e93f7bfc305fe380",
@@ -2347,7 +2437,9 @@
             "0e48aac0cc361391"
         ],
         "x": 1194,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "92b4f553da63bd74",
@@ -2362,7 +2454,9 @@
             "efa429021e13e670"
         ],
         "x": 1254,
-        "y": 819
+        "y": 819,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "a56ec20e5c83b6c4",
@@ -2379,7 +2473,9 @@
             "e2d2b8af752cccb7"
         ],
         "x": 1254,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "4691b614ef7b6e13",
@@ -2399,7 +2495,9 @@
             "1b3071500a59367e"
         ],
         "x": 284,
-        "y": 799
+        "y": 799,
+        "w": 342,
+        "h": 202
     },
     {
         "id": "fdfe57dd5dfea9a8",
@@ -2415,7 +2513,9 @@
             "67a67b988a33662d"
         ],
         "x": 1074,
-        "y": 739
+        "y": 739,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "009640f2328f81cc",
@@ -2430,7 +2530,9 @@
             "58f6a75d49bbfc4a"
         ],
         "x": 1254,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "9ec6774c0f289716",
@@ -2447,7 +2549,9 @@
             "e82976f501f1a67d"
         ],
         "x": 474,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "4782014c59a1fc17",
@@ -2727,7 +2831,7 @@
         "type": "ui_tab",
         "name": "Datenbank Visualisierung",
         "icon": "dashboard",
-        "order": 3,
+        "order": 12,
         "disabled": false,
         "hidden": false
     },
@@ -2752,7 +2856,7 @@
         "type": "ui_tab",
         "name": "m1",
         "icon": "dashboard",
-        "order": 6,
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -2771,7 +2875,7 @@
         "type": "ui_tab",
         "name": "Home",
         "icon": "dashboard",
-        "order": 4,
+        "order": 10,
         "disabled": true,
         "hidden": true
     },
@@ -2780,100 +2884,9 @@
         "type": "ui_tab",
         "name": "Messdaten Übersicht",
         "icon": "dashboard",
-        "order": 5,
+        "order": 11,
         "disabled": false,
         "hidden": false
-    },
-    {
-        "id": "6219fc8790234a1e",
-        "type": "ui_group",
-        "name": "Standard",
-        "tab": "b890a170fb975001",
-        "order": 1,
-        "disp": false,
-        "width": "18",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "9e62f4502f355de8",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 4,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "17dfec068436d2aa",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 6,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "7b77027077383e02",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 8,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "05f81bdeff058732",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 10,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "32a12e79c8da876e",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 14,
-        "width": 2,
-        "height": 1
-    },
-    {
-        "id": "f08f4e4be6b368ad",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 16,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "beb8dd88c7460a47",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 18,
-        "width": 4,
-        "height": 1
-    },
-    {
-        "id": "573c90349ae5be5f",
-        "type": "ui_spacer",
-        "z": "239da397959ae042",
-        "name": "spacer",
-        "group": "8e8a0e2a14399f07",
-        "order": 20,
-        "width": 2,
-        "height": 1
     },
     {
         "id": "6f4767ced2e802f1",
@@ -2944,7 +2957,7 @@
         "type": "ui_tab",
         "name": "m2",
         "icon": "dashboard",
-        "order": 7,
+        "order": 4,
         "disabled": false,
         "hidden": false
     },
@@ -3127,7 +3140,7 @@
         "type": "ui_tab",
         "name": "m3",
         "icon": "dashboard",
-        "order": 8,
+        "order": 5,
         "disabled": false,
         "hidden": false
     },
@@ -3158,7 +3171,7 @@
         "type": "ui_tab",
         "name": "m4",
         "icon": "dashboard",
-        "order": 9,
+        "order": 6,
         "disabled": false,
         "hidden": false
     },
@@ -3189,7 +3202,7 @@
         "type": "ui_tab",
         "name": "m5",
         "icon": "dashboard",
-        "order": 10,
+        "order": 7,
         "disabled": false,
         "hidden": false
     },
@@ -3220,7 +3233,7 @@
         "type": "ui_tab",
         "name": "m6",
         "icon": "dashboard",
-        "order": 11,
+        "order": 9,
         "disabled": false,
         "hidden": false
     },
@@ -3251,7 +3264,7 @@
         "type": "ui_tab",
         "name": "m5_1",
         "icon": "dashboard",
-        "order": 10,
+        "order": 8,
         "disabled": false,
         "hidden": false
     },
@@ -3651,7 +3664,7 @@
         "z": "9516ce2929752e9f",
         "name": "",
         "events": "all",
-        "x": 620,
+        "x": 660,
         "y": 100,
         "wires": [
             []
@@ -4707,28 +4720,6 @@
         ]
     },
     {
-        "id": "9767ae7be4407276",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "group": "814f49e501875186",
-        "name": "Result",
-        "order": 4,
-        "width": 6,
-        "height": 3,
-        "format": "<div>\n     <p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Maximale Abweichung</p></div>\n<div>\n     <font size=\"+4\">\n          <center>     \n                    <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1730,
-        "y": 1840,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "e8beecd43126c417",
         "type": "function",
         "z": "f76015fff1ab449b",
@@ -4746,28 +4737,6 @@
             [
                 "0bc7f6e47886b686"
             ]
-        ]
-    },
-    {
-        "id": "4875667208c4bb4f",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "group": "814f49e501875186",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1660,
-        "y": 1900,
-        "wires": [
-            []
         ]
     },
     {
@@ -4834,10 +4803,10 @@
         "y": 1740,
         "wires": [
             [
-                "4875667208c4bb4f",
                 "85cc612c91620d6c",
                 "163d9b335d64b232",
-                "9620512234b7b62f"
+                "9620512234b7b62f",
+                "4875667208c4bb4f"
             ]
         ]
     },
@@ -4855,8 +4824,8 @@
         "y": 1900,
         "wires": [
             [
-                "4875667208c4bb4f",
-                "a6eb399a30aa2b6c"
+                "a6eb399a30aa2b6c",
+                "4875667208c4bb4f"
             ]
         ]
     },
@@ -4938,28 +4907,6 @@
         "x": 400,
         "y": 480,
         "wires": []
-    },
-    {
-        "id": "7fb80ff82e71bd7b",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "780c740174ed8448",
-        "group": "814f49e501875186",
-        "name": "Heading Overrides",
-        "order": 9,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 480,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "35f1244f368b0b5d",
@@ -6521,6 +6468,72 @@
         "icon": "node-red/alert.svg"
     },
     {
+        "id": "4875667208c4bb4f",
+        "type": "ui_template",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "group": "814f49e501875186",
+        "name": "LED left",
+        "order": 2,
+        "width": 6,
+        "height": 6,
+        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1660,
+        "y": 1900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9767ae7be4407276",
+        "type": "ui_template",
+        "z": "f76015fff1ab449b",
+        "g": "845f4268e3199e1d",
+        "group": "814f49e501875186",
+        "name": "Result",
+        "order": 4,
+        "width": 6,
+        "height": 3,
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Maximale Abweichung:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1730,
+        "y": 1840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7fb80ff82e71bd7b",
+        "type": "ui_template",
+        "z": "f76015fff1ab449b",
+        "g": "780c740174ed8448",
+        "group": "814f49e501875186",
+        "name": "Heading Overrides",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 570,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "41736038a9b15a36",
         "type": "ui_button",
         "z": "97bca276c16abc95",
@@ -7340,7 +7353,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1160,
+        "x": 1170,
         "y": 1620,
         "wires": [
             [
@@ -8135,7 +8148,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Abmaß: </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Abmaß:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm \n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -8723,7 +8736,7 @@
         "order": 6,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite: </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis2'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis2')\n                    let color = null\n                    switch(msg.pass2) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -9045,7 +9058,7 @@
         "y": 1260,
         "wires": [
             [
-                "d07b67558978bbc5"
+                "61a23a4602284fda"
             ]
         ]
     },
@@ -9230,13 +9243,14 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 423,
-        "y": 1253,
+        "x": 440,
+        "y": 1260,
         "wires": [
             [
                 "55344c52c8492a55",
                 "29a69a8ac92c74f8",
-                "98a33f35b2e0638b"
+                "98a33f35b2e0638b",
+                "48b4b857970c3e7f"
             ]
         ]
     },
@@ -9332,7 +9346,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -11015,10 +11029,12 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 210,
+        "x": 230,
         "y": 1260,
         "wires": [
-            [],
+            [
+                "d07b67558978bbc5"
+            ],
             []
         ]
     },
@@ -11033,6 +11049,24 @@
         "y": 1320,
         "wires": [],
         "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "48b4b857970c3e7f",
+        "type": "debug",
+        "z": "2a0afd77453149d1",
+        "g": "70dff54ed083811d",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 1360,
+        "wires": []
     },
     {
         "id": "2aebc267cf28930f",
@@ -11547,7 +11581,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spannweite</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -13230,7 +13264,7 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 190,
+        "x": 210,
         "y": 1400,
         "wires": [
             [
@@ -13764,7 +13798,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Durchschnitt</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Durchschnitt:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -15881,7 +15915,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Rundheitstoleranz </p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Rundheitstoleranz:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -17831,7 +17865,7 @@
         "y": 1320,
         "wires": [
             [
-                "0d58c3fbd56d639b"
+                "5dee20f59530d433"
             ]
         ]
     },
@@ -18118,7 +18152,7 @@
         "order": 4,
         "width": 6,
         "height": 3,
-        "format": "<div><p class=\"label nr-dashboard-chart-title nr-dashboard-chart-titlel\" >Spamnnweite:</p></div>\n<div>\n     <font size=\"+4\">\n          <center>\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </center>\n     </font>\n</div>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannnweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -19804,7 +19838,9 @@
         "x": 190,
         "y": 1320,
         "wires": [
-            [],
+            [
+                "0d58c3fbd56d639b"
+            ],
             []
         ]
     },
@@ -23934,7 +23970,8 @@
         "y": 40,
         "wires": [
             [
-                "55c760ee9ad24743"
+                "55c760ee9ad24743",
+                "1a4d5dfdbdaf5e1d"
             ]
         ]
     },
@@ -23969,7 +24006,7 @@
         "z": "055a1f062782b51d",
         "group": "f5e2c3bf3d5a99b2",
         "name": "Led Style",
-        "order": 30,
+        "order": 2,
         "width": 10,
         "height": 1,
         "format": "<style>\n    .circle-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%;\n    }\n\n    .circle {\n        width: 150px;\n        /* Set the desired circle diameter */\n        height: 150px;\n        /* Maintain the same value to make it a perfect circle */\n        background-color: white;\n        /* Circle color */\n        border-radius: 50%;\n        /* Makes it a circle */\n    }\n</style>\n\n",
@@ -23979,7 +24016,7 @@
         "templateScope": "global",
         "className": "",
         "x": 100,
-        "y": 140,
+        "y": 260,
         "wires": [
             []
         ]
@@ -24000,7 +24037,7 @@
         "templateScope": "global",
         "className": "",
         "x": 130,
-        "y": 100,
+        "y": 220,
         "wires": [
             []
         ]
@@ -24011,7 +24048,7 @@
         "z": "055a1f062782b51d",
         "group": "f5e2c3bf3d5a99b2",
         "name": "gauge-style-advanced",
-        "order": 30,
+        "order": 4,
         "width": 10,
         "height": 1,
         "format": "<!--<link rel=\"stylesheet\" href=\"/css/hotnipi-gauge.css\">-->\n<style>\n:root {\n    --needle-color: #001100;\n    --needle-color-secondary: #ffdd30;\n    --target-needle-color: #ffa500;\n    --red-ticks: 9;\n    --zone-color-high: #ff5d4ebf;\n    --zone-color-warn: #ffb52d8c;\n    --zone-color-normal: #91ff4e85;\n    --zone-color-low: #4ec3ff85\n}\n.g-zone {\n    position: absolute;\n    width: 82%;\n    height: 82%;\n    top: 8%;\n    left: 10%;\n    box-sizing: border-box;\n    border-radius: 0 100% 0 0;\n    border-color: var(--zone-color-normal);\n    border-top: 7px solid;\n    border-right: 7px solid;\n    clip-path: polygon(0% 0%, 100% 0%, 0% 0%, 0% 100% );\n}\n.g-zone.high {\n    border-color: var(--zone-color-high);\n    clip-path: polygon(0% 0%, 100% 0%, 16% 0%, 0% 100% );\n}\n.g-zone.warn {\n    border-color: var(--zone-color-warn);\n    clip-path: polygon(16% 0%, 100% 0%, 73% 0%, 0% 100% );\n}\n.g-zone.normal {\n    border-color: var(--zone-color-normal);\n    clip-path: polygon(0% 50%, 100% 0%, 100% 67%, 0% 100% );\n}\n.g-zone.low {\n    border-color: var(--zone-color-low);\n    clip-path: polygon(100% 68%, 100% 0%, 100% 100%, 0% 100% );\n}\n\n.g-wrapper-label-0 {\n    grid-template-rows: 1fr;\n}\n\n.g-wrapper-label-3 {\n    grid-template-rows: 1fr 3fr;\n}\n\n.g-wrapper-label-4 {\n    grid-template-rows: 1fr 4fr;\n}\n\n.g-wrapper {\n    display: grid;\n    width: 100%;\n    height: 100%;\n    align-content: center;\n    align-items: center;\n    justify-items: center;\n}\n\n.g-header {\n    display: flex;\n    text-align: center;\n}\n\n.g-wrapper-label-0 .g-container {\n    height: calc(100% - 6px);\n}\n\n.g-container {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    user-select: none;\n    width: 100%;\n    height: calc(100% - 10.5px);\n}\n\n.g-body {\n    position: relative;\n    display: flex;\n    align-content: center;\n    align-items: center;\n    justify-content: center;\n    height: 98%;\n    width: 98%;\n    border-radius: 15%;\n    box-shadow: 0px 5px 8px #00000045;\n    background: linear-gradient(0deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.g-body::before {\n    content: \"\";\n    position: absolute;\n    top: 0px;\n    right: 0px;\n    bottom: 0px;\n    left: 0px;\n    opacity: 0.1;\n    border-radius: 15%;\n    background-image: url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1JyBoZWlnaHQ9JzUnPgogIDxyZWN0IHdpZHRoPSc1JyBoZWlnaHQ9JzUnIGZpbGw9J3doaXRlJy8+CiAgPHBhdGggZD0nTTAgNUw1IDBaTTYgNEw0IDZaTS0xIDFMMSAtMVonIHN0cm9rZT0nIzg4OCcgc3Ryb2tlLXdpZHRoPScxJy8+Cjwvc3ZnPg==\");\n    background-repeat: repeat;\n}\n\n.g-ring {\n    position: relative;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    align-content: center;\n    width: 94%;\n    height: 94%;\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 15% 85% 15% 15%;\n}\n.quarter-top-left>.g-ring {\n    width: 90%;\n    height: 90%;\n    border-radius: 85% 15% 15% 15%;\n}\n\n.g-plate {\n    position: relative;\n    overflow: hidden;\n    width: 93%;\n    height: 93%;\n    border-radius: 50%;\n    box-shadow: inset 0 0 15px #000000a3;\n    background: radial-gradient(circle, rgb(196 205 209) 0%, rgb(177 183 186) 40%, rgb(191 193 194) 100%);\n}\n\n.quarter-top-right *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 15% 100% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n.quarter-top-left *>.g-plate {\n    width: 95%;\n    height: 95%;\n    border-radius: 100% 15% 15% 15%;\n    background: radial-gradient(farthest-corner at 24% 70%, rgb(207 209 211) 0%, rgb(177 183 186) 50%, rgb(191 193 194) 129%);\n}\n\n.g-sector-high {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    top: 50%;\n    left: 50%;\n    background: #ff00004f;\n    transform-origin: 0 0;\n    transform: rotate(328deg) skew(12deg, 23deg);\n}\n\n.g-ticks {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    filter: drop-shadow(2px 4px 6px black);\n}\n\n.quarter-top-right *>.g-ticks {\n    top: -10%;\n    left: 10%;\n}\n.quarter-top-left *>.g-ticks {\n    top: -10%;\n    left: -10%;\n    transform: rotate(270deg);\n}\n\n\n.g-tick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 60%) 2%, rgb(0 0 0 / 60%) 10%, rgba(0, 0, 0, 0) 10%);\n    transform: rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-tick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 9%, rgba(0, 0, 0, 0) 9%);\n    transform: rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-tick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) +270deg)));\n}\n\n.g-subtick {\n    position: relative;\n    left: 0;\n    top: 50%;\n    width: 100%;\n    height: 1px;\n    margin-bottom: -1px;\n    background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 2%, rgb(0 0 0 / 40%) 2%, rgb(0 0 0 / 40%) 6%, rgba(0, 0, 0, 0) 6%);\n    transform: rotate(calc(calc(270deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-subtick-count)) + 45deg)));\n}\n\n.quarter-top-right *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: 0% 0%;\n}\n.quarter-top-left *>.g-subtick {\n    width: 86%;\n    position: absolute;\n    left: 0;\n    top: 100%;\n    background: linear-gradient(270deg,rgb(0 0 0 / 60%) 0%, rgb(0 0 0 / 60%) 5%, rgba(0, 0, 0, 0) 5%);\n    transform: rotate(calc(calc(90deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-subtick-count)) - 270deg)));\n    transform-origin: -0.5% 0%;\n}\n\n.g-subtick.clock {\n    transform: rotate(calc(calc(360deg / var(--ga-subtick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-subtick-count)) + 270deg)));\n}\n\n.g-num {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    text-align: center;\n    transform: translate(-50%, -50%) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(270deg / var(--ga-tick-count)) + 45deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(270deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(270deg / var(--ga-tick-count))*-1 - 45deg)));\n}\n\n.quarter-top-right *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n.quarter-top-left *>.g-num {\n    transform: translate(-50%, -50%) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(90deg / var(--ga-tick-count)) - 90deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(90deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(90deg / var(--ga-tick-count))*-1 - 360deg)));\n}\n\n.g-num.clock {\n    transform: translate(-50%, -50%) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) - calc(calc(360deg / var(--ga-tick-count)) + 270deg))) translate(calc(-1px * var(--container-size) * var(--gn-distance))) rotate(calc(calc(360deg / var(--ga-tick-count)) * var(--ga-tick) *-1 - calc(calc(360deg / var(--ga-tick-count))*-1 - 270deg)));\n}\n\n.g-nums {\n    position: absolute;\n    top: 0;\n    width: 100%;\n    height: 100%;\n    color: #000000a1;\n    font-size: calc(var(--container-size) * 20%);\n    font-weight: 500;\n    filter: drop-shadow(2px 4px 10px black);\n}\n\n.quarter-top-right *>.g-nums {\n    top: 40%;\n    left: -40%;\n}\n\n.quarter-top-left *>.g-nums {\n    top: 40%;\n    left: 40%;\n    transform: rotate(270deg);\n}\n.g-needle {\n    position: absolute;\n    left: 0;\n    top: 49%; \n    width: 100%;\n    height: 1%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value, 0deg) / 10) - 45deg));\n    transition: transform 20ms;\n}\n\n.g-needle-secondary {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 2%;\n    filter: drop-shadow(0px 1px 3px #00000080);\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color-secondary) 15%, var(--needle-color-secondary) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(calc(270deg * calc(var(--gauge-value-secondary, 0deg) / 100) - 45deg));\n    transition: transform 1s;    \n}\n\n.g-target-needle {\n    position: absolute;\n    left: 0;\n    top: 49%;\n    width: 100%;\n    height: 1.5%;\n    transform: rotate(calc(270deg * calc(var(--gauge-target, 0deg) / 100) - 45deg));\n    transition: transform 1s;\n}\n\n.g-target-needle:before {\n    content: \"►\";\n    position: absolute;\n    left: -1%;\n    top: calc(var(--container-size) * 1%);\n    line-height: 0;\n    font-size: calc(var(--container-size) * 35%);\n    color: #ffdc2d;\n    text-shadow: 0 0 3px black;\n}\n\n.quarter-top-right *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 10%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 90deg));\n    transform-origin: 0% 50%;\n}\n\n.quarter-top-left *>.g-needle {\n    position: absolute;\n    width: 74%;\n    height: 2%;\n    top: 89.5%;\n    left: 90%;\n    background: var(--needle-color);\n    transform: rotate(calc(90deg * calc(var(--gauge-value, 0deg) / 100) - 270deg));\n    transform-origin: 0% 50%;\n}\n\n.g-needle.hour {\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 20%, var(--needle-color) 20%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-hour));\n}\n\n.g-needle.minute {\n    top: 49.25%;\n    height: 1.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 15%, var(--needle-color) 15%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transition: unset;\n    transform: rotate(var(--time-minute));\n}\n\n.g-needle.second {\n    top: 49.5%;\n    height: 0.5%;\n    background: linear-gradient(90deg, rgba(2, 0, 36, 0) 0, rgba(0, 0, 0, 0) 10%, var(--needle-color) 10%, var(--needle-color) 50%, rgba(0, 0, 0, 0) 50%);\n    transform: rotate(var(--time-second));\n    transition: unset;\n}\n\n.g-needle-ring {\n    position: absolute;\n    width: calc(var(--container-size) * 1.5%);\n    height: calc(var(--container-size) * 1.5%);\n    top: 50%;\n    left: 50%;\n    border-radius: 50%;\n    box-shadow: 0 1px 4px #0000009c;\n    background: var(--needle-color);\n    transform: translate(-50%, -50%);\n}\n\n.quarter-top-right *>.g-needle-ring {\n    top: 90%;\n    left: 10%;\n}\n.quarter-top-left *>.g-needle-ring {\n    top: 90%;\n    left: 90%;\n}\n\n.g-val {\n    position: absolute;\n    text-align: center;\n    left: 50%;\n    bottom: 8%;\n    width: 80px;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 27%);\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000050);\n    transform: translateX(-50%);\n}\n\n/* Add a pseudo-element for the negative sign */\n.g-val:before {\n    content: \"\";\n    position: absolute;\n    left: -1; /* Position the negative sign on the left side */\n}\n/* Style for negative numbers */\n.g-val.negative:before {\n    content: \"-\";\n    right: 100%; /* Position the negative sign to the left of the number */\n    margin-right: 0px; /* Add some space between the negative sign and the number */\n}\n\n.quarter-top-right *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.quarter-top-left *>.g-val {\n    width: 100%;\n    bottom: calc(calc(var(--container-size) * 8%) / calc(var(--container-size)/4));\n    font-size: calc(var(--container-size) * 25%);\n}\n.g-val-ring {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: calc(calc(var(--container-size) * 7%) / calc(var(--container-size)/4));\n    height: calc(calc(var(--container-size) * 6%) / calc(var(--container-size)/4));\n    border-radius: 50%;\n    background: linear-gradient(180deg, rgba(78, 78, 78, 1) 0%, rgba(215, 215, 215, 1) 99%, rgba(236, 236, 236, 1) 100%);\n}\n\n.quarter-top-right *> .g-val-ring {\n    right: 0%;\n}\n.quarter-top-left *> .g-val-ring {\n    left:0%;\n}\n.g-val-plate {\n    position: absolute;\n    right: 0%;\n    top: 0%;\n    width: 90%;\n    height: 90%;\n    border-radius: 50%;\n    background: #e4e9ee;\n    box-shadow: inset 0 0 15px #000000a3;\n    transform: translate(-5%, 5%);\n}\n\n.g-label {\n    position: absolute;\n    left: 50%;\n    top: 58%;\n    width: 100%;\n    font-family: monospace;\n    font-size: calc(var(--container-size) * 18%);\n    text-align: center;\n    color: #000000a1;\n    filter: drop-shadow(2px 3px 2px #00000080);\n    transform: translateX(-50%);\n}\n\n.quarter-top-right *>.g-label {\n    left: 35%;\n    top: 60%;\n    width: 70%;\n}\n\n.quarter-top-left *>.g-label {\n    left: 65%;\n    top: 60%;\n    width: 70%;\n}\n\n.g-label::after {\n    position: absolute;\n    content: var(--g-unit);\n    left: 0;\n    top: 100%;\n    width: 100%;\n    height: 100%;\n    font-size: clamp(1em, calc(var(--container-size) * 40%), 1.5em);\n}\n\n.g-rivets {\n    position: absolute;\n    left: 0;\n    top: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.g-rivet {\n    position: absolute;\n    width: calc(var(--container-size) * 2px);\n    height: calc(var(--container-size) * 2px);\n    border: 1px solid rgba(255, 255, 255, 0.1);\n    border-radius: 50px;\n    box-shadow: 0px 2px 4px #000, -1px -1px 5px rgba(0, 0, 0, 0.2);\n    background: linear-gradient(135deg, #adadad 0%, #d3d3d3 51%, #d1d1d1 68%, #8c8c8c 100%);\n}\n\n.g-rivet:nth-child(1) {\n    top: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(2) {\n    top: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(3) {\n    bottom: calc(var(--container-size) * 1.5px);\n    left: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet:nth-child(4) {\n    bottom: calc(var(--container-size) * 1.5px);\n    right: calc(var(--container-size) * 1.5px);\n}\n\n.g-rivet::before {\n    content: '';\n    position: absolute;\n    left: 50%;\n    top: 50%;\n    width: calc(var(--container-size) * 10%);\n    height: calc(var(--container-size) * 10%);\n    border-radius: 50%;\n    border-bottom: 1px solid rgba(255, 255, 255, 0.3);\n    box-shadow: inset 0px 1px 2px #222;\n    transform: translate(-50%, -50%);\n}\n</style>",
@@ -24021,7 +24058,7 @@
         "templateScope": "global",
         "className": "",
         "x": 340,
-        "y": 100,
+        "y": 220,
         "wires": [
             []
         ]
@@ -24032,7 +24069,7 @@
         "z": "055a1f062782b51d",
         "group": "f5e2c3bf3d5a99b2",
         "name": "Logo",
-        "order": 10,
+        "order": 1,
         "width": 0,
         "height": 0,
         "format": "<script id=\"clockScript1\" type=\"text/javascript\">\n    $(function () {\n        \n        //add logo\n        var div1 = $('<div/>');\n        var logo = new Image();\n\n        logo.src = \"data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI3IiBoZWlnaHQ9IjEyNyIgdmlld0JveD0iMCAwIDEyNyAxMjciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8Y2lyY2xlIGN4PSI2My41IiBjeT0iNjMuNSIgcj0iNjMuNSIgZmlsbD0id2hpdGUiLz4NCjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF8xOTc5XzE0OTMwKSI+DQo8cGF0aCBkPSJNNjYuODk0MyAxNi4xNjgyQzY1LjcxNzMgMTYgNjQuNTQwMiAxNiA2My4zNjMxIDE2QzYyLjE4NiAxNiA2MS4xNzcxIDE2IDYwIDE2LjE2ODJWMTAwLjc1SDkxLjc4MTJDOTQuMzAzNiA5OC45MDAzIDk2LjQ4OTYgOTYuODgyNSA5OC4zMzkzIDk0LjUyODNINjYuODk0M1YxNi4xNjgyWiIgZmlsbD0iIzAwOUNERCIvPg0KPHBhdGggZD0iTTQyLjM1NTcgNTkuMjE0M0MzOC42NTYyIDU4LjcwOTggMzguMTUxOCA1OC41NDE3IDM1LjQ2MTMgNTguMjA1NEMyOS41NzU5IDU3LjM2NDYgMjcuODk0MyA1Mi4zMTk5IDI3Ljg5NDMgNDkuMTI1QzI3Ljg5NDMgNDUuMjU3NCAzMS4wODkzIDQxLjIyMTcgMzYuMzAyMSA0MS4yMjE3SDU1LjQ3MTdWMzVIMzQuNjIwNUMyNy41NTggMzUgMjEgNDEuODk0MyAyMSA0OS4xMjVDMjEgNTYuMTg3NSAyNC4zNjMxIDYzLjQxODIgMzUuMjkzMiA2NC45MzE1QzM4LjY1NjIgNjUuMjY3OSAzOC45OTI2IDY1LjQzNiA0Mi4xODc1IDY1Ljc3MjNDNDUuODg2OSA2Ni4xMDg2IDUwLjI1ODkgNjkuNDcxNyA1MC4yNTg5IDc0LjY4NDVDNTAuMjU4OSA3OS41NjEgNDYuODk1OCA4My43NjQ5IDQxLjM0NjcgODMuNzY0OUgyMS4zMzYzQzIyLjE3NzEgODUuOTUwOSAyMy4xODYgODcuOTY4OCAyNC44Njc2IDkwLjE1NDhINDMuMTk2NEM1MC45MzE1IDkwLjE1NDggNTcuMTUzMyA4NC4xMDEyIDU3LjE1MzMgNzQuODUyN0M1Ny4xNTMzIDY3Ljk1ODMgNTMuOTU4MyA2MC44OTU4IDQyLjM1NTcgNTkuMjE0M1oiIGZpbGw9IiMwMDlDREQiLz4NCjxwYXRoIGQ9Ik0xMDkuNTA3IDU5LjA0NjFINzcuODk0M1Y0MS4yMjE3SDEwMy45NThDMTAyLjk0OSAzOS4wMzU3IDEwMS42MDQgMzYuODQ5NyA5OS45MjI2IDM1SDcxVjkwLjE1NDhINzcuODk0M1Y2NS4yNjc5SDEwOS42NzZDMTA5Ljg0NCA2NC43NjM0IDEwOS44NDQgNjQuMjU4OSAxMDkuODQ0IDYzLjkyMjZDMTA5Ljg0NCA2Mi4wNzI5IDEwOS42NzYgNjAuODk1OCAxMDkuNTA3IDU5LjA0NjFaIiBmaWxsPSIjMDA5Q0REIi8+DQo8cGF0aCBkPSJNNjMuNSA3QzMyLjM5MTQgNyA3IDMyLjIyMzIgNyA2My41QzcgOTQuNzc2OCAzMi4zOTE0IDEyMC4xNjggNjMuNSAxMjBDOTQuNjA4NiAxMjAgMTIwIDk0LjYwODYgMTIwIDYzLjVDMTIwIDMyLjM5MTQgOTQuNzc2OCA3IDYzLjUgN1pNNjMuNjY4MiAxMTMuOTQ2QzM1Ljc1NDUgMTEzLjk0NiAxNC4wNjI1IDkxLjQxMzcgMTQuMDYyNSA2My41QzE0LjA2MjUgMzUuNTg2MyAzNS45MjI2IDEzLjA1MzYgNjMuNjY4MiAxMy4wNTM2QzkxLjU4MTggMTMuMDUzNiAxMTMuMjc0IDM1LjU4NjMgMTEzLjI3NCA2My41QzExMy4yNzQgOTEuNDEzNyA5MS40MTM3IDExMy45NDYgNjMuNjY4MiAxMTMuOTQ2WiIgZmlsbD0iIzAwOUNERCIvPg0KPC9nPg0KPGRlZnM+DQo8Y2xpcFBhdGggaWQ9ImNsaXAwXzE5NzlfMTQ5MzAiPg0KPHJlY3Qgd2lkdGg9IjExMyIgaGVpZ2h0PSIxMTMiIGZpbGw9IndoaXRlIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3IDcpIi8+DQo8L2NsaXBQYXRoPg0KPC9kZWZzPg0KPC9zdmc+DQo=\"\n        logo.height = 45;\n        div1[0].style.margin = 'auto 10px auto auto';\n        div1[0].id=\"CustomLogo\"\n\n        div1.append(logo);\n\n        function addToToolbar() {\n            var toolbar = $('.md-toolbar-tools');\n            \n            if(!toolbar.length) return;\n            var div2 = $('div#CustomLogo');\n            if(div2.length) return;\n            \n            toolbar.append(div1);\n        }\n        addToToolbar()\n    });\n</script>",
@@ -24042,9 +24079,144 @@
         "templateScope": "global",
         "className": "",
         "x": 90,
-        "y": 180,
+        "y": 300,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "1a4d5dfdbdaf5e1d",
+        "type": "postgresql",
+        "z": "055a1f062782b51d",
+        "name": "",
+        "query": "SELECT * FROM measurement_types;\n\n\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 330,
+        "y": 100,
+        "wires": [
+            [
+                "830640f98af8dc57"
+            ]
+        ]
+    },
+    {
+        "id": "be0a5c7240670dc9",
+        "type": "debug",
+        "z": "055a1f062782b51d",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1420,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "830640f98af8dc57",
+        "type": "split",
+        "z": "055a1f062782b51d",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 470,
+        "y": 100,
+        "wires": [
+            [
+                "b07eaf87b34f4689"
+            ]
+        ]
+    },
+    {
+        "id": "b07eaf87b34f4689",
+        "type": "join",
+        "z": "055a1f062782b51d",
+        "name": "",
+        "mode": "custom",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "payload.name",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "",
+        "reduceFixup": "",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            [
+                "d73752d84feffbd9"
+            ]
+        ]
+    },
+    {
+        "id": "d73752d84feffbd9",
+        "type": "change",
+        "z": "055a1f062782b51d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "measurement_types",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 840,
+        "y": 100,
+        "wires": [
+            [
+                "d1c48ace08c1ff66"
+            ]
+        ]
+    },
+    {
+        "id": "d1c48ace08c1ff66",
+        "type": "change",
+        "z": "055a1f062782b51d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "measurement_types[\"m3\"].long_name",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1210,
+        "y": 100,
+        "wires": [
+            [
+                "be0a5c7240670dc9"
+            ]
         ]
     },
     {
@@ -24607,282 +24779,6 @@
         "wires": []
     },
     {
-        "id": "cb7afa64cc116d3f",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 1,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 1",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "861a06f5e0e080fa",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 2,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 2",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "de3070bc03fe8636",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 3,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 3",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "6464a63cdf0e4934",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 11,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 4",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 200,
-        "wires": []
-    },
-    {
-        "id": "fb7ed64a28e9d9bd",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 12,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 5",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 240,
-        "wires": []
-    },
-    {
-        "id": "07508d46a3716912",
-        "type": "ui_gauge",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 13,
-        "width": 6,
-        "height": 3,
-        "gtype": "gage",
-        "title": "Channel 6",
-        "label": "mm",
-        "format": "{{payload | number:4}}",
-        "min": "-3",
-        "max": "3",
-        "colors": [
-            "#ff0000",
-            "#00b81f",
-            "#ff0000"
-        ],
-        "seg1": "",
-        "seg2": "",
-        "diff": false,
-        "className": "",
-        "x": 330,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "98873490e339f652",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C1 IN",
-        "links": [
-            "edf83709d047c606"
-        ],
-        "x": 75,
-        "y": 80,
-        "wires": [
-            [
-                "cb7afa64cc116d3f"
-            ]
-        ]
-    },
-    {
-        "id": "2faa106ada272312",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C2 IN",
-        "links": [
-            "23b507a676fbdd76"
-        ],
-        "x": 75,
-        "y": 120,
-        "wires": [
-            [
-                "861a06f5e0e080fa"
-            ]
-        ]
-    },
-    {
-        "id": "7047e0ddec4200e5",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C3 IN",
-        "links": [
-            "bfe969b5abf36ae9"
-        ],
-        "x": 75,
-        "y": 160,
-        "wires": [
-            [
-                "de3070bc03fe8636"
-            ]
-        ]
-    },
-    {
-        "id": "7961dcdc3d64dbf2",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C4 IN",
-        "links": [
-            "62fbbd098a50bea2"
-        ],
-        "x": 75,
-        "y": 200,
-        "wires": [
-            [
-                "6464a63cdf0e4934"
-            ]
-        ]
-    },
-    {
-        "id": "fe809c0e0031e5d9",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C5 IN",
-        "links": [
-            "7aa723e4dc5e5a8c"
-        ],
-        "x": 75,
-        "y": 240,
-        "wires": [
-            [
-                "fb7ed64a28e9d9bd"
-            ]
-        ]
-    },
-    {
-        "id": "f81d2b1e8fb96cae",
-        "type": "link in",
-        "z": "239da397959ae042",
-        "g": "fa8d67f658e81534",
-        "name": "Overview C6 IN",
-        "links": [
-            "6c53f538b84293ec"
-        ],
-        "x": 75,
-        "y": 280,
-        "wires": [
-            [
-                "07508d46a3716912"
-            ]
-        ]
-    },
-    {
         "id": "bf9be0cc96498def",
         "type": "http request",
         "z": "8b889a82bab4ead6",
@@ -25172,326 +25068,5 @@
             ]
         ],
         "info": "Filter Internal Sensor"
-    },
-    {
-        "id": "e9a8a374e1e65ca3",
-        "type": "debug",
-        "z": "4c3e5ac1458c0e57",
-        "name": "debug 1",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 640,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "f2118aa4411f3a11",
-        "type": "inject",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "5",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "aaa",
-        "payloadType": "str",
-        "x": 130,
-        "y": 120,
-        "wires": [
-            [
-                "664f26ac9614cb01"
-            ]
-        ]
-    },
-    {
-        "id": "f7c003b55423326f",
-        "type": "inject",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "props": [
-            {
-                "p": "tick",
-                "v": "true",
-                "vt": "bool"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "x": 130,
-        "y": 160,
-        "wires": [
-            [
-                "664f26ac9614cb01"
-            ]
-        ]
-    },
-    {
-        "id": "664f26ac9614cb01",
-        "type": "postgresql",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "query": "SELECT * FROM measurement_values\nORDER BY created DESC\nLIMIT 5;",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 450,
-        "y": 140,
-        "wires": [
-            [
-                "e9a8a374e1e65ca3",
-                "dfd4a9ea0fdefa61"
-            ]
-        ]
-    },
-    {
-        "id": "dfd4a9ea0fdefa61",
-        "type": "ui_table",
-        "z": "4c3e5ac1458c0e57",
-        "group": "6219fc8790234a1e",
-        "name": "Data",
-        "order": 24,
-        "width": "18",
-        "height": "10",
-        "columns": [],
-        "outputs": 0,
-        "cts": false,
-        "x": 670,
-        "y": 140,
-        "wires": []
-    },
-    {
-        "id": "c27f593f64181890",
-        "type": "postgresql",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "query": "SELECT * FROM public.measurement_types\nORDER BY name ASC ",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 310,
-        "y": 240,
-        "wires": [
-            [
-                "940be9b373445285"
-            ]
-        ]
-    },
-    {
-        "id": "3f36a1e08e97d8ee",
-        "type": "debug",
-        "z": "4c3e5ac1458c0e57",
-        "name": "debug 7",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1000,
-        "y": 240,
-        "wires": []
-    },
-    {
-        "id": "843973da7413d826",
-        "type": "inject",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "payload": "aaa",
-        "payloadType": "str",
-        "x": 130,
-        "y": 240,
-        "wires": [
-            [
-                "c27f593f64181890"
-            ]
-        ]
-    },
-    {
-        "id": "940be9b373445285",
-        "type": "function",
-        "z": "4c3e5ac1458c0e57",
-        "name": "Convert",
-        "func": "\nvar result = msg.payload.reduce(function (r, e) {\n    r[e.name] = e.long_name;\n    return r;\n}, {});\n\nmsg.payload = result\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 500,
-        "y": 240,
-        "wires": [
-            [
-                "93c41dd171d27f5d"
-            ]
-        ]
-    },
-    {
-        "id": "93c41dd171d27f5d",
-        "type": "change",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "measurementTypes",
-                "pt": "global",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 730,
-        "y": 240,
-        "wires": [
-            [
-                "3f36a1e08e97d8ee"
-            ]
-        ]
-    },
-    {
-        "id": "5f090de2329f8ef1",
-        "type": "inject",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "m1",
-        "payloadType": "str",
-        "x": 230,
-        "y": 420,
-        "wires": [
-            [
-                "47ee406cc577ea6e"
-            ]
-        ]
-    },
-    {
-        "id": "a913ba4a65266e5c",
-        "type": "debug",
-        "z": "4c3e5ac1458c0e57",
-        "name": "debug 8",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 740,
-        "y": 420,
-        "wires": []
-    },
-    {
-        "id": "47ee406cc577ea6e",
-        "type": "change",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "$lookup($globalContext('measurementTypes'), payload)",
-                "tot": "jsonata"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 490,
-        "y": 420,
-        "wires": [
-            [
-                "a913ba4a65266e5c"
-            ]
-        ]
-    },
-    {
-        "id": "fc38ef72fdc2dbb8",
-        "type": "inject",
-        "z": "4c3e5ac1458c0e57",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "m2",
-        "payloadType": "str",
-        "x": 230,
-        "y": 500,
-        "wires": [
-            [
-                "47ee406cc577ea6e"
-            ]
-        ]
     }
 ]
