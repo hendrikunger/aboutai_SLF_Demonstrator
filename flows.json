@@ -119,7 +119,7 @@
             "c7ce9cfcf2372f96",
             "8b0dbb210dc7063c"
         ],
-        "x": 14,
+        "x": 34,
         "y": 559,
         "w": 1492,
         "h": 82
@@ -577,7 +577,7 @@
             "da132fd2cef17be3"
         ],
         "x": 18.000003814697266,
-        "y": 1266,
+        "y": 1386,
         "w": 1444.9999961853027,
         "h": 235
     },
@@ -622,8 +622,8 @@
             "dfde147112837060",
             "48b4b857970c3e7f"
         ],
-        "x": 54,
-        "y": 1199,
+        "x": 34,
+        "y": 1559,
         "w": 1372,
         "h": 235
     },
@@ -734,7 +734,7 @@
             "93c899f39247de2a"
         ],
         "x": 34,
-        "y": 1339,
+        "y": 1539,
         "w": 1432,
         "h": 235
     },
@@ -801,7 +801,7 @@
             "6581ac48ae0a5768"
         ],
         "x": 54,
-        "y": 1306,
+        "y": 1426,
         "w": 1449,
         "h": 235
     },
@@ -868,7 +868,7 @@
             "45acccec90286900"
         ],
         "x": 34,
-        "y": 1259,
+        "y": 1459,
         "w": 1382,
         "h": 235
     },
@@ -1091,7 +1091,7 @@
             "93f564cbef5b9603"
         ],
         "x": 34,
-        "y": 1619,
+        "y": 1819,
         "w": 2312,
         "h": 322
     },
@@ -1131,8 +1131,8 @@
             "c972581bc9f8476e",
             "4756f886debe829f"
         ],
-        "x": 44,
-        "y": 1459,
+        "x": 24,
+        "y": 1819,
         "w": 2242,
         "h": 322
     },
@@ -1176,7 +1176,7 @@
             "11b9e14c02e19ddf"
         ],
         "x": 14,
-        "y": 1539,
+        "y": 1659,
         "w": 2202,
         "h": 402
     },
@@ -1216,7 +1216,7 @@
             "a9cb839cc1d8808d"
         ],
         "x": 34,
-        "y": 1579,
+        "y": 1699,
         "w": 2032,
         "h": 322
     },
@@ -1252,7 +1252,7 @@
             "14d3b2d4c42730e9"
         ],
         "x": 34,
-        "y": 1539,
+        "y": 1739,
         "w": 2352,
         "h": 322
     },
@@ -1602,12 +1602,15 @@
             "8fb1da913ebbb0a8",
             "e93f7bfc305fe380",
             "92b4f553da63bd74",
-            "9ec6774c0f289716"
+            "9ec6774c0f289716",
+            "8777276106bf0d25",
+            "2bee1ede2fdfa7b7",
+            "479b12688187f57b"
         ],
-        "x": 34,
-        "y": 599,
+        "x": 14,
+        "y": 579,
         "w": 1658,
-        "h": 608
+        "h": 748
     },
     {
         "id": "74ad2d205941a89c",
@@ -1632,7 +1635,7 @@
             "1c5aa8a7294a403e"
         ],
         "x": 51,
-        "y": 1306,
+        "y": 1506,
         "w": 1572,
         "h": 235
     },
@@ -1737,7 +1740,7 @@
             "2d52a2c7339593f5"
         ],
         "x": 54,
-        "y": 1579,
+        "y": 1779,
         "w": 2452,
         "h": 322
     },
@@ -1810,7 +1813,7 @@
             "35bfc4626ffbdfc0"
         ],
         "x": 384,
-        "y": 1119,
+        "y": 1159,
         "w": 272,
         "h": 122
     },
@@ -1827,8 +1830,8 @@
             "281b69f2e0396436",
             "b273537a03a12c39"
         ],
-        "x": 464,
-        "y": 1039,
+        "x": 424,
+        "y": 1059,
         "w": 272,
         "h": 122
     },
@@ -1846,7 +1849,7 @@
             "506ec0f72bd64107"
         ],
         "x": 434,
-        "y": 1179,
+        "y": 1199,
         "w": 272,
         "h": 122
     },
@@ -1864,7 +1867,7 @@
             "f14f5a0ca02dba42"
         ],
         "x": 424,
-        "y": 1119,
+        "y": 1139,
         "w": 272,
         "h": 122
     },
@@ -1882,7 +1885,7 @@
             "537b0e41812d4647"
         ],
         "x": 384,
-        "y": 1119,
+        "y": 1159,
         "w": 272,
         "h": 122
     },
@@ -1900,7 +1903,7 @@
             "36d6d81a9bc1a922"
         ],
         "x": 414,
-        "y": 1119,
+        "y": 1159,
         "w": 272,
         "h": 122
     },
@@ -1943,31 +1946,137 @@
         "h": 82
     },
     {
-        "id": "c4d565d6dc37a9a9",
+        "id": "f0f6dbd87bb212e9",
         "type": "group",
-        "z": "fe233ff436b4d8c7",
-        "name": "Live Data",
+        "z": "f76015fff1ab449b",
+        "name": "Set measurment ID",
         "style": {
             "label": true
         },
         "nodes": [
-            "6ff6b159f4eb418a",
-            "e147caf0cd14a036",
-            "edf83709d047c606",
-            "68faedd18f2cbfb7",
-            "6da455b1ee388cb2",
-            "0add7a7bfa64c05f",
-            "60aac990440ed53b",
-            "9fa7476f08905540",
-            "3d3e1dfc6401935d",
-            "368c3c772a33762d",
-            "4782014c59a1fc17",
-            "64b245e4b405ef06"
+            "ef398e37cf183e29",
+            "57382d1029fcd101",
+            "ebd0b0d95e728c14",
+            "46e8fd6ad953467f"
         ],
-        "x": 54,
-        "y": 73,
-        "w": 1292,
-        "h": 368
+        "x": 1094,
+        "y": 59,
+        "w": 612,
+        "h": 122
+    },
+    {
+        "id": "538ede45c4ec0c50",
+        "type": "group",
+        "z": "97bca276c16abc95",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a924445b72ec1fb2",
+            "e8fcbac30fbc5cd3",
+            "69ad0e573da14b48",
+            "564b877ed3689a22"
+        ],
+        "x": 1094,
+        "y": 59,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "dcb4748c42882c52",
+        "type": "group",
+        "z": "2a0afd77453149d1",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "7e2d1c031c6610b8",
+            "4199012e816977d9",
+            "963975520561c0d3",
+            "bb614a3c8413e375"
+        ],
+        "x": 1074,
+        "y": 99,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "ee109df68af24582",
+        "type": "group",
+        "z": "e30c392695b4b813",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8a22045f053eba40",
+            "19110620c2dbf7cb",
+            "2495f6ddd06838d8",
+            "dc8030663de57849"
+        ],
+        "x": 1114,
+        "y": 99,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "b0a2eb480a71d31e",
+        "type": "group",
+        "z": "0b6f24f26e309bd0",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "526a495a167f544f",
+            "2e22991bdbe439d9",
+            "34d01bdb84aa79a4",
+            "f7c261873e164fc9"
+        ],
+        "x": 1114,
+        "y": 79,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "844eb2b431656228",
+        "type": "group",
+        "z": "a8b2e7178cc214e3",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a969d154f7672c33",
+            "d0e075d5544b4a55",
+            "0199471388c4cffa",
+            "1d8b61563799fce7"
+        ],
+        "x": 1154,
+        "y": 79,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "492587daee44b0f0",
+        "type": "group",
+        "z": "30e826456c806c39",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3cf854976959f9b8",
+            "2115e989366f4451",
+            "47c7c29123b2ab59",
+            "43cf38abf702266a"
+        ],
+        "x": 1074,
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "7eb72b1d55d66ff5",
@@ -2363,8 +2472,8 @@
             "f9eafdbe8ae23397",
             "6c0ba9e1b80d2e1c"
         ],
-        "x": 1254,
-        "y": 919,
+        "x": 1234,
+        "y": 899,
         "w": 412,
         "h": 122
     },
@@ -2385,8 +2494,8 @@
             "9bfe7534ced40b66",
             "fda943f3a6add609"
         ],
-        "x": 274,
-        "y": 739,
+        "x": 254,
+        "y": 719,
         "w": 352,
         "h": 202
     },
@@ -2403,8 +2512,8 @@
             "d9111c50fe35a026",
             "0e48aac0cc361391"
         ],
-        "x": 1194,
-        "y": 679,
+        "x": 1174,
+        "y": 659,
         "w": 202,
         "h": 82
     },
@@ -2420,8 +2529,8 @@
         "nodes": [
             "efa429021e13e670"
         ],
-        "x": 1254,
-        "y": 819,
+        "x": 1234,
+        "y": 799,
         "w": 272,
         "h": 82
     },
@@ -2515,10 +2624,36 @@
             "31c76fb9109e409a",
             "e82976f501f1a67d"
         ],
-        "x": 474,
-        "y": 1059,
+        "x": 454,
+        "y": 1039,
         "w": 272,
         "h": 122
+    },
+    {
+        "id": "c4d565d6dc37a9a9",
+        "type": "group",
+        "z": "fe233ff436b4d8c7",
+        "name": "Live Data",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6ff6b159f4eb418a",
+            "e147caf0cd14a036",
+            "edf83709d047c606",
+            "68faedd18f2cbfb7",
+            "6da455b1ee388cb2",
+            "0add7a7bfa64c05f",
+            "60aac990440ed53b",
+            "9fa7476f08905540",
+            "3d3e1dfc6401935d",
+            "368c3c772a33762d",
+            "4782014c59a1fc17"
+        ],
+        "x": 54,
+        "y": 73,
+        "w": 1182,
+        "h": 368
     },
     {
         "id": "4782014c59a1fc17",
@@ -2543,137 +2678,138 @@
         "h": 122
     },
     {
-        "id": "f0f6dbd87bb212e9",
+        "id": "479b12688187f57b",
         "type": "group",
         "z": "f76015fff1ab449b",
-        "name": "Set measurment ID",
+        "g": "c95c71c85f7f9849",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "ef398e37cf183e29",
-            "57382d1029fcd101",
-            "ebd0b0d95e728c14",
-            "46e8fd6ad953467f"
+            "97565cb49124b804",
+            "8aaf01c2ae3c344a",
+            "27271028281628da",
+            "6672570e8a4942f6"
         ],
-        "x": 1094,
-        "y": 59,
-        "w": 612,
-        "h": 122
+        "x": 244,
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "538ede45c4ec0c50",
+        "id": "4b187495e475f63d",
         "type": "group",
         "z": "97bca276c16abc95",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "a924445b72ec1fb2",
-            "e8fcbac30fbc5cd3",
-            "69ad0e573da14b48",
-            "564b877ed3689a22"
+            "b95281566aa04440",
+            "2dabc638fc673392",
+            "2c1ac305809010fc",
+            "c0343ba5ca465889"
         ],
-        "x": 1094,
-        "y": 59,
-        "w": 592,
-        "h": 122
+        "x": 244,
+        "y": 1299,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "dcb4748c42882c52",
+        "id": "477ba2869b1dc5b2",
         "type": "group",
         "z": "2a0afd77453149d1",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "7e2d1c031c6610b8",
-            "4199012e816977d9",
-            "963975520561c0d3",
-            "bb614a3c8413e375"
+            "c70629edef2d92f5",
+            "53655901b40bbc04",
+            "4e38a2d272ea8a19",
+            "2aecdcf9afea6204"
         ],
-        "x": 1074,
-        "y": 99,
-        "w": 592,
-        "h": 122
+        "x": 154,
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "ee109df68af24582",
+        "id": "cdb1e268e793fa94",
         "type": "group",
         "z": "e30c392695b4b813",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "8a22045f053eba40",
-            "19110620c2dbf7cb",
-            "2495f6ddd06838d8",
-            "dc8030663de57849"
+            "809d8e9952edecaa",
+            "1a6b7c0e9022fe10",
+            "aaa0729c78333d4a",
+            "57d02878b93a7b79"
         ],
-        "x": 1114,
-        "y": 99,
-        "w": 592,
-        "h": 122
+        "x": 144,
+        "y": 1339,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "b0a2eb480a71d31e",
+        "id": "99fe34152fa75d4e",
         "type": "group",
         "z": "0b6f24f26e309bd0",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "526a495a167f544f",
-            "2e22991bdbe439d9",
-            "34d01bdb84aa79a4",
-            "f7c261873e164fc9"
+            "72e1afa6e0f201b8",
+            "227201215cd7773e",
+            "fbd9271d0a538a1f",
+            "9b6d39a65611bed0"
         ],
-        "x": 1114,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "x": 174,
+        "y": 1299,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "844eb2b431656228",
+        "id": "a814938400f6b94f",
         "type": "group",
         "z": "a8b2e7178cc214e3",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "a969d154f7672c33",
-            "d0e075d5544b4a55",
-            "0199471388c4cffa",
-            "1d8b61563799fce7"
+            "01707cad7723ca87",
+            "f4f8e3f2a373d120",
+            "b182209f3026fbc4",
+            "b6e8bd6e30ae6ae9"
         ],
-        "x": 1114,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "x": 124,
+        "y": 1339,
+        "w": 532,
+        "h": 82
     },
     {
-        "id": "492587daee44b0f0",
+        "id": "6f90eb41e553b9f7",
         "type": "group",
         "z": "30e826456c806c39",
-        "name": "Set measurment ID",
+        "name": "Foot Switch",
         "style": {
             "label": true
         },
         "nodes": [
-            "3cf854976959f9b8",
-            "2115e989366f4451",
-            "47c7c29123b2ab59",
-            "43cf38abf702266a"
+            "a04cb52631bb5e64",
+            "e851b8c356ca2035",
+            "bf9188afc8a31cac",
+            "938c7ade28f99f96"
         ],
-        "x": 1074,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "x": 114,
+        "y": 1319,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "96517ba4678e4041",
@@ -2925,15 +3061,6 @@
                 "py": 0
             }
         }
-    },
-    {
-        "id": "b890a170fb975001",
-        "type": "ui_tab",
-        "name": "Datenbank Visualisierung",
-        "icon": "dashboard",
-        "order": 12,
-        "disabled": false,
-        "hidden": false
     },
     {
         "id": "8e8a0e2a14399f07",
@@ -3362,7 +3489,7 @@
     {
         "id": "32dc656ac87c3519",
         "type": "ui_tab",
-        "name": "Parallelität B",
+        "name": "Parallelität",
         "icon": "dashboard",
         "order": 8,
         "disabled": false,
@@ -5660,8 +5787,8 @@
         "payloadType": "str",
         "topic": "control",
         "topicType": "str",
-        "x": 800,
-        "y": 860,
+        "x": 780,
+        "y": 840,
         "wires": [
             [
                 "86a2b1f5d365cc3b"
@@ -5683,8 +5810,8 @@
         "toggleValue": "",
         "toggleType": "any",
         "passOnOff": "always",
-        "x": 970,
-        "y": 900,
+        "x": 950,
+        "y": 880,
         "wires": [
             [
                 "c69fbea30e7e962c",
@@ -5711,8 +5838,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 1170,
-        "y": 880,
+        "x": 1150,
+        "y": 860,
         "wires": [
             [
                 "efa429021e13e670"
@@ -5742,8 +5869,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1550,
-        "y": 1000,
+        "x": 1530,
+        "y": 980,
         "wires": [
             []
         ]
@@ -5775,8 +5902,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1370,
-        "y": 960,
+        "x": 1350,
+        "y": 940,
         "wires": [
             []
         ]
@@ -5803,8 +5930,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 1370,
-        "y": 1000,
+        "x": 1350,
+        "y": 980,
         "wires": [
             [
                 "3a123b1d2a2ea28d"
@@ -5824,19 +5951,26 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
-        "x": 250,
-        "y": 780,
+        "outputs": 2,
+        "x": 230,
+        "y": 760,
         "wires": [
             [
                 "aca43af245261e16",
                 "e04b533ceb172f09",
                 "88a865df6bb9805d",
-                "fd3f626fb3a65944"
+                "fd3f626fb3a65944",
+                "8777276106bf0d25"
+            ],
+            [
+                "2bee1ede2fdfa7b7"
             ]
         ]
     },
@@ -5847,8 +5981,8 @@
         "g": "c95c71c85f7f9849",
         "name": "",
         "events": "change",
-        "x": 120,
-        "y": 780,
+        "x": 100,
+        "y": 760,
         "wires": [
             [
                 "e343bbd45bd67953"
@@ -5876,8 +6010,8 @@
         "payloadType": "flow",
         "topic": "control",
         "topicType": "str",
-        "x": 770,
-        "y": 780,
+        "x": 750,
+        "y": 760,
         "wires": [
             [
                 "bb72727e0e9710c1",
@@ -5895,8 +6029,8 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 905,
-        "y": 800,
+        "x": 885,
+        "y": 780,
         "wires": []
     },
     {
@@ -5912,6 +6046,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -5919,8 +6060,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 510,
-        "y": 780,
+        "x": 490,
+        "y": 760,
         "wires": [
             [
                 "03e2e8f876519839",
@@ -5955,8 +6096,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 510,
-        "y": 900,
+        "x": 490,
+        "y": 880,
         "wires": [
             [
                 "384f672b7f59aaae",
@@ -5973,8 +6114,8 @@
         "links": [
             "85cc612c91620d6c"
         ],
-        "x": 375,
-        "y": 840,
+        "x": 335,
+        "y": 820,
         "wires": [
             [
                 "33ef557b9fa977e1",
@@ -6007,8 +6148,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 510,
-        "y": 860,
+        "x": 490,
+        "y": 840,
         "wires": [
             [
                 "384f672b7f59aaae"
@@ -6033,6 +6174,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -6040,8 +6188,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 510,
-        "y": 820,
+        "x": 490,
+        "y": 800,
         "wires": [
             [
                 "03e2e8f876519839",
@@ -6069,8 +6217,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1270,
-        "y": 720,
+        "x": 1250,
+        "y": 700,
         "wires": [
             [
                 "0e48aac0cc361391"
@@ -6088,8 +6236,8 @@
             "ee86c70c56328060",
             "f7e679cb56cdfa0c"
         ],
-        "x": 1355,
-        "y": 720,
+        "x": 1335,
+        "y": 700,
         "wires": []
     },
     {
@@ -6112,8 +6260,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1390,
-        "y": 860,
+        "x": 1370,
+        "y": 840,
         "wires": [
             []
         ]
@@ -6138,8 +6286,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 580,
-        "y": 980,
+        "x": 560,
+        "y": 960,
         "wires": [
             [
                 "384f672b7f59aaae"
@@ -6169,8 +6317,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 2,
-        "x": 390,
-        "y": 1000,
+        "x": 370,
+        "y": 980,
         "wires": [
             [
                 "26686f7b09641b5e"
@@ -6201,8 +6349,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 580,
-        "y": 1020,
+        "x": 560,
+        "y": 1000,
         "wires": [
             [
                 "384f672b7f59aaae"
@@ -6219,8 +6367,8 @@
         "links": [
             "58b9826bda0a9c07"
         ],
-        "x": 1045,
-        "y": 1000,
+        "x": 1025,
+        "y": 980,
         "wires": []
     },
     {
@@ -6232,8 +6380,8 @@
         "links": [
             "368fb0505d632eea"
         ],
-        "x": 265,
-        "y": 1000,
+        "x": 245,
+        "y": 980,
         "wires": [
             [
                 "c19ab16f2d16948f"
@@ -6261,8 +6409,8 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 780,
-        "y": 660,
+        "x": 760,
+        "y": 640,
         "wires": [
             [
                 "d9111c50fe35a026",
@@ -6305,8 +6453,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1050,
-        "y": 640,
+        "x": 1030,
+        "y": 620,
         "wires": [
             [
                 "992be018ccccae34"
@@ -6324,8 +6472,8 @@
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1330,
-        "y": 640,
+        "x": 1310,
+        "y": 620,
         "wires": [
             []
         ]
@@ -6371,8 +6519,8 @@
             "55ea92167a359d6d",
             "cc352ce9cc2b5d42"
         ],
-        "x": 935,
-        "y": 720,
+        "x": 915,
+        "y": 700,
         "wires": []
     },
     {
@@ -6384,8 +6532,8 @@
         "links": [
             "db17e1c55ea376bc"
         ],
-        "x": 315,
-        "y": 900,
+        "x": 295,
+        "y": 880,
         "wires": [
             [
                 "e04b533ceb172f09",
@@ -6413,8 +6561,8 @@
         "links": [
             "3d3e1dfc6401935d"
         ],
-        "x": 705,
-        "y": 1100,
+        "x": 685,
+        "y": 1080,
         "wires": []
     },
     {
@@ -6437,8 +6585,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 580,
-        "y": 1100,
+        "x": 560,
+        "y": 1080,
         "wires": [
             [
                 "2d12585269ba30f8"
@@ -6452,8 +6600,8 @@
         "g": "9ec6774c0f289716",
         "name": "Change channel",
         "info": "",
-        "x": 580,
-        "y": 1140,
+        "x": 560,
+        "y": 1120,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -6682,6 +6830,162 @@
         ]
     },
     {
+        "id": "97565cb49124b804",
+        "type": "link in",
+        "z": "f76015fff1ab449b",
+        "g": "479b12688187f57b",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 285,
+        "y": 1260,
+        "wires": [
+            [
+                "8aaf01c2ae3c344a"
+            ]
+        ]
+    },
+    {
+        "id": "8aaf01c2ae3c344a",
+        "type": "switch",
+        "z": "f76015fff1ab449b",
+        "g": "479b12688187f57b",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 370,
+        "y": 1260,
+        "wires": [
+            [
+                "27271028281628da"
+            ]
+        ]
+    },
+    {
+        "id": "8777276106bf0d25",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "c95c71c85f7f9849",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2bee1ede2fdfa7b7",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "c95c71c85f7f9849",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27271028281628da",
+        "type": "change",
+        "z": "f76015fff1ab449b",
+        "g": "479b12688187f57b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1260,
+        "wires": [
+            [
+                "6672570e8a4942f6"
+            ]
+        ]
+    },
+    {
+        "id": "6672570e8a4942f6",
+        "type": "switch",
+        "z": "f76015fff1ab449b",
+        "g": "479b12688187f57b",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 700,
+        "y": 1260,
+        "wires": [
+            [
+                "bb72727e0e9710c1",
+                "d9111c50fe35a026"
+            ],
+            [
+                "86a2b1f5d365cc3b"
+            ]
+        ]
+    },
+    {
         "id": "41736038a9b15a36",
         "type": "ui_button",
         "z": "97bca276c16abc95",
@@ -6866,11 +7170,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 230,
         "y": 860,
         "wires": [
@@ -6878,7 +7185,11 @@
                 "0e37ee1f1e91a59a",
                 "46b37cf5a72acc41",
                 "f2d4e6fcc6eb6884",
-                "b45c606c9d4201d5"
+                "b45c606c9d4201d5",
+                "bf6066274d049a80"
+            ],
+            [
+                "9cbaa85c5a09170d"
             ]
         ]
     },
@@ -6938,7 +7249,7 @@
             "c4490923838778c8"
         ],
         "x": 885,
-        "y": 860,
+        "y": 880,
         "wires": []
     },
     {
@@ -6954,6 +7265,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -7075,6 +7393,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -7168,7 +7493,7 @@
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
         "x": 1090,
-        "y": 1380,
+        "y": 1500,
         "wires": []
     },
     {
@@ -7181,7 +7506,7 @@
             "edf83709d047c606"
         ],
         "x": 59.000003814697266,
-        "y": 1324.99995803833,
+        "y": 1444.99995803833,
         "wires": [
             [
                 "ed0168f80877344e"
@@ -7215,7 +7540,7 @@
         "repair": false,
         "outputs": 3,
         "x": 670,
-        "y": 1320,
+        "y": 1440,
         "wires": [
             [
                 "4cdadd066abb9134"
@@ -7248,7 +7573,7 @@
         "reduceInitType": "num",
         "reduceFixup": "",
         "x": 1327,
-        "y": 1307,
+        "y": 1427,
         "wires": [
             [
                 "fa815db6338a6830"
@@ -7276,7 +7601,7 @@
         "to": "",
         "reg": false,
         "x": 870,
-        "y": 1340,
+        "y": 1460,
         "wires": [
             [
                 "fcefc642d0d1928c"
@@ -7304,7 +7629,7 @@
         "to": "",
         "reg": false,
         "x": 1100,
-        "y": 1340,
+        "y": 1460,
         "wires": [
             [
                 "4cdadd066abb9134"
@@ -7322,7 +7647,7 @@
             "5b5b93403a0f2a2c"
         ],
         "x": 1422,
-        "y": 1307,
+        "y": 1427,
         "wires": []
     },
     {
@@ -7346,7 +7671,7 @@
         "to": "",
         "reg": false,
         "x": 460,
-        "y": 1320,
+        "y": 1440,
         "wires": [
             [
                 "5acf28d8a13ca5b6",
@@ -7372,7 +7697,7 @@
         "templateScope": "local",
         "className": "gauge3",
         "x": 780,
-        "y": 1460,
+        "y": 1580,
         "wires": [
             []
         ]
@@ -7400,7 +7725,7 @@
         "property": "payload",
         "pointcount": 8,
         "x": 780,
-        "y": 1420,
+        "y": 1540,
         "wires": []
     },
     {
@@ -7413,7 +7738,7 @@
             "fa815db6338a6830"
         ],
         "x": 55,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "dd7f943e5f16bdd3"
@@ -7460,7 +7785,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1410,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             []
         ]
@@ -7478,7 +7803,7 @@
         "finalize": "",
         "libs": [],
         "x": 1170,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "304f5d0f7c10c3e5"
@@ -7527,7 +7852,7 @@
         "to": "",
         "reg": false,
         "x": 1640,
-        "y": 1700,
+        "y": 1820,
         "wires": [
             [
                 "7dfc06bc03e703ce"
@@ -7547,7 +7872,7 @@
         "finalize": "",
         "libs": [],
         "x": 1190,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "72139c05dceb8de0",
@@ -7576,7 +7901,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1680,
-        "y": 1900,
+        "y": 2020,
         "wires": [
             []
         ]
@@ -7592,7 +7917,7 @@
             "a723bedf7d8f47d2"
         ],
         "x": 1155,
-        "y": 1820,
+        "y": 1940,
         "wires": [
             [
                 "72139c05dceb8de0",
@@ -7611,7 +7936,7 @@
             "8884248bdebf81b8"
         ],
         "x": 1255,
-        "y": 1580,
+        "y": 1700,
         "wires": [
             [
                 "304f5d0f7c10c3e5"
@@ -7629,7 +7954,7 @@
             "da485c88a4d4e943"
         ],
         "x": 1505,
-        "y": 1660,
+        "y": 1780,
         "wires": []
     },
     {
@@ -7651,7 +7976,7 @@
         "repair": false,
         "outputs": 1,
         "x": 170,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "14858857104c0397"
@@ -7710,7 +8035,7 @@
         "name": "Change function",
         "info": "",
         "x": 1150,
-        "y": 1700,
+        "y": 1820,
         "wires": []
     },
     {
@@ -8115,7 +8440,7 @@
         "round": true,
         "decimals": "4",
         "x": 330,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "99a154e12652b722"
@@ -8135,7 +8460,7 @@
         "round": true,
         "decimals": "4",
         "x": 470,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "99996707d223c678"
@@ -8155,7 +8480,7 @@
         "round": true,
         "decimals": "4",
         "x": 630,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "8c2518c27f58308e"
@@ -8175,7 +8500,7 @@
         "round": true,
         "decimals": "4",
         "x": 790,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "8f9094aa1d80a49f"
@@ -8203,7 +8528,7 @@
         "to": "",
         "reg": false,
         "x": 940,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "2fad403dbcb0990a",
@@ -8228,7 +8553,7 @@
         "templateScope": "local",
         "className": "",
         "x": 2050,
-        "y": 1740,
+        "y": 1860,
         "wires": [
             []
         ]
@@ -8254,7 +8579,7 @@
         "to": "",
         "reg": false,
         "x": 1670,
-        "y": 1820,
+        "y": 1940,
         "wires": [
             [
                 "8404b7afcd0fe9d9",
@@ -8540,7 +8865,7 @@
         "rowsPerMsg": 1,
         "outputs": 1,
         "x": 1900,
-        "y": 1700,
+        "y": 1820,
         "wires": [
             [
                 "0e8c505c5b9b76f4"
@@ -8568,7 +8893,7 @@
         "to": "",
         "reg": false,
         "x": 2100,
-        "y": 1700,
+        "y": 1820,
         "wires": [
             []
         ]
@@ -8724,7 +9049,7 @@
             "3d3e1dfc6401935d"
         ],
         "x": 615,
-        "y": 1160,
+        "y": 1200,
         "wires": []
     },
     {
@@ -8748,7 +9073,7 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 1160,
+        "y": 1200,
         "wires": [
             [
                 "606ba2871e2b4fbf"
@@ -8763,7 +9088,7 @@
         "name": "Change channel",
         "info": "",
         "x": 490,
-        "y": 1200,
+        "y": 1240,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -8780,7 +9105,7 @@
         "round": true,
         "decimals": 0,
         "x": 1650,
-        "y": 1740,
+        "y": 1860,
         "wires": [
             [
                 "8404b7afcd0fe9d9"
@@ -8804,7 +9129,7 @@
         "templateScope": "local",
         "className": "",
         "x": 2060,
-        "y": 1780,
+        "y": 1900,
         "wires": [
             []
         ]
@@ -8822,7 +9147,7 @@
         "round": true,
         "decimals": 0,
         "x": 1650,
-        "y": 1780,
+        "y": 1900,
         "wires": [
             [
                 "483481edec182f43"
@@ -8851,7 +9176,7 @@
         "repair": false,
         "outputs": 2,
         "x": 170,
-        "y": 1320,
+        "y": 1440,
         "wires": [
             [
                 "2d2aa87b70c69740"
@@ -8867,7 +9192,7 @@
         "name": "Change type",
         "info": "",
         "x": 170,
-        "y": 1380,
+        "y": 1500,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -8888,7 +9213,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1660,
-        "y": 1860,
+        "y": 1980,
         "wires": [
             []
         ]
@@ -9013,6 +9338,160 @@
         "reg": false,
         "x": 1560,
         "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b95281566aa04440",
+        "type": "link in",
+        "z": "97bca276c16abc95",
+        "g": "4b187495e475f63d",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 285,
+        "y": 1340,
+        "wires": [
+            [
+                "2dabc638fc673392"
+            ]
+        ]
+    },
+    {
+        "id": "2dabc638fc673392",
+        "type": "switch",
+        "z": "97bca276c16abc95",
+        "g": "4b187495e475f63d",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 370,
+        "y": 1340,
+        "wires": [
+            [
+                "2c1ac305809010fc"
+            ]
+        ]
+    },
+    {
+        "id": "2c1ac305809010fc",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "g": "4b187495e475f63d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1340,
+        "wires": [
+            [
+                "c0343ba5ca465889"
+            ]
+        ]
+    },
+    {
+        "id": "c0343ba5ca465889",
+        "type": "switch",
+        "z": "97bca276c16abc95",
+        "g": "4b187495e475f63d",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 700,
+        "y": 1340,
+        "wires": [
+            [
+                "69485b47d96d35c2",
+                "5182ecd037d3faab"
+            ],
+            [
+                "5e25999a13286d2e"
+            ]
+        ]
+    },
+    {
+        "id": "bf6066274d049a80",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9cbaa85c5a09170d",
+        "type": "change",
+        "z": "97bca276c16abc95",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 800,
         "wires": [
             []
         ]
@@ -9226,8 +9705,8 @@
         "g": "70dff54ed083811d",
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
-        "x": 1070,
-        "y": 1320,
+        "x": 1050,
+        "y": 1680,
         "wires": []
     },
     {
@@ -9239,8 +9718,8 @@
         "links": [
             "edf83709d047c606"
         ],
-        "x": 95,
-        "y": 1260,
+        "x": 75,
+        "y": 1620,
         "wires": [
             [
                 "61a23a4602284fda"
@@ -9273,8 +9752,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 3,
-        "x": 633,
-        "y": 1253,
+        "x": 613,
+        "y": 1613,
         "wires": [
             [
                 "ae5b844881029725"
@@ -9306,8 +9785,8 @@
         "reduceInit": "",
         "reduceInitType": "num",
         "reduceFixup": "",
-        "x": 1290,
-        "y": 1240,
+        "x": 1270,
+        "y": 1600,
         "wires": [
             [
                 "0798e3b4e76683bd"
@@ -9334,8 +9813,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 833,
-        "y": 1273,
+        "x": 813,
+        "y": 1633,
         "wires": [
             [
                 "013e2190070b0238"
@@ -9362,8 +9841,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1063,
-        "y": 1273,
+        "x": 1043,
+        "y": 1633,
         "wires": [
             [
                 "ae5b844881029725"
@@ -9380,8 +9859,8 @@
         "links": [
             "3850f7587d33dfc1"
         ],
-        "x": 1385,
-        "y": 1240,
+        "x": 1365,
+        "y": 1600,
         "wires": []
     },
     {
@@ -9428,8 +9907,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 440,
-        "y": 1260,
+        "x": 420,
+        "y": 1620,
         "wires": [
             [
                 "55344c52c8492a55",
@@ -9451,8 +9930,8 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 820,
-        "y": 1540,
+        "x": 800,
+        "y": 1900,
         "wires": [
             [
                 "12e0e3429c9c565d"
@@ -9468,8 +9947,8 @@
         "links": [
             "0798e3b4e76683bd"
         ],
-        "x": 85,
-        "y": 1540,
+        "x": 65,
+        "y": 1900,
         "wires": [
             [
                 "6c78225c1b0e8571"
@@ -9515,8 +9994,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1460,
-        "y": 1540,
+        "x": 1440,
+        "y": 1900,
         "wires": [
             []
         ]
@@ -9537,8 +10016,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1710,
-        "y": 1700,
+        "x": 1690,
+        "y": 2060,
         "wires": [
             []
         ]
@@ -9555,8 +10034,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1210,
-        "y": 1540,
+        "x": 1190,
+        "y": 1900,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -9579,8 +10058,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1600,
-        "y": 1740,
+        "x": 1580,
+        "y": 2100,
         "wires": [
             []
         ]
@@ -9601,8 +10080,8 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "gauge3",
-        "x": 743,
-        "y": 1393,
+        "x": 723,
+        "y": 1753,
         "wires": [
             []
         ]
@@ -9629,8 +10108,8 @@
         "stroke": 2,
         "property": "payload",
         "pointcount": 8,
-        "x": 743,
-        "y": 1353,
+        "x": 723,
+        "y": 1713,
         "wires": []
     },
     {
@@ -9645,8 +10124,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1240,
-        "y": 1580,
+        "x": 1220,
+        "y": 1940,
         "wires": [
             [
                 "db9b3c1ba7d23d04",
@@ -9681,8 +10160,8 @@
             "8672e4aebc04a782",
             "cbda48ad33ed0293"
         ],
-        "x": 1195,
-        "y": 1720,
+        "x": 1175,
+        "y": 2080,
         "wires": [
             [
                 "db9b3c1ba7d23d04",
@@ -9724,8 +10203,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1690,
-        "y": 1620,
+        "x": 1670,
+        "y": 1980,
         "wires": [
             [
                 "e52498fc154f2fa8"
@@ -9790,11 +10269,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 250,
         "y": 760,
         "wires": [
@@ -9802,7 +10284,11 @@
                 "22d7720ab4574a96",
                 "33265bf3bf299cbc",
                 "4efbee3347b4c01f",
-                "4e7673ccd33b176a"
+                "4e7673ccd33b176a",
+                "ea85b1443383e235"
+            ],
+            [
+                "819ca806c8ab2c41"
             ]
         ]
     },
@@ -9819,6 +10305,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -9880,8 +10373,8 @@
         "links": [
             "8672e4aebc04a782"
         ],
-        "x": 1305,
-        "y": 1500,
+        "x": 1285,
+        "y": 1860,
         "wires": [
             [
                 "6749f8cee8567333"
@@ -9957,6 +10450,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -9983,8 +10483,8 @@
         "links": [
             "6dcbd36e5e957f25"
         ],
-        "x": 1555,
-        "y": 1580,
+        "x": 1535,
+        "y": 1940,
         "wires": []
     },
     {
@@ -10005,8 +10505,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 200,
-        "y": 1540,
+        "x": 180,
+        "y": 1900,
         "wires": [
             [
                 "526607614dea0429"
@@ -10024,7 +10524,7 @@
             "c4490923838778c8"
         ],
         "x": 905,
-        "y": 760,
+        "y": 780,
         "wires": []
     },
     {
@@ -10472,8 +10972,8 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 360,
-        "y": 1540,
+        "x": 340,
+        "y": 1900,
         "wires": [
             [
                 "05eda313d9f1a0da"
@@ -10492,8 +10992,8 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 500,
-        "y": 1540,
+        "x": 480,
+        "y": 1900,
         "wires": [
             [
                 "65a878d57042a6d5"
@@ -10512,8 +11012,8 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 660,
-        "y": 1540,
+        "x": 640,
+        "y": 1900,
         "wires": [
             [
                 "0733e5753032918c"
@@ -10527,8 +11027,8 @@
         "g": "2cf293352e3cee14",
         "name": "Change function",
         "info": "",
-        "x": 1200,
-        "y": 1620,
+        "x": 1180,
+        "y": 1980,
         "wires": []
     },
     {
@@ -10551,8 +11051,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 970,
-        "y": 1540,
+        "x": 950,
+        "y": 1900,
         "wires": [
             [
                 "865a96cbbe010c1a",
@@ -10580,8 +11080,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1340,
-        "y": 1660,
+        "x": 1320,
+        "y": 2020,
         "wires": [
             [
                 "d96bbb2ed204c5f8"
@@ -10865,8 +11365,8 @@
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1950,
-        "y": 1620,
+        "x": 1930,
+        "y": 1980,
         "wires": [
             [
                 "c972581bc9f8476e"
@@ -10893,8 +11393,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2170,
-        "y": 1620,
+        "x": 2150,
+        "y": 1980,
         "wires": [
             []
         ]
@@ -11042,8 +11542,8 @@
         "links": [
             "3d3e1dfc6401935d"
         ],
-        "x": 695,
-        "y": 1080,
+        "x": 655,
+        "y": 1100,
         "wires": []
     },
     {
@@ -11066,8 +11566,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 570,
-        "y": 1080,
+        "x": 530,
+        "y": 1100,
         "wires": [
             [
                 "bb37f2e55771102f"
@@ -11081,8 +11581,8 @@
         "g": "1f62cb200d20d6bb",
         "name": "Change channel",
         "info": "",
-        "x": 570,
-        "y": 1120,
+        "x": 530,
+        "y": 1140,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -11098,8 +11598,8 @@
         "constant": "1000",
         "round": true,
         "decimals": 0,
-        "x": 1600,
-        "y": 1660,
+        "x": 1580,
+        "y": 2020,
         "wires": [
             [
                 "d96bbb2ed204c5f8"
@@ -11127,8 +11627,8 @@
         "checkall": "false",
         "repair": false,
         "outputs": 2,
-        "x": 230,
-        "y": 1260,
+        "x": 210,
+        "y": 1620,
         "wires": [
             [
                 "d07b67558978bbc5"
@@ -11143,8 +11643,8 @@
         "g": "70dff54ed083811d",
         "name": "Change type",
         "info": "",
-        "x": 210,
-        "y": 1320,
+        "x": 190,
+        "y": 1680,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -11162,8 +11662,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 520,
-        "y": 1360,
+        "x": 500,
+        "y": 1720,
         "wires": []
     },
     {
@@ -11286,6 +11786,160 @@
         "reg": false,
         "x": 1540,
         "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c70629edef2d92f5",
+        "type": "link in",
+        "z": "2a0afd77453149d1",
+        "g": "477ba2869b1dc5b2",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 195,
+        "y": 1260,
+        "wires": [
+            [
+                "53655901b40bbc04"
+            ]
+        ]
+    },
+    {
+        "id": "53655901b40bbc04",
+        "type": "switch",
+        "z": "2a0afd77453149d1",
+        "g": "477ba2869b1dc5b2",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 280,
+        "y": 1260,
+        "wires": [
+            [
+                "4e38a2d272ea8a19"
+            ]
+        ]
+    },
+    {
+        "id": "4e38a2d272ea8a19",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "g": "477ba2869b1dc5b2",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 1260,
+        "wires": [
+            [
+                "2aecdcf9afea6204"
+            ]
+        ]
+    },
+    {
+        "id": "2aecdcf9afea6204",
+        "type": "switch",
+        "z": "2a0afd77453149d1",
+        "g": "477ba2869b1dc5b2",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 610,
+        "y": 1260,
+        "wires": [
+            [
+                "f480cf459eb1a279",
+                "995ee7b3f6a759bb"
+            ],
+            [
+                "1d5ca7aed65183b8"
+            ]
+        ]
+    },
+    {
+        "id": "ea85b1443383e235",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "819ca806c8ab2c41",
+        "type": "change",
+        "z": "2a0afd77453149d1",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 680,
         "wires": [
             []
         ]
@@ -11500,7 +12154,7 @@
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
         "x": 1110,
-        "y": 1460,
+        "y": 1660,
         "wires": []
     },
     {
@@ -11513,7 +12167,7 @@
             "edf83709d047c606"
         ],
         "x": 75,
-        "y": 1400,
+        "y": 1600,
         "wires": [
             [
                 "392ffd0f77b3e986"
@@ -11547,7 +12201,7 @@
         "repair": false,
         "outputs": 3,
         "x": 673,
-        "y": 1393,
+        "y": 1593,
         "wires": [
             [
                 "fc2a0fabfed74fe6"
@@ -11580,7 +12234,7 @@
         "reduceInitType": "num",
         "reduceFixup": "",
         "x": 1330,
-        "y": 1380,
+        "y": 1580,
         "wires": [
             [
                 "5566086642576388"
@@ -11608,7 +12262,7 @@
         "to": "",
         "reg": false,
         "x": 873,
-        "y": 1413,
+        "y": 1613,
         "wires": [
             [
                 "a5c7323f1390486a"
@@ -11636,7 +12290,7 @@
         "to": "",
         "reg": false,
         "x": 1103,
-        "y": 1413,
+        "y": 1613,
         "wires": [
             [
                 "fc2a0fabfed74fe6"
@@ -11654,7 +12308,7 @@
             "87886bd0c424fec2"
         ],
         "x": 1425,
-        "y": 1380,
+        "y": 1580,
         "wires": []
     },
     {
@@ -11702,7 +12356,7 @@
         "to": "",
         "reg": false,
         "x": 463,
-        "y": 1393,
+        "y": 1593,
         "wires": [
             [
                 "8c1aad220739287f",
@@ -11724,7 +12378,7 @@
         "round": true,
         "decimals": "4",
         "x": 860,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "26a1bd15b517849b"
@@ -11741,7 +12395,7 @@
             "5566086642576388"
         ],
         "x": 75,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "1166b4621b309a6c"
@@ -11788,7 +12442,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1540,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             []
         ]
@@ -11810,7 +12464,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1810,
-        "y": 1860,
+        "y": 2060,
         "wires": [
             []
         ]
@@ -11828,7 +12482,7 @@
         "finalize": "",
         "libs": [],
         "x": 1290,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "08721a53d1644290"
@@ -11852,7 +12506,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1680,
-        "y": 1900,
+        "y": 2100,
         "wires": [
             []
         ]
@@ -11874,7 +12528,7 @@
         "templateScope": "local",
         "className": "gauge3",
         "x": 783,
-        "y": 1533,
+        "y": 1733,
         "wires": [
             []
         ]
@@ -11902,7 +12556,7 @@
         "property": "payload",
         "pointcount": 8,
         "x": 783,
-        "y": 1493,
+        "y": 1693,
         "wires": []
     },
     {
@@ -11918,7 +12572,7 @@
         "finalize": "",
         "libs": [],
         "x": 1320,
-        "y": 1740,
+        "y": 1940,
         "wires": [
             [
                 "2a15c47721c80d56",
@@ -11954,7 +12608,7 @@
             "cae63d41e2588c75"
         ],
         "x": 1275,
-        "y": 1900,
+        "y": 2100,
         "wires": [
             [
                 "2a15c47721c80d56",
@@ -11997,7 +12651,7 @@
         "to": "",
         "reg": false,
         "x": 1770,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             [
                 "e2e81e86f782cabe"
@@ -12062,11 +12716,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 250,
         "y": 900,
         "wires": [
@@ -12074,7 +12731,11 @@
                 "b0db019913472c43",
                 "71ccbdec1efa318c",
                 "ba6940aa100f480f",
-                "bb831aac27c7ae79"
+                "bb831aac27c7ae79",
+                "c6c4c07ad9bb269d"
+            ],
+            [
+                "09e75c9d63b96a6f"
             ]
         ]
     },
@@ -12091,6 +12752,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12153,7 +12821,7 @@
             "aa5839c7724e9704"
         ],
         "x": 1385,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "08721a53d1644290"
@@ -12229,6 +12897,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -12256,7 +12931,7 @@
             "5797429f53036dd9"
         ],
         "x": 1635,
-        "y": 1740,
+        "y": 1940,
         "wires": []
     },
     {
@@ -12278,7 +12953,7 @@
         "repair": false,
         "outputs": 1,
         "x": 200,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "bead1ed2f2cfc9d7"
@@ -12295,8 +12970,8 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 905,
-        "y": 900,
+        "x": 925,
+        "y": 920,
         "wires": []
     },
     {
@@ -12745,7 +13420,7 @@
         "round": true,
         "decimals": "4",
         "x": 380,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "9c24b3e7406216db"
@@ -12765,7 +13440,7 @@
         "round": true,
         "decimals": "4",
         "x": 540,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "5f141030a295d75b"
@@ -12785,7 +13460,7 @@
         "round": true,
         "decimals": "4",
         "x": 700,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "d4d091d8a150214e"
@@ -12800,7 +13475,7 @@
         "name": "Change function",
         "info": "",
         "x": 1280,
-        "y": 1780,
+        "y": 1980,
         "wires": []
     },
     {
@@ -12824,7 +13499,7 @@
         "to": "",
         "reg": false,
         "x": 1030,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "364faf3f261f3b7e",
@@ -12853,7 +13528,7 @@
         "to": "",
         "reg": false,
         "x": 1420,
-        "y": 1840,
+        "y": 2040,
         "wires": [
             [
                 "4881eb2f5b7a3357"
@@ -13138,7 +13813,7 @@
         "rowsPerMsg": 1,
         "outputs": 1,
         "x": 2030,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             [
                 "e45b092c3fec91bc"
@@ -13166,7 +13841,7 @@
         "to": "",
         "reg": false,
         "x": 2230,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             []
         ]
@@ -13315,7 +13990,7 @@
             "3d3e1dfc6401935d"
         ],
         "x": 665,
-        "y": 1220,
+        "y": 1240,
         "wires": []
     },
     {
@@ -13339,7 +14014,7 @@
         "to": "",
         "reg": false,
         "x": 540,
-        "y": 1220,
+        "y": 1240,
         "wires": [
             [
                 "f48bdf8d72c056c0"
@@ -13354,7 +14029,7 @@
         "name": "Change channel",
         "info": "",
         "x": 540,
-        "y": 1260,
+        "y": 1280,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -13371,7 +14046,7 @@
         "round": true,
         "decimals": 0,
         "x": 1680,
-        "y": 1820,
+        "y": 2020,
         "wires": [
             [
                 "4881eb2f5b7a3357"
@@ -13400,7 +14075,7 @@
         "repair": false,
         "outputs": 2,
         "x": 210,
-        "y": 1400,
+        "y": 1600,
         "wires": [
             [
                 "56a9316f6830d1d7"
@@ -13416,7 +14091,7 @@
         "name": "Change type",
         "info": "",
         "x": 190,
-        "y": 1440,
+        "y": 1640,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -13540,6 +14215,160 @@
         "reg": false,
         "x": 1580,
         "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "809d8e9952edecaa",
+        "type": "link in",
+        "z": "e30c392695b4b813",
+        "g": "cdb1e268e793fa94",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 185,
+        "y": 1380,
+        "wires": [
+            [
+                "1a6b7c0e9022fe10"
+            ]
+        ]
+    },
+    {
+        "id": "1a6b7c0e9022fe10",
+        "type": "switch",
+        "z": "e30c392695b4b813",
+        "g": "cdb1e268e793fa94",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 270,
+        "y": 1380,
+        "wires": [
+            [
+                "aaa0729c78333d4a"
+            ]
+        ]
+    },
+    {
+        "id": "aaa0729c78333d4a",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "g": "cdb1e268e793fa94",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 430,
+        "y": 1380,
+        "wires": [
+            [
+                "57d02878b93a7b79"
+            ]
+        ]
+    },
+    {
+        "id": "57d02878b93a7b79",
+        "type": "switch",
+        "z": "e30c392695b4b813",
+        "g": "cdb1e268e793fa94",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 600,
+        "y": 1380,
+        "wires": [
+            [
+                "c0ae9e6398bd567d",
+                "7d8d2eeefe6b8715"
+            ],
+            [
+                "90166222e0986d9a"
+            ]
+        ]
+    },
+    {
+        "id": "c6c4c07ad9bb269d",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "09e75c9d63b96a6f",
+        "type": "change",
+        "z": "e30c392695b4b813",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 360,
+        "y": 820,
         "wires": [
             []
         ]
@@ -13754,7 +14583,7 @@
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
         "x": 1170,
-        "y": 1420,
+        "y": 1540,
         "wires": []
     },
     {
@@ -13767,7 +14596,7 @@
             "edf83709d047c606"
         ],
         "x": 95,
-        "y": 1360,
+        "y": 1480,
         "wires": [
             [
                 "8d49c72ce5835678"
@@ -13801,7 +14630,7 @@
         "repair": false,
         "outputs": 3,
         "x": 710,
-        "y": 1360,
+        "y": 1480,
         "wires": [
             [
                 "74efc979deee82a0"
@@ -13834,7 +14663,7 @@
         "reduceInitType": "num",
         "reduceFixup": "",
         "x": 1367,
-        "y": 1347,
+        "y": 1467,
         "wires": [
             [
                 "8ae2b886c49354ee"
@@ -13862,7 +14691,7 @@
         "to": "",
         "reg": false,
         "x": 910,
-        "y": 1380,
+        "y": 1500,
         "wires": [
             [
                 "6797dd2dfa118a53"
@@ -13890,7 +14719,7 @@
         "to": "",
         "reg": false,
         "x": 1140,
-        "y": 1380,
+        "y": 1500,
         "wires": [
             [
                 "74efc979deee82a0"
@@ -13908,7 +14737,7 @@
             "6925d002472c9821"
         ],
         "x": 1462,
-        "y": 1347,
+        "y": 1467,
         "wires": []
     },
     {
@@ -13956,7 +14785,7 @@
         "to": "",
         "reg": false,
         "x": 500,
-        "y": 1360,
+        "y": 1480,
         "wires": [
             [
                 "20eab1ccda50e7e4",
@@ -13978,7 +14807,7 @@
         "round": true,
         "decimals": "4",
         "x": 900,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "9ddf41a1bb63d76b"
@@ -13995,7 +14824,7 @@
             "8ae2b886c49354ee"
         ],
         "x": 75,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "562654ec796ba963"
@@ -14042,7 +14871,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1500,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             []
         ]
@@ -14064,7 +14893,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1770,
-        "y": 1820,
+        "y": 1940,
         "wires": [
             []
         ]
@@ -14082,7 +14911,7 @@
         "finalize": "",
         "libs": [],
         "x": 1250,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "ec6d0b666ddc9d6e"
@@ -14106,7 +14935,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1640,
-        "y": 1860,
+        "y": 1980,
         "wires": [
             []
         ]
@@ -14128,7 +14957,7 @@
         "templateScope": "local",
         "className": "gauge3",
         "x": 820,
-        "y": 1500,
+        "y": 1620,
         "wires": [
             []
         ]
@@ -14156,7 +14985,7 @@
         "property": "payload",
         "pointcount": 8,
         "x": 820,
-        "y": 1460,
+        "y": 1580,
         "wires": []
     },
     {
@@ -14172,7 +15001,7 @@
         "finalize": "",
         "libs": [],
         "x": 1280,
-        "y": 1700,
+        "y": 1820,
         "wires": [
             [
                 "cea37b9d7b61cf5c",
@@ -14207,7 +15036,7 @@
             "5f620d8aa7e730ca"
         ],
         "x": 1295,
-        "y": 1840,
+        "y": 1960,
         "wires": [
             [
                 "878169c4bc5fb49e",
@@ -14250,7 +15079,7 @@
         "to": "",
         "reg": false,
         "x": 1730,
-        "y": 1740,
+        "y": 1860,
         "wires": [
             [
                 "1de449f3a678c7c0"
@@ -14315,11 +15144,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 270,
         "y": 840,
         "wires": [
@@ -14327,7 +15159,11 @@
                 "37bad5a24437dfbe",
                 "00e2a3a0301346fb",
                 "43fe6ba894e0ea59",
-                "9c645943145e3e56"
+                "9c645943145e3e56",
+                "11673c78e1771d99"
+            ],
+            [
+                "4f2f61406db7cddb"
             ]
         ]
     },
@@ -14344,6 +15180,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -14406,7 +15249,7 @@
             "b0f2e927af94dbc9"
         ],
         "x": 1345,
-        "y": 1620,
+        "y": 1740,
         "wires": [
             [
                 "ec6d0b666ddc9d6e"
@@ -14482,6 +15325,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -14509,7 +15359,7 @@
             "8831711ddfcef315"
         ],
         "x": 1595,
-        "y": 1700,
+        "y": 1820,
         "wires": []
     },
     {
@@ -14531,7 +15381,7 @@
         "repair": false,
         "outputs": 1,
         "x": 200,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "b80e56353e41d812"
@@ -14548,8 +15398,8 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 925,
-        "y": 840,
+        "x": 935,
+        "y": 860,
         "wires": []
     },
     {
@@ -14998,7 +15848,7 @@
         "round": true,
         "decimals": "4",
         "x": 420,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "d3a821a67cf814c5"
@@ -15018,7 +15868,7 @@
         "round": true,
         "decimals": "4",
         "x": 560,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "52398a715ca6cb23"
@@ -15038,7 +15888,7 @@
         "round": true,
         "decimals": "4",
         "x": 720,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "d7c9527725a858d2"
@@ -15053,7 +15903,7 @@
         "name": "Change function",
         "info": "",
         "x": 1240,
-        "y": 1740,
+        "y": 1860,
         "wires": []
     },
     {
@@ -15077,7 +15927,7 @@
         "to": "",
         "reg": false,
         "x": 1050,
-        "y": 1660,
+        "y": 1780,
         "wires": [
             [
                 "9ea7fabffcc6d350",
@@ -15106,7 +15956,7 @@
         "to": "",
         "reg": false,
         "x": 1400,
-        "y": 1780,
+        "y": 1900,
         "wires": [
             [
                 "2f31c1d74f9d3ecf"
@@ -15455,7 +16305,7 @@
         "finalize": "",
         "libs": [],
         "x": 1990,
-        "y": 1740,
+        "y": 1860,
         "wires": [
             []
         ]
@@ -15481,7 +16331,7 @@
             "3d3e1dfc6401935d"
         ],
         "x": 655,
-        "y": 1160,
+        "y": 1180,
         "wires": []
     },
     {
@@ -15505,7 +16355,7 @@
         "to": "",
         "reg": false,
         "x": 530,
-        "y": 1160,
+        "y": 1180,
         "wires": [
             [
                 "96eb2b8d0531eda3"
@@ -15520,7 +16370,7 @@
         "name": "Change channel",
         "info": "",
         "x": 530,
-        "y": 1200,
+        "y": 1220,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -15537,7 +16387,7 @@
         "round": true,
         "decimals": 0,
         "x": 1620,
-        "y": 1780,
+        "y": 1900,
         "wires": [
             [
                 "2f31c1d74f9d3ecf"
@@ -15566,7 +16416,7 @@
         "repair": false,
         "outputs": 2,
         "x": 190,
-        "y": 1360,
+        "y": 1480,
         "wires": [
             [
                 "c02b1ba82ba50cd4"
@@ -15582,7 +16432,7 @@
         "name": "Change type",
         "info": "",
         "x": 190,
-        "y": 1400,
+        "y": 1520,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -15706,6 +16556,160 @@
         "reg": false,
         "x": 1580,
         "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "72e1afa6e0f201b8",
+        "type": "link in",
+        "z": "0b6f24f26e309bd0",
+        "g": "99fe34152fa75d4e",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 215,
+        "y": 1340,
+        "wires": [
+            [
+                "227201215cd7773e"
+            ]
+        ]
+    },
+    {
+        "id": "227201215cd7773e",
+        "type": "switch",
+        "z": "0b6f24f26e309bd0",
+        "g": "99fe34152fa75d4e",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 300,
+        "y": 1340,
+        "wires": [
+            [
+                "fbd9271d0a538a1f"
+            ]
+        ]
+    },
+    {
+        "id": "fbd9271d0a538a1f",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "99fe34152fa75d4e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 1340,
+        "wires": [
+            [
+                "9b6d39a65611bed0"
+            ]
+        ]
+    },
+    {
+        "id": "9b6d39a65611bed0",
+        "type": "switch",
+        "z": "0b6f24f26e309bd0",
+        "g": "99fe34152fa75d4e",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 630,
+        "y": 1340,
+        "wires": [
+            [
+                "a3bc0624683336e1",
+                "87a85dc14ad7bb5c"
+            ],
+            [
+                "aca937928db9fa13"
+            ]
+        ]
+    },
+    {
+        "id": "11673c78e1771d99",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4f2f61406db7cddb",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 760,
         "wires": [
             []
         ]
@@ -15920,7 +16924,7 @@
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
         "x": 1270,
-        "y": 1420,
+        "y": 1620,
         "wires": []
     },
     {
@@ -15933,7 +16937,7 @@
             "edf83709d047c606"
         ],
         "x": 92,
-        "y": 1363.9999599456787,
+        "y": 1563.9999599456787,
         "wires": [
             [
                 "051ca72b9f7c89ed"
@@ -15967,7 +16971,7 @@
         "repair": false,
         "outputs": 3,
         "x": 830,
-        "y": 1360,
+        "y": 1560,
         "wires": [
             [
                 "5e8079b6d8d8917f"
@@ -16000,7 +17004,7 @@
         "reduceInitType": "num",
         "reduceFixup": "",
         "x": 1487,
-        "y": 1347,
+        "y": 1547,
         "wires": [
             [
                 "d5bcb5c24204d09b"
@@ -16028,7 +17032,7 @@
         "to": "",
         "reg": false,
         "x": 1030,
-        "y": 1380,
+        "y": 1580,
         "wires": [
             [
                 "14fa255f3c9e60d7"
@@ -16056,7 +17060,7 @@
         "to": "",
         "reg": false,
         "x": 1260,
-        "y": 1380,
+        "y": 1580,
         "wires": [
             [
                 "5e8079b6d8d8917f"
@@ -16074,7 +17078,7 @@
             "6e47ce8840047487"
         ],
         "x": 1582,
-        "y": 1347,
+        "y": 1547,
         "wires": []
     },
     {
@@ -16122,7 +17126,7 @@
         "to": "",
         "reg": false,
         "x": 620,
-        "y": 1360,
+        "y": 1560,
         "wires": [
             [
                 "5e77b3e285fd5a20",
@@ -16144,7 +17148,7 @@
         "round": true,
         "decimals": "4",
         "x": 920,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "767a6987dfc11bdc"
@@ -16161,7 +17165,7 @@
             "d5bcb5c24204d09b"
         ],
         "x": 95,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "2750de244e5fd9c8"
@@ -16208,7 +17212,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1680,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             []
         ]
@@ -16230,7 +17234,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1910,
-        "y": 1820,
+        "y": 2020,
         "wires": [
             []
         ]
@@ -16248,7 +17252,7 @@
         "finalize": "",
         "libs": [],
         "x": 1270,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "cafa1af88d14707d"
@@ -16272,7 +17276,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1820,
-        "y": 1860,
+        "y": 2060,
         "wires": [
             []
         ]
@@ -16294,7 +17298,7 @@
         "templateScope": "local",
         "className": "gauge3",
         "x": 940,
-        "y": 1500,
+        "y": 1700,
         "wires": [
             []
         ]
@@ -16322,7 +17326,7 @@
         "property": "payload",
         "pointcount": 8,
         "x": 940,
-        "y": 1460,
+        "y": 1660,
         "wires": []
     },
     {
@@ -16338,7 +17342,7 @@
         "finalize": "",
         "libs": [],
         "x": 1300,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "2e168885c60a7af9"
@@ -16371,7 +17375,7 @@
             "5f620d8aa7e730ca"
         ],
         "x": 1315,
-        "y": 1840,
+        "y": 2040,
         "wires": [
             [
                 "dcaf5f82011321ca",
@@ -16414,7 +17418,7 @@
         "to": "",
         "reg": false,
         "x": 1910,
-        "y": 1740,
+        "y": 1940,
         "wires": [
             [
                 "1469e1fa689ec355"
@@ -16479,11 +17483,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 250,
         "y": 840,
         "wires": [
@@ -16491,7 +17498,11 @@
                 "4a777776ae9322bb",
                 "0cbffb6330396375",
                 "bcb6f3b51b161f49",
-                "2d7b9f4af01848a1"
+                "2d7b9f4af01848a1",
+                "b3545f2be32daffc"
+            ],
+            [
+                "c57b6f8c6fd82e3f"
             ]
         ]
     },
@@ -16508,6 +17519,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -16570,7 +17588,7 @@
             "67a67b988a33662d"
         ],
         "x": 1365,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "cafa1af88d14707d"
@@ -16646,6 +17664,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -16673,7 +17698,7 @@
             "cac012bc2a05d8d5"
         ],
         "x": 1775,
-        "y": 1700,
+        "y": 1900,
         "wires": []
     },
     {
@@ -16695,7 +17720,7 @@
         "repair": false,
         "outputs": 1,
         "x": 220,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "640eb78e653d230f"
@@ -16712,8 +17737,8 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 905,
-        "y": 840,
+        "x": 915,
+        "y": 860,
         "wires": []
     },
     {
@@ -17162,7 +18187,7 @@
         "round": true,
         "decimals": "4",
         "x": 440,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "a99f0fb1eb1e76e1"
@@ -17182,7 +18207,7 @@
         "round": true,
         "decimals": "4",
         "x": 580,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "6bcfc7f179551dc5"
@@ -17202,7 +18227,7 @@
         "round": true,
         "decimals": "4",
         "x": 740,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "bf5cde2572fd3548"
@@ -17217,7 +18242,7 @@
         "name": "Change function",
         "info": "",
         "x": 1260,
-        "y": 1740,
+        "y": 1940,
         "wires": []
     },
     {
@@ -17241,7 +18266,7 @@
         "to": "",
         "reg": false,
         "x": 1070,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "5226d1dd4cddbf90",
@@ -17270,7 +18295,7 @@
         "to": "",
         "reg": false,
         "x": 1420,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             [
                 "385623d0ee294538"
@@ -17555,7 +18580,7 @@
         "rowsPerMsg": 1,
         "outputs": 1,
         "x": 2190,
-        "y": 1740,
+        "y": 1940,
         "wires": [
             [
                 "c9f4dfb0fcb6c8fb"
@@ -17583,7 +18608,7 @@
         "to": "",
         "reg": false,
         "x": 2390,
-        "y": 1740,
+        "y": 1940,
         "wires": [
             []
         ]
@@ -17724,7 +18749,7 @@
         "round": false,
         "decimals": 0,
         "x": 1560,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "fc39133fdce4ab4c",
@@ -17755,7 +18780,7 @@
             "3d3e1dfc6401935d"
         ],
         "x": 615,
-        "y": 1160,
+        "y": 1200,
         "wires": []
     },
     {
@@ -17779,7 +18804,7 @@
         "to": "",
         "reg": false,
         "x": 490,
-        "y": 1160,
+        "y": 1200,
         "wires": [
             [
                 "8c766fcdc7fccc64"
@@ -17794,7 +18819,7 @@
         "name": "Change channel",
         "info": "",
         "x": 490,
-        "y": 1200,
+        "y": 1240,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -17811,7 +18836,7 @@
         "round": true,
         "decimals": 0,
         "x": 1800,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             [
                 "385623d0ee294538"
@@ -17840,7 +18865,7 @@
         "repair": false,
         "outputs": 2,
         "x": 210,
-        "y": 1360,
+        "y": 1560,
         "wires": [
             [
                 "5853be28a7f38d2f"
@@ -17856,7 +18881,7 @@
         "name": "Change type",
         "info": "",
         "x": 230,
-        "y": 1420,
+        "y": 1620,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -17882,7 +18907,7 @@
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
-        "x": 1210,
+        "x": 1250,
         "y": 120,
         "wires": [
             [
@@ -17897,7 +18922,7 @@
         "g": "844eb2b431656228",
         "name": "Change type",
         "info": "",
-        "x": 1390,
+        "x": 1430,
         "y": 160,
         "wires": [],
         "icon": "node-red/alert.svg"
@@ -17922,7 +18947,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1380,
+        "x": 1420,
         "y": 120,
         "wires": [
             [
@@ -17978,8 +19003,162 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1580,
+        "x": 1620,
         "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "01707cad7723ca87",
+        "type": "link in",
+        "z": "a8b2e7178cc214e3",
+        "g": "a814938400f6b94f",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 165,
+        "y": 1380,
+        "wires": [
+            [
+                "f4f8e3f2a373d120"
+            ]
+        ]
+    },
+    {
+        "id": "f4f8e3f2a373d120",
+        "type": "switch",
+        "z": "a8b2e7178cc214e3",
+        "g": "a814938400f6b94f",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 250,
+        "y": 1380,
+        "wires": [
+            [
+                "b182209f3026fbc4"
+            ]
+        ]
+    },
+    {
+        "id": "b182209f3026fbc4",
+        "type": "change",
+        "z": "a8b2e7178cc214e3",
+        "g": "a814938400f6b94f",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 410,
+        "y": 1380,
+        "wires": [
+            [
+                "b6e8bd6e30ae6ae9"
+            ]
+        ]
+    },
+    {
+        "id": "b6e8bd6e30ae6ae9",
+        "type": "switch",
+        "z": "a8b2e7178cc214e3",
+        "g": "a814938400f6b94f",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 580,
+        "y": 1380,
+        "wires": [
+            [
+                "70f04c868261a328",
+                "4ae46d0f7d5ec48d"
+            ],
+            [
+                "15faf0199e1dfea4"
+            ]
+        ]
+    },
+    {
+        "id": "b3545f2be32daffc",
+        "type": "change",
+        "z": "a8b2e7178cc214e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c57b6f8c6fd82e3f",
+        "type": "change",
+        "z": "a8b2e7178cc214e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 760,
         "wires": [
             []
         ]
@@ -18194,7 +19373,7 @@
         "name": "Stopping the measurment",
         "info": "Runs only once per Measuring Cycle",
         "x": 1050,
-        "y": 1380,
+        "y": 1580,
         "wires": []
     },
     {
@@ -18207,7 +19386,7 @@
             "edf83709d047c606"
         ],
         "x": 75,
-        "y": 1320,
+        "y": 1520,
         "wires": [
             [
                 "5dee20f59530d433"
@@ -18241,7 +19420,7 @@
         "repair": false,
         "outputs": 3,
         "x": 623,
-        "y": 1313,
+        "y": 1513,
         "wires": [
             [
                 "3f4853364f8ed4df"
@@ -18274,7 +19453,7 @@
         "reduceInitType": "num",
         "reduceFixup": "",
         "x": 1280,
-        "y": 1300,
+        "y": 1500,
         "wires": [
             [
                 "e449368f349b6296"
@@ -18302,7 +19481,7 @@
         "to": "",
         "reg": false,
         "x": 823,
-        "y": 1333,
+        "y": 1533,
         "wires": [
             [
                 "ec82f347bb76b8d3"
@@ -18330,7 +19509,7 @@
         "to": "",
         "reg": false,
         "x": 1053,
-        "y": 1333,
+        "y": 1533,
         "wires": [
             [
                 "3f4853364f8ed4df"
@@ -18348,7 +19527,7 @@
             "b0540487cb649448"
         ],
         "x": 1375,
-        "y": 1300,
+        "y": 1500,
         "wires": []
     },
     {
@@ -18396,7 +19575,7 @@
         "to": "",
         "reg": false,
         "x": 413,
-        "y": 1313,
+        "y": 1513,
         "wires": [
             [
                 "76577e3e6e87d5fb",
@@ -18418,7 +19597,7 @@
         "round": true,
         "decimals": "4",
         "x": 900,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "f25232e36c7436d4"
@@ -18435,7 +19614,7 @@
             "e449368f349b6296"
         ],
         "x": 75,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "3e9778af52a3d615"
@@ -18482,7 +19661,7 @@
         "useDifferentColor": false,
         "className": "",
         "x": 1580,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             []
         ]
@@ -18504,7 +19683,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1790,
-        "y": 1780,
+        "y": 1980,
         "wires": [
             []
         ]
@@ -18522,7 +19701,7 @@
         "finalize": "",
         "libs": [],
         "x": 1330,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "56760126bbcb5506"
@@ -18546,7 +19725,7 @@
         "templateScope": "local",
         "className": "",
         "x": 1720,
-        "y": 1820,
+        "y": 2020,
         "wires": [
             []
         ]
@@ -18568,7 +19747,7 @@
         "templateScope": "local",
         "className": "gauge3",
         "x": 733,
-        "y": 1453,
+        "y": 1653,
         "wires": [
             []
         ]
@@ -18596,7 +19775,7 @@
         "property": "payload",
         "pointcount": 8,
         "x": 733,
-        "y": 1413,
+        "y": 1613,
         "wires": []
     },
     {
@@ -18612,7 +19791,7 @@
         "finalize": "",
         "libs": [],
         "x": 1360,
-        "y": 1660,
+        "y": 1860,
         "wires": [
             [
                 "61cf45b74dbee639",
@@ -18648,7 +19827,7 @@
             "5629b32e35ca4460"
         ],
         "x": 1315,
-        "y": 1820,
+        "y": 2020,
         "wires": [
             [
                 "61cf45b74dbee639",
@@ -18691,7 +19870,7 @@
         "to": "",
         "reg": false,
         "x": 1810,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "bb28d9f0fb4eb217"
@@ -18756,11 +19935,14 @@
                 "t": "eq",
                 "v": "long_name",
                 "vt": "flow"
+            },
+            {
+                "t": "else"
             }
         ],
         "checkall": "true",
         "repair": false,
-        "outputs": 1,
+        "outputs": 2,
         "x": 250,
         "y": 840,
         "wires": [
@@ -18768,7 +19950,11 @@
                 "502c5f180b6429ff",
                 "987e4df9e12eea5b",
                 "43cc55db673ad45b",
-                "6d90265c40201d52"
+                "6d90265c40201d52",
+                "437446de35754edf"
+            ],
+            [
+                "de24743965b92a86"
             ]
         ]
     },
@@ -18785,6 +19971,13 @@
                 "pt": "msg",
                 "to": "false",
                 "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -18847,7 +20040,7 @@
             "86b57a598da4bf16"
         ],
         "x": 1425,
-        "y": 1580,
+        "y": 1780,
         "wires": [
             [
                 "56760126bbcb5506"
@@ -18923,6 +20116,13 @@
                 "t": "delete",
                 "p": "payload",
                 "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
             }
         ],
         "action": "",
@@ -18950,7 +20150,7 @@
             "9d5a46938e598218"
         ],
         "x": 1675,
-        "y": 1660,
+        "y": 1860,
         "wires": []
     },
     {
@@ -18972,7 +20172,7 @@
         "repair": false,
         "outputs": 1,
         "x": 200,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "01eaad079db94657"
@@ -18989,8 +20189,8 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 905,
-        "y": 840,
+        "x": 915,
+        "y": 860,
         "wires": []
     },
     {
@@ -19439,7 +20639,7 @@
         "round": true,
         "decimals": "4",
         "x": 420,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "c34c99fb9e63e1da"
@@ -19459,7 +20659,7 @@
         "round": true,
         "decimals": "4",
         "x": 560,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "664bd6f77a062890"
@@ -19479,7 +20679,7 @@
         "round": true,
         "decimals": "4",
         "x": 720,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "dc19cb70ce0999d9"
@@ -19494,7 +20694,7 @@
         "name": "Change function",
         "info": "",
         "x": 1320,
-        "y": 1700,
+        "y": 1900,
         "wires": []
     },
     {
@@ -19518,7 +20718,7 @@
         "to": "",
         "reg": false,
         "x": 1050,
-        "y": 1620,
+        "y": 1820,
         "wires": [
             [
                 "01eeb0ee16dd9134",
@@ -19547,7 +20747,7 @@
         "to": "",
         "reg": false,
         "x": 1440,
-        "y": 1760,
+        "y": 1960,
         "wires": [
             [
                 "46147d3fc80cf372"
@@ -19832,7 +21032,7 @@
         "rowsPerMsg": 1,
         "outputs": 1,
         "x": 2070,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             [
                 "7c3f16fbae17aa11"
@@ -19860,7 +21060,7 @@
         "to": "",
         "reg": false,
         "x": 2270,
-        "y": 1700,
+        "y": 1900,
         "wires": [
             []
         ]
@@ -20009,7 +21209,7 @@
             "3d3e1dfc6401935d"
         ],
         "x": 645,
-        "y": 1160,
+        "y": 1200,
         "wires": []
     },
     {
@@ -20033,7 +21233,7 @@
         "to": "",
         "reg": false,
         "x": 520,
-        "y": 1160,
+        "y": 1200,
         "wires": [
             [
                 "8fe5a2c820b3c062"
@@ -20048,7 +21248,7 @@
         "name": "Change channel",
         "info": "",
         "x": 520,
-        "y": 1200,
+        "y": 1240,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -20065,7 +21265,7 @@
         "round": true,
         "decimals": 0,
         "x": 1680,
-        "y": 1740,
+        "y": 1940,
         "wires": [
             [
                 "46147d3fc80cf372"
@@ -20094,7 +21294,7 @@
         "repair": false,
         "outputs": 2,
         "x": 190,
-        "y": 1320,
+        "y": 1520,
         "wires": [
             [
                 "0d58c3fbd56d639b"
@@ -20110,7 +21310,7 @@
         "name": "Change type",
         "info": "",
         "x": 190,
-        "y": 1360,
+        "y": 1560,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -20234,6 +21434,160 @@
         "reg": false,
         "x": 1540,
         "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a04cb52631bb5e64",
+        "type": "link in",
+        "z": "30e826456c806c39",
+        "g": "6f90eb41e553b9f7",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 155,
+        "y": 1360,
+        "wires": [
+            [
+                "e851b8c356ca2035"
+            ]
+        ]
+    },
+    {
+        "id": "e851b8c356ca2035",
+        "type": "switch",
+        "z": "30e826456c806c39",
+        "g": "6f90eb41e553b9f7",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 240,
+        "y": 1360,
+        "wires": [
+            [
+                "bf9188afc8a31cac"
+            ]
+        ]
+    },
+    {
+        "id": "bf9188afc8a31cac",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "g": "6f90eb41e553b9f7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 1360,
+        "wires": [
+            [
+                "938c7ade28f99f96"
+            ]
+        ]
+    },
+    {
+        "id": "938c7ade28f99f96",
+        "type": "switch",
+        "z": "30e826456c806c39",
+        "g": "6f90eb41e553b9f7",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 570,
+        "y": 1360,
+        "wires": [
+            [
+                "7d8d3bb0b4aed567",
+                "188b28276ce18e5f"
+            ],
+            [
+                "bb4796f99371d009"
+            ]
+        ]
+    },
+    {
+        "id": "437446de35754edf",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de24743965b92a86",
+        "type": "change",
+        "z": "30e826456c806c39",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 760,
         "wires": [
             []
         ]
@@ -24573,12 +25927,12 @@
         ],
         "repeat": "0.5",
         "crontab": "",
-        "once": true,
+        "once": false,
         "onceDelay": 0.1,
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 130,
+        "x": 150,
         "y": 600,
         "wires": [
             [
@@ -24598,7 +25952,7 @@
         "arraySpltType": "len",
         "stream": false,
         "addname": "",
-        "x": 690,
+        "x": 710,
         "y": 600,
         "wires": [
             [
@@ -24618,7 +25972,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 500,
+        "x": 520,
         "y": 600,
         "wires": [
             [
@@ -24636,7 +25990,7 @@
         "links": [
             "368c3c772a33762d"
         ],
-        "x": 1465,
+        "x": 1485,
         "y": 600,
         "wires": []
     },
@@ -24660,7 +26014,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 950,
+        "x": 970,
         "y": 600,
         "wires": [
             [
@@ -24686,7 +26040,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 290,
+        "x": 310,
         "y": 600,
         "wires": [
             [
@@ -24793,8 +26147,7 @@
         "y": 300,
         "wires": [
             [
-                "edf83709d047c606",
-                "64b245e4b405ef06"
+                "edf83709d047c606"
             ]
         ]
     },
@@ -24812,6 +26165,127 @@
         "wires": [
             [
                 "6ff6b159f4eb418a"
+            ]
+        ]
+    },
+    {
+        "id": "0add7a7bfa64c05f",
+        "type": "change",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "Tara Calculation",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload- ($lookup($globalContext('Tara'),$string(topic)) ? $lookup($globalContext('Tara'),$string(topic)) : 0)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 680,
+        "y": 300,
+        "wires": [
+            [
+                "60aac990440ed53b"
+            ]
+        ]
+    },
+    {
+        "id": "60aac990440ed53b",
+        "type": "calculator",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "payload",
+        "operation": "rdec",
+        "constant": "4",
+        "round": false,
+        "decimals": 0,
+        "x": 880,
+        "y": 300,
+        "wires": [
+            [
+                "68faedd18f2cbfb7"
+            ]
+        ]
+    },
+    {
+        "id": "9fa7476f08905540",
+        "type": "change",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "reset",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 910,
+        "y": 360,
+        "wires": [
+            [
+                "68faedd18f2cbfb7"
+            ]
+        ]
+    },
+    {
+        "id": "3d3e1dfc6401935d",
+        "type": "link in",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "Filter Reset",
+        "links": [
+            "2d12585269ba30f8",
+            "606ba2871e2b4fbf",
+            "bb37f2e55771102f",
+            "f48bdf8d72c056c0",
+            "96eb2b8d0531eda3",
+            "8c766fcdc7fccc64",
+            "8fe5a2c820b3c062"
+        ],
+        "x": 765,
+        "y": 360,
+        "wires": [
+            [
+                "9fa7476f08905540"
+            ]
+        ]
+    },
+    {
+        "id": "368c3c772a33762d",
+        "type": "link in",
+        "z": "fe233ff436b4d8c7",
+        "g": "c4d565d6dc37a9a9",
+        "name": "Demodata In",
+        "links": [
+            "ebcbe221c3431249"
+        ],
+        "x": 265,
+        "y": 400,
+        "wires": [
+            [
+                "e147caf0cd14a036"
             ]
         ]
     },
@@ -24978,142 +26452,53 @@
         ]
     },
     {
-        "id": "0add7a7bfa64c05f",
-        "type": "change",
+        "id": "85d50403e9a19924",
+        "type": "link out",
         "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "Tara Calculation",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload- $globalContext('Tara[\"' & topic& '\"]')",
-                "tot": "jsonata"
-            }
+        "name": "Fußtaster",
+        "mode": "link",
+        "links": [
+            "97565cb49124b804",
+            "04eec8da7675bdf4",
+            "b95281566aa04440",
+            "c70629edef2d92f5",
+            "809d8e9952edecaa",
+            "72e1afa6e0f201b8",
+            "01707cad7723ca87",
+            "a04cb52631bb5e64"
         ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 680,
-        "y": 300,
-        "wires": [
-            [
-                "60aac990440ed53b"
-            ]
-        ]
+        "x": 585,
+        "y": 740,
+        "wires": []
     },
     {
-        "id": "60aac990440ed53b",
-        "type": "calculator",
+        "id": "d3fb11507877b237",
+        "type": "inject",
         "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
         "name": "",
-        "inputMsgField": "payload",
-        "outputMsgField": "payload",
-        "operation": "rdec",
-        "constant": "4",
-        "round": false,
-        "decimals": 0,
-        "x": 880,
-        "y": 300,
-        "wires": [
-            [
-                "68faedd18f2cbfb7"
-            ]
-        ]
-    },
-    {
-        "id": "9fa7476f08905540",
-        "type": "change",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "",
-        "rules": [
+        "props": [
             {
-                "t": "set",
-                "p": "reset",
-                "pt": "msg",
-                "to": "true",
-                "tot": "bool"
+                "p": "payload"
             },
             {
-                "t": "delete",
-                "p": "payload",
-                "pt": "msg"
+                "p": "topic",
+                "vt": "str"
             }
         ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 910,
-        "y": 360,
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 460,
+        "y": 760,
         "wires": [
             [
-                "68faedd18f2cbfb7"
+                "85d50403e9a19924"
             ]
         ]
-    },
-    {
-        "id": "3d3e1dfc6401935d",
-        "type": "link in",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "Filter Reset",
-        "links": [
-            "2d12585269ba30f8",
-            "606ba2871e2b4fbf",
-            "bb37f2e55771102f",
-            "f48bdf8d72c056c0",
-            "96eb2b8d0531eda3",
-            "8c766fcdc7fccc64",
-            "8fe5a2c820b3c062"
-        ],
-        "x": 765,
-        "y": 360,
-        "wires": [
-            [
-                "9fa7476f08905540"
-            ]
-        ]
-    },
-    {
-        "id": "368c3c772a33762d",
-        "type": "link in",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "Demodata In",
-        "links": [
-            "ebcbe221c3431249"
-        ],
-        "x": 265,
-        "y": 400,
-        "wires": [
-            [
-                "e147caf0cd14a036"
-            ]
-        ]
-    },
-    {
-        "id": "64b245e4b405ef06",
-        "type": "debug",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "debug 10",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1240,
-        "y": 380,
-        "wires": []
     },
     {
         "id": "bf9be0cc96498def",
