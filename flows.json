@@ -142,7 +142,6 @@
             "961c22119f4c0397",
             "6fa6b79b483dc10a",
             "5f538462ac099755",
-            "ab0ab7c7db7e4c46",
             "e858d3f1a9ca40cf",
             "6678252c60ace251"
         ],
@@ -546,12 +545,11 @@
         },
         "nodes": [
             "455bec90a0e7131b",
-            "88a865df6bb9805d",
-            "7fb80ff82e71bd7b"
+            "88a865df6bb9805d"
         ],
         "x": 34,
         "y": 419,
-        "w": 612,
+        "w": 412,
         "h": 82
     },
     {
@@ -572,7 +570,6 @@
             "fa815db6338a6830",
             "2d2aa87b70c69740",
             "6af3e755f5bc8a06",
-            "199d1ba097da42cb",
             "ed0168f80877344e",
             "da132fd2cef17be3"
         ],
@@ -591,12 +588,11 @@
         },
         "nodes": [
             "b0d7384f54fdeebc",
-            "02245918fc0b347f",
             "b45c606c9d4201d5"
         ],
         "x": 34,
         "y": 439,
-        "w": 632,
+        "w": 432,
         "h": 82
     },
     {
@@ -617,7 +613,6 @@
             "0798e3b4e76683bd",
             "d07b67558978bbc5",
             "98a33f35b2e0638b",
-            "29a69a8ac92c74f8",
             "61a23a4602284fda",
             "dfde147112837060",
             "48b4b857970c3e7f"
@@ -637,12 +632,11 @@
         },
         "nodes": [
             "b3c59a36c65b3216",
-            "7a1b9066dc7be84c",
             "4e7673ccd33b176a"
         ],
         "x": 54,
         "y": 439,
-        "w": 632,
+        "w": 432,
         "h": 82
     },
     {
@@ -729,7 +723,6 @@
             "5566086642576388",
             "56a9316f6830d1d7",
             "128a742d386f03fa",
-            "7dc1ae02b0c06567",
             "392ffd0f77b3e986",
             "93c899f39247de2a"
         ],
@@ -748,12 +741,11 @@
         },
         "nodes": [
             "062a3e35fd88567d",
-            "bbdd5a8848666b45",
             "bb831aac27c7ae79"
         ],
         "x": 54,
         "y": 459,
-        "w": 632,
+        "w": 432,
         "h": 82
     },
     {
@@ -796,7 +788,6 @@
             "8ae2b886c49354ee",
             "c02b1ba82ba50cd4",
             "2a4be9193c78eaac",
-            "864502f75f1b06b3",
             "8d49c72ce5835678",
             "6581ac48ae0a5768"
         ],
@@ -815,12 +806,11 @@
         },
         "nodes": [
             "9f3c8175df4c2cc6",
-            "1ebb3bf59b2d6c8c",
             "9c645943145e3e56"
         ],
         "x": 74,
         "y": 459,
-        "w": 612,
+        "w": 412,
         "h": 82
     },
     {
@@ -863,7 +853,6 @@
             "e449368f349b6296",
             "0d58c3fbd56d639b",
             "d9199f6b8505ccc3",
-            "55ac36156805d683",
             "5dee20f59530d433",
             "45acccec90286900"
         ],
@@ -882,12 +871,11 @@
         },
         "nodes": [
             "43cbddc99bcc4717",
-            "81770177ce320805",
             "6d90265c40201d52"
         ],
         "x": 34,
         "y": 459,
-        "w": 652,
+        "w": 452,
         "h": 82
     },
     {
@@ -1630,7 +1618,6 @@
             "d5bcb5c24204d09b",
             "5853be28a7f38d2f",
             "c53f324c647457d9",
-            "ace13e32a607ace7",
             "051ca72b9f7c89ed",
             "1c5aa8a7294a403e"
         ],
@@ -1649,12 +1636,11 @@
         },
         "nodes": [
             "087b0547b7bd4455",
-            "eac711d7dc1fe58d",
             "2d7b9f4af01848a1"
         ],
         "x": 74,
         "y": 459,
-        "w": 612,
+        "w": 412,
         "h": 82
     },
     {
@@ -3088,25 +3074,6 @@
         "hidden": false
     },
     {
-        "id": "f5e2c3bf3d5a99b2",
-        "type": "ui_group",
-        "name": "Default",
-        "tab": "450ac4c9b5c2acc6",
-        "order": 1,
-        "disp": true,
-        "width": "11",
-        "collapse": false
-    },
-    {
-        "id": "450ac4c9b5c2acc6",
-        "type": "ui_tab",
-        "name": "Home",
-        "icon": "dashboard",
-        "order": 10,
-        "disabled": true,
-        "hidden": true
-    },
-    {
         "id": "9d86f616e71bcf60",
         "type": "ui_tab",
         "name": "Messdaten Übersicht",
@@ -3496,67 +3463,247 @@
         "hidden": false
     },
     {
-        "id": "643d6a960b482f91",
+        "id": "439266cd53a5d3ed",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "7811cf98b737806b",
+        "group": "814f49e501875186",
         "order": 5,
         "width": 6,
         "height": 1
     },
     {
-        "id": "5a3c5e0450c796bf",
+        "id": "a206a8f84d6e1f07",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "7811cf98b737806b",
+        "group": "814f49e501875186",
         "order": 6,
         "width": 6,
         "height": 1
     },
     {
-        "id": "546f567f2dda1f25",
+        "id": "8e2af3111d556b31",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "7811cf98b737806b",
+        "group": "814f49e501875186",
         "order": 7,
         "width": 6,
         "height": 1
     },
     {
-        "id": "648f34cb90b1e475",
+        "id": "b8e653496a920707",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "7811cf98b737806b",
+        "group": "814f49e501875186",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2d302df918cdd9ba",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
         "order": 10,
         "width": 6,
         "height": 1
     },
     {
-        "id": "b3a739929cfcabed",
+        "id": "d341253c979006d0",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "7811cf98b737806b",
+        "group": "814f49e501875186",
         "order": 11,
         "width": 6,
         "height": 1
     },
     {
-        "id": "22b27059c002f0fa",
+        "id": "ab4cc6b614b3ecf5",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "f76015fff1ab449b",
         "name": "spacer",
-        "group": "092f8a944cbf2576",
+        "group": "814f49e501875186",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4d5d508afa8970c0",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "814f49e501875186",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "2a8ee4c94cdbb9e3",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "6f4767ced2e802f1",
         "order": 5,
         "width": 1,
         "height": 1
     },
     {
-        "id": "f49c091fac287da1",
+        "id": "85251b3cce2afc5f",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 8,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "6b8cb8f8cc5dced7",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "f5d022bdf122e97d",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "ae6e060902915614",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "ab5693363eac0744",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "7bf9d4f551c45f5e",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "cbb14512cf59b7c8",
+        "type": "ui_spacer",
+        "z": "f76015fff1ab449b",
+        "name": "spacer",
+        "group": "5324db76841ab3ea",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "127b413f33583702",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4cbc5b03bc38eb43",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "7664b420391c292d",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d1f2ee07532026be",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a156ca3168f19c28",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d4e5041e16bb7f34",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "ca1a1ae818a6bd76",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "607496a71b68cba1",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "63ce761b912114ae",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "951e529892e81e7b",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "054f93d7b0373556",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2825dc436213f0fb",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3566,7 +3713,7 @@
         "height": 1
     },
     {
-        "id": "20fbb0d9188859b3",
+        "id": "835e61331ce8243c",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3576,7 +3723,7 @@
         "height": 1
     },
     {
-        "id": "549a94ec4efbd055",
+        "id": "05fe2c8b3ebbedd2",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3586,7 +3733,17 @@
         "height": 1
     },
     {
-        "id": "f1529c24f4311017",
+        "id": "076870915efd1aa4",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "150b33732b25138c",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3596,7 +3753,7 @@
         "height": 1
     },
     {
-        "id": "a483e85e883b68c8",
+        "id": "33516af60bc18de1",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3606,7 +3763,27 @@
         "height": 1
     },
     {
-        "id": "de6048d5f2640b49",
+        "id": "46544477ee69c6b7",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "99239d6e5aeef2be",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "be0f6cdc14786540",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3616,7 +3793,97 @@
         "height": 1
     },
     {
-        "id": "4ee8a305226d6317",
+        "id": "3d643fbe0bbc1725",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 5,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "5fedea18bca9fd88",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 6,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "64a70fe23cdc38c1",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 7,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "939746dcbd629c79",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "9951c1e4568142c8",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "713d409b5d04155d",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "befc02db35fe669e",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4f468fca5d56a71b",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "7f7a54b52ae42144",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "092f8a944cbf2576",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "aca0ddf44ee0f12d",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3626,7 +3893,7 @@
         "height": 1
     },
     {
-        "id": "69da8f3478fa4f57",
+        "id": "fbab273a59701d8f",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3636,7 +3903,7 @@
         "height": 1
     },
     {
-        "id": "163a15596b136938",
+        "id": "7286cd99794196be",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3646,7 +3913,17 @@
         "height": 1
     },
     {
-        "id": "9bd191bb16198709",
+        "id": "6bce45ae4d7d7c18",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 9,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "5ef50341b29b9cb8",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3656,7 +3933,7 @@
         "height": 1
     },
     {
-        "id": "3e4c9cd194bdbdc2",
+        "id": "68bfe11d9874b6be",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3666,7 +3943,27 @@
         "height": 1
     },
     {
-        "id": "19f4449f207b66ae",
+        "id": "3b9aca11eda47a73",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "98cff05cc530bf07",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "560a3c9e59d3d598",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "4619e98a799e196b",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3676,7 +3973,7 @@
         "height": 1
     },
     {
-        "id": "8fea59d190aa1e9f",
+        "id": "d177e8dcef25ec43",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3686,7 +3983,7 @@
         "height": 1
     },
     {
-        "id": "d996f0be74deb40e",
+        "id": "f4179687ce5fca36",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3696,7 +3993,7 @@
         "height": 1
     },
     {
-        "id": "9387e01586969513",
+        "id": "4ffd103d24f1968d",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
@@ -3706,181 +4003,61 @@
         "height": 1
     },
     {
-        "id": "52d069eed6ee8c96",
+        "id": "18a44199982709a6",
         "type": "ui_spacer",
         "z": "2a0afd77453149d1",
         "name": "spacer",
         "group": "3326e113a2f7ba6b",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "28b2098830e9fadb",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "6db6e347b4c3ff4e",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "a04b8dcd59043bf9",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "2981cab5af82ad9d",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "75a8fac5ac1f9a64",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "868e505f28f93151",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "e37aa0585a8cbf0b",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "027cd468d2a7207c",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "a4731bf9188e1148",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "054f93d7b0373556",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "c7ce45199c1a5d45",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "6afae8892e6f9183",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "fa79be893a83aff9",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "8a6a856245ef3e32",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "a308ccc131f5bf73",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "873e60490b25bcd3",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "6f4767ced2e802f1",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "ea6fb4b2a9d42022",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 8,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "6e4080874c5f99bf",
-        "type": "ui_spacer",
-        "z": "97bca276c16abc95",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
         "order": 9,
         "width": 6,
         "height": 1
     },
     {
-        "id": "98d3af6860b4f578",
+        "id": "e5a45ec7efe14d26",
         "type": "ui_spacer",
-        "z": "97bca276c16abc95",
+        "z": "2a0afd77453149d1",
         "name": "spacer",
-        "group": "5324db76841ab3ea",
+        "group": "3326e113a2f7ba6b",
+        "order": 10,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "d81f7c65406a5ad2",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 11,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "a589442a38919e5c",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 12,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "84d80e7b79bd950b",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
+        "order": 13,
+        "width": 6,
+        "height": 1
+    },
+    {
+        "id": "3db6f665efe07040",
+        "type": "ui_spacer",
+        "z": "2a0afd77453149d1",
+        "name": "spacer",
+        "group": "a04b8dcd59043bf9",
         "order": 5,
         "width": 1,
         "height": 1
@@ -4782,7 +4959,6 @@
         "wires": [
             [
                 "d2bd2a8b4590ca12",
-                "ab0ab7c7db7e4c46",
                 "5f538462ac099755"
             ]
         ]
@@ -4889,7 +5065,7 @@
         "g": "845f4268e3199e1d",
         "name": "Measurement Diagram",
         "group": "814f49e501875186",
-        "order": 11,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -4987,32 +5163,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "ab0ab7c7db7e4c46",
-        "type": "ui_valuetrail",
-        "z": "f76015fff1ab449b",
-        "g": "8e9639dd6a52feb3",
-        "group": "814f49e501875186",
-        "order": 14,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 780,
-        "y": 1480,
-        "wires": []
     },
     {
         "id": "97449b59b1ded6be",
@@ -5772,10 +5922,10 @@
         "z": "f76015fff1ab449b",
         "g": "c95c71c85f7f9849",
         "name": "Button Messung",
-        "group": "814f49e501875186",
-        "order": 15,
-        "width": 6,
-        "height": 2,
+        "group": "6f4767ced2e802f1",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -5997,7 +6147,7 @@
         "name": "Button Next",
         "group": "6f4767ced2e802f1",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -6712,28 +6862,6 @@
         ]
     },
     {
-        "id": "7fb80ff82e71bd7b",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "780c740174ed8448",
-        "group": "814f49e501875186",
-        "name": "Heading Overrides",
-        "order": 9,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 530,
-        "y": 460,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "ef398e37cf183e29",
         "type": "inject",
         "z": "f76015fff1ab449b",
@@ -6991,10 +7119,10 @@
         "z": "97bca276c16abc95",
         "g": "3ca77137896b95fb",
         "name": "Button Messung",
-        "group": "7bf9d4f551c45f5e",
-        "order": 11,
-        "width": 6,
-        "height": 2,
+        "group": "5324db76841ab3ea",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -7216,7 +7344,7 @@
         "name": "Button Next",
         "group": "5324db76841ab3ea",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -7675,7 +7803,6 @@
         "wires": [
             [
                 "5acf28d8a13ca5b6",
-                "199d1ba097da42cb",
                 "6af3e755f5bc8a06"
             ]
         ]
@@ -7701,32 +7828,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "199d1ba097da42cb",
-        "type": "ui_valuetrail",
-        "z": "97bca276c16abc95",
-        "g": "a46784b1fcaec318",
-        "group": "7bf9d4f551c45f5e",
-        "order": 10,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 780,
-        "y": 1540,
-        "wires": []
     },
     {
         "id": "5b5b93403a0f2a2c",
@@ -8004,28 +8105,6 @@
         "x": 380,
         "y": 480,
         "wires": []
-    },
-    {
-        "id": "02245918fc0b347f",
-        "type": "ui_template",
-        "z": "97bca276c16abc95",
-        "g": "6e8953d914202ea4",
-        "group": "814f49e501875186",
-        "name": "Heading Overrides",
-        "order": 10,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 550,
-        "y": 480,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "bfaf4bd4abdf9da7",
@@ -9502,10 +9581,10 @@
         "z": "2a0afd77453149d1",
         "g": "acb23dac66fe0d8b",
         "name": "Button Messung",
-        "group": "63ce761b912114ae",
-        "order": 13,
-        "width": 6,
-        "height": 2,
+        "group": "054f93d7b0373556",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -9912,7 +9991,6 @@
         "wires": [
             [
                 "55344c52c8492a55",
-                "29a69a8ac92c74f8",
                 "98a33f35b2e0638b",
                 "48b4b857970c3e7f"
             ]
@@ -9962,7 +10040,7 @@
         "g": "2cf293352e3cee14",
         "name": "Measurement Diagram",
         "group": "63ce761b912114ae",
-        "order": 9,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -10087,32 +10165,6 @@
         ]
     },
     {
-        "id": "29a69a8ac92c74f8",
-        "type": "ui_valuetrail",
-        "z": "2a0afd77453149d1",
-        "g": "70dff54ed083811d",
-        "group": "63ce761b912114ae",
-        "order": 12,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 723,
-        "y": 1713,
-        "wires": []
-    },
-    {
         "id": "3e5441e7c426ab89",
         "type": "function",
         "z": "2a0afd77453149d1",
@@ -10219,7 +10271,7 @@
         "name": "Button Next",
         "group": "054f93d7b0373556",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -10548,28 +10600,6 @@
         "x": 400,
         "y": 480,
         "wires": []
-    },
-    {
-        "id": "7a1b9066dc7be84c",
-        "type": "ui_template",
-        "z": "2a0afd77453149d1",
-        "g": "58de42e9f0769879",
-        "group": "63ce761b912114ae",
-        "name": "Heading Overrides",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 480,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "ac0da1e878340320",
@@ -11950,10 +11980,10 @@
         "z": "e30c392695b4b813",
         "g": "f2672f5d109f47ae",
         "name": "Button Messung",
-        "group": "60bfac62dc9f6f0b",
-        "order": 13,
-        "width": 6,
-        "height": 2,
+        "group": "a29ef7af40a2b4a4",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -12360,7 +12390,6 @@
         "wires": [
             [
                 "8c1aad220739287f",
-                "7dc1ae02b0c06567",
                 "128a742d386f03fa"
             ]
         ]
@@ -12409,7 +12438,7 @@
         "g": "8ab35d62324ce00c",
         "name": "Measurement Diagram",
         "group": "60bfac62dc9f6f0b",
-        "order": 9,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -12534,32 +12563,6 @@
         ]
     },
     {
-        "id": "7dc1ae02b0c06567",
-        "type": "ui_valuetrail",
-        "z": "e30c392695b4b813",
-        "g": "f32343183e9c9e51",
-        "group": "60bfac62dc9f6f0b",
-        "order": 12,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 783,
-        "y": 1693,
-        "wires": []
-    },
-    {
         "id": "69f870b2e56ed0e6",
         "type": "function",
         "z": "e30c392695b4b813",
@@ -12666,7 +12669,7 @@
         "name": "Button Next",
         "group": "a29ef7af40a2b4a4",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -12995,28 +12998,6 @@
         "x": 400,
         "y": 500,
         "wires": []
-    },
-    {
-        "id": "bbdd5a8848666b45",
-        "type": "ui_template",
-        "z": "e30c392695b4b813",
-        "g": "62658be016b831f9",
-        "group": "60bfac62dc9f6f0b",
-        "name": "Heading Overrides",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 500,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "c585fe5bf5f4e6fe",
@@ -14379,10 +14360,10 @@
         "z": "0b6f24f26e309bd0",
         "g": "efec034816e3d1a4",
         "name": "Button Messung",
-        "group": "7811cf98b737806b",
-        "order": 13,
-        "width": 6,
-        "height": 2,
+        "group": "092f8a944cbf2576",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -14789,7 +14770,6 @@
         "wires": [
             [
                 "20eab1ccda50e7e4",
-                "864502f75f1b06b3",
                 "2a4be9193c78eaac"
             ]
         ]
@@ -14838,7 +14818,7 @@
         "g": "49fe87a3db7441c6",
         "name": "Measurement Diagram",
         "group": "7811cf98b737806b",
-        "order": 9,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -14963,32 +14943,6 @@
         ]
     },
     {
-        "id": "864502f75f1b06b3",
-        "type": "ui_valuetrail",
-        "z": "0b6f24f26e309bd0",
-        "g": "bca4306ba871994a",
-        "group": "7811cf98b737806b",
-        "order": 12,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 820,
-        "y": 1580,
-        "wires": []
-    },
-    {
         "id": "8c5ebdce29a0b8ba",
         "type": "function",
         "z": "0b6f24f26e309bd0",
@@ -15094,7 +15048,7 @@
         "name": "Button Next",
         "group": "092f8a944cbf2576",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -15423,28 +15377,6 @@
         "x": 400,
         "y": 500,
         "wires": []
-    },
-    {
-        "id": "1ebb3bf59b2d6c8c",
-        "type": "ui_template",
-        "z": "0b6f24f26e309bd0",
-        "g": "6c1d4390cec1ec27",
-        "group": "7811cf98b737806b",
-        "name": "Heading Overrides",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 500,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "26617f9485f78c3e",
@@ -16720,10 +16652,10 @@
         "z": "a8b2e7178cc214e3",
         "g": "e880cd819650d6b7",
         "name": "Button Messung",
-        "group": "560a3c9e59d3d598",
-        "order": 13,
-        "width": 6,
-        "height": 2,
+        "group": "e1cf677fc8d9cbda",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -17130,7 +17062,6 @@
         "wires": [
             [
                 "5e77b3e285fd5a20",
-                "ace13e32a607ace7",
                 "c53f324c647457d9"
             ]
         ]
@@ -17179,7 +17110,7 @@
         "g": "eb83fb8c6cd63b51",
         "name": "Measurement Diagram",
         "group": "560a3c9e59d3d598",
-        "order": 9,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -17304,32 +17235,6 @@
         ]
     },
     {
-        "id": "ace13e32a607ace7",
-        "type": "ui_valuetrail",
-        "z": "a8b2e7178cc214e3",
-        "g": "74ad2d205941a89c",
-        "group": "560a3c9e59d3d598",
-        "order": 12,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 940,
-        "y": 1660,
-        "wires": []
-    },
-    {
         "id": "8954d50521f2f282",
         "type": "function",
         "z": "a8b2e7178cc214e3",
@@ -17433,7 +17338,7 @@
         "name": "Button Next",
         "group": "e1cf677fc8d9cbda",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -17762,28 +17667,6 @@
         "x": 400,
         "y": 500,
         "wires": []
-    },
-    {
-        "id": "eac711d7dc1fe58d",
-        "type": "ui_template",
-        "z": "a8b2e7178cc214e3",
-        "g": "a815e39e328ee9b9",
-        "group": "560a3c9e59d3d598",
-        "name": "Heading Overrides",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 500,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "7ba32846d52b5315",
@@ -19169,10 +19052,10 @@
         "z": "30e826456c806c39",
         "g": "50392007280f7ee4",
         "name": "Button Messung",
-        "group": "3326e113a2f7ba6b",
-        "order": 13,
-        "width": 6,
-        "height": 2,
+        "group": "a04b8dcd59043bf9",
+        "order": 8,
+        "width": 3,
+        "height": 1,
         "passthru": false,
         "label": "{{payload}}",
         "tooltip": "",
@@ -19579,7 +19462,6 @@
         "wires": [
             [
                 "76577e3e6e87d5fb",
-                "55ac36156805d683",
                 "d9199f6b8505ccc3"
             ]
         ]
@@ -19628,7 +19510,7 @@
         "g": "164f2485b94aaba9",
         "name": "Measurement Diagram",
         "group": "3326e113a2f7ba6b",
-        "order": 9,
+        "order": 8,
         "width": 12,
         "height": 5,
         "label": "",
@@ -19753,32 +19635,6 @@
         ]
     },
     {
-        "id": "55ac36156805d683",
-        "type": "ui_valuetrail",
-        "z": "30e826456c806c39",
-        "g": "827aa793e91b64c2",
-        "group": "3326e113a2f7ba6b",
-        "order": 12,
-        "width": 6,
-        "height": 1,
-        "name": "",
-        "label": "",
-        "unit": "",
-        "blur": false,
-        "minmax": false,
-        "allowtoggle": true,
-        "showvalue": false,
-        "decimals": 0,
-        "colorLine": "#ff9900",
-        "colorFromTheme": true,
-        "stroke": 2,
-        "property": "payload",
-        "pointcount": 8,
-        "x": 733,
-        "y": 1613,
-        "wires": []
-    },
-    {
         "id": "54c0ee9e0d49baf5",
         "type": "function",
         "z": "30e826456c806c39",
@@ -19885,7 +19741,7 @@
         "name": "Button Next",
         "group": "a04b8dcd59043bf9",
         "order": 7,
-        "width": 6,
+        "width": 3,
         "height": 1,
         "passthru": false,
         "label": "Weiter",
@@ -20214,28 +20070,6 @@
         "x": 400,
         "y": 500,
         "wires": []
-    },
-    {
-        "id": "81770177ce320805",
-        "type": "ui_template",
-        "z": "30e826456c806c39",
-        "g": "d06992dfd408b7aa",
-        "group": "3326e113a2f7ba6b",
-        "name": "Heading Overrides",
-        "order": 8,
-        "width": 0,
-        "height": 0,
-        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 570,
-        "y": 500,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "aaf62278c68bbe79",
@@ -25740,7 +25574,7 @@
         "id": "b702da8cc8f48e1e",
         "type": "ui_template",
         "z": "055a1f062782b51d",
-        "group": "f5e2c3bf3d5a99b2",
+        "group": "",
         "name": "Led Style",
         "order": 2,
         "width": 10,
@@ -25763,7 +25597,7 @@
         "z": "055a1f062782b51d",
         "group": "814f49e501875186",
         "name": "Gauge3 Overrides",
-        "order": 8,
+        "order": 14,
         "width": 0,
         "height": 0,
         "format": "<style>\nmd-card.nr-dashboard-template.gauge3 .g-body {\n    border-radius: 50%;\n}\n\nmd-card.nr-dashboard-template.gauge3 .g-body::before {    \n    border-radius:50%;\n}\nmd-card.nr-dashboard-template.gauge3 .g-rivets {\n    display:none;\n}\n</style>",
@@ -25782,7 +25616,7 @@
         "id": "bfa4ef96.0901f",
         "type": "ui_template",
         "z": "055a1f062782b51d",
-        "group": "f5e2c3bf3d5a99b2",
+        "group": "",
         "name": "gauge-style-advanced",
         "order": 4,
         "width": 10,
@@ -25803,7 +25637,7 @@
         "id": "9f1e1fb.3fc78e",
         "type": "ui_template",
         "z": "055a1f062782b51d",
-        "group": "f5e2c3bf3d5a99b2",
+        "group": "",
         "name": "Logo",
         "order": 1,
         "width": 0,
@@ -25906,6 +25740,27 @@
         "reg": false,
         "x": 840,
         "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7fb80ff82e71bd7b",
+        "type": "ui_template",
+        "z": "055a1f062782b51d",
+        "group": "814f49e501875186",
+        "name": "Heading Overrides",
+        "order": 15,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 130,
+        "y": 340,
         "wires": [
             []
         ]
@@ -26475,7 +26330,7 @@
         "id": "d3fb11507877b237",
         "type": "inject",
         "z": "fe233ff436b4d8c7",
-        "name": "",
+        "name": "Fußtaster",
         "props": [
             {
                 "p": "payload"
@@ -26493,7 +26348,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 460,
-        "y": 760,
+        "y": 740,
         "wires": [
             [
                 "85d50403e9a19924"
