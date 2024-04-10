@@ -179,13 +179,12 @@
             "a6eb399a30aa2b6c",
             "5e64db70d3489eb2",
             "9620512234b7b62f",
-            "4875667208c4bb4f",
             "9767ae7be4407276"
         ],
         "x": 14,
         "y": 1619,
         "w": 2432,
-        "h": 322
+        "h": 262
     },
     {
         "id": "986a61aab651f4f0",
@@ -1061,7 +1060,6 @@
             "08721a53d1644290",
             "4881eb2f5b7a3357",
             "364faf3f261f3b7e",
-            "2a15c47721c80d56",
             "69f870b2e56ed0e6",
             "d02696bd698067c6",
             "f205b6db6576d917",
@@ -1081,7 +1079,7 @@
         "x": 34,
         "y": 1819,
         "w": 2312,
-        "h": 322
+        "h": 282
     },
     {
         "id": "2cf293352e3cee14",
@@ -1102,7 +1100,6 @@
             "6749f8cee8567333",
             "d96bbb2ed204c5f8",
             "865a96cbbe010c1a",
-            "db9b3c1ba7d23d04",
             "3e5441e7c426ab89",
             "5af0d1e71236ec7c",
             "e8fb24f128c3d285",
@@ -1119,10 +1116,10 @@
             "c972581bc9f8476e",
             "4756f886debe829f"
         ],
-        "x": 24,
+        "x": 44,
         "y": 1819,
         "w": 2242,
-        "h": 322
+        "h": 282
     },
     {
         "id": "aad35dc03f9f96dd",
@@ -1143,7 +1140,6 @@
             "2fad403dbcb0990a",
             "a3c031a49f179523",
             "8cbdd0231e85946d",
-            "72139c05dceb8de0",
             "ec2092bf9a6e3f3a",
             "11406244e9f7324d",
             "89025cf592f63261",
@@ -1160,13 +1156,12 @@
             "0e8c505c5b9b76f4",
             "3fc96acc2a200a40",
             "483481edec182f43",
-            "8a84098978f0d5c0",
-            "11b9e14c02e19ddf"
+            "8a84098978f0d5c0"
         ],
         "x": 14,
         "y": 1659,
         "w": 2202,
-        "h": 402
+        "h": 322
     },
     {
         "id": "49fe87a3db7441c6",
@@ -1187,7 +1182,6 @@
             "ec6d0b666ddc9d6e",
             "2f31c1d74f9d3ecf",
             "9ea7fabffcc6d350",
-            "878169c4bc5fb49e",
             "8c5ebdce29a0b8ba",
             "3fa3d56c1dc1986f",
             "cea37b9d7b61cf5c",
@@ -1206,7 +1200,7 @@
         "x": 34,
         "y": 1699,
         "w": 2032,
-        "h": 322
+        "h": 282
     },
     {
         "id": "164f2485b94aaba9",
@@ -1222,7 +1216,6 @@
             "56760126bbcb5506",
             "46147d3fc80cf372",
             "01eeb0ee16dd9134",
-            "61cf45b74dbee639",
             "54c0ee9e0d49baf5",
             "fff06f5cec08a7b7",
             "bc38f24339fa1533",
@@ -1242,7 +1235,7 @@
         "x": 34,
         "y": 1739,
         "w": 2352,
-        "h": 322
+        "h": 282
     },
     {
         "id": "4829d01fa6230cb2",
@@ -1707,7 +1700,6 @@
             "cafa1af88d14707d",
             "385623d0ee294538",
             "5226d1dd4cddbf90",
-            "dcaf5f82011321ca",
             "8954d50521f2f282",
             "e4a68addc96c963e",
             "2ad41fcff6767048",
@@ -1728,7 +1720,7 @@
         "x": 54,
         "y": 1779,
         "w": 2452,
-        "h": 322
+        "h": 282
     },
     {
         "id": "c3a5fdfc8859962e",
@@ -3463,509 +3455,79 @@
         "hidden": false
     },
     {
-        "id": "439266cd53a5d3ed",
+        "id": "224e1cf054e6bf43",
         "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "814f49e501875186",
+        "group": "3326e113a2f7ba6b",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "89e5c25c892403c4",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "3326e113a2f7ba6b",
         "order": 5,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "a206a8f84d6e1f07",
+        "id": "bfd33bae83dfc94a",
         "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "814f49e501875186",
+        "group": "3326e113a2f7ba6b",
         "order": 6,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "8e2af3111d556b31",
+        "id": "bfe8ffc1bda1f98f",
         "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "b8e653496a920707",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "2d302df918cdd9ba",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "d341253c979006d0",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "ab4cc6b614b3ecf5",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "4d5d508afa8970c0",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "814f49e501875186",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "2a8ee4c94cdbb9e3",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "6f4767ced2e802f1",
+        "group": "a04b8dcd59043bf9",
         "order": 5,
         "width": 1,
         "height": 1
     },
     {
-        "id": "85251b3cce2afc5f",
+        "id": "835e30184016202b",
         "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 8,
-        "width": 6,
+        "group": "560a3c9e59d3d598",
+        "order": 4,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "6b8cb8f8cc5dced7",
+        "id": "09789f169506ec4d",
         "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "f5d022bdf122e97d",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "ae6e060902915614",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "ab5693363eac0744",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "7bf9d4f551c45f5e",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "cbb14512cf59b7c8",
-        "type": "ui_spacer",
-        "z": "f76015fff1ab449b",
-        "name": "spacer",
-        "group": "5324db76841ab3ea",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "127b413f33583702",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "4cbc5b03bc38eb43",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "7664b420391c292d",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "d1f2ee07532026be",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "a156ca3168f19c28",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "d4e5041e16bb7f34",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "ca1a1ae818a6bd76",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "607496a71b68cba1",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "63ce761b912114ae",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "951e529892e81e7b",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "054f93d7b0373556",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "2825dc436213f0fb",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "835e61331ce8243c",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "05fe2c8b3ebbedd2",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "076870915efd1aa4",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "150b33732b25138c",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "33516af60bc18de1",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "46544477ee69c6b7",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "99239d6e5aeef2be",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "60bfac62dc9f6f0b",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "be0f6cdc14786540",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "a29ef7af40a2b4a4",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "3d643fbe0bbc1725",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 5,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "5fedea18bca9fd88",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 6,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "64a70fe23cdc38c1",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "939746dcbd629c79",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "9951c1e4568142c8",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "713d409b5d04155d",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "befc02db35fe669e",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "4f468fca5d56a71b",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "7811cf98b737806b",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "7f7a54b52ae42144",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "092f8a944cbf2576",
-        "order": 5,
-        "width": 1,
-        "height": 1
-    },
-    {
-        "id": "aca0ddf44ee0f12d",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
         "group": "560a3c9e59d3d598",
         "order": 5,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "fbab273a59701d8f",
+        "id": "bcb265a51efab857",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
         "group": "560a3c9e59d3d598",
         "order": 6,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "7286cd99794196be",
+        "id": "6598113cd4994a58",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 7,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "6bce45ae4d7d7c18",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 9,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "5ef50341b29b9cb8",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 10,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "68bfe11d9874b6be",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 11,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "3b9aca11eda47a73",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 12,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "98cff05cc530bf07",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
-        "name": "spacer",
-        "group": "560a3c9e59d3d598",
-        "order": 13,
-        "width": 6,
-        "height": 1
-    },
-    {
-        "id": "4619e98a799e196b",
-        "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
         "group": "e1cf677fc8d9cbda",
         "order": 5,
@@ -3973,91 +3535,171 @@
         "height": 1
     },
     {
-        "id": "d177e8dcef25ec43",
+        "id": "8032a01d9c33ea7e",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
+        "group": "814f49e501875186",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "6a443b26063df072",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "814f49e501875186",
         "order": 5,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "f4179687ce5fca36",
+        "id": "825d3662a14145cc",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
+        "group": "814f49e501875186",
         "order": 6,
-        "width": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "4ffd103d24f1968d",
+        "id": "38954ef06ab5375b",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 7,
-        "width": 6,
+        "group": "6f4767ced2e802f1",
+        "order": 5,
+        "width": 1,
         "height": 1
     },
     {
-        "id": "18a44199982709a6",
+        "id": "0347c1fd37a5262e",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 9,
-        "width": 6,
+        "group": "5324db76841ab3ea",
+        "order": 5,
+        "width": 1,
         "height": 1
     },
     {
-        "id": "e5a45ec7efe14d26",
+        "id": "1c397b839d4ef512",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 10,
-        "width": 6,
+        "group": "63ce761b912114ae",
+        "order": 4,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "d81f7c65406a5ad2",
+        "id": "01dad50a80971ea6",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 11,
-        "width": 6,
+        "group": "63ce761b912114ae",
+        "order": 5,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "a589442a38919e5c",
+        "id": "0d0648fb82d2b9f3",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 12,
-        "width": 6,
+        "group": "63ce761b912114ae",
+        "order": 6,
+        "width": 12,
         "height": 1
     },
     {
-        "id": "84d80e7b79bd950b",
+        "id": "4e74e2e0cb24bc97",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "3326e113a2f7ba6b",
-        "order": 13,
-        "width": 6,
+        "group": "054f93d7b0373556",
+        "order": 5,
+        "width": 1,
         "height": 1
     },
     {
-        "id": "3db6f665efe07040",
+        "id": "cb3266b0527a2078",
         "type": "ui_spacer",
-        "z": "2a0afd77453149d1",
+        "z": "fe233ff436b4d8c7",
         "name": "spacer",
-        "group": "a04b8dcd59043bf9",
+        "group": "60bfac62dc9f6f0b",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "e27df140048d673b",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "41e8ed9598bb209f",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "60bfac62dc9f6f0b",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "cf430424a4b8c004",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "a29ef7af40a2b4a4",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "52b6f796c98cbd8f",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "85857a2cb617f59f",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "3ea8db00e2cb7055",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "7811cf98b737806b",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "57d1adce39a38c9b",
+        "type": "ui_spacer",
+        "z": "fe233ff436b4d8c7",
+        "name": "spacer",
+        "group": "092f8a944cbf2576",
         "order": 5,
         "width": 1,
         "height": 1
@@ -5065,8 +4707,8 @@
         "g": "845f4268e3199e1d",
         "name": "Measurement Diagram",
         "group": "814f49e501875186",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -5149,7 +4791,7 @@
         "g": "8e9639dd6a52feb3",
         "group": "814f49e501875186",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\" >-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -5182,8 +4824,7 @@
             [
                 "85cc612c91620d6c",
                 "163d9b335d64b232",
-                "9620512234b7b62f",
-                "4875667208c4bb4f"
+                "9620512234b7b62f"
             ]
         ]
     },
@@ -5198,11 +4839,10 @@
             "78c019123ce83008"
         ],
         "x": 1245,
-        "y": 1900,
+        "y": 1840,
         "wires": [
             [
-                "a6eb399a30aa2b6c",
-                "4875667208c4bb4f"
+                "a6eb399a30aa2b6c"
             ]
         ]
     },
@@ -6818,44 +6458,22 @@
         "icon": "node-red/alert.svg"
     },
     {
-        "id": "4875667208c4bb4f",
-        "type": "ui_template",
-        "z": "f76015fff1ab449b",
-        "g": "845f4268e3199e1d",
-        "group": "814f49e501875186",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1660,
-        "y": 1900,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "9767ae7be4407276",
         "type": "ui_template",
         "z": "f76015fff1ab449b",
         "g": "845f4268e3199e1d",
         "group": "814f49e501875186",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Maximale Abweichung:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Maximale Abweichung:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1730,
+        "x": 1750,
         "y": 1840,
         "wires": [
             []
@@ -7814,7 +7432,7 @@
         "g": "a46784b1fcaec318",
         "group": "7bf9d4f551c45f5e",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -7853,8 +7471,8 @@
         "g": "aad35dc03f9f96dd",
         "name": "Measurement Diagram",
         "group": "7bf9d4f551c45f5e",
-        "order": 7,
-        "width": 12,
+        "order": 5,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -7976,35 +7594,11 @@
         "y": 1780,
         "wires": [
             [
-                "72139c05dceb8de0",
                 "a3c031a49f179523",
                 "89025cf592f63261",
                 "3fc96acc2a200a40",
-                "8a84098978f0d5c0",
-                "11b9e14c02e19ddf"
+                "8a84098978f0d5c0"
             ]
-        ]
-    },
-    {
-        "id": "72139c05dceb8de0",
-        "type": "ui_template",
-        "z": "97bca276c16abc95",
-        "g": "aad35dc03f9f96dd",
-        "group": "7bf9d4f551c45f5e",
-        "name": "LED Spannweite",
-        "order": 5,
-        "width": 6,
-        "height": 3,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass2) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1680,
-        "y": 2020,
-        "wires": [
-            []
         ]
     },
     {
@@ -8021,9 +7615,7 @@
         "y": 1940,
         "wires": [
             [
-                "72139c05dceb8de0",
-                "a883423f1f215a7e",
-                "11b9e14c02e19ddf"
+                "a883423f1f215a7e"
             ]
         ]
     },
@@ -8622,10 +8214,10 @@
         "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "Result Abmaß",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Abmaß:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm \n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Abmaß:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm \n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -9198,10 +8790,10 @@
         "g": "aad35dc03f9f96dd",
         "group": "7bf9d4f551c45f5e",
         "name": "Result Spannweite",
-        "order": 6,
-        "width": 6,
+        "order": 4,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis2'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis2')\n                    let color = null\n                    switch(msg.pass2) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis2'>\n     <center>\n          <font size=\"+2\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis2')\n                    let color = null\n                    switch(msg.pass2) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -9274,28 +8866,6 @@
         "y": 1500,
         "wires": [],
         "icon": "node-red/alert.svg"
-    },
-    {
-        "id": "11b9e14c02e19ddf",
-        "type": "ui_template",
-        "z": "97bca276c16abc95",
-        "g": "aad35dc03f9f96dd",
-        "group": "7bf9d4f551c45f5e",
-        "name": "LED Abmaß",
-        "order": 2,
-        "width": 6,
-        "height": 3,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleRight\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleRight')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1660,
-        "y": 1980,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "b45c606c9d4201d5",
@@ -10008,7 +9578,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 800,
+        "x": 820,
         "y": 1900,
         "wires": [
             [
@@ -10025,7 +9595,7 @@
         "links": [
             "0798e3b4e76683bd"
         ],
-        "x": 65,
+        "x": 85,
         "y": 1900,
         "wires": [
             [
@@ -10040,8 +9610,8 @@
         "g": "2cf293352e3cee14",
         "name": "Measurement Diagram",
         "group": "63ce761b912114ae",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -10072,7 +9642,7 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 1440,
+        "x": 1460,
         "y": 1900,
         "wires": [
             []
@@ -10085,16 +9655,16 @@
         "g": "2cf293352e3cee14",
         "group": "63ce761b912114ae",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1690,
+        "x": 1710,
         "y": 2060,
         "wires": [
             []
@@ -10112,34 +9682,12 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1190,
+        "x": 1210,
         "y": 1900,
         "wires": [
             [
                 "6749f8cee8567333"
             ]
-        ]
-    },
-    {
-        "id": "db9b3c1ba7d23d04",
-        "type": "ui_template",
-        "z": "2a0afd77453149d1",
-        "g": "2cf293352e3cee14",
-        "group": "63ce761b912114ae",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1580,
-        "y": 2100,
-        "wires": [
-            []
         ]
     },
     {
@@ -10149,7 +9697,7 @@
         "g": "70dff54ed083811d",
         "group": "63ce761b912114ae",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -10176,11 +9724,10 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1220,
+        "x": 1240,
         "y": 1940,
         "wires": [
             [
-                "db9b3c1ba7d23d04",
                 "e8fb24f128c3d285",
                 "b62c69f80f165393",
                 "4756f886debe829f"
@@ -10212,11 +9759,10 @@
             "8672e4aebc04a782",
             "cbda48ad33ed0293"
         ],
-        "x": 1175,
-        "y": 2080,
+        "x": 1205,
+        "y": 2060,
         "wires": [
             [
-                "db9b3c1ba7d23d04",
                 "ccd9069e9ce80e04"
             ]
         ]
@@ -10255,7 +9801,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1670,
+        "x": 1690,
         "y": 1980,
         "wires": [
             [
@@ -10425,7 +9971,7 @@
         "links": [
             "8672e4aebc04a782"
         ],
-        "x": 1285,
+        "x": 1305,
         "y": 1860,
         "wires": [
             [
@@ -10535,7 +10081,7 @@
         "links": [
             "6dcbd36e5e957f25"
         ],
-        "x": 1535,
+        "x": 1555,
         "y": 1940,
         "wires": []
     },
@@ -10557,7 +10103,7 @@
         "checkall": "true",
         "repair": false,
         "outputs": 1,
-        "x": 180,
+        "x": 200,
         "y": 1900,
         "wires": [
             [
@@ -11002,7 +10548,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 340,
+        "x": 360,
         "y": 1900,
         "wires": [
             [
@@ -11022,7 +10568,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 480,
+        "x": 500,
         "y": 1900,
         "wires": [
             [
@@ -11042,7 +10588,7 @@
         "constant": "",
         "round": true,
         "decimals": "4",
-        "x": 640,
+        "x": 660,
         "y": 1900,
         "wires": [
             [
@@ -11057,7 +10603,7 @@
         "g": "2cf293352e3cee14",
         "name": "Change function",
         "info": "",
-        "x": 1180,
+        "x": 1200,
         "y": 1980,
         "wires": []
     },
@@ -11081,7 +10627,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 950,
+        "x": 970,
         "y": 1900,
         "wires": [
             [
@@ -11110,8 +10656,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1320,
-        "y": 2020,
+        "x": 1380,
+        "y": 2060,
         "wires": [
             [
                 "d96bbb2ed204c5f8"
@@ -11395,7 +10941,7 @@
         "split": false,
         "rowsPerMsg": 1,
         "outputs": 1,
-        "x": 1930,
+        "x": 1950,
         "y": 1980,
         "wires": [
             [
@@ -11423,7 +10969,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 2150,
+        "x": 2170,
         "y": 1980,
         "wires": [
             []
@@ -11628,7 +11174,7 @@
         "constant": "1000",
         "round": true,
         "decimals": 0,
-        "x": 1580,
+        "x": 1600,
         "y": 2020,
         "wires": [
             [
@@ -12438,8 +11984,8 @@
         "g": "8ab35d62324ce00c",
         "name": "Measurement Diagram",
         "group": "60bfac62dc9f6f0b",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -12483,10 +12029,10 @@
         "g": "8ab35d62324ce00c",
         "group": "60bfac62dc9f6f0b",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Spannweite:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -12519,35 +12065,13 @@
         ]
     },
     {
-        "id": "2a15c47721c80d56",
-        "type": "ui_template",
-        "z": "e30c392695b4b813",
-        "g": "8ab35d62324ce00c",
-        "group": "60bfac62dc9f6f0b",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1680,
-        "y": 2100,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "128a742d386f03fa",
         "type": "ui_template",
         "z": "e30c392695b4b813",
         "g": "f32343183e9c9e51",
         "group": "60bfac62dc9f6f0b",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -12578,7 +12102,6 @@
         "y": 1940,
         "wires": [
             [
-                "2a15c47721c80d56",
                 "f205b6db6576d917",
                 "038c9ce48dc34fe8",
                 "93f564cbef5b9603"
@@ -12611,10 +12134,9 @@
             "cae63d41e2588c75"
         ],
         "x": 1275,
-        "y": 2100,
+        "y": 2060,
         "wires": [
             [
-                "2a15c47721c80d56",
                 "43e877f04bea6a12"
             ]
         ]
@@ -13509,7 +13031,7 @@
         "to": "",
         "reg": false,
         "x": 1420,
-        "y": 2040,
+        "y": 2060,
         "wires": [
             [
                 "4881eb2f5b7a3357"
@@ -14818,8 +14340,8 @@
         "g": "49fe87a3db7441c6",
         "name": "Measurement Diagram",
         "group": "7811cf98b737806b",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -14863,10 +14385,10 @@
         "g": "49fe87a3db7441c6",
         "group": "7811cf98b737806b",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Durchschnitt:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Durchschnitt:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -14899,35 +14421,13 @@
         ]
     },
     {
-        "id": "878169c4bc5fb49e",
-        "type": "ui_template",
-        "z": "0b6f24f26e309bd0",
-        "g": "49fe87a3db7441c6",
-        "group": "7811cf98b737806b",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1640,
-        "y": 1980,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "2a4be9193c78eaac",
         "type": "ui_template",
         "z": "0b6f24f26e309bd0",
         "g": "bca4306ba871994a",
         "group": "7811cf98b737806b",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -14990,10 +14490,9 @@
             "5f620d8aa7e730ca"
         ],
         "x": 1295,
-        "y": 1960,
+        "y": 1940,
         "wires": [
             [
-                "878169c4bc5fb49e",
                 "696049c0e837b246"
             ]
         ]
@@ -15887,8 +15386,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1400,
-        "y": 1900,
+        "x": 1440,
+        "y": 1940,
         "wires": [
             [
                 "2f31c1d74f9d3ecf"
@@ -17110,8 +16609,8 @@
         "g": "eb83fb8c6cd63b51",
         "name": "Measurement Diagram",
         "group": "560a3c9e59d3d598",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -17155,10 +16654,10 @@
         "g": "eb83fb8c6cd63b51",
         "group": "560a3c9e59d3d598",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Rundheitstoleranz:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Rundheitstoleranz:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -17191,35 +16690,13 @@
         ]
     },
     {
-        "id": "dcaf5f82011321ca",
-        "type": "ui_template",
-        "z": "a8b2e7178cc214e3",
-        "g": "eb83fb8c6cd63b51",
-        "group": "560a3c9e59d3d598",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1820,
-        "y": 2060,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "c53f324c647457d9",
         "type": "ui_template",
         "z": "a8b2e7178cc214e3",
         "g": "74ad2d205941a89c",
         "group": "560a3c9e59d3d598",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -17279,11 +16756,10 @@
             "67a67b988a33662d",
             "5f620d8aa7e730ca"
         ],
-        "x": 1315,
-        "y": 2040,
+        "x": 1395,
+        "y": 2020,
         "wires": [
             [
-                "dcaf5f82011321ca",
                 "3bb269e6b6d55cc7"
             ]
         ]
@@ -18177,8 +17653,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1420,
-        "y": 1980,
+        "x": 1560,
+        "y": 2020,
         "wires": [
             [
                 "385623d0ee294538"
@@ -18637,7 +18113,6 @@
             [
                 "fc39133fdce4ab4c",
                 "2ad41fcff6767048",
-                "dcaf5f82011321ca",
                 "2d52a2c7339593f5"
             ]
         ]
@@ -19510,8 +18985,8 @@
         "g": "164f2485b94aaba9",
         "name": "Measurement Diagram",
         "group": "3326e113a2f7ba6b",
-        "order": 8,
-        "width": 12,
+        "order": 7,
+        "width": 18,
         "height": 5,
         "label": "",
         "chartType": "line",
@@ -19555,10 +19030,10 @@
         "g": "164f2485b94aaba9",
         "group": "3326e113a2f7ba6b",
         "name": "Result",
-        "order": 4,
-        "width": 6,
+        "order": 3,
+        "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+1\">\n               <div>Spannnweite:</div>\n          </font>\n          <font size=\"+4\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Spannnweite:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -19591,35 +19066,13 @@
         ]
     },
     {
-        "id": "61cf45b74dbee639",
-        "type": "ui_template",
-        "z": "30e826456c806c39",
-        "g": "164f2485b94aaba9",
-        "group": "3326e113a2f7ba6b",
-        "name": "LED left",
-        "order": 2,
-        "width": 6,
-        "height": 6,
-        "format": "\n\n<body>\n    <div class=\"circle-container\">\n        <div class=\"circle\" id=\"myCircleLeft\"></div>\n    </div>\n</body>\n\n<script>\n    (function(scope) {\n\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n        // Do something when msg arrives\n        const circle = document.getElementById('myCircleLeft')\n        switch(msg.pass) {\n            case true:\n                circle.style.backgroundColor = \"green\";\n            break;\n            case false:\n                circle.style.backgroundColor = \"red\";\n            break;\n            default:\n                circle.style.backgroundColor = \"white\";\n        }\n\n    }\n    \n    });\n    })(scope);\n</script>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1720,
-        "y": 2020,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "d9199f6b8505ccc3",
         "type": "ui_template",
         "z": "30e826456c806c39",
         "g": "827aa793e91b64c2",
         "group": "3326e113a2f7ba6b",
         "name": "gauge3",
-        "order": 3,
+        "order": 2,
         "width": 6,
         "height": 6,
         "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
@@ -19650,7 +19103,6 @@
         "y": 1860,
         "wires": [
             [
-                "61cf45b74dbee639",
                 "bc38f24339fa1533",
                 "19d3cd7e0e98e6f2",
                 "14d3b2d4c42730e9"
@@ -19682,11 +19134,10 @@
             "86b57a598da4bf16",
             "5629b32e35ca4460"
         ],
-        "x": 1315,
-        "y": 2020,
+        "x": 1365,
+        "y": 1980,
         "wires": [
             [
-                "61cf45b74dbee639",
                 "46816b8f315dab0a"
             ]
         ]
@@ -20580,8 +20031,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1440,
-        "y": 1960,
+        "x": 1520,
+        "y": 1980,
         "wires": [
             [
                 "46147d3fc80cf372"
@@ -25571,33 +25022,12 @@
         ]
     },
     {
-        "id": "b702da8cc8f48e1e",
-        "type": "ui_template",
-        "z": "055a1f062782b51d",
-        "group": "",
-        "name": "Led Style",
-        "order": 2,
-        "width": 10,
-        "height": 1,
-        "format": "<style>\n    .circle-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        height: 100%;\n    }\n\n    .circle {\n        width: 150px;\n        /* Set the desired circle diameter */\n        height: 150px;\n        /* Maintain the same value to make it a perfect circle */\n        background-color: white;\n        /* Circle color */\n        border-radius: 50%;\n        /* Makes it a circle */\n    }\n</style>\n\n",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "global",
-        "className": "",
-        "x": 100,
-        "y": 260,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "d6bbe69e060b5047",
         "type": "ui_template",
         "z": "055a1f062782b51d",
         "group": "814f49e501875186",
         "name": "Gauge3 Overrides",
-        "order": 14,
+        "order": 8,
         "width": 0,
         "height": 0,
         "format": "<style>\nmd-card.nr-dashboard-template.gauge3 .g-body {\n    border-radius: 50%;\n}\n\nmd-card.nr-dashboard-template.gauge3 .g-body::before {    \n    border-radius:50%;\n}\nmd-card.nr-dashboard-template.gauge3 .g-rivets {\n    display:none;\n}\n</style>",
@@ -25750,7 +25180,7 @@
         "z": "055a1f062782b51d",
         "group": "814f49e501875186",
         "name": "Heading Overrides",
-        "order": 15,
+        "order": 9,
         "width": 0,
         "height": 0,
         "format": "<style>\n    body.nr-dashboard-theme .mainheading {\n    background-color: #0094ce;\n    \n}\n</style>",
@@ -25761,6 +25191,27 @@
         "className": "",
         "x": 130,
         "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b702da8cc8f48e1e",
+        "type": "ui_template",
+        "z": "055a1f062782b51d",
+        "group": "",
+        "name": "Result Style",
+        "order": 2,
+        "width": 10,
+        "height": 1,
+        "format": "<style>\n\n    #ResultVis, #ResultVis2{\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100%;\n    }\n</style>\n\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "global",
+        "className": "",
+        "x": 110,
+        "y": 260,
         "wires": [
             []
         ]
