@@ -648,7 +648,9 @@
             "dfde147112837060"
         ],
         "x": 34,
-        "y": 1359
+        "y": 1359,
+        "w": 1372,
+        "h": 235
     },
     {
         "id": "58de42e9f0769879",
@@ -663,7 +665,9 @@
             "4e7673ccd33b176a"
         ],
         "x": 54,
-        "y": 439
+        "y": 439,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "f012c22f57440622",
@@ -727,7 +731,9 @@
             "6b3350dbc9be6b70"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 922,
+        "h": 142
     },
     {
         "id": "f32343183e9c9e51",
@@ -751,7 +757,9 @@
             "93c899f39247de2a"
         ],
         "x": 34,
-        "y": 1539
+        "y": 1539,
+        "w": 1432,
+        "h": 235
     },
     {
         "id": "62658be016b831f9",
@@ -766,7 +774,9 @@
             "bb831aac27c7ae79"
         ],
         "x": 54,
-        "y": 459
+        "y": 459,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "5dea7495e52bcfb6",
@@ -786,7 +796,9 @@
             "9c02dae2ec572fa2"
         ],
         "x": 14,
-        "y": 239
+        "y": 239,
+        "w": 912,
+        "h": 142
     },
     {
         "id": "bca4306ba871994a",
@@ -810,7 +822,9 @@
             "6581ac48ae0a5768"
         ],
         "x": 54,
-        "y": 1426
+        "y": 1426,
+        "w": 1449,
+        "h": 235
     },
     {
         "id": "6c1d4390cec1ec27",
@@ -825,7 +839,9 @@
             "9c645943145e3e56"
         ],
         "x": 74,
-        "y": 459
+        "y": 459,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "1379c8709e0ece67",
@@ -845,7 +861,9 @@
             "aed0a478b1e382c4"
         ],
         "x": 44,
-        "y": 259
+        "y": 259,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "827aa793e91b64c2",
@@ -869,7 +887,9 @@
             "45acccec90286900"
         ],
         "x": 34,
-        "y": 1459
+        "y": 1459,
+        "w": 1382,
+        "h": 235
     },
     {
         "id": "d06992dfd408b7aa",
@@ -884,7 +904,9 @@
             "6d90265c40201d52"
         ],
         "x": 34,
-        "y": 459
+        "y": 459,
+        "w": 452,
+        "h": 82
     },
     {
         "id": "79d4f9ad1ab959d6",
@@ -904,7 +926,9 @@
             "7cf02ee2d3f6ee7b"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "273d420bd5ddf182",
@@ -948,7 +972,9 @@
             "2565ee0ff0a52834"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "20d4b66822901145",
@@ -969,7 +995,9 @@
             "4176b53c51be74a8"
         ],
         "x": 14,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "15b3bcc68d99a783",
@@ -990,7 +1018,9 @@
             "d0a8d92641ee3be3"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "0c0f177a54113eb9",
@@ -1011,7 +1041,9 @@
             "65dc63400b7e7095"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "11ba5c55451f20f8",
@@ -1076,7 +1108,9 @@
             "93f564cbef5b9603"
         ],
         "x": 34,
-        "y": 1819
+        "y": 1819,
+        "w": 2312,
+        "h": 282
     },
     {
         "id": "2cf293352e3cee14",
@@ -1114,7 +1148,9 @@
             "4756f886debe829f"
         ],
         "x": 44,
-        "y": 1619
+        "y": 1619,
+        "w": 2242,
+        "h": 282
     },
     {
         "id": "aad35dc03f9f96dd",
@@ -1193,7 +1229,9 @@
             "a9cb839cc1d8808d"
         ],
         "x": 34,
-        "y": 1699
+        "y": 1699,
+        "w": 2032,
+        "h": 282
     },
     {
         "id": "164f2485b94aaba9",
@@ -1226,7 +1264,9 @@
             "14d3b2d4c42730e9"
         ],
         "x": 34,
-        "y": 1739
+        "y": 1739,
+        "w": 2352,
+        "h": 282
     },
     {
         "id": "4829d01fa6230cb2",
@@ -1284,7 +1324,9 @@
             "372f6fe592efbfb6"
         ],
         "x": 714,
-        "y": 399
+        "y": 399,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "a8cdf078a528a441",
@@ -1302,7 +1344,9 @@
             "5c1f494f22c9e211"
         ],
         "x": 914,
-        "y": 379
+        "y": 379,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "77dd6a7dee83ca06",
@@ -1320,7 +1364,9 @@
             "23a82ad2e61292b6"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "42735bfaa53df92b",
@@ -1338,7 +1384,9 @@
             "dc58c79840dfd4c1"
         ],
         "x": 894,
-        "y": 379
+        "y": 379,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "3805328bf6053039",
@@ -1430,7 +1478,9 @@
             "8e09028c3e635399"
         ],
         "x": 34,
-        "y": 599
+        "y": 599,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "f2672f5d109f47ae",
@@ -1463,7 +1513,9 @@
             "bb5cc5c3c893028a"
         ],
         "x": 34,
-        "y": 739
+        "y": 739,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "efec034816e3d1a4",
@@ -1494,7 +1546,9 @@
             "5559395d3310f426"
         ],
         "x": 54,
-        "y": 679
+        "y": 679,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "50392007280f7ee4",
@@ -1527,7 +1581,9 @@
             "edfd75f3f4fbfed5"
         ],
         "x": 34,
-        "y": 659
+        "y": 659,
+        "w": 1658,
+        "h": 468
     },
     {
         "id": "c95c71c85f7f9849",
@@ -1590,7 +1646,9 @@
             "1c5aa8a7294a403e"
         ],
         "x": 51,
-        "y": 1506
+        "y": 1506,
+        "w": 1572,
+        "h": 235
     },
     {
         "id": "a815e39e328ee9b9",
@@ -1605,7 +1663,9 @@
             "2d7b9f4af01848a1"
         ],
         "x": 74,
-        "y": 459
+        "y": 459,
+        "w": 412,
+        "h": 82
     },
     {
         "id": "cbea317f5cb77e95",
@@ -1625,7 +1685,9 @@
             "8a3b01f5ac1c8920"
         ],
         "x": 44,
-        "y": 259
+        "y": 259,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "e3e6a0c08b3a0b9b",
@@ -1646,7 +1708,9 @@
             "48aec082628aacd1"
         ],
         "x": 34,
-        "y": 39
+        "y": 39,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "eb83fb8c6cd63b51",
@@ -1685,7 +1749,9 @@
             "2d52a2c7339593f5"
         ],
         "x": 54,
-        "y": 1779
+        "y": 1779,
+        "w": 2452,
+        "h": 282
     },
     {
         "id": "c3a5fdfc8859962e",
@@ -1703,7 +1769,9 @@
             "d2c8e4fa1dd895ab"
         ],
         "x": 774,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "e880cd819650d6b7",
@@ -1736,7 +1804,9 @@
             "009640f2328f81cc"
         ],
         "x": 34,
-        "y": 659
+        "y": 659,
+        "w": 1658,
+        "h": 468
     },
     {
         "id": "7939283416aa5d31",
@@ -1770,7 +1840,9 @@
             "b273537a03a12c39"
         ],
         "x": 424,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "13ee7e1ef14318b5",
@@ -1786,7 +1858,9 @@
             "506ec0f72bd64107"
         ],
         "x": 434,
-        "y": 1199
+        "y": 1199,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "cee70ecb980b809f",
@@ -1802,7 +1876,9 @@
             "f14f5a0ca02dba42"
         ],
         "x": 424,
-        "y": 1139
+        "y": 1139,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "660885a7a5be28cf",
@@ -1818,7 +1894,9 @@
             "537b0e41812d4647"
         ],
         "x": 384,
-        "y": 1159
+        "y": 1159,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "f611b156e28bb993",
@@ -1834,7 +1912,9 @@
             "36d6d81a9bc1a922"
         ],
         "x": 414,
-        "y": 1159
+        "y": 1159,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "1554faecc8bedb61",
@@ -1927,7 +2007,9 @@
             "bb614a3c8413e375"
         ],
         "x": 1074,
-        "y": 99
+        "y": 99,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "ee109df68af24582",
@@ -1944,7 +2026,9 @@
             "dc8030663de57849"
         ],
         "x": 1114,
-        "y": 99
+        "y": 99,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "b0a2eb480a71d31e",
@@ -1961,7 +2045,9 @@
             "f7c261873e164fc9"
         ],
         "x": 1114,
-        "y": 79
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "844eb2b431656228",
@@ -1978,7 +2064,9 @@
             "1d8b61563799fce7"
         ],
         "x": 1154,
-        "y": 79
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "492587daee44b0f0",
@@ -1995,7 +2083,9 @@
             "43cf38abf702266a"
         ],
         "x": 1074,
-        "y": 79
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "c4d565d6dc37a9a9",
@@ -2058,7 +2148,9 @@
             "2aecdcf9afea6204"
         ],
         "x": 154,
-        "y": 1219
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "cdb1e268e793fa94",
@@ -2075,7 +2167,9 @@
             "57d02878b93a7b79"
         ],
         "x": 144,
-        "y": 1339
+        "y": 1339,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "99fe34152fa75d4e",
@@ -2092,7 +2186,9 @@
             "9b6d39a65611bed0"
         ],
         "x": 174,
-        "y": 1299
+        "y": 1299,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "a814938400f6b94f",
@@ -2109,7 +2205,9 @@
             "b6e8bd6e30ae6ae9"
         ],
         "x": 124,
-        "y": 1339
+        "y": 1339,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "6f90eb41e553b9f7",
@@ -2126,7 +2224,9 @@
             "938c7ade28f99f96"
         ],
         "x": 114,
-        "y": 1319
+        "y": 1319,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "714fa99fe7ed3cdd",
@@ -2558,6 +2658,413 @@
         "h": 235
     },
     {
+        "id": "c55113ba29921f12",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "82a215c844a245be",
+            "599b5ef913529501",
+            "832008d7e5a6fdf2",
+            "2518dc6737f3541a",
+            "5a45d557f0cf1c54",
+            "2429cefb5277f457",
+            "00c87beea3343acd",
+            "95637a55cc039903",
+            "ce860b1b39495ae1",
+            "2f828a71a102a2e2",
+            "86a334fa8cfe3744",
+            "be4795b712a56b6b"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "c1a07a395215169a",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "e3042cead98d3e27",
+            "dbebcacd5264141b"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "e824c53b2991b77c",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "623ed0a1301458a8",
+            "f63e23b83483c837",
+            "f60597aa236ee61e",
+            "6dfe74568c58d54e",
+            "91730eacdd54a67b",
+            "640d72555f213811",
+            "86671dbd9d301ce1"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "4cb091f4f5a85294",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b57b6651ded960c4",
+            "d9ad15d8b5b790c9",
+            "c3e65c2546de8470",
+            "7a9f81ece793b1c5",
+            "0971cc54f9d8f0b0",
+            "4a07192943f39702",
+            "2a4122dd0746804d",
+            "a97a5bc295d02cb1"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "13b4cf00d3504e5f",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8628f8f1a8eb5e01",
+            "82b1c01a2b3211aa",
+            "8a67ea948dd3fff8",
+            "1aa65a5987de6564",
+            "1c21cfdffbed1155",
+            "4d2ece2cf3c27bfe",
+            "e74b8d3f9aceec2e",
+            "f244e284671852a9",
+            "c5eb4872c218d0b7",
+            "58d5e810f49c0e1c",
+            "da4114f81f00a77c",
+            "41793be76ad2de3a",
+            "83d32305e24d5584",
+            "6147d32e142046dd",
+            "c7c124c36d85fb8c",
+            "093a36164d12a052",
+            "3159d97d36efe751",
+            "c2d4d94de8e154e4",
+            "715954b1a8d2f368"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "ae5781f3730b8bb3",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "42c9186161b67149",
+            "0247364a25b380b9",
+            "6c3e32740b3802e1",
+            "f94bed5f850d322e",
+            "5b9475696c0580c4"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "1f8a704dff580dc3",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0786d2c07aa02047",
+            "ddb31e9b0b9497f0",
+            "bcf314d3a2f7a77b",
+            "fda5e92a25d56e9a",
+            "32e5e76d48a25f68",
+            "774a11ad0d2d20b0",
+            "0db68982e98290d9",
+            "c15c801ff726045c",
+            "874473afb9134c68",
+            "2bc0a7966185fdbf",
+            "6299faa27870fc8b",
+            "de7eb7c83eeef6a5",
+            "c210c52d061b6066",
+            "cbbe4d8a7507c914",
+            "c188dd03b655dace",
+            "5595b7d79022807d",
+            "97a047c3729dcf58",
+            "36b16980d1081435",
+            "bcb2069dfbe8964d",
+            "cbcaa525c343b972"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "55c3d21acb288c64",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "761ddc3ae980df95",
+            "f9f7901974a9e082",
+            "d10a8c3a121fa612"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "d19d78d2529966c5",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "907e1cb735d7820d",
+            "a5118f065ff42f6e",
+            "563759cb7845c27c",
+            "dd1e768fd8610293"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "d5dd424536174f82",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5b55544458648a37",
+            "dc62083720ea9794",
+            "4e78ea9cb4ad06cf",
+            "2fde4ad70db0da8d"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "e444b17c96c39980",
+        "type": "group",
+        "z": "b83e7265311078a5",
+        "name": "Init Puffer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "300ba85a46cf7069"
+        ],
+        "x": 1234,
+        "y": 239
+    },
+    {
+        "id": "2f8336750059e0e7",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1d904a95ab0891ed",
+            "992bc4cfef205382"
+        ],
+        "x": 54,
+        "y": 439,
+        "w": 432,
+        "h": 82
+    },
+    {
+        "id": "232526246e345869",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "73d8efd3b3d95381",
+            "6726f239bf860d3b",
+            "c6eab4c1bf49b001",
+            "859f58ba8e9d450a",
+            "79a41f3e691574f1",
+            "cb6d253ec46445ba",
+            "6f3246494af7e0c8",
+            "52590ac27c7bac2e",
+            "702a32fd51fe7853",
+            "4b50d9f6889f5fb0",
+            "9258e6514e53d86f",
+            "621f102526f5f175",
+            "22faaf01c8b018dc",
+            "6b746335afc3deea",
+            "b28d6339022a1f1f",
+            "acc915d58a958682",
+            "8cdaca58f2d9cc44",
+            "a515183c183bb19b",
+            "bb4dd4b6a5c15c60",
+            "0d084ba0944c2271"
+        ],
+        "x": 44,
+        "y": 1619,
+        "w": 2242,
+        "h": 282
+    },
+    {
+        "id": "1c789fcc4120379d",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "652e431181dec460",
+            "3fcc2259bf24c1b7",
+            "9166115a0dfa4159",
+            "a9d2da7b08681dfa",
+            "8b2135e0147442f9",
+            "53c59064ba6c1caf",
+            "26fb669bee503ee4",
+            "2387debeeb733385",
+            "c0f1ba8e44df247d",
+            "81b84a816196cdbe",
+            "c3e019d138cc3e9e",
+            "ec8b88d2b2f5592e",
+            "f5901890ca2555dc",
+            "dfd4663900ba5887",
+            "1be4698da0c7f887",
+            "9f55b1b1f1601a3e",
+            "70e89b80b3d0f9d5",
+            "b78e958cb5f879b6",
+            "ff7c1347667e5c99",
+            "7ff79a76ccace3de"
+        ],
+        "x": 34,
+        "y": 599,
+        "w": 1658,
+        "h": 448
+    },
+    {
+        "id": "ecd05f5ddddae58f",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ce720cf71f0af9ce",
+            "0534c89be68cbe50",
+            "a54dec0b567c0c09"
+        ],
+        "x": 424,
+        "y": 1059,
+        "w": 272,
+        "h": 122
+    },
+    {
+        "id": "e93339dfa291cf08",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5062d69038dec869",
+            "08388e626a9e10fb",
+            "c484b284a88007c9",
+            "06fbfc8c7f1ca0e8"
+        ],
+        "x": 1074,
+        "y": 99,
+        "w": 592,
+        "h": 122
+    },
+    {
+        "id": "2e292201a66e223f",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "7e45fc80f8e8b384",
+            "733102686cee5020",
+            "6137aa2700c9f972",
+            "a7734ce9116a50ac"
+        ],
+        "x": 154,
+        "y": 1219,
+        "w": 532,
+        "h": 82
+    },
+    {
+        "id": "6801164c5567d032",
+        "type": "group",
+        "z": "1a16fa2f8e112752",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c19ef76ee20dd075",
+            "5b7e44e02367c239",
+            "d9ccd0c55c143d33",
+            "6d66bf21ea2a1966",
+            "4db819d7d9363cf9",
+            "5afedea4b86d9aae",
+            "fca85936bd5828be",
+            "f4998b0ca833b54d",
+            "bbe51d11d636f68a",
+            "8930dc0b1ede0eb0",
+            "17cb5fe1c925d7dd"
+        ],
+        "x": 34,
+        "y": 1359,
+        "w": 1372,
+        "h": 235
+    },
+    {
         "id": "7eb72b1d55d66ff5",
         "type": "group",
         "z": "97bca276c16abc95",
@@ -2648,7 +3155,9 @@
             "d010a26ef3363e22"
         ],
         "x": 1254,
-        "y": 899
+        "y": 899,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "495e8211f9a42b12",
@@ -2668,7 +3177,9 @@
             "64f0cc8dd2ce3933"
         ],
         "x": 264,
-        "y": 719
+        "y": 719,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "f1e5439bc975e477",
@@ -2684,7 +3195,9 @@
             "8672e4aebc04a782"
         ],
         "x": 1154,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "8e09028c3e635399",
@@ -2699,7 +3212,9 @@
             "0243e77734a30f41"
         ],
         "x": 1254,
-        "y": 799
+        "y": 799,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "a2d6f713081c06fb",
@@ -2716,7 +3231,9 @@
             "4ef1ca564fefdfe8"
         ],
         "x": 1254,
-        "y": 1039
+        "y": 1039,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "c68dec796d1c08a2",
@@ -2736,7 +3253,9 @@
             "2fdd83224f15da97"
         ],
         "x": 264,
-        "y": 859
+        "y": 859,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "3056371dd636280a",
@@ -2752,7 +3271,9 @@
             "aa5839c7724e9704"
         ],
         "x": 1114,
-        "y": 839
+        "y": 839,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "bb5cc5c3c893028a",
@@ -2767,7 +3288,9 @@
             "a6fac1a51ec27b69"
         ],
         "x": 1254,
-        "y": 939
+        "y": 939,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "e0131b648a26632f",
@@ -2784,7 +3307,9 @@
             "281e8267145e75b9"
         ],
         "x": 1274,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "47119d105f62d791",
@@ -2804,7 +3329,9 @@
             "55ea92167a359d6d"
         ],
         "x": 304,
-        "y": 799
+        "y": 799,
+        "w": 342,
+        "h": 202
     },
     {
         "id": "b09b4ed3e741e5f0",
@@ -2820,7 +3347,9 @@
             "b0f2e927af94dbc9"
         ],
         "x": 1094,
-        "y": 739
+        "y": 739,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "5559395d3310f426",
@@ -2835,7 +3364,9 @@
             "131bf85a21c92239"
         ],
         "x": 1274,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "e73064b668513727",
@@ -2852,7 +3383,9 @@
             "fc842d462185a2b5"
         ],
         "x": 1254,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "f19af0c1598a7869",
@@ -2872,7 +3405,9 @@
             "cc352ce9cc2b5d42"
         ],
         "x": 274,
-        "y": 799
+        "y": 799,
+        "w": 352,
+        "h": 202
     },
     {
         "id": "a130c28386315d62",
@@ -2888,7 +3423,9 @@
             "86b57a598da4bf16"
         ],
         "x": 1094,
-        "y": 759
+        "y": 759,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "edfd75f3f4fbfed5",
@@ -2903,7 +3440,9 @@
             "71424d2078547abd"
         ],
         "x": 1254,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -2996,7 +3535,9 @@
             "e2d2b8af752cccb7"
         ],
         "x": 1254,
-        "y": 979
+        "y": 979,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "4691b614ef7b6e13",
@@ -3016,7 +3557,9 @@
             "1b3071500a59367e"
         ],
         "x": 284,
-        "y": 799
+        "y": 799,
+        "w": 342,
+        "h": 202
     },
     {
         "id": "fdfe57dd5dfea9a8",
@@ -3032,7 +3575,9 @@
             "67a67b988a33662d"
         ],
         "x": 1074,
-        "y": 739
+        "y": 739,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "009640f2328f81cc",
@@ -3047,7 +3592,9 @@
             "58f6a75d49bbfc4a"
         ],
         "x": 1254,
-        "y": 879
+        "y": 879,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "9ec6774c0f289716",
@@ -3263,261 +3810,6 @@
         "h": 82
     },
     {
-        "id": "c55113ba29921f12",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "82a215c844a245be",
-            "599b5ef913529501",
-            "832008d7e5a6fdf2",
-            "2518dc6737f3541a",
-            "5a45d557f0cf1c54",
-            "2429cefb5277f457",
-            "00c87beea3343acd",
-            "95637a55cc039903",
-            "ce860b1b39495ae1",
-            "2f828a71a102a2e2",
-            "86a334fa8cfe3744",
-            "be4795b712a56b6b"
-        ],
-        "x": 74,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
-    },
-    {
-        "id": "c1a07a395215169a",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "e3042cead98d3e27",
-            "dbebcacd5264141b"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "e824c53b2991b77c",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "623ed0a1301458a8",
-            "f63e23b83483c837",
-            "f60597aa236ee61e",
-            "6dfe74568c58d54e",
-            "91730eacdd54a67b",
-            "640d72555f213811",
-            "86671dbd9d301ce1"
-        ],
-        "x": 24,
-        "y": 239,
-        "w": 922,
-        "h": 142
-    },
-    {
-        "id": "4cb091f4f5a85294",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b57b6651ded960c4",
-            "d9ad15d8b5b790c9",
-            "c3e65c2546de8470",
-            "7a9f81ece793b1c5",
-            "0971cc54f9d8f0b0",
-            "4a07192943f39702",
-            "2a4122dd0746804d",
-            "a97a5bc295d02cb1"
-        ],
-        "x": 34,
-        "y": 59,
-        "w": 1032,
-        "h": 162
-    },
-    {
-        "id": "13b4cf00d3504e5f",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "8628f8f1a8eb5e01",
-            "82b1c01a2b3211aa",
-            "8a67ea948dd3fff8",
-            "1aa65a5987de6564",
-            "1c21cfdffbed1155",
-            "4d2ece2cf3c27bfe",
-            "e74b8d3f9aceec2e",
-            "f244e284671852a9",
-            "c5eb4872c218d0b7",
-            "58d5e810f49c0e1c",
-            "da4114f81f00a77c",
-            "41793be76ad2de3a",
-            "83d32305e24d5584",
-            "6147d32e142046dd",
-            "c7c124c36d85fb8c",
-            "093a36164d12a052",
-            "3159d97d36efe751",
-            "c2d4d94de8e154e4",
-            "715954b1a8d2f368"
-        ],
-        "x": 64,
-        "y": 1619,
-        "w": 1982,
-        "h": 282
-    },
-    {
-        "id": "ae5781f3730b8bb3",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "42c9186161b67149",
-            "0247364a25b380b9",
-            "6c3e32740b3802e1",
-            "f94bed5f850d322e",
-            "5b9475696c0580c4"
-        ],
-        "x": 714,
-        "y": 399,
-        "w": 782,
-        "h": 82
-    },
-    {
-        "id": "1f8a704dff580dc3",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "0786d2c07aa02047",
-            "ddb31e9b0b9497f0",
-            "bcf314d3a2f7a77b",
-            "fda5e92a25d56e9a",
-            "32e5e76d48a25f68",
-            "774a11ad0d2d20b0",
-            "0db68982e98290d9",
-            "c15c801ff726045c",
-            "874473afb9134c68",
-            "2bc0a7966185fdbf",
-            "6299faa27870fc8b",
-            "de7eb7c83eeef6a5",
-            "c210c52d061b6066",
-            "cbbe4d8a7507c914",
-            "c188dd03b655dace",
-            "5595b7d79022807d",
-            "97a047c3729dcf58",
-            "36b16980d1081435",
-            "bcb2069dfbe8964d",
-            "cbcaa525c343b972"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "55c3d21acb288c64",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "761ddc3ae980df95",
-            "f9f7901974a9e082",
-            "d10a8c3a121fa612"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "d19d78d2529966c5",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "907e1cb735d7820d",
-            "a5118f065ff42f6e",
-            "563759cb7845c27c",
-            "dd1e768fd8610293"
-        ],
-        "x": 1074,
-        "y": 59,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "d5dd424536174f82",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5b55544458648a37",
-            "dc62083720ea9794",
-            "4e78ea9cb4ad06cf",
-            "2fde4ad70db0da8d"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "e444b17c96c39980",
-        "type": "group",
-        "z": "b83e7265311078a5",
-        "name": "Init Puffer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "300ba85a46cf7069"
-        ],
-        "x": 1234,
-        "y": 239,
-        "w": 252,
-        "h": 82
-    },
-    {
         "id": "97a047c3729dcf58",
         "type": "group",
         "z": "b83e7265311078a5",
@@ -3532,9 +3824,7 @@
             "0e98e89329772443"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "36b16980d1081435",
@@ -3554,9 +3844,7 @@
             "63794928bb07b43d"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "bcb2069dfbe8964d",
@@ -3572,9 +3860,7 @@
             "db04cf60b5026432"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "cbcaa525c343b972",
@@ -3589,183 +3875,7 @@
             "11a5fc6c3b0d13b6"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "2f8336750059e0e7",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1d904a95ab0891ed",
-            "992bc4cfef205382"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "232526246e345869",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "73d8efd3b3d95381",
-            "6726f239bf860d3b",
-            "c6eab4c1bf49b001",
-            "859f58ba8e9d450a",
-            "79a41f3e691574f1",
-            "cb6d253ec46445ba",
-            "6f3246494af7e0c8",
-            "52590ac27c7bac2e",
-            "702a32fd51fe7853",
-            "4b50d9f6889f5fb0",
-            "9258e6514e53d86f",
-            "621f102526f5f175",
-            "22faaf01c8b018dc",
-            "6b746335afc3deea",
-            "b28d6339022a1f1f",
-            "acc915d58a958682",
-            "8cdaca58f2d9cc44",
-            "a515183c183bb19b",
-            "bb4dd4b6a5c15c60",
-            "0d084ba0944c2271"
-        ],
-        "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 282
-    },
-    {
-        "id": "1c789fcc4120379d",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "652e431181dec460",
-            "3fcc2259bf24c1b7",
-            "9166115a0dfa4159",
-            "a9d2da7b08681dfa",
-            "8b2135e0147442f9",
-            "53c59064ba6c1caf",
-            "26fb669bee503ee4",
-            "2387debeeb733385",
-            "c0f1ba8e44df247d",
-            "81b84a816196cdbe",
-            "c3e019d138cc3e9e",
-            "ec8b88d2b2f5592e",
-            "f5901890ca2555dc",
-            "dfd4663900ba5887",
-            "1be4698da0c7f887",
-            "9f55b1b1f1601a3e",
-            "70e89b80b3d0f9d5",
-            "b78e958cb5f879b6",
-            "ff7c1347667e5c99",
-            "7ff79a76ccace3de"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "ecd05f5ddddae58f",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ce720cf71f0af9ce",
-            "0534c89be68cbe50",
-            "a54dec0b567c0c09"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "e93339dfa291cf08",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5062d69038dec869",
-            "08388e626a9e10fb",
-            "c484b284a88007c9",
-            "06fbfc8c7f1ca0e8"
-        ],
-        "x": 1074,
-        "y": 99,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "2e292201a66e223f",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "7e45fc80f8e8b384",
-            "733102686cee5020",
-            "6137aa2700c9f972",
-            "a7734ce9116a50ac"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "6801164c5567d032",
-        "type": "group",
-        "z": "1a16fa2f8e112752",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "c19ef76ee20dd075",
-            "5b7e44e02367c239",
-            "d9ccd0c55c143d33",
-            "6d66bf21ea2a1966",
-            "4db819d7d9363cf9",
-            "5afedea4b86d9aae",
-            "fca85936bd5828be",
-            "f4998b0ca833b54d",
-            "bbe51d11d636f68a",
-            "8930dc0b1ede0eb0",
-            "17cb5fe1c925d7dd"
-        ],
-        "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
+        "y": 799
     },
     {
         "id": "70e89b80b3d0f9d5",
@@ -5028,6 +5138,7 @@
         "name": "state machine",
         "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            measurePlan.shift()\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -5575,7 +5686,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": 0.1,
+        "onceDelay": "0.5",
         "topic": "",
         "payload": "",
         "payloadType": "date",
@@ -5583,7 +5694,8 @@
         "y": 20,
         "wires": [
             [
-                "5aba7f98a3bed827"
+                "5aba7f98a3bed827",
+                "b8dcb5ea382be4d9"
             ]
         ]
     },
@@ -6095,6 +6207,7 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.max\n\nlet config = global.get(\"config\");\n\nlet upper = config.m1_abmass + config.m1_ot; \nlet lower = config.m1_abmass + config.m1_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -8867,6 +8980,7 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.avg;\nlet measureResult2 = msg.span;\nlet config = global.get(\"config\");\n\nlet upper = config.m2_abmass + config.m2_ot; \nlet lower = config.m2_abmass + config.m2_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\n\nupper = config.m2_ot_sw;\nlower = config.m2_ut_sw; \n\nif (measureResult2 >= lower && measureResult2 <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nmsg.value = measureResult;\nmsg.value2 = measureResult2\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -20357,6 +20471,7 @@
         "name": "Check Quality Requirements",
         "func": "let measureResult = msg.span;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m6_abmass + config.m6_ot; \nlet lower = config.m6_abmass + config.m6_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -24857,9 +24972,7 @@
         "x": 1210,
         "y": 1700,
         "wires": [
-            [
-                "5de70f534a29b834"
-            ]
+            []
         ]
     },
     {
@@ -24868,8 +24981,9 @@
         "z": "d82606e5625409a3",
         "g": "0e3ee4d10e65696d",
         "name": "Check Quality Requirements",
-        "func": "let old_value = global.get(\"m7_puffer\")\n\n\nlet measureResult = old_value.avg - msg.avg;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m7_abmass + config.m7_ot; \nlet lower = config.m7_abmass + config.m7_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
+        "func": "let old_value = global.get(\"m7_puffer\")\n\n\nlet measureResult = Math.abs(old_value.avg - msg.avg);\n\nlet config = global.get(\"config\");\n\nlet upper = config.m7_abmass + config.m7_ot; \nlet lower = config.m7_abmass + config.m7_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -25789,7 +25903,9 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "decimals": 0,
+        "truncate": false,
+        "decimals": "1",
+        "decimals2": "0",
         "x": 1600,
         "y": 1820,
         "wires": [
@@ -31342,7 +31458,7 @@
         "z": "6b590c258a4420ac",
         "g": "01925cd1e85e9280",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m2_order={{{msg.payload.m2_order}}},\n    m2_sensor_id={{{msg.payload.m2_sensor_id}}},\n    m2_abmass={{{msg.payload.m2_abmass}}}/1000.0,\n    m2_ot={{{msg.payload.m2_ot}}}/1000.0,\n    m2_ut=0,\n    m2_ot_sw={{{msg.payload.m2_ot_sw}}}/1000.0,\n    m2_ut_sw={{{msg.payload.m2_ut_sw}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m2_order={{{msg.payload.m2_order}}},\n    m2_sensor_id={{{msg.payload.m2_sensor_id}}},\n    m2_abmass={{{msg.payload.m2_abmass}}}/1000.0,\n    m2_ot={{{msg.payload.m2_ot}}}/1000.0,\n    m2_ut={{{msg.payload.m2_ut}}}/1000.0,\n    m2_ot_sw={{{msg.payload.m2_ot_sw}}}/1000.0,\n    m2_ut_sw=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -31438,15 +31554,15 @@
                 "rows": null
             },
             {
-                "label": "Spannweite obere Toleranz",
-                "value": "m2_ot_sw",
+                "label": "Abmaß untere Toleranz in µm",
+                "value": "m2_ut",
                 "type": "text",
                 "required": false,
                 "rows": null
             },
             {
-                "label": "Spannweite untereToleranz",
-                "value": "m2_ut_sw",
+                "label": "Spannweite",
+                "value": "m2_ot_sw",
                 "type": "text",
                 "required": false,
                 "rows": null
@@ -31457,8 +31573,8 @@
             "m2_sensor_id": "",
             "m2_abmass": "",
             "m2_ot": "",
-            "m2_ot_sw": "",
-            "m2_ut_sw": ""
+            "m2_ut": "",
+            "m2_ot_sw": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -31556,7 +31672,7 @@
         "z": "6b590c258a4420ac",
         "g": "1e8ef7fce0e3f0f1",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m3_order={{{msg.payload.m3_order}}},\n    m3_sensor_id={{{msg.payload.m3_sensor_id}}},\n    m3_abmass={{{msg.payload.m3_abmass}}}/1000.0,\n    m3_ot={{{msg.payload.m3_ot}}}/1000.0,\n    m3_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m3_order={{{msg.payload.m3_order}}},\n    m3_sensor_id={{{msg.payload.m3_sensor_id}}},\n    m3_abmass=0,\n    m3_ot={{{msg.payload.m3_ot}}}/1000.0,\n    m3_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -31638,13 +31754,6 @@
                 "rows": null
             },
             {
-                "label": "Abmaß in µm",
-                "value": "m3_abmass",
-                "type": "text",
-                "required": false,
-                "rows": null
-            },
-            {
                 "label": "Obere Toleranz in µm",
                 "value": "m3_ot",
                 "type": "text",
@@ -31655,7 +31764,6 @@
         "formValue": {
             "m3_order": "",
             "m3_sensor_id": "",
-            "m3_abmass": "",
             "m3_ot": ""
         },
         "payload": "",
@@ -31754,7 +31862,7 @@
         "z": "6b590c258a4420ac",
         "g": "b9b6c6776205ea97",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m4_order={{{msg.payload.m4_order}}},\n    m4_sensor_id={{{msg.payload.m4_sensor_id}}},\n    m4_abmass={{{msg.payload.m4_abmass}}}/1000.0,\n    m4_ot={{{msg.payload.m4_ot}}}/1000.0,\n    m4_ut={{{msg.payload.m4_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m4_order={{{msg.payload.m4_order}}},\n    m4_sensor_id={{{msg.payload.m4_sensor_id}}},\n    m4_abmass=0,\n    m4_ot={{{msg.payload.m4_ot}}}/1000.0,\n    m4_ut={{{msg.payload.m4_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -31836,13 +31944,6 @@
                 "rows": null
             },
             {
-                "label": "Abmaß in µm",
-                "value": "m4_abmass",
-                "type": "text",
-                "required": false,
-                "rows": null
-            },
-            {
                 "label": "Obere Toleranz in µm",
                 "value": "m4_ot",
                 "type": "text",
@@ -31860,7 +31961,6 @@
         "formValue": {
             "m4_order": "",
             "m4_sensor_id": "",
-            "m4_abmass": "",
             "m4_ot": "",
             "m4_ut": ""
         },
@@ -32174,7 +32274,7 @@
         "z": "6b590c258a4420ac",
         "g": "fa4ae97e5a92823e",
         "name": "",
-        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m6_order={{{msg.payload.m6_order}}},\n    m6_sensor_id={{{msg.payload.m6_sensor_id}}},\n    m6_abmass={{{msg.payload.m6_abmass}}}/1000.0,\n    m6_ot={{{msg.payload.m6_ot}}}/1000.0,\n    m6_ut={{{msg.payload.m6_ut}}}/1000.0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
+        "query": "UPDATE public.config\n    SET name='{{{msg.payload.elementname}}}',\n    m6_order={{{msg.payload.m6_order}}},\n    m6_sensor_id={{{msg.payload.m6_sensor_id}}},\n    m6_abmass=0,\n    m6_ot={{{msg.payload.m6_ot}}}/1000.0,\n    m6_ut=0\n    WHERE id={{{msg.currentElementId}}}\nRETURNING *;",
         "postgreSQLConfig": "c4cffb880254a966",
         "split": false,
         "rowsPerMsg": 1,
@@ -32256,22 +32356,8 @@
                 "rows": null
             },
             {
-                "label": "Abmaß in µm",
-                "value": "m6_abmass",
-                "type": "text",
-                "required": false,
-                "rows": null
-            },
-            {
                 "label": "Obere Toleranz in µm",
                 "value": "m6_ot",
-                "type": "text",
-                "required": false,
-                "rows": null
-            },
-            {
-                "label": "Untere Toleranz in µm",
-                "value": "m6_ut",
                 "type": "text",
                 "required": false,
                 "rows": null
@@ -32280,9 +32366,7 @@
         "formValue": {
             "m6_order": "",
             "m6_sensor_id": "",
-            "m6_abmass": "",
-            "m6_ot": "",
-            "m6_ut": ""
+            "m6_ot": ""
         },
         "payload": "",
         "submit": "Speichern",
@@ -34447,6 +34531,7 @@
         "name": "Handle Null",
         "func": "\nif (msg.payload.m3_order == null){\n    msg.payload.m3_order = \"NULL::smallint\"\n}\nif (msg.payload.m3_sensor_id == null) {\n    msg.payload.m3_sensor_id = \"NULL::smallint\"\n}\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -34615,6 +34700,35 @@
         "wires": [
             [
                 "96517ba4678e4041"
+            ]
+        ]
+    },
+    {
+        "id": "af1889da3f2db818",
+        "type": "inject",
+        "z": "6b590c258a4420ac",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 230,
+        "y": 160,
+        "wires": [
+            [
+                "59d027ece4ab6bdb"
             ]
         ]
     },
@@ -34945,9 +35059,7 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [
-            "368c3c772a33762d"
-        ],
+        "links": [],
         "x": 1485,
         "y": 600,
         "wires": []
@@ -35237,10 +35349,8 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [
-            "ebcbe221c3431249"
-        ],
-        "x": 265,
+        "links": [],
+        "x": 255,
         "y": 400,
         "wires": [
             [
