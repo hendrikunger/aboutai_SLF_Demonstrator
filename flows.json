@@ -1963,12 +1963,12 @@
             "7d39b15bee42fa61",
             "d2a6137076bc4027",
             "4ec13c2ae19b86a2",
-            "88dcd6a50bb9d376"
+            "a8560afb4afdc873"
         ],
         "x": 74,
-        "y": 1359,
+        "y": 1339,
         "w": 1372,
-        "h": 235
+        "h": 255
     },
     {
         "id": "291e45637c48a6a4",
@@ -2048,13 +2048,10 @@
         "nodes": [
             "0b7e85f7722b8bfd",
             "42be6c9b010cf37a",
-            "651c163d40e7120d",
             "0e0730928fe7c83b",
-            "f46538c77275d8c3",
             "17ad2634e44c0dce",
             "06d4e11e16c00fde",
             "6c9ff7e1cc076aef",
-            "c1b774a6d519e08d",
             "6607b3ad246088d7",
             "a6936e8698f87fa8",
             "24e2b2f4cad2e0d4",
@@ -2067,9 +2064,9 @@
             "370c7234f7d4a6c7"
         ],
         "x": 64,
-        "y": 1619,
+        "y": 1659,
         "w": 1982,
-        "h": 282
+        "h": 242
     },
     {
         "id": "b56fb1995eb4f11b",
@@ -2090,41 +2087,6 @@
         "y": 399,
         "w": 782,
         "h": 82
-    },
-    {
-        "id": "9a996de793eb15e3",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1e6fb31f8046cc0e",
-            "9ec5953b5b0f3e6d",
-            "0ea8863d88fdf298",
-            "e740c2600a3684c8",
-            "f64c1f91000e56e9",
-            "e7ca7f3b6d73e7ac",
-            "5cd0c20dd011a3cc",
-            "56175fd8d53e3f60",
-            "4bf83e6fc19d6c85",
-            "31d6d9de81f15ca9",
-            "f6e5981af7fc7e48",
-            "32ba817557884c2b",
-            "19a5fea616eba701",
-            "328fff2e35e04c5d",
-            "1d349769c78dcc37",
-            "6204625af756d198",
-            "c195c78a5f165386",
-            "ee1e7902484cd0b6",
-            "bacb35450f0be123",
-            "9c15dc2eefa4a868"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
     },
     {
         "id": "0175ae52e863122a",
@@ -2211,7 +2173,7 @@
             "12a5bd662cc08c6b"
         ],
         "x": 54,
-        "y": 439,
+        "y": 379,
         "w": 432,
         "h": 82
     },
@@ -2283,12 +2245,16 @@
             "7a342863bbfe0ef2",
             "25db50738cf6bb34",
             "1589e63badb4349b",
-            "2277e177d3da6f73"
+            "2277e177d3da6f73",
+            "a7cdbe943b15c219",
+            "27cb24f1f495a4e3",
+            "5f4746760eeb9c89",
+            "5da939f384694f28"
         ],
         "x": 34,
-        "y": 599,
+        "y": 493,
         "w": 1658,
-        "h": 448
+        "h": 568
     },
     {
         "id": "85c5b65030cd9ef0",
@@ -2365,12 +2331,13 @@
             "a61da5e6befb9f47",
             "f19f7e9ed94eaf23",
             "b3d3bce88ca2f973",
-            "4c5e72846d87fe67"
+            "4c5e72846d87fe67",
+            "9649311bee8277f2"
         ],
         "x": 34,
-        "y": 1359,
+        "y": 1339,
         "w": 1372,
-        "h": 235
+        "h": 255
     },
     {
         "id": "c55113ba29921f12",
@@ -3704,82 +3671,6 @@
         "h": 82
     },
     {
-        "id": "c195c78a5f165386",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Init Measuring",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "2c5adf86c221d1c9",
-            "6a6035084ad30108",
-            "868fa19a993d4e57"
-        ],
-        "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
-    },
-    {
-        "id": "ee1e7902484cd0b6",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Enable / Disable Buttons",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b7958afd6fd42493",
-            "cf3210fcacb34417",
-            "21145aa1369410b5",
-            "c8c180f946787d6d",
-            "9e1115ebd72fce94",
-            "9d71cadcae58a129"
-        ],
-        "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
-    },
-    {
-        "id": "bacb35450f0be123",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Delete Diagram / LED",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3c1170942ff4d267",
-            "7b547c08ca0f2a2a"
-        ],
-        "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
-    },
-    {
-        "id": "9c15dc2eefa4a868",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Start Measuring",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8f55f6cc709f7d4b"
-        ],
-        "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
         "id": "7a342863bbfe0ef2",
         "type": "group",
         "z": "d82606e5625409a3",
@@ -4006,6 +3897,138 @@
         "y": 799,
         "w": 272,
         "h": 82
+    },
+    {
+        "id": "9a996de793eb15e3",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1e6fb31f8046cc0e",
+            "9ec5953b5b0f3e6d",
+            "0ea8863d88fdf298",
+            "f64c1f91000e56e9",
+            "e7ca7f3b6d73e7ac",
+            "5cd0c20dd011a3cc",
+            "56175fd8d53e3f60",
+            "4bf83e6fc19d6c85",
+            "31d6d9de81f15ca9",
+            "f6e5981af7fc7e48",
+            "32ba817557884c2b",
+            "19a5fea616eba701",
+            "328fff2e35e04c5d",
+            "1d349769c78dcc37",
+            "6204625af756d198",
+            "ec2b752b2ff71d3a",
+            "b61265237793ae23",
+            "18ed449efc822445",
+            "c195c78a5f165386",
+            "ee1e7902484cd0b6",
+            "bacb35450f0be123",
+            "9c15dc2eefa4a868"
+        ],
+        "x": 34,
+        "y": 579,
+        "w": 1658,
+        "h": 448
+    },
+    {
+        "id": "c195c78a5f165386",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Init Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2c5adf86c221d1c9",
+            "6a6035084ad30108",
+            "868fa19a993d4e57"
+        ],
+        "x": 1254,
+        "y": 879,
+        "w": 412,
+        "h": 122
+    },
+    {
+        "id": "ee1e7902484cd0b6",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Enable / Disable Buttons",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b7958afd6fd42493",
+            "cf3210fcacb34417",
+            "21145aa1369410b5",
+            "c8c180f946787d6d",
+            "9e1115ebd72fce94",
+            "9d71cadcae58a129"
+        ],
+        "x": 304,
+        "y": 699,
+        "w": 362,
+        "h": 202
+    },
+    {
+        "id": "bacb35450f0be123",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Delete Diagram / LED",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3c1170942ff4d267",
+            "7b547c08ca0f2a2a"
+        ],
+        "x": 1154,
+        "y": 659,
+        "w": 202,
+        "h": 82
+    },
+    {
+        "id": "9c15dc2eefa4a868",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Start Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8f55f6cc709f7d4b"
+        ],
+        "x": 1254,
+        "y": 779,
+        "w": 272,
+        "h": 82
+    },
+    {
+        "id": "5f4746760eeb9c89",
+        "type": "group",
+        "z": "d82606e5625409a3",
+        "g": "0f17a3402c333e1a",
+        "name": "Go Back to m7",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2c46105a862a3d1d",
+            "b5f8c7d3c124f053",
+            "0e29bd4a4d659409"
+        ],
+        "x": 914,
+        "y": 519,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "3f0cacbd0d1921c4",
@@ -5307,6 +5330,46 @@
         "hidden": false
     },
     {
+        "id": "a4bd47c6b4e1ce29",
+        "type": "ui_spacer",
+        "z": "d82606e5625409a3",
+        "name": "spacer",
+        "group": "decededbd7c344fe",
+        "order": 4,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "baf46f4a24cc5892",
+        "type": "ui_spacer",
+        "z": "d82606e5625409a3",
+        "name": "spacer",
+        "group": "decededbd7c344fe",
+        "order": 5,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "46f1642a19250dcb",
+        "type": "ui_spacer",
+        "z": "d82606e5625409a3",
+        "name": "spacer",
+        "group": "decededbd7c344fe",
+        "order": 6,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "6c9563d841e01252",
+        "type": "ui_spacer",
+        "z": "d82606e5625409a3",
+        "name": "spacer",
+        "group": "08455b6ee6beb9ba",
+        "order": 6,
+        "width": 4,
+        "height": 1
+    },
+    {
         "id": "9cfc7ccd9e3269ca",
         "type": "ui_ui_control",
         "z": "9516ce2929752e9f",
@@ -5324,13 +5387,19 @@
         "z": "9516ce2929752e9f",
         "name": "state machine in",
         "links": [
+            "0db68982e98290d9",
+            "26fb669bee503ee4",
+            "5cd0c20dd011a3cc",
             "69485b47d96d35c2",
+            "70f04c868261a328",
             "7d8d3bb0b4aed567",
             "a3bc0624683336e1",
             "bb72727e0e9710c1",
             "c0ae9e6398bd567d",
+            "db2c01dc8ef29d14",
             "f480cf459eb1a279",
-            "fb47ce7bb210d3dd"
+            "fb47ce7bb210d3dd",
+            "5da939f384694f28"
         ],
         "x": 195,
         "y": 100,
@@ -5345,7 +5414,7 @@
         "type": "function",
         "z": "9516ce2929752e9f",
         "name": "state machine",
-        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            measurePlan.shift()\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
+        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\nelse if (msg.payload == \"Return\"){\n    var plan = flow.get(\"measurePlan\");\n    var element = flow.get(\"lastMeasurement\")\n    if (element){\n        plan.unshift(element)\n        flow.set(\"measurePlan\", plan);\n    }\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            var element = measurePlan.shift()\n            flow.set(\"lastMeasurement\", element)\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -22460,208 +22529,6 @@
         ]
     },
     {
-        "id": "1e6fb31f8046cc0e",
-        "type": "ui_button",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Button Messung",
-        "group": "08455b6ee6beb9ba",
-        "order": 8,
-        "width": 3,
-        "height": 1,
-        "passthru": false,
-        "label": "{{payload}}",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "{{background}}",
-        "className": "",
-        "icon": "",
-        "payload": "Button1",
-        "payloadType": "str",
-        "topic": "control",
-        "topicType": "str",
-        "x": 780,
-        "y": 840,
-        "wires": [
-            [
-                "0ea8863d88fdf298"
-            ]
-        ]
-    },
-    {
-        "id": "8f55f6cc709f7d4b",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9c15dc2eefa4a868",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "messureGate",
-                "pt": "flow",
-                "to": "payload",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1390,
-        "y": 840,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "9ec5953b5b0f3e6d",
-        "type": "switch",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "property": "initGate",
-        "propertyType": "flow",
-        "rules": [
-            {
-                "t": "true"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 2,
-        "x": 1130,
-        "y": 860,
-        "wires": [
-            [
-                "8f55f6cc709f7d4b"
-            ],
-            [
-                "6a6035084ad30108"
-            ]
-        ]
-    },
-    {
-        "id": "2c5adf86c221d1c9",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "c195c78a5f165386",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "initGate",
-                "pt": "flow",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1550,
-        "y": 980,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "6a6035084ad30108",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "c195c78a5f165386",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "messureGate",
-                "pt": "flow",
-                "to": "Stopped",
-                "tot": "str"
-            },
-            {
-                "t": "set",
-                "p": "initGate",
-                "pt": "flow",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1370,
-        "y": 940,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "868fa19a993d4e57",
-        "type": "inject",
-        "z": "bbbd9c9a23475bcd",
-        "g": "c195c78a5f165386",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 1370,
-        "y": 980,
-        "wires": [
-            [
-                "2c5adf86c221d1c9"
-            ]
-        ]
-    },
-    {
-        "id": "3c1170942ff4d267",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "bacb35450f0be123",
-        "name": "Delete",
-        "rules": [
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "[]",
-                "tot": "json"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1230,
-        "y": 720,
-        "wires": [
-            [
-                "7b547c08ca0f2a2a"
-            ]
-        ]
-    },
-    {
         "id": "6bbda46f417231ef",
         "type": "comment",
         "z": "bbbd9c9a23475bcd",
@@ -22719,11 +22586,10 @@
         "y": 1413,
         "wires": [
             [
-                "aed53b6655459943"
-            ],
-            [
+                "aed53b6655459943",
                 "a73b6be18909917e"
             ],
+            [],
             []
         ]
     },
@@ -22827,30 +22693,6 @@
         "wires": []
     },
     {
-        "id": "0ea8863d88fdf298",
-        "type": "toggle",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "onOffTopic": "",
-        "onValue": "Stop",
-        "onType": "str",
-        "offValue": "Messung",
-        "offType": "str",
-        "toggleTopic": "",
-        "toggleValue": "",
-        "toggleType": "any",
-        "passOnOff": "always",
-        "x": 950,
-        "y": 880,
-        "wires": [
-            [
-                "9ec5953b5b0f3e6d",
-                "32ba817557884c2b"
-            ]
-        ]
-    },
-    {
         "id": "d289e2aa212324ec",
         "type": "change",
         "z": "bbbd9c9a23475bcd",
@@ -22917,51 +22759,6 @@
         ]
     },
     {
-        "id": "651c163d40e7120d",
-        "type": "ui_chart",
-        "z": "bbbd9c9a23475bcd",
-        "g": "0921429d881fd664",
-        "name": "Measurement Diagram",
-        "group": "decededbd7c344fe",
-        "order": 7,
-        "width": 18,
-        "height": 5,
-        "label": "",
-        "chartType": "line",
-        "legend": "false",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "-0,007",
-        "ymax": "0.007",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1d7e02",
-            "#b0030b",
-            "#90fefc",
-            "#ffa200",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 1480,
-        "y": 1700,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "0e0730928fe7c83b",
         "type": "ui_template",
         "z": "bbbd9c9a23475bcd",
@@ -22981,26 +22778,6 @@
         "y": 1860,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "f46538c77275d8c3",
-        "type": "function",
-        "z": "bbbd9c9a23475bcd",
-        "g": "0921429d881fd664",
-        "name": "Transform for Chart",
-        "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nmsg.ui_control = { \"ymin\": msg.avg - 0.005, \"ymax\": msg.avg + 0.005 }\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1230,
-        "y": 1700,
-        "wires": [
-            [
-                "651c163d40e7120d"
-            ]
         ]
     },
     {
@@ -23046,21 +22823,6 @@
                 "e476257dfe93f828"
             ]
         ]
-    },
-    {
-        "id": "7b547c08ca0f2a2a",
-        "type": "link out",
-        "z": "bbbd9c9a23475bcd",
-        "g": "bacb35450f0be123",
-        "name": "Messurement Stopped",
-        "mode": "link",
-        "links": [
-            "c1b774a6d519e08d",
-            "06d4e11e16c00fde"
-        ],
-        "x": 1315,
-        "y": 720,
-        "wires": []
     },
     {
         "id": "06d4e11e16c00fde",
@@ -23123,268 +22885,6 @@
         ]
     },
     {
-        "id": "e740c2600a3684c8",
-        "type": "ui_button",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Button Next",
-        "group": "08455b6ee6beb9ba",
-        "order": 7,
-        "width": 3,
-        "height": 1,
-        "passthru": false,
-        "label": "Weiter",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "long_name",
-        "payloadType": "flow",
-        "topic": "control",
-        "topicType": "str",
-        "x": 770,
-        "y": 760,
-        "wires": [
-            [
-                "5cd0c20dd011a3cc",
-                "3c1170942ff4d267"
-            ]
-        ]
-    },
-    {
-        "id": "f64c1f91000e56e9",
-        "type": "ui_ui_control",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "events": "change",
-        "x": 120,
-        "y": 760,
-        "wires": [
-            [
-                "e7ca7f3b6d73e7ac"
-            ]
-        ]
-    },
-    {
-        "id": "e7ca7f3b6d73e7ac",
-        "type": "switch",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "property": "name",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "long_name",
-                "vt": "flow"
-            },
-            {
-                "t": "else"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 250,
-        "y": 760,
-        "wires": [
-            [
-                "b7958afd6fd42493",
-                "cf3210fcacb34417",
-                "00bf720d4453f208",
-                "0a8228777f39dbef",
-                "b61265237793ae23"
-            ],
-            [
-                "18ed449efc822445"
-            ]
-        ]
-    },
-    {
-        "id": "b7958afd6fd42493",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "enabled",
-                "pt": "msg",
-                "to": "false",
-                "tot": "bool"
-            },
-            {
-                "t": "set",
-                "p": "measureState",
-                "pt": "flow",
-                "to": "Messung",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 510,
-        "y": 760,
-        "wires": [
-            [
-                "e740c2600a3684c8",
-                "19a5fea616eba701"
-            ]
-        ]
-    },
-    {
-        "id": "cf3210fcacb34417",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "enabled",
-                "pt": "msg",
-                "to": "true",
-                "tot": "bool"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "Messung",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 510,
-        "y": 880,
-        "wires": [
-            [
-                "1e6fb31f8046cc0e",
-                "0ea8863d88fdf298"
-            ]
-        ]
-    },
-    {
-        "id": "c1b774a6d519e08d",
-        "type": "link in",
-        "z": "bbbd9c9a23475bcd",
-        "g": "0921429d881fd664",
-        "name": "Diagram Input",
-        "links": [
-            "7b547c08ca0f2a2a"
-        ],
-        "x": 1325,
-        "y": 1660,
-        "wires": [
-            [
-                "651c163d40e7120d"
-            ]
-        ]
-    },
-    {
-        "id": "21145aa1369410b5",
-        "type": "link in",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "link in 1",
-        "links": [
-            "6607b3ad246088d7"
-        ],
-        "x": 375,
-        "y": 820,
-        "wires": [
-            [
-                "c8c180f946787d6d",
-                "9e1115ebd72fce94"
-            ]
-        ]
-    },
-    {
-        "id": "c8c180f946787d6d",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "enabled",
-                "pt": "msg",
-                "to": "false",
-                "tot": "bool"
-            },
-            {
-                "t": "delete",
-                "p": "payload",
-                "pt": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 510,
-        "y": 840,
-        "wires": [
-            [
-                "1e6fb31f8046cc0e"
-            ]
-        ]
-    },
-    {
-        "id": "9e1115ebd72fce94",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "enabled",
-                "pt": "msg",
-                "to": "true",
-                "tot": "bool"
-            },
-            {
-                "t": "delete",
-                "p": "payload",
-                "pt": "msg"
-            },
-            {
-                "t": "set",
-                "p": "measureState",
-                "pt": "flow",
-                "to": "Finished",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 510,
-        "y": 800,
-        "wires": [
-            [
-                "e740c2600a3684c8",
-                "19a5fea616eba701"
-            ]
-        ]
-    },
-    {
         "id": "6607b3ad246088d7",
         "type": "link out",
         "z": "bbbd9c9a23475bcd",
@@ -23392,7 +22892,8 @@
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
-            "21145aa1369410b5"
+            "21145aa1369410b5",
+            "daae8a096d83eb06"
         ],
         "x": 1575,
         "y": 1740,
@@ -23423,20 +22924,6 @@
                 "24e2b2f4cad2e0d4"
             ]
         ]
-    },
-    {
-        "id": "5cd0c20dd011a3cc",
-        "type": "link out",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Button Next",
-        "mode": "link",
-        "links": [
-            "c4490923838778c8"
-        ],
-        "x": 905,
-        "y": 780,
-        "wires": []
     },
     {
         "id": "36547eaee3a8169c",
@@ -23944,7 +23431,6 @@
         "y": 1700,
         "wires": [
             [
-                "f46538c77275d8c3",
                 "17ad2634e44c0dce"
             ]
         ]
@@ -23976,128 +23462,6 @@
                 "0e0730928fe7c83b"
             ]
         ]
-    },
-    {
-        "id": "56175fd8d53e3f60",
-        "type": "link in",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Change Messure Color",
-        "links": [
-            "32ba817557884c2b"
-        ],
-        "x": 245,
-        "y": 980,
-        "wires": [
-            [
-                "4bf83e6fc19d6c85"
-            ]
-        ]
-    },
-    {
-        "id": "4bf83e6fc19d6c85",
-        "type": "switch",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "property": "payload",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "Stop",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "Messung",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 370,
-        "y": 980,
-        "wires": [
-            [
-                "31d6d9de81f15ca9"
-            ],
-            [
-                "f6e5981af7fc7e48",
-                "8c9254711ae1324b"
-            ]
-        ]
-    },
-    {
-        "id": "31d6d9de81f15ca9",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "background",
-                "pt": "msg",
-                "to": "red",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 560,
-        "y": 960,
-        "wires": [
-            [
-                "1e6fb31f8046cc0e"
-            ]
-        ]
-    },
-    {
-        "id": "f6e5981af7fc7e48",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "background",
-                "pt": "msg",
-                "to": "#0094CE",
-                "tot": "str"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 560,
-        "y": 1000,
-        "wires": [
-            [
-                "1e6fb31f8046cc0e"
-            ]
-        ]
-    },
-    {
-        "id": "32ba817557884c2b",
-        "type": "link out",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Messure Toggle",
-        "mode": "link",
-        "links": [
-            "56175fd8d53e3f60"
-        ],
-        "x": 1095,
-        "y": 940,
-        "wires": []
     },
     {
         "id": "00bf720d4453f208",
@@ -24241,129 +23605,6 @@
             [
                 "9d78afc72142e216"
             ]
-        ]
-    },
-    {
-        "id": "9d71cadcae58a129",
-        "type": "link in",
-        "z": "bbbd9c9a23475bcd",
-        "g": "ee1e7902484cd0b6",
-        "name": "Measuring Failure",
-        "links": [
-            "db17e1c55ea376bc",
-            "328fff2e35e04c5d"
-        ],
-        "x": 305,
-        "y": 880,
-        "wires": [
-            [
-                "cf3210fcacb34417",
-                "b7958afd6fd42493"
-            ]
-        ]
-    },
-    {
-        "id": "19a5fea616eba701",
-        "type": "ui_button",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "group": "08455b6ee6beb9ba",
-        "order": 6,
-        "width": 3,
-        "height": 1,
-        "passthru": false,
-        "label": "Fehlmessung",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "red",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 780,
-        "y": 660,
-        "wires": [
-            [
-                "1d349769c78dcc37",
-                "328fff2e35e04c5d",
-                "3c1170942ff4d267"
-            ]
-        ]
-    },
-    {
-        "id": "328fff2e35e04c5d",
-        "type": "link out",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "MeasuringFailure",
-        "mode": "link",
-        "links": [
-            "9d71cadcae58a129"
-        ],
-        "x": 935,
-        "y": 720,
-        "wires": []
-    },
-    {
-        "id": "1d349769c78dcc37",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "Set Station / Measurement Type / Lot ",
-        "rules": [
-            {
-                "t": "set",
-                "p": "type",
-                "pt": "msg",
-                "to": "long_name",
-                "tot": "flow"
-            },
-            {
-                "t": "set",
-                "p": "station",
-                "pt": "msg",
-                "to": "name",
-                "tot": "global"
-            },
-            {
-                "t": "set",
-                "p": "lastInsert",
-                "pt": "msg",
-                "to": "lastInsert",
-                "tot": "flow"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 1050,
-        "y": 640,
-        "wires": [
-            [
-                "6204625af756d198"
-            ]
-        ]
-    },
-    {
-        "id": "6204625af756d198",
-        "type": "postgresql",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9a996de793eb15e3",
-        "name": "",
-        "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND type = '{{{msg.type}}}';\n",
-        "postgreSQLConfig": "c4cffb880254a966",
-        "split": false,
-        "rowsPerMsg": 1,
-        "outputs": 1,
-        "x": 1330,
-        "y": 640,
-        "wires": [
-            []
         ]
     },
     {
@@ -24722,56 +23963,6 @@
         ]
     },
     {
-        "id": "b61265237793ae23",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "active",
-                "pt": "flow",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 340,
-        "y": 640,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "18ed449efc822445",
-        "type": "change",
-        "z": "bbbd9c9a23475bcd",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "active",
-                "pt": "flow",
-                "to": "false",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 340,
-        "y": 680,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "370c7234f7d4a6c7",
         "type": "function",
         "z": "bbbd9c9a23475bcd",
@@ -24816,20 +24007,860 @@
         ]
     },
     {
-        "id": "88dcd6a50bb9d376",
-        "type": "debug",
+        "id": "515f9e52cfa21f51",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 210,
+        "y": 1000,
+        "wires": [
+            [
+                "4bf83e6fc19d6c85"
+            ]
+        ]
+    },
+    {
+        "id": "daae8a096d83eb06",
+        "type": "link in",
+        "z": "bbbd9c9a23475bcd",
+        "name": "link in 4",
+        "links": [
+            "04b9744a0b524279",
+            "6607b3ad246088d7"
+        ],
+        "x": 75,
+        "y": 1000,
+        "wires": [
+            [
+                "515f9e52cfa21f51"
+            ]
+        ]
+    },
+    {
+        "id": "1e6fb31f8046cc0e",
+        "type": "ui_button",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Button Messung",
+        "group": "08455b6ee6beb9ba",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "{{payload}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{background}}",
+        "className": "",
+        "icon": "",
+        "payload": "Button1",
+        "payloadType": "str",
+        "topic": "control",
+        "topicType": "str",
+        "x": 780,
+        "y": 820,
+        "wires": [
+            [
+                "0ea8863d88fdf298"
+            ]
+        ]
+    },
+    {
+        "id": "9ec5953b5b0f3e6d",
+        "type": "switch",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "property": "initGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1170,
+        "y": 840,
+        "wires": [
+            [
+                "8f55f6cc709f7d4b"
+            ],
+            [
+                "6a6035084ad30108"
+            ]
+        ]
+    },
+    {
+        "id": "0ea8863d88fdf298",
+        "type": "toggle",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "Stop",
+        "onType": "str",
+        "offValue": "Messung",
+        "offType": "str",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "always",
+        "x": 950,
+        "y": 860,
+        "wires": [
+            [
+                "9ec5953b5b0f3e6d",
+                "32ba817557884c2b"
+            ]
+        ]
+    },
+    {
+        "id": "f64c1f91000e56e9",
+        "type": "ui_ui_control",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "events": "change",
+        "x": 120,
+        "y": 740,
+        "wires": [
+            [
+                "e7ca7f3b6d73e7ac"
+            ]
+        ]
+    },
+    {
+        "id": "e7ca7f3b6d73e7ac",
+        "type": "switch",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "long_name",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 250,
+        "y": 740,
+        "wires": [
+            [
+                "cf3210fcacb34417",
+                "00bf720d4453f208",
+                "0a8228777f39dbef",
+                "b61265237793ae23",
+                "b7958afd6fd42493"
+            ],
+            [
+                "18ed449efc822445"
+            ]
+        ]
+    },
+    {
+        "id": "5cd0c20dd011a3cc",
+        "type": "link out",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Button Next",
+        "mode": "link",
+        "links": [
+            "c4490923838778c8"
+        ],
+        "x": 905,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "56175fd8d53e3f60",
+        "type": "link in",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Change Messure Color",
+        "links": [
+            "32ba817557884c2b"
+        ],
+        "x": 245,
+        "y": 960,
+        "wires": [
+            [
+                "4bf83e6fc19d6c85"
+            ]
+        ]
+    },
+    {
+        "id": "4bf83e6fc19d6c85",
+        "type": "switch",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 960,
+        "wires": [
+            [
+                "31d6d9de81f15ca9"
+            ],
+            [
+                "f6e5981af7fc7e48",
+                "8c9254711ae1324b"
+            ]
+        ]
+    },
+    {
+        "id": "31d6d9de81f15ca9",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 940,
+        "wires": [
+            [
+                "1e6fb31f8046cc0e"
+            ]
+        ]
+    },
+    {
+        "id": "f6e5981af7fc7e48",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 980,
+        "wires": [
+            [
+                "1e6fb31f8046cc0e"
+            ]
+        ]
+    },
+    {
+        "id": "32ba817557884c2b",
+        "type": "link out",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "56175fd8d53e3f60"
+        ],
+        "x": 1155,
+        "y": 920,
+        "wires": []
+    },
+    {
+        "id": "19a5fea616eba701",
+        "type": "ui_button",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "group": "08455b6ee6beb9ba",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Fehlmessung",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 780,
+        "y": 640,
+        "wires": [
+            [
+                "1d349769c78dcc37",
+                "328fff2e35e04c5d",
+                "3c1170942ff4d267"
+            ]
+        ]
+    },
+    {
+        "id": "328fff2e35e04c5d",
+        "type": "link out",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "MeasuringFailure",
+        "mode": "link",
+        "links": [
+            "9d71cadcae58a129"
+        ],
+        "x": 935,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "1d349769c78dcc37",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "Set Station / Measurement Type / Lot ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "name",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastInsert",
+                "pt": "msg",
+                "to": "lastInsert",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 620,
+        "wires": [
+            [
+                "6204625af756d198"
+            ]
+        ]
+    },
+    {
+        "id": "6204625af756d198",
+        "type": "postgresql",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND type = '{{{msg.type}}}';\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1330,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c5adf86c221d1c9",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "c195c78a5f165386",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6a6035084ad30108",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "c195c78a5f165386",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1370,
+        "y": 920,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "868fa19a993d4e57",
+        "type": "inject",
+        "z": "bbbd9c9a23475bcd",
+        "g": "c195c78a5f165386",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1370,
+        "y": 960,
+        "wires": [
+            [
+                "2c5adf86c221d1c9"
+            ]
+        ]
+    },
+    {
+        "id": "b7958afd6fd42493",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 740,
+        "wires": [
+            [
+                "19a5fea616eba701",
+                "3c1170942ff4d267"
+            ]
+        ]
+    },
+    {
+        "id": "cf3210fcacb34417",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 860,
+        "wires": [
+            [
+                "1e6fb31f8046cc0e",
+                "0ea8863d88fdf298"
+            ]
+        ]
+    },
+    {
+        "id": "21145aa1369410b5",
+        "type": "link in",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "link in 1",
+        "links": [
+            "6607b3ad246088d7"
+        ],
+        "x": 385,
+        "y": 800,
+        "wires": [
+            [
+                "c8c180f946787d6d",
+                "9e1115ebd72fce94"
+            ]
+        ]
+    },
+    {
+        "id": "c8c180f946787d6d",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 820,
+        "wires": [
+            [
+                "1e6fb31f8046cc0e"
+            ]
+        ]
+    },
+    {
+        "id": "9e1115ebd72fce94",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 550,
+        "y": 780,
+        "wires": [
+            [
+                "19a5fea616eba701",
+                "ec2b752b2ff71d3a"
+            ]
+        ]
+    },
+    {
+        "id": "9d71cadcae58a129",
+        "type": "link in",
+        "z": "bbbd9c9a23475bcd",
+        "g": "ee1e7902484cd0b6",
+        "name": "Measuring Failure",
+        "links": [
+            "db17e1c55ea376bc",
+            "328fff2e35e04c5d"
+        ],
+        "x": 345,
+        "y": 860,
+        "wires": [
+            [
+                "b7958afd6fd42493",
+                "cf3210fcacb34417"
+            ]
+        ]
+    },
+    {
+        "id": "3c1170942ff4d267",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "bacb35450f0be123",
+        "name": "Delete",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 700,
+        "wires": [
+            [
+                "7b547c08ca0f2a2a"
+            ]
+        ]
+    },
+    {
+        "id": "7b547c08ca0f2a2a",
+        "type": "link out",
+        "z": "bbbd9c9a23475bcd",
+        "g": "bacb35450f0be123",
+        "name": "Messurement Stopped",
+        "mode": "link",
+        "links": [
+            "06d4e11e16c00fde",
+            "c1b774a6d519e08d"
+        ],
+        "x": 1315,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "8f55f6cc709f7d4b",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9c15dc2eefa4a868",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ec2b752b2ff71d3a",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 780,
+        "wires": [
+            [
+                "5cd0c20dd011a3cc"
+            ]
+        ]
+    },
+    {
+        "id": "b61265237793ae23",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "18ed449efc822445",
+        "type": "change",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9a996de793eb15e3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a8560afb4afdc873",
+        "type": "comment",
         "z": "bbbd9c9a23475bcd",
         "g": "714fa99fe7ed3cdd",
-        "name": "debug 12",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 420,
-        "y": 1540,
+        "name": "Special ",
+        "info": "",
+        "x": 810,
+        "y": 1380,
         "wires": []
     },
     {
@@ -25210,8 +25241,8 @@
         "name": "Messurement Stopped",
         "mode": "link",
         "links": [
-            "9eac7cfb6b127315",
-            "934f4885655d9455"
+            "934f4885655d9455",
+            "9eac7cfb6b127315"
         ],
         "x": 1315,
         "y": 720,
@@ -25546,7 +25577,9 @@
         "name": "Measurement Finished",
         "mode": "link",
         "links": [
-            "dfd82f4245753f8b"
+            "dfd82f4245753f8b",
+            "27cb24f1f495a4e3",
+            "daae8a096d83eb06"
         ],
         "x": 1555,
         "y": 1740,
@@ -25588,7 +25621,7 @@
         "links": [
             "c4490923838778c8"
         ],
-        "x": 905,
+        "x": 935,
         "y": 780,
         "wires": []
     },
@@ -25611,7 +25644,7 @@
         "fontSize": 16,
         "color": "#ffffff",
         "x": 400,
-        "y": 480,
+        "y": 420,
         "wires": []
     },
     {
@@ -25955,7 +25988,10 @@
             [
                 "f440ac1e5c11d9fa",
                 "c332c0998ef00521",
-                "29030e32bfbf9428"
+                "29030e32bfbf9428",
+                "2c46105a862a3d1d",
+                "b220bd94e72d82da",
+                "0e29bd4a4d659409"
             ]
         ]
     },
@@ -26007,8 +26043,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1050,
-        "y": 640,
+        "x": 1070,
+        "y": 660,
         "wires": [
             [
                 "1bac03b1bb774835"
@@ -26027,7 +26063,7 @@
         "rowsPerMsg": 1,
         "outputs": 1,
         "x": 1330,
-        "y": 640,
+        "y": 660,
         "wires": [
             []
         ]
@@ -26207,7 +26243,7 @@
         "to": "",
         "reg": false,
         "x": 170,
-        "y": 480,
+        "y": 420,
         "wires": [
             [
                 "85023e1dcde5fb94"
@@ -26452,11 +26488,10 @@
         "y": 1413,
         "wires": [
             [
-                "6a63e6acca716d71"
-            ],
-            [
+                "6a63e6acca716d71",
                 "55067e36a35b46c6"
             ],
+            [],
             []
         ]
     },
@@ -26651,6 +26686,145 @@
         "y": 1480,
         "wires": [],
         "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "a7cdbe943b15c219",
+        "type": "change",
+        "z": "d82606e5625409a3",
+        "g": "0f17a3402c333e1a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 210,
+        "y": 1020,
+        "wires": [
+            [
+                "6f0c9790c8ebe7ae"
+            ]
+        ]
+    },
+    {
+        "id": "27cb24f1f495a4e3",
+        "type": "link in",
+        "z": "d82606e5625409a3",
+        "g": "0f17a3402c333e1a",
+        "name": "link in 3",
+        "links": [
+            "04b9744a0b524279"
+        ],
+        "x": 75,
+        "y": 1020,
+        "wires": [
+            [
+                "a7cdbe943b15c219"
+            ]
+        ]
+    },
+    {
+        "id": "b5f8c7d3c124f053",
+        "type": "ui_ui_control",
+        "z": "d82606e5625409a3",
+        "g": "5f4746760eeb9c89",
+        "name": "",
+        "events": "change",
+        "x": 1200,
+        "y": 560,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2c46105a862a3d1d",
+        "type": "change",
+        "z": "d82606e5625409a3",
+        "g": "5f4746760eeb9c89",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "-1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 560,
+        "wires": [
+            [
+                "b5f8c7d3c124f053"
+            ]
+        ]
+    },
+    {
+        "id": "5da939f384694f28",
+        "type": "link out",
+        "z": "d82606e5625409a3",
+        "g": "0f17a3402c333e1a",
+        "name": "Button Fail",
+        "mode": "link",
+        "links": [
+            "c4490923838778c8"
+        ],
+        "x": 1195,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "0e29bd4a4d659409",
+        "type": "change",
+        "z": "d82606e5625409a3",
+        "g": "5f4746760eeb9c89",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Return",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 600,
+        "wires": [
+            [
+                "5da939f384694f28"
+            ]
+        ]
+    },
+    {
+        "id": "9649311bee8277f2",
+        "type": "comment",
+        "z": "d82606e5625409a3",
+        "g": "8bf419af69c8b344",
+        "name": "Special ",
+        "info": "",
+        "x": 750,
+        "y": 1380,
+        "wires": []
     },
     {
         "id": "0786d2c07aa02047",
