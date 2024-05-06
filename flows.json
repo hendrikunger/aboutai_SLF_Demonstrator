@@ -152,9 +152,7 @@
             "8b0dbb210dc7063c"
         ],
         "x": 34,
-        "y": 559,
-        "w": 1492,
-        "h": 82
+        "y": 559
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -1825,9 +1823,7 @@
             "e7a9d22c1b3c703d"
         ],
         "x": 54,
-        "y": 73,
-        "w": 1322,
-        "h": 368
+        "y": 73
     },
     {
         "id": "4b187495e475f63d",
@@ -2288,8 +2284,8 @@
             "fc4c65572188a183",
             "728adda0d21979a3"
         ],
-        "x": 1074,
-        "y": 99,
+        "x": 1094,
+        "y": 339,
         "w": 592,
         "h": 122
     },
@@ -2718,8 +2714,8 @@
             "c484b284a88007c9",
             "06fbfc8c7f1ca0e8"
         ],
-        "x": 1074,
-        "y": 99,
+        "x": 1094,
+        "y": 339,
         "w": 592,
         "h": 122
     },
@@ -3076,6 +3072,43 @@
         ],
         "x": 1033.9999542236328,
         "y": 2792.9999742507935
+    },
+    {
+        "id": "9a996de793eb15e3",
+        "type": "group",
+        "z": "bbbd9c9a23475bcd",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1e6fb31f8046cc0e",
+            "9ec5953b5b0f3e6d",
+            "0ea8863d88fdf298",
+            "f64c1f91000e56e9",
+            "e7ca7f3b6d73e7ac",
+            "5cd0c20dd011a3cc",
+            "56175fd8d53e3f60",
+            "4bf83e6fc19d6c85",
+            "31d6d9de81f15ca9",
+            "f6e5981af7fc7e48",
+            "32ba817557884c2b",
+            "19a5fea616eba701",
+            "328fff2e35e04c5d",
+            "1d349769c78dcc37",
+            "6204625af756d198",
+            "ec2b752b2ff71d3a",
+            "b61265237793ae23",
+            "18ed449efc822445",
+            "c195c78a5f165386",
+            "ee1e7902484cd0b6",
+            "bacb35450f0be123",
+            "9c15dc2eefa4a868"
+        ],
+        "x": 34,
+        "y": 579,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "7eb72b1d55d66ff5",
@@ -3646,9 +3679,7 @@
             "8d3c9719a67f5aef"
         ],
         "x": 374,
-        "y": 99,
-        "w": 712,
-        "h": 122
+        "y": 99
     },
     {
         "id": "479b12688187f57b",
@@ -3897,43 +3928,6 @@
         "y": 799,
         "w": 272,
         "h": 82
-    },
-    {
-        "id": "9a996de793eb15e3",
-        "type": "group",
-        "z": "bbbd9c9a23475bcd",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1e6fb31f8046cc0e",
-            "9ec5953b5b0f3e6d",
-            "0ea8863d88fdf298",
-            "f64c1f91000e56e9",
-            "e7ca7f3b6d73e7ac",
-            "5cd0c20dd011a3cc",
-            "56175fd8d53e3f60",
-            "4bf83e6fc19d6c85",
-            "31d6d9de81f15ca9",
-            "f6e5981af7fc7e48",
-            "32ba817557884c2b",
-            "19a5fea616eba701",
-            "328fff2e35e04c5d",
-            "1d349769c78dcc37",
-            "6204625af756d198",
-            "ec2b752b2ff71d3a",
-            "b61265237793ae23",
-            "18ed449efc822445",
-            "c195c78a5f165386",
-            "ee1e7902484cd0b6",
-            "bacb35450f0be123",
-            "9c15dc2eefa4a868"
-        ],
-        "x": 34,
-        "y": 579,
-        "w": 1658,
-        "h": 448
     },
     {
         "id": "c195c78a5f165386",
@@ -8167,7 +8161,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -10583,7 +10577,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -12911,7 +12905,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -15267,7 +15261,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -17536,7 +17530,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -19912,7 +19906,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -22268,7 +22262,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -23751,7 +23745,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -24594,7 +24588,7 @@
         "links": [
             "6607b3ad246088d7"
         ],
-        "x": 385,
+        "x": 375,
         "y": 800,
         "wires": [
             [
@@ -26170,12 +26164,12 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
-        "x": 1170,
-        "y": 140,
+        "x": 1190,
+        "y": 380,
         "wires": [
             [
                 "fc4c65572188a183"
@@ -26189,8 +26183,8 @@
         "g": "9a6c3ec61a42019f",
         "name": "Change type",
         "info": "",
-        "x": 1350,
-        "y": 180,
+        "x": 1370,
+        "y": 420,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -26214,8 +26208,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1340,
-        "y": 140,
+        "x": 1360,
+        "y": 380,
         "wires": [
             [
                 "728adda0d21979a3"
@@ -26270,8 +26264,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1540,
-        "y": 140,
+        "x": 1560,
+        "y": 380,
         "wires": [
             []
         ]
@@ -28877,7 +28871,7 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -30503,12 +30497,12 @@
         "repeat": "",
         "crontab": "",
         "once": true,
-        "onceDelay": "0",
+        "onceDelay": "0.2",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
-        "x": 1170,
-        "y": 140,
+        "x": 1190,
+        "y": 380,
         "wires": [
             [
                 "c484b284a88007c9"
@@ -30522,8 +30516,8 @@
         "g": "e93339dfa291cf08",
         "name": "Change type",
         "info": "",
-        "x": 1350,
-        "y": 180,
+        "x": 1370,
+        "y": 420,
         "wires": [],
         "icon": "node-red/alert.svg"
     },
@@ -30547,8 +30541,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1340,
-        "y": 140,
+        "x": 1360,
+        "y": 380,
         "wires": [
             [
                 "06fbfc8c7f1ca0e8"
@@ -30603,8 +30597,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 1540,
-        "y": 140,
+        "x": 1560,
+        "y": 380,
         "wires": [
             []
         ]
