@@ -152,7 +152,9 @@
             "8b0dbb210dc7063c"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1102,
+        "h": 82
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -176,9 +178,7 @@
             "6678252c60ace251"
         ],
         "x": 14,
-        "y": 1326,
-        "w": 1449,
-        "h": 235
+        "y": 1326
     },
     {
         "id": "845f4268e3199e1d",
@@ -212,9 +212,7 @@
             "9767ae7be4407276"
         ],
         "x": 14,
-        "y": 1619,
-        "w": 2432,
-        "h": 262
+        "y": 1619
     },
     {
         "id": "986a61aab651f4f0",
@@ -235,9 +233,7 @@
             "93e53c79c8468f79"
         ],
         "x": 34,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "8a5269ad7e2db96a",
@@ -304,9 +300,7 @@
             "bbb865b67a4031dc"
         ],
         "x": 414,
-        "y": 259,
-        "w": 512,
-        "h": 142
+        "y": 259
     },
     {
         "id": "780c740174ed8448",
@@ -321,9 +315,7 @@
             "88a865df6bb9805d"
         ],
         "x": 34,
-        "y": 419,
-        "w": 412,
-        "h": 82
+        "y": 419
     },
     {
         "id": "a46784b1fcaec318",
@@ -347,9 +339,7 @@
             "da132fd2cef17be3"
         ],
         "x": 18.000003814697266,
-        "y": 1386,
-        "w": 1444.9999961853027,
-        "h": 235
+        "y": 1386
     },
     {
         "id": "6e8953d914202ea4",
@@ -364,9 +354,7 @@
             "b45c606c9d4201d5"
         ],
         "x": 34,
-        "y": 439,
-        "w": 432,
-        "h": 82
+        "y": 439
     },
     {
         "id": "70dff54ed083811d",
@@ -390,9 +378,7 @@
             "dfde147112837060"
         ],
         "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
+        "y": 1359
     },
     {
         "id": "58de42e9f0769879",
@@ -407,9 +393,7 @@
             "4e7673ccd33b176a"
         ],
         "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
+        "y": 439
     },
     {
         "id": "f012c22f57440622",
@@ -429,9 +413,7 @@
             "19375a1a97e5e381"
         ],
         "x": 24,
-        "y": 239,
-        "w": 862,
-        "h": 142
+        "y": 239
     },
     {
         "id": "a4fa0b2b0b924c26",
@@ -451,9 +433,7 @@
             "3a49a2fdf70fc6df"
         ],
         "x": 4,
-        "y": 219,
-        "w": 902,
-        "h": 142
+        "y": 219
     },
     {
         "id": "c8fba86045d3d8b3",
@@ -473,9 +453,7 @@
             "6b3350dbc9be6b70"
         ],
         "x": 24,
-        "y": 239,
-        "w": 922,
-        "h": 142
+        "y": 239
     },
     {
         "id": "f32343183e9c9e51",
@@ -499,9 +477,7 @@
             "93c899f39247de2a"
         ],
         "x": 34,
-        "y": 1539,
-        "w": 1432,
-        "h": 235
+        "y": 1539
     },
     {
         "id": "62658be016b831f9",
@@ -516,9 +492,7 @@
             "bb831aac27c7ae79"
         ],
         "x": 54,
-        "y": 459,
-        "w": 432,
-        "h": 82
+        "y": 459
     },
     {
         "id": "5dea7495e52bcfb6",
@@ -538,9 +512,7 @@
             "9c02dae2ec572fa2"
         ],
         "x": 14,
-        "y": 239,
-        "w": 912,
-        "h": 142
+        "y": 239
     },
     {
         "id": "bca4306ba871994a",
@@ -564,9 +536,7 @@
             "6581ac48ae0a5768"
         ],
         "x": 54,
-        "y": 1426,
-        "w": 1449,
-        "h": 235
+        "y": 1426
     },
     {
         "id": "6c1d4390cec1ec27",
@@ -581,9 +551,7 @@
             "9c645943145e3e56"
         ],
         "x": 74,
-        "y": 459,
-        "w": 412,
-        "h": 82
+        "y": 459
     },
     {
         "id": "1379c8709e0ece67",
@@ -603,9 +571,7 @@
             "aed0a478b1e382c4"
         ],
         "x": 44,
-        "y": 259,
-        "w": 902,
-        "h": 142
+        "y": 259
     },
     {
         "id": "827aa793e91b64c2",
@@ -691,9 +657,7 @@
             "02a7dff01f1d1088"
         ],
         "x": 14,
-        "y": 39,
-        "w": 992,
-        "h": 162
+        "y": 39
     },
     {
         "id": "cb24f0c2933747eb",
@@ -714,9 +678,7 @@
             "2565ee0ff0a52834"
         ],
         "x": 34,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "20d4b66822901145",
@@ -737,9 +699,7 @@
             "4176b53c51be74a8"
         ],
         "x": 14,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "15b3bcc68d99a783",
@@ -760,9 +720,7 @@
             "d0a8d92641ee3be3"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1042,
-        "h": 162
+        "y": 39
     },
     {
         "id": "0c0f177a54113eb9",
@@ -848,9 +806,7 @@
             "93f564cbef5b9603"
         ],
         "x": 34,
-        "y": 1819,
-        "w": 2312,
-        "h": 282
+        "y": 1819
     },
     {
         "id": "2cf293352e3cee14",
@@ -888,9 +844,7 @@
             "4756f886debe829f"
         ],
         "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 282
+        "y": 1619
     },
     {
         "id": "aad35dc03f9f96dd",
@@ -930,9 +884,7 @@
             "8a84098978f0d5c0"
         ],
         "x": 14,
-        "y": 1659,
-        "w": 2202,
-        "h": 322
+        "y": 1659
     },
     {
         "id": "49fe87a3db7441c6",
@@ -969,9 +921,7 @@
             "a9cb839cc1d8808d"
         ],
         "x": 34,
-        "y": 1699,
-        "w": 2032,
-        "h": 282
+        "y": 1699
     },
     {
         "id": "164f2485b94aaba9",
@@ -1024,9 +974,7 @@
             "f5504d7c5079dde1"
         ],
         "x": 774,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "25aa3564c26c7cc1",
@@ -1044,9 +992,7 @@
             "6e63f224e8dc88af"
         ],
         "x": 734,
-        "y": 399,
-        "w": 782,
-        "h": 82
+        "y": 399
     },
     {
         "id": "867a2d344952db65",
@@ -1064,9 +1010,7 @@
             "372f6fe592efbfb6"
         ],
         "x": 714,
-        "y": 399,
-        "w": 782,
-        "h": 82
+        "y": 399
     },
     {
         "id": "a8cdf078a528a441",
@@ -1084,9 +1028,7 @@
             "5c1f494f22c9e211"
         ],
         "x": 914,
-        "y": 379,
-        "w": 782,
-        "h": 82
+        "y": 379
     },
     {
         "id": "77dd6a7dee83ca06",
@@ -1104,9 +1046,7 @@
             "23a82ad2e61292b6"
         ],
         "x": 774,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "42735bfaa53df92b",
@@ -1159,9 +1099,7 @@
             "435f5a4ef9be5352"
         ],
         "x": 14,
-        "y": 679,
-        "w": 1658,
-        "h": 468
+        "y": 679
     },
     {
         "id": "acb23dac66fe0d8b",
@@ -1194,9 +1132,7 @@
             "8e09028c3e635399"
         ],
         "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
+        "y": 599
     },
     {
         "id": "f2672f5d109f47ae",
@@ -1229,9 +1165,7 @@
             "bb5cc5c3c893028a"
         ],
         "x": 34,
-        "y": 739,
-        "w": 1658,
-        "h": 448
+        "y": 739
     },
     {
         "id": "efec034816e3d1a4",
@@ -1262,9 +1196,7 @@
             "5559395d3310f426"
         ],
         "x": 54,
-        "y": 679,
-        "w": 1658,
-        "h": 448
+        "y": 679
     },
     {
         "id": "50392007280f7ee4",
@@ -1336,9 +1268,7 @@
             "479b12688187f57b"
         ],
         "x": 14,
-        "y": 579,
-        "w": 1658,
-        "h": 748
+        "y": 579
     },
     {
         "id": "74ad2d205941a89c",
@@ -1362,9 +1292,7 @@
             "1c5aa8a7294a403e"
         ],
         "x": 51,
-        "y": 1506,
-        "w": 1572,
-        "h": 235
+        "y": 1506
     },
     {
         "id": "a815e39e328ee9b9",
@@ -1379,9 +1307,7 @@
             "2d7b9f4af01848a1"
         ],
         "x": 74,
-        "y": 459,
-        "w": 412,
-        "h": 82
+        "y": 459
     },
     {
         "id": "cbea317f5cb77e95",
@@ -1401,9 +1327,7 @@
             "8a3b01f5ac1c8920"
         ],
         "x": 44,
-        "y": 259,
-        "w": 902,
-        "h": 142
+        "y": 259
     },
     {
         "id": "e3e6a0c08b3a0b9b",
@@ -1424,9 +1348,7 @@
             "48aec082628aacd1"
         ],
         "x": 34,
-        "y": 39,
-        "w": 1042,
-        "h": 162
+        "y": 39
     },
     {
         "id": "eb83fb8c6cd63b51",
@@ -1465,9 +1387,7 @@
             "2d52a2c7339593f5"
         ],
         "x": 54,
-        "y": 1779,
-        "w": 2452,
-        "h": 282
+        "y": 1779
     },
     {
         "id": "c3a5fdfc8859962e",
@@ -1485,9 +1405,7 @@
             "d2c8e4fa1dd895ab"
         ],
         "x": 774,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "e880cd819650d6b7",
@@ -1520,9 +1438,7 @@
             "009640f2328f81cc"
         ],
         "x": 34,
-        "y": 659,
-        "w": 1658,
-        "h": 468
+        "y": 659
     },
     {
         "id": "7939283416aa5d31",
@@ -1538,9 +1454,7 @@
             "35bfc4626ffbdfc0"
         ],
         "x": 384,
-        "y": 1159,
-        "w": 272,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "1f62cb200d20d6bb",
@@ -1556,9 +1470,7 @@
             "b273537a03a12c39"
         ],
         "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
+        "y": 1059
     },
     {
         "id": "13ee7e1ef14318b5",
@@ -1574,9 +1486,7 @@
             "506ec0f72bd64107"
         ],
         "x": 434,
-        "y": 1199,
-        "w": 272,
-        "h": 122
+        "y": 1199
     },
     {
         "id": "cee70ecb980b809f",
@@ -1592,9 +1502,7 @@
             "f14f5a0ca02dba42"
         ],
         "x": 424,
-        "y": 1139,
-        "w": 272,
-        "h": 122
+        "y": 1139
     },
     {
         "id": "660885a7a5be28cf",
@@ -1610,9 +1518,7 @@
             "537b0e41812d4647"
         ],
         "x": 384,
-        "y": 1159,
-        "w": 272,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "f611b156e28bb993",
@@ -1682,9 +1588,7 @@
             "46e8fd6ad953467f"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 612,
-        "h": 122
+        "y": 59
     },
     {
         "id": "538ede45c4ec0c50",
@@ -1701,9 +1605,7 @@
             "564b877ed3689a22"
         ],
         "x": 1094,
-        "y": 59,
-        "w": 592,
-        "h": 122
+        "y": 59
     },
     {
         "id": "dcb4748c42882c52",
@@ -1720,9 +1622,7 @@
             "bb614a3c8413e375"
         ],
         "x": 1074,
-        "y": 99,
-        "w": 592,
-        "h": 122
+        "y": 99
     },
     {
         "id": "ee109df68af24582",
@@ -1739,9 +1639,7 @@
             "dc8030663de57849"
         ],
         "x": 1114,
-        "y": 99,
-        "w": 592,
-        "h": 122
+        "y": 99
     },
     {
         "id": "b0a2eb480a71d31e",
@@ -1758,9 +1656,7 @@
             "f7c261873e164fc9"
         ],
         "x": 1114,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "y": 79
     },
     {
         "id": "844eb2b431656228",
@@ -1777,9 +1673,7 @@
             "1d8b61563799fce7"
         ],
         "x": 1154,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "y": 79
     },
     {
         "id": "492587daee44b0f0",
@@ -1823,7 +1717,9 @@
             "e7a9d22c1b3c703d"
         ],
         "x": 54,
-        "y": 73
+        "y": 73,
+        "w": 1322,
+        "h": 368
     },
     {
         "id": "4b187495e475f63d",
@@ -1840,9 +1736,7 @@
             "c0343ba5ca465889"
         ],
         "x": 244,
-        "y": 1299,
-        "w": 532,
-        "h": 82
+        "y": 1299
     },
     {
         "id": "477ba2869b1dc5b2",
@@ -1859,9 +1753,7 @@
             "2aecdcf9afea6204"
         ],
         "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
+        "y": 1219
     },
     {
         "id": "cdb1e268e793fa94",
@@ -1878,9 +1770,7 @@
             "57d02878b93a7b79"
         ],
         "x": 144,
-        "y": 1339,
-        "w": 532,
-        "h": 82
+        "y": 1339
     },
     {
         "id": "99fe34152fa75d4e",
@@ -1897,9 +1787,7 @@
             "9b6d39a65611bed0"
         ],
         "x": 174,
-        "y": 1299,
-        "w": 532,
-        "h": 82
+        "y": 1299
     },
     {
         "id": "a814938400f6b94f",
@@ -1916,9 +1804,7 @@
             "b6e8bd6e30ae6ae9"
         ],
         "x": 124,
-        "y": 1339,
-        "w": 532,
-        "h": 82
+        "y": 1339
     },
     {
         "id": "6f90eb41e553b9f7",
@@ -2095,11 +1981,12 @@
         "nodes": [
             "62da84ce63756b74",
             "8c9254711ae1324b",
-            "01137f762ed3ea5b"
+            "01137f762ed3ea5b",
+            "74b2f8edcab9dd35"
         ],
-        "x": 424,
+        "x": 364,
         "y": 1059,
-        "w": 272,
+        "w": 332,
         "h": 122
     },
     {
@@ -2263,11 +2150,12 @@
         "nodes": [
             "d89b42715fa2e4cb",
             "419c5a8f0b9977e9",
-            "25caf5268138e8b8"
+            "25caf5268138e8b8",
+            "1db640e9887a834a"
         ],
-        "x": 424,
+        "x": 374,
         "y": 1059,
-        "w": 272,
+        "w": 322,
         "h": 122
     },
     {
@@ -3125,9 +3013,7 @@
             "cd16c16d48b3e81e"
         ],
         "x": 1234,
-        "y": 999,
-        "w": 412,
-        "h": 122
+        "y": 999
     },
     {
         "id": "646830208e399357",
@@ -3147,9 +3033,7 @@
             "aa2c6419d9d11b1b"
         ],
         "x": 244,
-        "y": 819,
-        "w": 362,
-        "h": 202
+        "y": 819
     },
     {
         "id": "1f51def5131b3b7a",
@@ -3165,9 +3049,7 @@
             "8884248bdebf81b8"
         ],
         "x": 1134,
-        "y": 779,
-        "w": 202,
-        "h": 82
+        "y": 779
     },
     {
         "id": "435f5a4ef9be5352",
@@ -3182,9 +3064,7 @@
             "09d0c11c82ace869"
         ],
         "x": 1234,
-        "y": 899,
-        "w": 272,
-        "h": 82
+        "y": 899
     },
     {
         "id": "73fa96783173f291",
@@ -3201,9 +3081,7 @@
             "d010a26ef3363e22"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "495e8211f9a42b12",
@@ -3223,9 +3101,7 @@
             "64f0cc8dd2ce3933"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "f1e5439bc975e477",
@@ -3241,9 +3117,7 @@
             "8672e4aebc04a782"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "8e09028c3e635399",
@@ -3258,9 +3132,7 @@
             "0243e77734a30f41"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
+        "y": 799
     },
     {
         "id": "a2d6f713081c06fb",
@@ -3277,9 +3149,7 @@
             "4ef1ca564fefdfe8"
         ],
         "x": 1254,
-        "y": 1039,
-        "w": 412,
-        "h": 122
+        "y": 1039
     },
     {
         "id": "c68dec796d1c08a2",
@@ -3299,9 +3169,7 @@
             "2fdd83224f15da97"
         ],
         "x": 264,
-        "y": 859,
-        "w": 362,
-        "h": 202
+        "y": 859
     },
     {
         "id": "3056371dd636280a",
@@ -3317,9 +3185,7 @@
             "aa5839c7724e9704"
         ],
         "x": 1114,
-        "y": 839,
-        "w": 202,
-        "h": 82
+        "y": 839
     },
     {
         "id": "bb5cc5c3c893028a",
@@ -3334,9 +3200,7 @@
             "a6fac1a51ec27b69"
         ],
         "x": 1254,
-        "y": 939,
-        "w": 272,
-        "h": 82
+        "y": 939
     },
     {
         "id": "e0131b648a26632f",
@@ -3353,9 +3217,7 @@
             "281e8267145e75b9"
         ],
         "x": 1274,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "47119d105f62d791",
@@ -3375,9 +3237,7 @@
             "55ea92167a359d6d"
         ],
         "x": 304,
-        "y": 799,
-        "w": 342,
-        "h": 202
+        "y": 799
     },
     {
         "id": "b09b4ed3e741e5f0",
@@ -3393,9 +3253,7 @@
             "b0f2e927af94dbc9"
         ],
         "x": 1094,
-        "y": 739,
-        "w": 202,
-        "h": 82
+        "y": 739
     },
     {
         "id": "5559395d3310f426",
@@ -3410,9 +3268,7 @@
             "131bf85a21c92239"
         ],
         "x": 1274,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "e73064b668513727",
@@ -3505,9 +3361,7 @@
             "6c0ba9e1b80d2e1c"
         ],
         "x": 1234,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "8fb1da913ebbb0a8",
@@ -3527,9 +3381,7 @@
             "fda943f3a6add609"
         ],
         "x": 254,
-        "y": 719,
-        "w": 352,
-        "h": 202
+        "y": 719
     },
     {
         "id": "e93f7bfc305fe380",
@@ -3545,9 +3397,7 @@
             "0e48aac0cc361391"
         ],
         "x": 1174,
-        "y": 659,
-        "w": 202,
-        "h": 82
+        "y": 659
     },
     {
         "id": "92b4f553da63bd74",
@@ -3562,9 +3412,7 @@
             "efa429021e13e670"
         ],
         "x": 1234,
-        "y": 799,
-        "w": 272,
-        "h": 82
+        "y": 799
     },
     {
         "id": "a56ec20e5c83b6c4",
@@ -3581,9 +3429,7 @@
             "e2d2b8af752cccb7"
         ],
         "x": 1254,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "4691b614ef7b6e13",
@@ -3603,9 +3449,7 @@
             "1b3071500a59367e"
         ],
         "x": 284,
-        "y": 799,
-        "w": 342,
-        "h": 202
+        "y": 799
     },
     {
         "id": "fdfe57dd5dfea9a8",
@@ -3621,9 +3465,7 @@
             "67a67b988a33662d"
         ],
         "x": 1074,
-        "y": 739,
-        "w": 202,
-        "h": 82
+        "y": 739
     },
     {
         "id": "009640f2328f81cc",
@@ -3638,9 +3480,7 @@
             "58f6a75d49bbfc4a"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "9ec6774c0f289716",
@@ -3657,9 +3497,7 @@
             "e82976f501f1a67d"
         ],
         "x": 454,
-        "y": 1039,
-        "w": 272,
-        "h": 122
+        "y": 1039
     },
     {
         "id": "4782014c59a1fc17",
@@ -3679,7 +3517,9 @@
             "8d3c9719a67f5aef"
         ],
         "x": 374,
-        "y": 99
+        "y": 99,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "479b12688187f57b",
@@ -3697,9 +3537,7 @@
             "6672570e8a4942f6"
         ],
         "x": 244,
-        "y": 1219,
-        "w": 532,
-        "h": 82
+        "y": 1219
     },
     {
         "id": "7a342863bbfe0ef2",
@@ -3770,11 +3608,12 @@
             "label": true
         },
         "nodes": [
-            "1f60c8be88758f74"
+            "1f60c8be88758f74",
+            "eaff969e05f2f01c"
         ],
         "x": 1254,
         "y": 799,
-        "w": 272,
+        "w": 332,
         "h": 82
     },
     {
@@ -3998,11 +3837,12 @@
             "label": true
         },
         "nodes": [
-            "8f55f6cc709f7d4b"
+            "8f55f6cc709f7d4b",
+            "ccac2e5e5f073bae"
         ],
         "x": 1254,
         "y": 779,
-        "w": 272,
+        "w": 322,
         "h": 82
     },
     {
@@ -5410,6 +5250,7 @@
         "name": "state machine",
         "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\nelse if (msg.payload == \"Return\"){\n    var plan = flow.get(\"measurePlan\");\n    var element = flow.get(\"lastMeasurement\")\n    if (element){\n        plan.unshift(element)\n        flow.set(\"measurePlan\", plan);\n    }\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            var element = measurePlan.shift()\n            flow.set(\"lastMeasurement\", element)\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -7971,7 +7812,10 @@
             "64f0cc8dd2ce3933",
             "2fdd83224f15da97",
             "55ea92167a359d6d",
-            "cc352ce9cc2b5d42"
+            "cc352ce9cc2b5d42",
+            "74b2f8edcab9dd35",
+            "86c2337c0966bc72",
+            "1db640e9887a834a"
         ],
         "x": 915,
         "y": 700,
@@ -8158,10 +8002,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -8224,7 +8068,7 @@
                 "t": "set",
                 "p": "long_name",
                 "pt": "flow",
-                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
+                "to": "$lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
                 "tot": "jsonata"
             }
         ],
@@ -10574,10 +10418,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -12902,10 +12746,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -15258,10 +15102,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -17527,10 +17371,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -19903,10 +19747,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -22259,10 +22103,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -23742,10 +23586,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -24858,6 +24702,36 @@
         "wires": []
     },
     {
+        "id": "74b2f8edcab9dd35",
+        "type": "link in",
+        "z": "bbbd9c9a23475bcd",
+        "g": "0175ae52e863122a",
+        "name": "Reset Filter",
+        "links": [
+            "db17e1c55ea376bc",
+            "ccac2e5e5f073bae"
+        ],
+        "x": 405,
+        "y": 1120,
+        "wires": [
+            [
+                "8c9254711ae1324b"
+            ]
+        ]
+    },
+    {
+        "id": "ccac2e5e5f073bae",
+        "type": "link out",
+        "z": "bbbd9c9a23475bcd",
+        "g": "9c15dc2eefa4a868",
+        "name": "Measuring Started",
+        "mode": "link",
+        "links": [],
+        "x": 1535,
+        "y": 820,
+        "wires": []
+    },
+    {
         "id": "e76d38daf11f4689",
         "type": "ui_button",
         "z": "d82606e5625409a3",
@@ -24909,7 +24783,9 @@
         "x": 1390,
         "y": 840,
         "wires": [
-            []
+            [
+                "eaff969e05f2f01c"
+            ]
         ]
     },
     {
@@ -26161,10 +26037,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -26818,6 +26694,38 @@
         "info": "",
         "x": 750,
         "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "1db640e9887a834a",
+        "type": "link in",
+        "z": "d82606e5625409a3",
+        "g": "85c5b65030cd9ef0",
+        "name": "Reset Filter",
+        "links": [
+            "db17e1c55ea376bc",
+            "eaff969e05f2f01c"
+        ],
+        "x": 415,
+        "y": 1120,
+        "wires": [
+            [
+                "419c5a8f0b9977e9"
+            ]
+        ]
+    },
+    {
+        "id": "eaff969e05f2f01c",
+        "type": "link out",
+        "z": "d82606e5625409a3",
+        "g": "2277e177d3da6f73",
+        "name": "Measuring Started",
+        "mode": "link",
+        "links": [
+            "1db640e9887a834a"
+        ],
+        "x": 1545,
+        "y": 840,
         "wires": []
     },
     {
@@ -28868,10 +28776,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -30494,10 +30402,10 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "0.2",
+        "onceDelay": "1",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -36223,7 +36131,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "",
+        "repeat": "60",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
@@ -36536,10 +36444,8 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [
-            "368c3c772a33762d"
-        ],
-        "x": 1485,
+        "links": [],
+        "x": 1095,
         "y": 600,
         "wires": []
     },
@@ -36808,10 +36714,13 @@
             "2d12585269ba30f8",
             "606ba2871e2b4fbf",
             "62da84ce63756b74",
+            "761ddc3ae980df95",
             "8c766fcdc7fccc64",
             "8fe5a2c820b3c062",
             "96eb2b8d0531eda3",
             "bb37f2e55771102f",
+            "ce720cf71f0af9ce",
+            "d89b42715fa2e4cb",
             "f48bdf8d72c056c0"
         ],
         "x": 765,
@@ -36828,9 +36737,7 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [
-            "ebcbe221c3431249"
-        ],
+        "links": [],
         "x": 255,
         "y": 400,
         "wires": [
