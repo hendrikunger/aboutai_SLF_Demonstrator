@@ -23867,7 +23867,7 @@
         "y": 1000,
         "wires": [
             [
-                "4bf83e6fc19d6c85"
+                "f6e5981af7fc7e48"
             ]
         ]
     },
@@ -23961,7 +23961,7 @@
         "toggleTopic": "",
         "toggleValue": "",
         "toggleType": "any",
-        "passOnOff": "always",
+        "passOnOff": "ifChanged",
         "x": 950,
         "y": 860,
         "wires": [
@@ -24600,7 +24600,9 @@
         "x": 1390,
         "y": 820,
         "wires": [
-            []
+            [
+                "ccac2e5e5f073bae"
+            ]
         ]
     },
     {
@@ -24949,7 +24951,7 @@
         "toggleTopic": "",
         "toggleValue": "",
         "toggleType": "any",
-        "passOnOff": "always",
+        "passOnOff": "ifChanged",
         "x": 950,
         "y": 880,
         "wires": [
@@ -26581,7 +26583,7 @@
         "y": 1020,
         "wires": [
             [
-                "6f0c9790c8ebe7ae"
+                "2fbe0d79dbbe52c7"
             ]
         ]
     },
