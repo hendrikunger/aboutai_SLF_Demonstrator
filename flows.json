@@ -152,9 +152,7 @@
             "8b0dbb210dc7063c"
         ],
         "x": 34,
-        "y": 559,
-        "w": 1102,
-        "h": 82
+        "y": 559
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -1699,9 +1697,7 @@
             "e7a9d22c1b3c703d"
         ],
         "x": 54,
-        "y": 73,
-        "w": 1322,
-        "h": 368
+        "y": 73
     },
     {
         "id": "4b187495e475f63d",
@@ -1828,9 +1824,7 @@
             "a8560afb4afdc873"
         ],
         "x": 74,
-        "y": 1339,
-        "w": 1372,
-        "h": 255
+        "y": 1339
     },
     {
         "id": "291e45637c48a6a4",
@@ -1845,9 +1839,7 @@
             "0a8228777f39dbef"
         ],
         "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
+        "y": 439
     },
     {
         "id": "02d7cb2d3d4b6fb0",
@@ -1867,9 +1859,7 @@
             "e227f0774c7fc7af"
         ],
         "x": 24,
-        "y": 239,
-        "w": 922,
-        "h": 142
+        "y": 239
     },
     {
         "id": "9234d489b5c77576",
@@ -1890,9 +1880,7 @@
             "6682922438df0e8e"
         ],
         "x": 34,
-        "y": 59,
-        "w": 1032,
-        "h": 162
+        "y": 59
     },
     {
         "id": "0921429d881fd664",
@@ -1926,9 +1914,7 @@
             "370c7234f7d4a6c7"
         ],
         "x": 64,
-        "y": 1659,
-        "w": 1982,
-        "h": 242
+        "y": 1659
     },
     {
         "id": "b56fb1995eb4f11b",
@@ -1946,9 +1932,7 @@
             "bf1ec0b37f1e21c3"
         ],
         "x": 714,
-        "y": 399,
-        "w": 782,
-        "h": 82
+        "y": 399
     },
     {
         "id": "0175ae52e863122a",
@@ -1961,13 +1945,10 @@
         "nodes": [
             "62da84ce63756b74",
             "8c9254711ae1324b",
-            "01137f762ed3ea5b",
-            "74b2f8edcab9dd35"
+            "01137f762ed3ea5b"
         ],
-        "x": 364,
-        "y": 1059,
-        "w": 332,
-        "h": 122
+        "x": 424,
+        "y": 1059
     },
     {
         "id": "378edec7a43c49ce",
@@ -1984,9 +1965,7 @@
             "7d2ade5ea23647e6"
         ],
         "x": 1074,
-        "y": 59,
-        "w": 592,
-        "h": 122
+        "y": 59
     },
     {
         "id": "b2626df5163007c2",
@@ -2003,9 +1982,7 @@
             "0aec24b01f79fbd2"
         ],
         "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
+        "y": 1219
     },
     {
         "id": "68e75a9a4ba21434",
@@ -2108,13 +2085,10 @@
         "nodes": [
             "d89b42715fa2e4cb",
             "419c5a8f0b9977e9",
-            "25caf5268138e8b8",
-            "1db640e9887a834a"
+            "25caf5268138e8b8"
         ],
-        "x": 374,
-        "y": 1059,
-        "w": 322,
-        "h": 122
+        "x": 424,
+        "y": 1059
     },
     {
         "id": "9a6c3ec61a42019f",
@@ -2896,9 +2870,7 @@
             "9c15dc2eefa4a868"
         ],
         "x": 34,
-        "y": 579,
-        "w": 1658,
-        "h": 448
+        "y": 579
     },
     {
         "id": "7eb72b1d55d66ff5",
@@ -3411,9 +3383,7 @@
             "8d3c9719a67f5aef"
         ],
         "x": 374,
-        "y": 99,
-        "w": 712,
-        "h": 122
+        "y": 99
     },
     {
         "id": "479b12688187f57b",
@@ -3496,13 +3466,10 @@
             "label": true
         },
         "nodes": [
-            "1f60c8be88758f74",
-            "eaff969e05f2f01c"
+            "1f60c8be88758f74"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 332,
-        "h": 82
+        "y": 799
     },
     {
         "id": "97a047c3729dcf58",
@@ -3655,9 +3622,7 @@
             "868fa19a993d4e57"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 412,
-        "h": 122
+        "y": 879
     },
     {
         "id": "ee1e7902484cd0b6",
@@ -3677,9 +3642,7 @@
             "9d71cadcae58a129"
         ],
         "x": 304,
-        "y": 699,
-        "w": 362,
-        "h": 202
+        "y": 699
     },
     {
         "id": "bacb35450f0be123",
@@ -3695,9 +3658,7 @@
             "7b547c08ca0f2a2a"
         ],
         "x": 1154,
-        "y": 659,
-        "w": 202,
-        "h": 82
+        "y": 659
     },
     {
         "id": "9c15dc2eefa4a868",
@@ -3709,13 +3670,10 @@
             "label": true
         },
         "nodes": [
-            "8f55f6cc709f7d4b",
-            "ccac2e5e5f073bae"
+            "8f55f6cc709f7d4b"
         ],
         "x": 1254,
-        "y": 779,
-        "w": 322,
-        "h": 82
+        "y": 779
     },
     {
         "id": "5f4746760eeb9c89",
@@ -5079,7 +5037,7 @@
         "z": "9516ce2929752e9f",
         "name": "",
         "events": "all",
-        "x": 660,
+        "x": 680,
         "y": 100,
         "wires": [
             []
@@ -5120,7 +5078,6 @@
         "name": "state machine",
         "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\nelse if (msg.payload == \"Return\"){\n    var plan = flow.get(\"measurePlan\");\n    var element = flow.get(\"lastMeasurement\")\n    if (element){\n        plan.unshift(element)\n        flow.set(\"measurePlan\", plan);\n    }\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            var element = measurePlan.shift()\n            flow.set(\"lastMeasurement\", element)\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
-        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -7680,10 +7637,7 @@
             "64f0cc8dd2ce3933",
             "2fdd83224f15da97",
             "55ea92167a359d6d",
-            "cc352ce9cc2b5d42",
-            "74b2f8edcab9dd35",
-            "86c2337c0966bc72",
-            "1db640e9887a834a"
+            "cc352ce9cc2b5d42"
         ],
         "x": 915,
         "y": 700,
@@ -7873,7 +7827,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -7936,7 +7890,7 @@
                 "t": "set",
                 "p": "long_name",
                 "pt": "flow",
-                "to": "$lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
+                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
                 "tot": "jsonata"
             }
         ],
@@ -10289,7 +10243,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -12617,7 +12571,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -14973,7 +14927,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -17242,7 +17196,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -19618,7 +19572,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -21974,7 +21928,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -23457,7 +23411,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -23708,7 +23662,7 @@
         "y": 1000,
         "wires": [
             [
-                "f6e5981af7fc7e48"
+                "4bf83e6fc19d6c85"
             ]
         ]
     },
@@ -23802,7 +23756,7 @@
         "toggleTopic": "",
         "toggleValue": "",
         "toggleType": "any",
-        "passOnOff": "ifChanged",
+        "passOnOff": "always",
         "x": 950,
         "y": 860,
         "wires": [
@@ -24441,9 +24395,7 @@
         "x": 1390,
         "y": 820,
         "wires": [
-            [
-                "ccac2e5e5f073bae"
-            ]
+            []
         ]
     },
     {
@@ -24545,36 +24497,6 @@
         "wires": []
     },
     {
-        "id": "74b2f8edcab9dd35",
-        "type": "link in",
-        "z": "bbbd9c9a23475bcd",
-        "g": "0175ae52e863122a",
-        "name": "Reset Filter",
-        "links": [
-            "db17e1c55ea376bc",
-            "ccac2e5e5f073bae"
-        ],
-        "x": 405,
-        "y": 1120,
-        "wires": [
-            [
-                "8c9254711ae1324b"
-            ]
-        ]
-    },
-    {
-        "id": "ccac2e5e5f073bae",
-        "type": "link out",
-        "z": "bbbd9c9a23475bcd",
-        "g": "9c15dc2eefa4a868",
-        "name": "Measuring Started",
-        "mode": "link",
-        "links": [],
-        "x": 1535,
-        "y": 820,
-        "wires": []
-    },
-    {
         "id": "e76d38daf11f4689",
         "type": "ui_button",
         "z": "d82606e5625409a3",
@@ -24626,9 +24548,7 @@
         "x": 1390,
         "y": 840,
         "wires": [
-            [
-                "eaff969e05f2f01c"
-            ]
+            []
         ]
     },
     {
@@ -24792,7 +24712,7 @@
         "toggleTopic": "",
         "toggleValue": "",
         "toggleType": "any",
-        "passOnOff": "ifChanged",
+        "passOnOff": "always",
         "x": 950,
         "y": 880,
         "wires": [
@@ -25883,7 +25803,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -26424,7 +26344,7 @@
         "y": 1020,
         "wires": [
             [
-                "2fbe0d79dbbe52c7"
+                "6f0c9790c8ebe7ae"
             ]
         ]
     },
@@ -26537,38 +26457,6 @@
         "info": "",
         "x": 750,
         "y": 1380,
-        "wires": []
-    },
-    {
-        "id": "1db640e9887a834a",
-        "type": "link in",
-        "z": "d82606e5625409a3",
-        "g": "85c5b65030cd9ef0",
-        "name": "Reset Filter",
-        "links": [
-            "db17e1c55ea376bc",
-            "eaff969e05f2f01c"
-        ],
-        "x": 415,
-        "y": 1120,
-        "wires": [
-            [
-                "419c5a8f0b9977e9"
-            ]
-        ]
-    },
-    {
-        "id": "eaff969e05f2f01c",
-        "type": "link out",
-        "z": "d82606e5625409a3",
-        "g": "2277e177d3da6f73",
-        "name": "Measuring Started",
-        "mode": "link",
-        "links": [
-            "1db640e9887a834a"
-        ],
-        "x": 1545,
-        "y": 840,
         "wires": []
     },
     {
@@ -28622,7 +28510,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -30221,7 +30109,7 @@
         "repeat": "60",
         "crontab": "",
         "once": true,
-        "onceDelay": "1",
+        "onceDelay": "5",
         "topic": "",
         "payload": "Demonstrator digitale Messungen",
         "payloadType": "str",
@@ -35947,7 +35835,7 @@
                 "vt": "str"
             }
         ],
-        "repeat": "60",
+        "repeat": "",
         "crontab": "",
         "once": true,
         "onceDelay": 0.1,
@@ -36260,8 +36148,10 @@
         "g": "c267a2c65f9672c6",
         "name": "Data Generation",
         "mode": "link",
-        "links": [],
-        "x": 1095,
+        "links": [
+            "368c3c772a33762d"
+        ],
+        "x": 1485,
         "y": 600,
         "wires": []
     },
@@ -36530,13 +36420,10 @@
             "2d12585269ba30f8",
             "606ba2871e2b4fbf",
             "62da84ce63756b74",
-            "761ddc3ae980df95",
             "8c766fcdc7fccc64",
             "8fe5a2c820b3c062",
             "96eb2b8d0531eda3",
             "bb37f2e55771102f",
-            "ce720cf71f0af9ce",
-            "d89b42715fa2e4cb",
             "f48bdf8d72c056c0"
         ],
         "x": 765,
@@ -36553,7 +36440,9 @@
         "z": "fe233ff436b4d8c7",
         "g": "c4d565d6dc37a9a9",
         "name": "Demodata In",
-        "links": [],
+        "links": [
+            "ebcbe221c3431249"
+        ],
         "x": 255,
         "y": 400,
         "wires": [
