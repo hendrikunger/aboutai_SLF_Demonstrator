@@ -1822,7 +1822,9 @@
             "a8560afb4afdc873"
         ],
         "x": 74,
-        "y": 1339
+        "y": 1339,
+        "w": 1372,
+        "h": 255
     },
     {
         "id": "291e45637c48a6a4",
@@ -1837,7 +1839,9 @@
             "0a8228777f39dbef"
         ],
         "x": 54,
-        "y": 439
+        "y": 439,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "02d7cb2d3d4b6fb0",
@@ -1857,7 +1861,9 @@
             "e227f0774c7fc7af"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 922,
+        "h": 142
     },
     {
         "id": "9234d489b5c77576",
@@ -1878,7 +1884,9 @@
             "6682922438df0e8e"
         ],
         "x": 14,
-        "y": 59
+        "y": 59,
+        "w": 1032,
+        "h": 162
     },
     {
         "id": "0921429d881fd664",
@@ -1912,7 +1920,9 @@
             "370c7234f7d4a6c7"
         ],
         "x": 64,
-        "y": 1659
+        "y": 1659,
+        "w": 1982,
+        "h": 242
     },
     {
         "id": "b56fb1995eb4f11b",
@@ -1930,7 +1940,9 @@
             "bf1ec0b37f1e21c3"
         ],
         "x": 714,
-        "y": 399
+        "y": 399,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "0175ae52e863122a",
@@ -1946,7 +1958,9 @@
             "01137f762ed3ea5b"
         ],
         "x": 424,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "378edec7a43c49ce",
@@ -1963,7 +1977,9 @@
             "7d2ade5ea23647e6"
         ],
         "x": 1074,
-        "y": 59
+        "y": 59,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "b2626df5163007c2",
@@ -1980,7 +1996,9 @@
             "0aec24b01f79fbd2"
         ],
         "x": 154,
-        "y": 1219
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "68e75a9a4ba21434",
@@ -1995,7 +2013,9 @@
             "12a5bd662cc08c6b"
         ],
         "x": 54,
-        "y": 379
+        "y": 379,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "0e3ee4d10e65696d",
@@ -2033,7 +2053,9 @@
             "48f8866b13c716e1"
         ],
         "x": 44,
-        "y": 1619
+        "y": 1619,
+        "w": 2242,
+        "h": 282
     },
     {
         "id": "0f17a3402c333e1a",
@@ -2070,7 +2092,9 @@
             "5da939f384694f28"
         ],
         "x": 34,
-        "y": 493
+        "y": 493,
+        "w": 1658,
+        "h": 568
     },
     {
         "id": "85c5b65030cd9ef0",
@@ -2086,7 +2110,9 @@
             "25caf5268138e8b8"
         ],
         "x": 424,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "9a6c3ec61a42019f",
@@ -2103,7 +2129,9 @@
             "728adda0d21979a3"
         ],
         "x": 1094,
-        "y": 339
+        "y": 339,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "7a834adf2fa80e33",
@@ -2120,7 +2148,9 @@
             "d59aa50fce47ac6d"
         ],
         "x": 154,
-        "y": 1219
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "8bf419af69c8b344",
@@ -2145,7 +2175,9 @@
             "9649311bee8277f2"
         ],
         "x": 34,
-        "y": 1339
+        "y": 1339,
+        "w": 1372,
+        "h": 255
     },
     {
         "id": "c55113ba29921f12",
@@ -2582,7 +2614,9 @@
             "9c15dc2eefa4a868"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 1658,
+        "h": 448
     },
     {
         "id": "ef56b9e48e183e8b",
@@ -3362,7 +3396,9 @@
             "e659020bcd377aa3"
         ],
         "x": 1254,
-        "y": 899
+        "y": 899,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "25db50738cf6bb34",
@@ -3382,7 +3418,9 @@
             "99a55e5be8e7d976"
         ],
         "x": 264,
-        "y": 719
+        "y": 719,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "1589e63badb4349b",
@@ -3398,7 +3436,9 @@
             "6397a2c1664e483a"
         ],
         "x": 1154,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "2277e177d3da6f73",
@@ -3413,7 +3453,9 @@
             "1f60c8be88758f74"
         ],
         "x": 1254,
-        "y": 799
+        "y": 799,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "97a047c3729dcf58",
@@ -3566,7 +3608,9 @@
             "868fa19a993d4e57"
         ],
         "x": 1254,
-        "y": 879
+        "y": 879,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "ee1e7902484cd0b6",
@@ -3586,7 +3630,9 @@
             "9d71cadcae58a129"
         ],
         "x": 304,
-        "y": 699
+        "y": 699,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "bacb35450f0be123",
@@ -3602,7 +3648,9 @@
             "7b547c08ca0f2a2a"
         ],
         "x": 1154,
-        "y": 659
+        "y": 659,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "9c15dc2eefa4a868",
@@ -3617,7 +3665,9 @@
             "8f55f6cc709f7d4b"
         ],
         "x": 1254,
-        "y": 779
+        "y": 779,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "5f4746760eeb9c89",
@@ -3634,7 +3684,9 @@
             "0e29bd4a4d659409"
         ],
         "x": 914,
-        "y": 519
+        "y": 519,
+        "w": 372,
+        "h": 122
     },
     {
         "id": "36d5d449643d1b2e",
@@ -5587,7 +5639,7 @@
         "type": "function",
         "z": "9516ce2929752e9f",
         "name": "state machine",
-        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n    let measurePlan = [\n        { \"order\": config.m1_order, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id },\n        { \"order\": config.m2_order, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id },\n        { \"order\": config.m3_order, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id },\n        { \"order\": config.m4_order, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id },\n        { \"order\": config.m5_order, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m7_order, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m8_order, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id },\n        { \"order\": config.m9_order, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id },\n        { \"order\": config.m10_order, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id }\n    ]\n    \n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n        });\n\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\nelse if (msg.payload == \"Return\"){\n    var plan = flow.get(\"measurePlan\");\n    var element = flow.get(\"lastMeasurement\")\n    if (element){\n        plan.unshift(element)\n        flow.set(\"measurePlan\", plan);\n    }\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            var element = measurePlan.shift()\n            flow.set(\"lastMeasurement\", element)\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
+        "func": "\n\nvar measurePlan = []\n\n\n/**\n* @param {array} plan\n*/\nfunction getNext(plan){\n\n    while (plan.length >0){\n\n        if (plan[0].order){\n            return plan;\n        }\n        else{\n            plan.shift();\n        }\n\n    }   \n        \n    return false;\n\n}\n\n\n\nif (msg.payload == \"Start\"){\n    \n    let config = global.get(\"config\");\n    let types = global.get(\"measurement_types\")\n\n\n    let measurePlan = [];\n\n\n    config.m1_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m1\"].long_name, \"sensor\": config.m1_sensor_id })\n    });\n    config.m2_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m2\"].long_name, \"sensor\": config.m2_sensor_id })\n    });\n    config.m3_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m3\"].long_name, \"sensor\": config.m3_sensor_id })\n    });\n    config.m4_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m4\"].long_name, \"sensor\": config.m4_sensor_id })\n    });\n    config.m5_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m5\"].long_name, \"sensor\": config.m5_sensor_id })\n        measurePlan.push({ \"order\": element, \"name\": types[\"m5_1\"].long_name, \"sensor\": config.m5_1_sensor_id })\n    });\n    config.m6_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m6\"].long_name, \"sensor\": config.m6_sensor_id })\n    });\n    config.m7_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m7\"].long_name, \"sensor\": config.m7_sensor_id })\n        measurePlan.push({ \"order\": element, \"name\": types[\"m7_1\"].long_name, \"sensor\": config.m7_sensor_id })\n    });\n    config.m8_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m8\"].long_name, \"sensor\": config.m8_sensor_id })\n        measurePlan.push({ \"order\": element, \"name\": types[\"m8_1\"].long_name, \"sensor\": config.m8_sensor_id })\n    });\n    config.m9_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m9\"].long_name, \"sensor\": config.m9_sensor_id })\n    });\n    config.m10_order.forEach(function (element) {\n        measurePlan.push({ \"order\": element, \"name\": types[\"m10\"].long_name, \"sensor\": config.m10_sensor_id })\n    });\n    \n\n    //Filter operations that have no sequence number\n    let filteredPlan = measurePlan.filter((operation) => {\n        return operation.order != null;\n    });\n\n    //Sort operations according to sequence number\n    filteredPlan.sort(function (a, b) {\n            return a.order - b.order;\n    });\n\n    var next = getNext(filteredPlan)\n    if (next) {\n        flow.set(\"measurePlan\", next);\n\n        msg.payload = next[0].name;\n        return msg;\n    }\n    else {\n        node.warn(\"Please enable measurements in Settings Tab\");\n        msg.payload=\"Error\"\n        return msg;\n    }\n\n}\n\nelse if (msg.payload == \"Return\"){\n    var plan = flow.get(\"measurePlan\");\n    var element = flow.get(\"lastMeasurement\")\n    if (element){\n        plan.unshift(element)\n        flow.set(\"measurePlan\", plan);\n    }\n}\n\n\nelse{\n\n    measurePlan = flow.get(\"measurePlan\") || [];\n\n    if (measurePlan.length > 0){\n        //match for payload in current state\n        if (msg.payload == measurePlan[0].name){\n            \n            //Remove current state\n            var element = measurePlan.shift()\n            flow.set(\"lastMeasurement\", element)\n\n            var next = getNext(measurePlan)\n            if (next) {\n                flow.set(\"measurePlan\", next);\n\n                msg.payload = next[0].name;\n                return msg;\n\n            }\n            else {\n                msg.payload = \"Start\";\n                return msg;\n            }\n        }\n    }\n}\n\nreturn null;\n\n\n\n\n\n\n\n\n\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
