@@ -144,6 +144,14 @@
         "env": []
     },
     {
+        "id": "330034c3f690c733",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "c267a2c65f9672c6",
         "type": "group",
         "z": "fe233ff436b4d8c7",
@@ -3022,8 +3030,7 @@
             "d3a77d78c4934de8",
             "d3fb11507877b237",
             "9a141d06f58fe760",
-            "d7cd35aa76101d05",
-            "d1e1e3178f5842cb"
+            "d7cd35aa76101d05"
         ],
         "x": 34,
         "y": 73,
@@ -5870,6 +5877,25 @@
         "order": 2,
         "disp": false,
         "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d5811c8befd8dddf",
+        "type": "ui_tab",
+        "name": "HomeTest",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "68e84a81cfc385c8",
+        "type": "ui_group",
+        "name": "Test",
+        "tab": "d5811c8befd8dddf",
+        "order": 1,
+        "disp": false,
+        "width": "12",
         "collapse": false,
         "className": ""
     },
@@ -34355,7 +34381,7 @@
         "y": 86.00002574920654,
         "wires": [
             [
-                "45ec7e18b4f97951"
+                "8e2fd001e97d7f3c"
             ]
         ]
     },
@@ -34368,22 +34394,11 @@
         "order": 6,
         "width": 6,
         "height": 63,
-        "columns": [
-            {
-                "field": "name",
-                "title": "Typen",
-                "width": "",
-                "align": "left",
-                "formatter": "plaintext",
-                "formatterParams": {
-                    "target": "_blank"
-                }
-            }
-        ],
+        "columns": [],
         "outputs": 1,
         "cts": true,
-        "x": 830.0000457763672,
-        "y": 86.00002574920654,
+        "x": 870,
+        "y": 100,
         "wires": [
             [
                 "57c349a93ed238a8",
@@ -41717,6 +41732,25 @@
         ]
     },
     {
+        "id": "8e2fd001e97d7f3c",
+        "type": "function",
+        "z": "6b590c258a4420ac",
+        "name": "Grouping",
+        "func": "\n// Configuration for Tabulator\nlet tabulatorConfig = {\n    columns: [\n        { title: \"Typen\", field: \"name\", sorter: \"string\" }\n    ],\n    groupBy: \"nennmass\" \n};\n\n// Set the payload for the ui-table node\nmsg.ui_control = {\n    tabulator: tabulatorConfig\n};\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 100,
+        "wires": [
+            [
+                "45ec7e18b4f97951"
+            ]
+        ]
+    },
+    {
         "id": "537d75ec8fa856d8",
         "type": "inject",
         "z": "055a1f062782b51d",
@@ -42252,8 +42286,7 @@
         "y": 300,
         "wires": [
             [
-                "6ff6b159f4eb418a",
-                "d1e1e3178f5842cb"
+                "6ff6b159f4eb418a"
             ]
         ]
     },
@@ -42682,23 +42715,6 @@
         "info": "",
         "x": 1590,
         "y": 180,
-        "wires": []
-    },
-    {
-        "id": "d1e1e3178f5842cb",
-        "type": "debug",
-        "z": "fe233ff436b4d8c7",
-        "g": "c4d565d6dc37a9a9",
-        "name": "debug 15",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 380,
-        "y": 380,
         "wires": []
     },
     {
@@ -43148,5 +43164,89 @@
                 "6aa29bc1dea30fc3"
             ]
         ]
+    },
+    {
+        "id": "64b66acac8d80b53",
+        "type": "ui_table",
+        "z": "330034c3f690c733",
+        "group": "68e84a81cfc385c8",
+        "name": "",
+        "order": 0,
+        "width": "12",
+        "height": "14",
+        "columns": [],
+        "outputs": 1,
+        "cts": true,
+        "x": 750,
+        "y": 400,
+        "wires": [
+            [
+                "0f94dfeefb7984b3"
+            ]
+        ]
+    },
+    {
+        "id": "64685b29014c748c",
+        "type": "function",
+        "z": "330034c3f690c733",
+        "name": "function 1",
+        "func": "// Example data\nlet data = [\n    { id: 1, name: \"John\", age: 30, group: \"A\" },\n    { id: 2, name: \"Jane\", age: 25, group: \"B\" },\n    { id: 3, name: \"Jack\", age: 35, group: \"A\" },\n    { id: 4, name: \"Jill\", age: 28, group: \"B\" }\n];\n\n// Configuration for Tabulator\nlet tabulatorConfig = {\n    columns: [\n        { title: \"ID\", field: \"id\", sorter: \"number\" },\n        { title: \"Name\", field: \"name\", sorter: \"string\" },\n        { title: \"Age\", field: \"age\", sorter: \"number\" },\n        { title: \"Group\", field: \"group\", sorter: \"string\" }\n    ],\n    groupBy: \"group\" // Group by the 'group' field\n};\n\n// Set the payload for the ui-table node\nmsg.ui_control = {\n    tabulator: tabulatorConfig\n};\nmsg.payload = data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 380,
+        "wires": [
+            [
+                "64b66acac8d80b53"
+            ]
+        ]
+    },
+    {
+        "id": "aa651ce92ce44bb3",
+        "type": "inject",
+        "z": "330034c3f690c733",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 300,
+        "wires": [
+            [
+                "64685b29014c748c"
+            ]
+        ]
+    },
+    {
+        "id": "0f94dfeefb7984b3",
+        "type": "debug",
+        "z": "330034c3f690c733",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 500,
+        "wires": []
     }
 ]
