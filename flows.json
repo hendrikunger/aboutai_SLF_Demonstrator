@@ -352,7 +352,9 @@
             "f21d65cf29eb66f4"
         ],
         "x": 194,
-        "y": 259
+        "y": 259,
+        "w": 732,
+        "h": 142
     },
     {
         "id": "780c740174ed8448",
@@ -10378,15 +10380,6 @@
         "id": "175fc92075d77991",
         "type": "ui_tab",
         "name": "Schräge - Abmaß",
-        "icon": "dashboard",
-        "order": 14,
-        "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "2310af360849c2a8",
-        "type": "ui_tab",
-        "name": "Rollenanlauf - Abmaß",
         "icon": "dashboard",
         "order": 14,
         "disabled": false,
@@ -30177,7 +30170,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 840,
+        "x": 900,
         "y": 100,
         "wires": [
             []
