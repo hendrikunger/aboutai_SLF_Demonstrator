@@ -264,6 +264,22 @@
         "env": []
     },
     {
+        "id": "9c4892faae569cf4",
+        "type": "tab",
+        "label": "m22",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8725ed21696249a0",
+        "type": "tab",
+        "label": "m22_1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "c267a2c65f9672c6",
         "type": "group",
         "z": "fe233ff436b4d8c7",
@@ -5350,7 +5366,9 @@
             "b9deeca985778e1f"
         ],
         "x": 18.000003814697266,
-        "y": 1406
+        "y": 1406,
+        "w": 1444.9999961853027,
+        "h": 235
     },
     {
         "id": "341ebb19d9deb7c1",
@@ -5365,7 +5383,9 @@
             "898abb8c969d8f52"
         ],
         "x": 34,
-        "y": 459
+        "y": 459,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "5a1590eb289d5fd5",
@@ -5385,7 +5405,9 @@
             "29e4328ecb79534d"
         ],
         "x": 4,
-        "y": 239
+        "y": 239,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "3000be613d0c5c69",
@@ -5406,7 +5428,9 @@
             "18eef07bbc14ae2b"
         ],
         "x": 14,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "c41a8e52dc37f953",
@@ -5446,7 +5470,9 @@
             "cd7e213edc54bedf"
         ],
         "x": 4,
-        "y": 1679
+        "y": 1679,
+        "w": 2202,
+        "h": 322
     },
     {
         "id": "0eeea52860776321",
@@ -5464,7 +5490,9 @@
             "e942b30d32c2eeb0"
         ],
         "x": 734,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "b9f8ec37cfc6e4ae",
@@ -5497,7 +5525,9 @@
             "05cca970c310aa48"
         ],
         "x": 14,
-        "y": 699
+        "y": 699,
+        "w": 1658,
+        "h": 468
     },
     {
         "id": "14748d5838eb1f7f",
@@ -5513,7 +5543,9 @@
             "62a486aff7969a10"
         ],
         "x": 384,
-        "y": 1179
+        "y": 1179,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "2bf83e640296aba8",
@@ -5530,7 +5562,9 @@
             "a690bff8830a0fcc"
         ],
         "x": 1094,
-        "y": 79
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "425980f6fb6cafc4",
@@ -5547,7 +5581,9 @@
             "9325488cbf141044"
         ],
         "x": 244,
-        "y": 1319
+        "y": 1319,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "1d26ff237791f033",
@@ -7729,7 +7765,9 @@
             "a7d7b68c1179b2b2"
         ],
         "x": 1234,
-        "y": 1019
+        "y": 1019,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "fd1b45605951b087",
@@ -7749,7 +7787,9 @@
             "f07968d437cf41ac"
         ],
         "x": 244,
-        "y": 839
+        "y": 839,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "04dcfd4db8589aa6",
@@ -7765,7 +7805,9 @@
             "7831e1105daf9c88"
         ],
         "x": 1134,
-        "y": 799
+        "y": 799,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "05cca970c310aa48",
@@ -7780,7 +7822,9 @@
             "ca4cd6e02f60d56b"
         ],
         "x": 1234,
-        "y": 919
+        "y": 919,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "dc221031df7c236e",
@@ -9187,6 +9231,545 @@
         "y": 799,
         "w": 272,
         "h": 82
+    },
+    {
+        "id": "5a960d87fa890ea0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "906829bc80fcbc7d",
+            "7c2de3fca5924803",
+            "79bd0b9f54ed626d",
+            "d06c1bea6965148f",
+            "c19f338297ddf41d",
+            "18e5eb7dd3b14f81",
+            "52b46312eb642847",
+            "0778c0c9e15c31ed",
+            "5294622fbb1ea3c6",
+            "27de3cf08178c060",
+            "b14e4609292750b5"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "f3e44a60304ab3c0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3a35f767b94cdec0",
+            "12363c818cf73cb3"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "f428c17dc84b9406",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bea8d3a89b8b405f",
+            "636f7def964f9a5a",
+            "bf4c23bd27764371",
+            "01b1c73e4781baaf",
+            "aec43c355b325d32",
+            "19c3579bb2164d2f",
+            "2de55b7531238ba1"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "04c04f636d2ce27a",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1c54d6e04c3212cb",
+            "e9030959d217380a",
+            "1e3d4402f25688e6",
+            "61d2090ee9048a50",
+            "e766a98a3a9bc749",
+            "43d96d2e697fec31",
+            "ef72bb561171253a",
+            "7b479e5723462b42"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "50f59258050c7375",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6d733df53b33b310",
+            "da02488c412f74a9",
+            "b6684ea9a57fbabe",
+            "b803aa5506655902",
+            "0f71c6e14e95f352",
+            "7fc46e123e47c44f",
+            "d3b7bafa55c86fb8",
+            "227e8eb34a1f6794",
+            "c926953635e9c3a1",
+            "b9e3aed6f2e9676b",
+            "b77f6a1707b70ee7",
+            "ac13c1c5440c7596",
+            "2f7ab0018c40fbe1",
+            "c6c4c73a190f0f20",
+            "dafa2ce071d3e09a",
+            "ee5ae5a8f0de770e",
+            "23005412738fe9fe",
+            "60aa9461821ed36e",
+            "d5b0bb83e4dd50ff",
+            "27f84e5ec9900faf",
+            "7ce9b28b3e16fadc"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "29ca666334dbda09",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1da9418b0f85ef30",
+            "707807c7ca328f3c",
+            "e1f4be47f1708365",
+            "52fc6e57610e8f53",
+            "422345d46e5b5a6b"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "1f71fe449ef0f1d0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9ba47b4913fcaa3a",
+            "a528ba61773e09db",
+            "fd9aedd1da3f9f11",
+            "d7a2a8789d2b9345",
+            "bd126829783927d5",
+            "b9ebf280583b4a3f",
+            "57bb9af1e2c40386",
+            "85026efd5dcaf8f3",
+            "07f2e5e1c3966823",
+            "550127212a25cfe3",
+            "c33112ea141ad618",
+            "185e2087aebd1446",
+            "dd0e4d22e5b70e9e",
+            "3b24d966324b2d00",
+            "e4790d7bdd1bd3e7",
+            "163b21a9cbaa05b7",
+            "8bfa8e513dd878da",
+            "67d70213ba73f856"
+        ],
+        "x": 34,
+        "y": 619
+    },
+    {
+        "id": "e853975505b5113a",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8010fbdcf09dbebe",
+            "701fe0230c30fed3",
+            "8022c5942d0cc044"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "995b2cd95a78058e",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "353d7908dab321c6",
+            "9cf7f3653bb9de7a",
+            "2c3ee7d8ba5839b7",
+            "7440b5faed583dd2"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "97d8110a88635177",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4e4111682953f15d",
+            "66d07436de830d8b",
+            "fe12ce2bb98295b6",
+            "2463e67e445ce801"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "e4790d7bdd1bd3e7",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Init Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "22d5f4dfedcd414a",
+            "1fc7ab59ff195ca8",
+            "77e03614abc5ad72"
+        ],
+        "x": 1254,
+        "y": 899
+    },
+    {
+        "id": "163b21a9cbaa05b7",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Enable / Disable Buttons",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "94c0d7cf1281a4d4",
+            "21cba475a00e47db",
+            "84077ec4743835b2",
+            "48e23971bd70b1c8",
+            "8f71d97e1e03b39e",
+            "db0dae9ee31cda9f"
+        ],
+        "x": 264,
+        "y": 719
+    },
+    {
+        "id": "8bfa8e513dd878da",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Delete Diagram / LED",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4096eaf87d1589d9",
+            "18513eec35cc1150"
+        ],
+        "x": 1154,
+        "y": 679
+    },
+    {
+        "id": "67d70213ba73f856",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Start Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "45ece14c0720df12"
+        ],
+        "x": 1254,
+        "y": 799
+    },
+    {
+        "id": "297c2fa55e2662b5",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0a4638371ffebd53",
+            "4f7ddc7c9a08aaf4"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "8fce5ca0a12634cd",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e31b064c101fc67",
+            "fb93a6a77e9ee92f",
+            "7fef483b1982d68d",
+            "509e6fdc3fee64e9",
+            "c0f0cc79d8ef4a2e",
+            "59754c48d58d4b52",
+            "b35aac611fd40374",
+            "c916a19a4d9e8cc0",
+            "2b98ca74c73ff18d",
+            "9f073f7cc3718e07",
+            "de99a32e1147ed4c",
+            "6f9cd7b3fad381bf",
+            "1f71775d015c5571",
+            "3be1f7d8aa8ec687",
+            "e082763884b9fc79",
+            "848cf67fa0ee7178",
+            "b5f23031a65354a0",
+            "42df760377dd0bc1",
+            "509339fb96bf55df",
+            "327235a17ad09448",
+            "f2a01efe5d499bfb",
+            "404ec96a1a9f911e",
+            "295f301731848030",
+            "9e52563a48a1c191"
+        ],
+        "x": 44,
+        "y": 1619
+    },
+    {
+        "id": "d6a98247d26009e8",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "31b4cc0310ec1e74",
+            "b1b882f12197b7ea",
+            "fbed42183d80c821",
+            "befacf6297bf9fc3",
+            "9a8f8837f55ebaea",
+            "26997cf3fcaa9c33",
+            "da04d1028d802e16",
+            "d0be61f079edd7b0",
+            "7bb81383ef8d8b40",
+            "63bb2bf766cfad96",
+            "59104fa491935f3e",
+            "a1b54eb0edae327b",
+            "38942cb1c20742bf",
+            "981ccdac2844bb6f",
+            "bce702da8f73c3d0",
+            "182958ab9c494cb9",
+            "47b95d54f5219794",
+            "62f207e1a95502cb",
+            "35b9e81337c924ba",
+            "314a86be1a1d5bf5"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "9227b17326442cc9",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "fe57f2b7651c2353",
+            "730aca18aed6c660",
+            "b173750e38dd13bc"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "8f566080c6a4726d",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a36a1a5613e1c517",
+            "d7692e7c404e6b21",
+            "b0356b0465ab84f0",
+            "a2d50b531954ea0d"
+        ],
+        "x": 1094,
+        "y": 339
+    },
+    {
+        "id": "c3277b0e8f7dd6db",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ee8cd881cc299b72",
+            "4f7971400687624b",
+            "e0c65c0d0567dc0a",
+            "050d3d342ee791aa"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "7ba0f6e738db2e86",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ed3c848aff83cd1c",
+            "0a180b1409f7a67b",
+            "85132e1d117d1038",
+            "2ec8c54754c2962f",
+            "b7d5318f5bef4046",
+            "0db93f6a27749eeb",
+            "65319c5afe520eb3",
+            "dbca6b52ae063b04",
+            "10bdade266e247bb",
+            "58a42d76219b448b",
+            "5bb7317d93ec8962"
+        ],
+        "x": 34,
+        "y": 1359
+    },
+    {
+        "id": "386a52a556a5dc53",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dc65833eb8f83b68",
+            "90a5367f1fb49ccc",
+            "602612cc6cad5f62",
+            "0aa3cdeb64b4ca51",
+            "902293955721166e",
+            "f12ba012d62f10b2",
+            "8ffb5f206ee43012",
+            "e578bb30a923c462"
+        ],
+        "x": 54,
+        "y": 79
+    },
+    {
+        "id": "47b95d54f5219794",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Init Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bb581b69374f889a",
+            "fcbac2164e962b51",
+            "84781b2bb55d8e2e"
+        ],
+        "x": 1254,
+        "y": 899
+    },
+    {
+        "id": "62f207e1a95502cb",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Enable / Disable Buttons",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6d5e251b87c425ad",
+            "6f3a9ebf545ea59b",
+            "61f46a077778a897",
+            "25383e9a6c739f30",
+            "f4099bed9337327b",
+            "4328d4cf0dbf2240"
+        ],
+        "x": 264,
+        "y": 719
+    },
+    {
+        "id": "35b9e81337c924ba",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Delete Diagram / LED",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b7e171de8df1d836",
+            "2dafaa63b13be270"
+        ],
+        "x": 1154,
+        "y": 679
+    },
+    {
+        "id": "314a86be1a1d5bf5",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Start Measuring",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cac62337100e0f20"
+        ],
+        "x": 1254,
+        "y": 799
     },
     {
         "id": "3f0cacbd0d1921c4",
@@ -12125,6 +12708,78 @@
         "id": "d445560576098449",
         "type": "ui_tab",
         "name": "Parallelität Laufbahn // - Abmaß",
+        "icon": "dashboard",
+        "order": 13,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a42db5e733dc1304",
+        "type": "ui_group",
+        "name": "Interaction",
+        "tab": "db6a6f5e0bf0718f",
+        "order": 4,
+        "disp": false,
+        "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e1d9b34871610af7",
+        "type": "ui_group",
+        "name": "Measuring Devices",
+        "tab": "db6a6f5e0bf0718f",
+        "order": 1,
+        "disp": false,
+        "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "db6a6f5e0bf0718f",
+        "type": "ui_tab",
+        "name": "Rollenanlauf // A",
+        "icon": "dashboard",
+        "order": 12,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a7bf8da28353375a",
+        "type": "ui_spacer",
+        "z": "8725ed21696249a0",
+        "name": "spacer",
+        "group": "208a1b2ec7e588ad",
+        "order": 4,
+        "width": "3",
+        "height": "1"
+    },
+    {
+        "id": "208a1b2ec7e588ad",
+        "type": "ui_group",
+        "name": "Interaction",
+        "tab": "2490cb76be81a99f",
+        "order": 4,
+        "disp": false,
+        "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8cecb45fc10404ce",
+        "type": "ui_group",
+        "name": "Measuring Devices",
+        "tab": "2490cb76be81a99f",
+        "order": 1,
+        "disp": false,
+        "width": "18",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2490cb76be81a99f",
+        "type": "ui_tab",
+        "name": "Rollenanlauf // - Abmaß",
         "icon": "dashboard",
         "order": 13,
         "disabled": false,
@@ -96782,6 +97437,4594 @@
         "wires": [
             [
                 "9969105d76e7576a"
+            ]
+        ]
+    },
+    {
+        "id": "9ba47b4913fcaa3a",
+        "type": "ui_button",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Button Messung",
+        "group": "a42db5e733dc1304",
+        "order": 8,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "{{payload}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{background}}",
+        "className": "",
+        "icon": "",
+        "payload": "Button1",
+        "payloadType": "str",
+        "topic": "control",
+        "topicType": "str",
+        "x": 780,
+        "y": 840,
+        "wires": [
+            [
+                "fd9aedd1da3f9f11"
+            ]
+        ]
+    },
+    {
+        "id": "45ece14c0720df12",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "67d70213ba73f856",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a528ba61773e09db",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "property": "initGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1130,
+        "y": 860,
+        "wires": [
+            [
+                "45ece14c0720df12"
+            ],
+            [
+                "1fc7ab59ff195ca8"
+            ]
+        ]
+    },
+    {
+        "id": "22d5f4dfedcd414a",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "e4790d7bdd1bd3e7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1fc7ab59ff195ca8",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "e4790d7bdd1bd3e7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1370,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "77e03614abc5ad72",
+        "type": "inject",
+        "z": "9c4892faae569cf4",
+        "g": "e4790d7bdd1bd3e7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1370,
+        "y": 980,
+        "wires": [
+            [
+                "22d5f4dfedcd414a"
+            ]
+        ]
+    },
+    {
+        "id": "4096eaf87d1589d9",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "8bfa8e513dd878da",
+        "name": "Delete",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 720,
+        "wires": [
+            [
+                "18513eec35cc1150"
+            ]
+        ]
+    },
+    {
+        "id": "906829bc80fcbc7d",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "Stopping the measurment",
+        "info": "Runs only once per Measuring Cycle",
+        "x": 1090,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "7c2de3fca5924803",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "Data In",
+        "links": [
+            "edf83709d047c606"
+        ],
+        "x": 115,
+        "y": 1420,
+        "wires": [
+            [
+                "27de3cf08178c060"
+            ]
+        ]
+    },
+    {
+        "id": "79bd0b9f54ed626d",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "",
+        "property": "messureGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 653,
+        "y": 1413,
+        "wires": [
+            [
+                "d06c1bea6965148f"
+            ],
+            [
+                "c19f338297ddf41d"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "d06c1bea6965148f",
+        "type": "join",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "",
+        "mode": "custom",
+        "build": "array",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "num",
+        "reduceFixup": "",
+        "x": 1310,
+        "y": 1400,
+        "wires": [
+            [
+                "52b46312eb642847"
+            ]
+        ]
+    },
+    {
+        "id": "c19f338297ddf41d",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 853,
+        "y": 1433,
+        "wires": [
+            [
+                "18e5eb7dd3b14f81"
+            ]
+        ]
+    },
+    {
+        "id": "18e5eb7dd3b14f81",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "complete",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1083,
+        "y": 1433,
+        "wires": [
+            [
+                "d06c1bea6965148f"
+            ]
+        ]
+    },
+    {
+        "id": "52b46312eb642847",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "Channel1 Measurement Values",
+        "mode": "link",
+        "links": [
+            "da02488c412f74a9"
+        ],
+        "x": 1405,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "fd9aedd1da3f9f11",
+        "type": "toggle",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "Stop",
+        "onType": "str",
+        "offValue": "Messung",
+        "offType": "str",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "always",
+        "x": 950,
+        "y": 880,
+        "wires": [
+            [
+                "a528ba61773e09db",
+                "185e2087aebd1446"
+            ]
+        ]
+    },
+    {
+        "id": "0778c0c9e15c31ed",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "Tara Calculation",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload + $flowContext('manualTara') ",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 1420,
+        "wires": [
+            [
+                "79bd0b9f54ed626d",
+                "5294622fbb1ea3c6"
+            ]
+        ]
+    },
+    {
+        "id": "6d733df53b33b310",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "max",
+        "operation": "max",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 840,
+        "y": 1700,
+        "wires": [
+            [
+                "ee5ae5a8f0de770e"
+            ]
+        ]
+    },
+    {
+        "id": "da02488c412f74a9",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Channel 1 Calculation Input",
+        "links": [
+            "52b46312eb642847"
+        ],
+        "x": 105,
+        "y": 1700,
+        "wires": [
+            [
+                "b77f6a1707b70ee7"
+            ]
+        ]
+    },
+    {
+        "id": "b6684ea9a57fbabe",
+        "type": "ui_chart",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Measurement Diagram",
+        "group": "e1d9b34871610af7",
+        "order": 5,
+        "width": 18,
+        "height": 5,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "-0,007",
+        "ymax": "0.007",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1d7e02",
+            "#b0030b",
+            "#90fefc",
+            "#ffa200",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1480,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b803aa5506655902",
+        "type": "ui_template",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "group": "e1d9b34871610af7",
+        "name": "Result",
+        "order": 3,
+        "width": 12,
+        "height": 3,
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Abmaß:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1790,
+        "y": 1820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0f71c6e14e95f352",
+        "type": "function",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Transform for Chart",
+        "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nmsg.ui_control = { \"ymin\": msg.avg - 0.005, \"ymax\": msg.avg + 0.005 }\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 1700,
+        "wires": [
+            [
+                "b6684ea9a57fbabe"
+            ]
+        ]
+    },
+    {
+        "id": "5294622fbb1ea3c6",
+        "type": "ui_template",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "group": "e1d9b34871610af7",
+        "name": "gauge3",
+        "order": 2,
+        "width": 6,
+        "height": 6,
+        "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "gauge3",
+        "x": 763,
+        "y": 1553,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7fc46e123e47c44f",
+        "type": "function",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Check Quality Requirements",
+        "func": "let measureResult = msg.avg;\nlet measureResult2 = msg.span;\nlet config = global.get(\"config\");\n\nlet upper = config.m22_ot;\nlet lower = config.m22_ut;\n\nif (measureResult >= lower && measureResult <= upper) {\n    msg.pass = true\n}\nelse {\n    msg.pass = false\n}\n\nupper = config.m22_ot_sw;\nlower = config.m22_ut_sw;\n\nif (measureResult2 >= lower && measureResult2 <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nmsg.value = measureResult;\nmsg.value2 = measureResult2\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1260,
+        "y": 1740,
+        "wires": [
+            [
+                "227e8eb34a1f6794",
+                "b9e3aed6f2e9676b",
+                "60aa9461821ed36e",
+                "27f84e5ec9900faf"
+            ]
+        ]
+    },
+    {
+        "id": "18513eec35cc1150",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "8bfa8e513dd878da",
+        "name": "Messurement Stopped",
+        "mode": "link",
+        "links": [
+            "c926953635e9c3a1",
+            "d3b7bafa55c86fb8"
+        ],
+        "x": 1315,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "d3b7bafa55c86fb8",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "LED Input",
+        "links": [
+            "18513eec35cc1150",
+            "cbda48ad33ed0293"
+        ],
+        "x": 1525,
+        "y": 1960,
+        "wires": [
+            [
+                "23005412738fe9fe"
+            ]
+        ]
+    },
+    {
+        "id": "227e8eb34a1f6794",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Set Station / Measurement Type / Lot ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "name",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lot",
+                "pt": "msg",
+                "to": "lot",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "config",
+                "pt": "msg",
+                "to": "config",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "abmass",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_abmass\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ot",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ot\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ut",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ut\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ot_sw",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ot_sw\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ut_sw",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ut_sw\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ot_para",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ot_para\")\t",
+                "tot": "jsonata"
+            },
+            {
+                "t": "set",
+                "p": "ut_para",
+                "pt": "msg",
+                "to": "$lookup($globalContext(\"config\"),$flowContext(\"type\") & \"_ut_para\")\t",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 1780,
+        "wires": [
+            [
+                "d5b0bb83e4dd50ff"
+            ]
+        ]
+    },
+    {
+        "id": "d7a2a8789d2b9345",
+        "type": "ui_button",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Button Next",
+        "group": "a42db5e733dc1304",
+        "order": 7,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Weiter",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "long_name",
+        "payloadType": "flow",
+        "topic": "control",
+        "topicType": "str",
+        "x": 770,
+        "y": 760,
+        "wires": [
+            [
+                "57bb9af1e2c40386",
+                "4096eaf87d1589d9"
+            ]
+        ]
+    },
+    {
+        "id": "bd126829783927d5",
+        "type": "ui_ui_control",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "events": "change",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "b9ebf280583b4a3f"
+            ]
+        ]
+    },
+    {
+        "id": "b9ebf280583b4a3f",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "long_name",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 250,
+        "y": 760,
+        "wires": [
+            [
+                "94c0d7cf1281a4d4",
+                "21cba475a00e47db",
+                "1da9418b0f85ef30",
+                "12363c818cf73cb3",
+                "a75201dffd5ad521"
+            ],
+            [
+                "89f2eacaf45b1b71"
+            ]
+        ]
+    },
+    {
+        "id": "94c0d7cf1281a4d4",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 760,
+        "wires": [
+            [
+                "d7a2a8789d2b9345",
+                "dd0e4d22e5b70e9e"
+            ]
+        ]
+    },
+    {
+        "id": "21cba475a00e47db",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 880,
+        "wires": [
+            [
+                "9ba47b4913fcaa3a",
+                "fd9aedd1da3f9f11"
+            ]
+        ]
+    },
+    {
+        "id": "c926953635e9c3a1",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Diagram Input",
+        "links": [
+            "18513eec35cc1150"
+        ],
+        "x": 1325,
+        "y": 1660,
+        "wires": [
+            [
+                "b6684ea9a57fbabe"
+            ]
+        ]
+    },
+    {
+        "id": "84077ec4743835b2",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "link in 1",
+        "links": [
+            "b9e3aed6f2e9676b"
+        ],
+        "x": 375,
+        "y": 820,
+        "wires": [
+            [
+                "48e23971bd70b1c8",
+                "8f71d97e1e03b39e"
+            ]
+        ]
+    },
+    {
+        "id": "48e23971bd70b1c8",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 840,
+        "wires": [
+            [
+                "9ba47b4913fcaa3a"
+            ]
+        ]
+    },
+    {
+        "id": "8f71d97e1e03b39e",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 800,
+        "wires": [
+            [
+                "d7a2a8789d2b9345",
+                "dd0e4d22e5b70e9e"
+            ]
+        ]
+    },
+    {
+        "id": "b9e3aed6f2e9676b",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Measurement Finished",
+        "mode": "link",
+        "links": [
+            "84077ec4743835b2"
+        ],
+        "x": 1575,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "b77f6a1707b70ee7",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Filter single data",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "jsonata_exp",
+                "v": "($count(payload))>1",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 220,
+        "y": 1700,
+        "wires": [
+            [
+                "ac13c1c5440c7596"
+            ]
+        ]
+    },
+    {
+        "id": "57bb9af1e2c40386",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Button Next",
+        "mode": "link",
+        "links": [
+            "c4490923838778c8"
+        ],
+        "x": 905,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "3a35f767b94cdec0",
+        "type": "ui_text",
+        "z": "9c4892faae569cf4",
+        "g": "f3e44a60304ab3c0",
+        "group": "e1d9b34871610af7",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "Heading",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "mainheading",
+        "style": true,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 400,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "bea8d3a89b8b405f",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "channel",
+                "pt": "msg",
+                "to": "config.m22_sensor_id",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 350,
+        "y": 300,
+        "wires": [
+            [
+                "636f7def964f9a5a"
+            ]
+        ]
+    },
+    {
+        "id": "636f7def964f9a5a",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 550,
+        "y": 300,
+        "wires": [
+            [
+                "bf4c23bd27764371"
+            ],
+            [
+                "01b1c73e4781baaf"
+            ]
+        ]
+    },
+    {
+        "id": "bf4c23bd27764371",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Tara[msg.channel]",
+                "pt": "global",
+                "to": "lastValue[msg.channel]",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastTaraTime",
+                "pt": "flow",
+                "to": "",
+                "tot": "date"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 750,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "01b1c73e4781baaf",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Tara[msg.channel]",
+                "pt": "global",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "aec43c355b325d32",
+        "type": "ui_switch",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "Tara",
+        "label": "Tara",
+        "tooltip": "",
+        "group": "a42db5e733dc1304",
+        "order": 4,
+        "width": 2,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "payload",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 170,
+        "y": 300,
+        "wires": [
+            [
+                "bea8d3a89b8b405f"
+            ]
+        ]
+    },
+    {
+        "id": "19c3579bb2164d2f",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "Change Channel Number",
+        "info": "",
+        "x": 350,
+        "y": 340,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "1c54d6e04c3212cb",
+        "type": "ui_text_input",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "label": "manueller Vorgabewert",
+        "tooltip": "",
+        "group": "a42db5e733dc1304",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 550,
+        "y": 140,
+        "wires": [
+            [
+                "61d2090ee9048a50"
+            ]
+        ]
+    },
+    {
+        "id": "e9030959d217380a",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "manualTara",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 900,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1e3d4402f25688e6",
+        "type": "inject",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0.0",
+        "payloadType": "num",
+        "x": 130,
+        "y": 140,
+        "wires": [
+            [
+                "1c54d6e04c3212cb"
+            ]
+        ]
+    },
+    {
+        "id": "61d2090ee9048a50",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "null"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 730,
+        "y": 140,
+        "wires": [
+            [],
+            [
+                "e9030959d217380a"
+            ]
+        ]
+    },
+    {
+        "id": "e766a98a3a9bc749",
+        "type": "ui_button",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "+ Button",
+        "group": "a42db5e733dc1304",
+        "order": 3,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "add",
+        "payload": "manualTara",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 100,
+        "wires": [
+            [
+                "7b479e5723462b42"
+            ]
+        ]
+    },
+    {
+        "id": "43d96d2e697fec31",
+        "type": "ui_button",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "- Button",
+        "group": "a42db5e733dc1304",
+        "order": 1,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "remove",
+        "payload": "manualTara",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 180,
+        "wires": [
+            [
+                "ef72bb561171253a"
+            ]
+        ]
+    },
+    {
+        "id": "ef72bb561171253a",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "$round(payload -0.001, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 180,
+        "wires": [
+            [
+                "1c54d6e04c3212cb"
+            ]
+        ]
+    },
+    {
+        "id": "7b479e5723462b42",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "04c04f636d2ce27a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "$round(payload +0.001, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 310,
+        "y": 100,
+        "wires": [
+            [
+                "1c54d6e04c3212cb"
+            ]
+        ]
+    },
+    {
+        "id": "ac13c1c5440c7596",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 380,
+        "y": 1700,
+        "wires": [
+            [
+                "2f7ab0018c40fbe1"
+            ]
+        ]
+    },
+    {
+        "id": "2f7ab0018c40fbe1",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "decimals": "3",
+        "x": 520,
+        "y": 1700,
+        "wires": [
+            [
+                "c6c4c73a190f0f20"
+            ]
+        ]
+    },
+    {
+        "id": "c6c4c73a190f0f20",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 680,
+        "y": 1700,
+        "wires": [
+            [
+                "6d733df53b33b310"
+            ]
+        ]
+    },
+    {
+        "id": "dafa2ce071d3e09a",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Change function",
+        "info": "",
+        "x": 1220,
+        "y": 1780,
+        "wires": []
+    },
+    {
+        "id": "ee5ae5a8f0de770e",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "$round(msg.max - msg.min, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 990,
+        "y": 1700,
+        "wires": [
+            [
+                "0f71c6e14e95f352",
+                "7fc46e123e47c44f"
+            ]
+        ]
+    },
+    {
+        "id": "23005412738fe9fe",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "value",
+                "pt": "msg",
+                "to": " ",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1700,
+        "y": 1960,
+        "wires": [
+            [
+                "b803aa5506655902",
+                "7ce9b28b3e16fadc"
+            ]
+        ]
+    },
+    {
+        "id": "85026efd5dcaf8f3",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Change Messure Color",
+        "links": [
+            "185e2087aebd1446"
+        ],
+        "x": 245,
+        "y": 980,
+        "wires": [
+            [
+                "07f2e5e1c3966823"
+            ]
+        ]
+    },
+    {
+        "id": "07f2e5e1c3966823",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 980,
+        "wires": [
+            [
+                "550127212a25cfe3"
+            ],
+            [
+                "c33112ea141ad618",
+                "701fe0230c30fed3"
+            ]
+        ]
+    },
+    {
+        "id": "550127212a25cfe3",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 960,
+        "wires": [
+            [
+                "9ba47b4913fcaa3a"
+            ]
+        ]
+    },
+    {
+        "id": "c33112ea141ad618",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 1000,
+        "wires": [
+            [
+                "9ba47b4913fcaa3a"
+            ]
+        ]
+    },
+    {
+        "id": "185e2087aebd1446",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "85026efd5dcaf8f3"
+        ],
+        "x": 1095,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "1da9418b0f85ef30",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "29ca666334dbda09",
+        "name": "",
+        "property": "lastTaraTime",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "$millis()-1800000",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 790,
+        "y": 440,
+        "wires": [
+            [
+                "707807c7ca328f3c"
+            ]
+        ]
+    },
+    {
+        "id": "707807c7ca328f3c",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "29ca666334dbda09",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bitte Nullring einlegen und Tara neu aktivieren",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "Achtung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 440,
+        "wires": [
+            [
+                "e1f4be47f1708365"
+            ]
+        ]
+    },
+    {
+        "id": "e1f4be47f1708365",
+        "type": "ui_toast",
+        "z": "9c4892faae569cf4",
+        "g": "29ca666334dbda09",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1150,
+        "y": 440,
+        "wires": [
+            [
+                "52fc6e57610e8f53"
+            ]
+        ]
+    },
+    {
+        "id": "52fc6e57610e8f53",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "29ca666334dbda09",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1330,
+        "y": 440,
+        "wires": [
+            [
+                "422345d46e5b5a6b"
+            ]
+        ]
+    },
+    {
+        "id": "422345d46e5b5a6b",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "29ca666334dbda09",
+        "name": "Tara Dialog",
+        "mode": "link",
+        "links": [
+            "2de55b7531238ba1"
+        ],
+        "x": 1455,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "2de55b7531238ba1",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "f428c17dc84b9406",
+        "name": "Tara Input",
+        "links": [
+            "422345d46e5b5a6b"
+        ],
+        "x": 65,
+        "y": 300,
+        "wires": [
+            [
+                "aec43c355b325d32"
+            ]
+        ]
+    },
+    {
+        "id": "db0dae9ee31cda9f",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "163b21a9cbaa05b7",
+        "name": "Measuring Failure",
+        "links": [
+            "db17e1c55ea376bc",
+            "3b24d966324b2d00"
+        ],
+        "x": 305,
+        "y": 880,
+        "wires": [
+            [
+                "21cba475a00e47db",
+                "94c0d7cf1281a4d4"
+            ]
+        ]
+    },
+    {
+        "id": "dd0e4d22e5b70e9e",
+        "type": "ui_button",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "",
+        "group": "a42db5e733dc1304",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Fehlmessung",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 780,
+        "y": 660,
+        "wires": [
+            [
+                "3b24d966324b2d00",
+                "4096eaf87d1589d9"
+            ]
+        ]
+    },
+    {
+        "id": "3b24d966324b2d00",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "1f71fe449ef0f1d0",
+        "name": "MeasuringFailure",
+        "mode": "link",
+        "links": [
+            "db0dae9ee31cda9f"
+        ],
+        "x": 935,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "039de9c07574579e",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "name": "Rollenanlauf // A",
+        "info": "",
+        "x": 140,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "8010fbdcf09dbebe",
+        "type": "link out",
+        "z": "9c4892faae569cf4",
+        "g": "e853975505b5113a",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "3d3e1dfc6401935d"
+        ],
+        "x": 655,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "701fe0230c30fed3",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "e853975505b5113a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "config.m22_sensor_id",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1100,
+        "wires": [
+            [
+                "8010fbdcf09dbebe"
+            ]
+        ]
+    },
+    {
+        "id": "8022c5942d0cc044",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "e853975505b5113a",
+        "name": "Change channel",
+        "info": "",
+        "x": 530,
+        "y": 1140,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "60aa9461821ed36e",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "decimals": 0,
+        "x": 1620,
+        "y": 1820,
+        "wires": [
+            [
+                "b803aa5506655902"
+            ]
+        ]
+    },
+    {
+        "id": "27de3cf08178c060",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "config.m22_sensor_id",
+                "vt": "global"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 250,
+        "y": 1420,
+        "wires": [
+            [
+                "0778c0c9e15c31ed"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "b14e4609292750b5",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "5a960d87fa890ea0",
+        "name": "Change type",
+        "info": "",
+        "x": 230,
+        "y": 1480,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "353d7908dab321c6",
+        "type": "inject",
+        "z": "9c4892faae569cf4",
+        "g": "995b2cd95a78058e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "Demonstrator digitale Messungen",
+        "payloadType": "str",
+        "x": 1170,
+        "y": 100,
+        "wires": [
+            [
+                "2c3ee7d8ba5839b7"
+            ]
+        ]
+    },
+    {
+        "id": "9cf7f3653bb9de7a",
+        "type": "comment",
+        "z": "9c4892faae569cf4",
+        "g": "995b2cd95a78058e",
+        "name": "Change type",
+        "info": "",
+        "x": 1350,
+        "y": 140,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "2c3ee7d8ba5839b7",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "995b2cd95a78058e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "flow",
+                "to": "m22",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1340,
+        "y": 100,
+        "wires": [
+            [
+                "7440b5faed583dd2"
+            ]
+        ]
+    },
+    {
+        "id": "12363c818cf73cb3",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "f3e44a60304ab3c0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name & \" - \" & $globalContext('ElementName')\t",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 170,
+        "y": 480,
+        "wires": [
+            [
+                "3a35f767b94cdec0"
+            ]
+        ]
+    },
+    {
+        "id": "7440b5faed583dd2",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "995b2cd95a78058e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "long_name",
+                "pt": "flow",
+                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1540,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4e4111682953f15d",
+        "type": "link in",
+        "z": "9c4892faae569cf4",
+        "g": "97d8110a88635177",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 195,
+        "y": 1260,
+        "wires": [
+            [
+                "66d07436de830d8b"
+            ]
+        ]
+    },
+    {
+        "id": "66d07436de830d8b",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "97d8110a88635177",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 280,
+        "y": 1260,
+        "wires": [
+            [
+                "fe12ce2bb98295b6"
+            ]
+        ]
+    },
+    {
+        "id": "fe12ce2bb98295b6",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "g": "97d8110a88635177",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 1260,
+        "wires": [
+            [
+                "2463e67e445ce801"
+            ]
+        ]
+    },
+    {
+        "id": "2463e67e445ce801",
+        "type": "switch",
+        "z": "9c4892faae569cf4",
+        "g": "97d8110a88635177",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 610,
+        "y": 1260,
+        "wires": [
+            [
+                "57bb9af1e2c40386",
+                "4096eaf87d1589d9"
+            ],
+            [
+                "fd9aedd1da3f9f11"
+            ]
+        ]
+    },
+    {
+        "id": "a75201dffd5ad521",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "89f2eacaf45b1b71",
+        "type": "change",
+        "z": "9c4892faae569cf4",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d5b0bb83e4dd50ff",
+        "type": "function",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "Save",
+        "func": "\n\nglobal.set(\"puffer\", msg);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1970,
+        "y": 1780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7ce9b28b3e16fadc",
+        "type": "ui_template",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "group": "e1d9b34871610af7",
+        "name": "Result Spannweite",
+        "order": 4,
+        "width": 12,
+        "height": 3,
+        "format": "<div id='ResultVis2'>\n     <center>\n          <font size=\"+2\">\n               <div>Rundheit:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis2')\n                    let color = null\n                    switch(msg.pass2) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1830,
+        "y": 1860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27f84e5ec9900faf",
+        "type": "calculator",
+        "z": "9c4892faae569cf4",
+        "g": "50f59258050c7375",
+        "name": "",
+        "inputMsgField": "value2",
+        "outputMsgField": "value2",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "decimals": "1",
+        "x": 1620,
+        "y": 1860,
+        "wires": [
+            [
+                "7ce9b28b3e16fadc"
+            ]
+        ]
+    },
+    {
+        "id": "31b4cc0310ec1e74",
+        "type": "ui_button",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Button Messung",
+        "group": "208a1b2ec7e588ad",
+        "order": 7,
+        "width": "3",
+        "height": "1",
+        "passthru": false,
+        "label": "{{payload}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{background}}",
+        "className": "",
+        "icon": "",
+        "payload": "Button1",
+        "payloadType": "str",
+        "topic": "control",
+        "topicType": "str",
+        "x": 780,
+        "y": 840,
+        "wires": [
+            [
+                "fbed42183d80c821"
+            ]
+        ]
+    },
+    {
+        "id": "cac62337100e0f20",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "314a86be1a1d5bf5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1390,
+        "y": 840,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b1b882f12197b7ea",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "property": "initGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 1130,
+        "y": 860,
+        "wires": [
+            [
+                "cac62337100e0f20"
+            ],
+            [
+                "fcbac2164e962b51"
+            ]
+        ]
+    },
+    {
+        "id": "bb581b69374f889a",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "47b95d54f5219794",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1550,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fcbac2164e962b51",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "47b95d54f5219794",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "initGate",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1370,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "84781b2bb55d8e2e",
+        "type": "inject",
+        "z": "8725ed21696249a0",
+        "g": "47b95d54f5219794",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1370,
+        "y": 980,
+        "wires": [
+            [
+                "bb581b69374f889a"
+            ]
+        ]
+    },
+    {
+        "id": "b7e171de8df1d836",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "35b9e81337c924ba",
+        "name": "Delete",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "[]",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1230,
+        "y": 720,
+        "wires": [
+            [
+                "2dafaa63b13be270"
+            ]
+        ]
+    },
+    {
+        "id": "fbed42183d80c821",
+        "type": "toggle",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "Stop",
+        "onType": "str",
+        "offValue": "Messung",
+        "offType": "str",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "always",
+        "x": 950,
+        "y": 880,
+        "wires": [
+            [
+                "b1b882f12197b7ea",
+                "a1b54eb0edae327b"
+            ]
+        ]
+    },
+    {
+        "id": "5e31b064c101fc67",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "max",
+        "operation": "max",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 820,
+        "y": 1700,
+        "wires": [
+            [
+                "848cf67fa0ee7178"
+            ]
+        ]
+    },
+    {
+        "id": "fb93a6a77e9ee92f",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Channel 1 Calculation Input",
+        "links": [
+            "65319c5afe520eb3"
+        ],
+        "x": 85,
+        "y": 1700,
+        "wires": [
+            [
+                "de99a32e1147ed4c"
+            ]
+        ]
+    },
+    {
+        "id": "7fef483b1982d68d",
+        "type": "ui_chart",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Measurement Diagram",
+        "group": "8cecb45fc10404ce",
+        "order": 7,
+        "width": 18,
+        "height": 5,
+        "label": "",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "-0,007",
+        "ymax": "0.007",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1d7e02",
+            "#b0030b",
+            "#90fefc",
+            "#ffa200",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1460,
+        "y": 1700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "509e6fdc3fee64e9",
+        "type": "ui_template",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "group": "8cecb45fc10404ce",
+        "name": "Result Abmaß",
+        "order": 4,
+        "width": 12,
+        "height": 2,
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Abmaß:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1820,
+        "y": 1820,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c0f0cc79d8ef4a2e",
+        "type": "function",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Transform for Chart",
+        "func": "\n\n\n\nlet length = msg.length\nmsg.payload = [{\n    \"series\": [\"Minimum\", \"Maximum\", \"Durchschnitt\", \"Messwerte\"],\n    \"data\": [Array(length).fill(msg.min), Array(length).fill(msg.max), Array(length).fill(msg.avg), msg.payload],\n    \"labels\": Array.from({ length: length }, (_, i) => i + 1)\n}]\nmsg.ui_control = { \"ymin\": msg.avg - 0.005, \"ymax\": msg.avg + 0.005 }\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 1700,
+        "wires": [
+            [
+                "7fef483b1982d68d"
+            ]
+        ]
+    },
+    {
+        "id": "59754c48d58d4b52",
+        "type": "function",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Check Quality Requirements",
+        "func": "let old_value = global.get(\"puffer\")\n\n\nlet measureResult = msg.avg;\nlet measureResult2 = msg.span;\nlet measureResult3 = Math.abs(old_value.avg - msg.avg);\n\nlet config = global.get(\"config\");\n\nlet upper =  config.m22_ot;\nlet lower =  config.m22_ut;\n\nif (measureResult >= lower && measureResult <= upper) {\n    msg.pass = true\n}\nelse {\n    msg.pass = false\n}\n\nupper = config.m22_ot_sw;\nlower = config.m22_ut_sw;\n\nif (measureResult2 >= lower && measureResult2 <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nupper = config.m22_ot_para;\nlower = config.m22_ut_para;\n\nif (measureResult3 >= lower && measureResult3 <= upper) {\n    msg.pass3 = true\n}\nelse {\n    msg.pass3 = false\n}\n\nmsg.value = measureResult;\nmsg.value2 = measureResult2\nmsg.value3 = measureResult3\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1240,
+        "y": 1740,
+        "wires": [
+            [
+                "c916a19a4d9e8cc0",
+                "9f073f7cc3718e07",
+                "327235a17ad09448",
+                "404ec96a1a9f911e",
+                "9e52563a48a1c191"
+            ]
+        ]
+    },
+    {
+        "id": "2dafaa63b13be270",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "35b9e81337c924ba",
+        "name": "Messurement Stopped",
+        "mode": "link",
+        "links": [
+            "2b98ca74c73ff18d",
+            "b35aac611fd40374"
+        ],
+        "x": 1315,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "b35aac611fd40374",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "LED Input",
+        "links": [
+            "2dafaa63b13be270",
+            "cbda48ad33ed0293"
+        ],
+        "x": 1385,
+        "y": 1960,
+        "wires": [
+            [
+                "b5f23031a65354a0"
+            ]
+        ]
+    },
+    {
+        "id": "c916a19a4d9e8cc0",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Set Station / Measurement Type / Lot ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "type2",
+                "pt": "msg",
+                "to": "Rollenanlauf // - Spannweite",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "type3",
+                "pt": "msg",
+                "to": "Rollenanlauf // - Parallelität",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "name",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lot",
+                "pt": "msg",
+                "to": "lot",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "config",
+                "pt": "msg",
+                "to": "config",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "abmass",
+                "pt": "msg",
+                "to": "puffer.abmass",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ot",
+                "pt": "msg",
+                "to": "puffer.ot",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ut",
+                "pt": "msg",
+                "to": "puffer.ut",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ot_sw",
+                "pt": "msg",
+                "to": "puffer.ot_sw",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ut_sw",
+                "pt": "msg",
+                "to": "puffer.ut_sw",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ot_para",
+                "pt": "msg",
+                "to": "puffer.ot_para",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "ut_para",
+                "pt": "msg",
+                "to": "puffer.ut_para",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1690,
+        "y": 1780,
+        "wires": [
+            [
+                "42df760377dd0bc1"
+            ]
+        ]
+    },
+    {
+        "id": "befacf6297bf9fc3",
+        "type": "ui_button",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Button Next",
+        "group": "208a1b2ec7e588ad",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Weiter",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "long_name",
+        "payloadType": "flow",
+        "topic": "control",
+        "topicType": "str",
+        "x": 770,
+        "y": 760,
+        "wires": [
+            [
+                "da04d1028d802e16",
+                "b7e171de8df1d836"
+            ]
+        ]
+    },
+    {
+        "id": "9a8f8837f55ebaea",
+        "type": "ui_ui_control",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "events": "change",
+        "x": 120,
+        "y": 760,
+        "wires": [
+            [
+                "26997cf3fcaa9c33"
+            ]
+        ]
+    },
+    {
+        "id": "26997cf3fcaa9c33",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "property": "name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "long_name",
+                "vt": "flow"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 250,
+        "y": 760,
+        "wires": [
+            [
+                "6d5e251b87c425ad",
+                "6f3a9ebf545ea59b",
+                "4f7ddc7c9a08aaf4",
+                "0ecf95c61093756a"
+            ],
+            [
+                "f8f719a4ab0b288e"
+            ]
+        ]
+    },
+    {
+        "id": "6d5e251b87c425ad",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 760,
+        "wires": [
+            [
+                "befacf6297bf9fc3",
+                "38942cb1c20742bf"
+            ]
+        ]
+    },
+    {
+        "id": "6f3a9ebf545ea59b",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Messung",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 880,
+        "wires": [
+            [
+                "31b4cc0310ec1e74",
+                "fbed42183d80c821"
+            ]
+        ]
+    },
+    {
+        "id": "2b98ca74c73ff18d",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Diagram Input",
+        "links": [
+            "2dafaa63b13be270"
+        ],
+        "x": 1305,
+        "y": 1660,
+        "wires": [
+            [
+                "7fef483b1982d68d"
+            ]
+        ]
+    },
+    {
+        "id": "61f46a077778a897",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "link in 1",
+        "links": [
+            "9f073f7cc3718e07"
+        ],
+        "x": 375,
+        "y": 820,
+        "wires": [
+            [
+                "25383e9a6c739f30",
+                "f4099bed9337327b"
+            ]
+        ]
+    },
+    {
+        "id": "25383e9a6c739f30",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 840,
+        "wires": [
+            [
+                "31b4cc0310ec1e74"
+            ]
+        ]
+    },
+    {
+        "id": "f4099bed9337327b",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "measureState",
+                "pt": "flow",
+                "to": "Finished",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 510,
+        "y": 800,
+        "wires": [
+            [
+                "befacf6297bf9fc3",
+                "38942cb1c20742bf"
+            ]
+        ]
+    },
+    {
+        "id": "9f073f7cc3718e07",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Measurement Finished",
+        "mode": "link",
+        "links": [
+            "61f46a077778a897"
+        ],
+        "x": 1555,
+        "y": 1740,
+        "wires": []
+    },
+    {
+        "id": "de99a32e1147ed4c",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Filter single data",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "jsonata_exp",
+                "v": "($count(payload))>1",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 200,
+        "y": 1700,
+        "wires": [
+            [
+                "6f9cd7b3fad381bf"
+            ]
+        ]
+    },
+    {
+        "id": "da04d1028d802e16",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Button Next",
+        "mode": "link",
+        "links": [
+            "c4490923838778c8"
+        ],
+        "x": 905,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "0a4638371ffebd53",
+        "type": "ui_text",
+        "z": "8725ed21696249a0",
+        "g": "297c2fa55e2662b5",
+        "group": "8cecb45fc10404ce",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "Heading",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "mainheading",
+        "style": true,
+        "font": "Arial Black,Arial Black,Gadget,sans-serif",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 400,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "6f9cd7b3fad381bf",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "min",
+        "operation": "min",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 360,
+        "y": 1700,
+        "wires": [
+            [
+                "1f71775d015c5571"
+            ]
+        ]
+    },
+    {
+        "id": "1f71775d015c5571",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "avg",
+        "operation": "avg",
+        "constant": "",
+        "round": true,
+        "decimals": "3",
+        "x": 500,
+        "y": 1700,
+        "wires": [
+            [
+                "3be1f7d8aa8ec687"
+            ]
+        ]
+    },
+    {
+        "id": "3be1f7d8aa8ec687",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "payload",
+        "outputMsgField": "length",
+        "operation": "len",
+        "constant": "",
+        "round": true,
+        "decimals": "4",
+        "x": 660,
+        "y": 1700,
+        "wires": [
+            [
+                "5e31b064c101fc67"
+            ]
+        ]
+    },
+    {
+        "id": "e082763884b9fc79",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Change function",
+        "info": "",
+        "x": 1200,
+        "y": 1780,
+        "wires": []
+    },
+    {
+        "id": "848cf67fa0ee7178",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "Span",
+        "rules": [
+            {
+                "t": "set",
+                "p": "span",
+                "pt": "msg",
+                "to": "$round(msg.max - msg.min, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 970,
+        "y": 1700,
+        "wires": [
+            [
+                "c0f0cc79d8ef4a2e",
+                "59754c48d58d4b52"
+            ]
+        ]
+    },
+    {
+        "id": "b5f23031a65354a0",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "value",
+                "pt": "msg",
+                "to": " ",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1560,
+        "y": 1960,
+        "wires": [
+            [
+                "509e6fdc3fee64e9",
+                "f2a01efe5d499bfb",
+                "295f301731848030"
+            ]
+        ]
+    },
+    {
+        "id": "d0be61f079edd7b0",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Change Messure Color",
+        "links": [
+            "a1b54eb0edae327b"
+        ],
+        "x": 245,
+        "y": 980,
+        "wires": [
+            [
+                "7bb81383ef8d8b40"
+            ]
+        ]
+    },
+    {
+        "id": "7bb81383ef8d8b40",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 370,
+        "y": 980,
+        "wires": [
+            [
+                "63bb2bf766cfad96"
+            ],
+            [
+                "59104fa491935f3e",
+                "730aca18aed6c660"
+            ]
+        ]
+    },
+    {
+        "id": "63bb2bf766cfad96",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "red",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 960,
+        "wires": [
+            [
+                "31b4cc0310ec1e74"
+            ]
+        ]
+    },
+    {
+        "id": "59104fa491935f3e",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "background",
+                "pt": "msg",
+                "to": "#0094CE",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 560,
+        "y": 1000,
+        "wires": [
+            [
+                "31b4cc0310ec1e74"
+            ]
+        ]
+    },
+    {
+        "id": "a1b54eb0edae327b",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Messure Toggle",
+        "mode": "link",
+        "links": [
+            "d0be61f079edd7b0"
+        ],
+        "x": 1095,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "42df760377dd0bc1",
+        "type": "postgresql",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "query": "INSERT INTO measurement_values(station, type, lot, ringid, value, uppert, lowert, nennmass, abmass, data, pass)\n\tVALUES \n\t\t('{{{msg.station}}}', '{{{msg.type}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value}}}, {{{msg.ot}}}, {{{msg.ut}}}, {{{msg.config.nennmass}}}, {{{msg.abmass}}}, array[{{{msg.payload}}}] , {{{msg.pass}}}),\n\t\t('{{{msg.station}}}', '{{{msg.type2}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value2}}}, {{{msg.ot_sw}}}, {{{msg.ut_sw}}}, {{{msg.config.nennmass}}}, {{{msg.abmass}}}, array[{{{msg.payload}}}] , {{{msg.pass2}}}),\n\t\t('{{{msg.station}}}', '{{{msg.type3}}}' ,'{{{msg.lot}}}', 0 , {{{msg.value3}}}, {{{msg.ot_para}}}, {{{msg.ut_para}}}, {{{msg.config.nennmass}}}, {{{msg.abmass}}}, array[{{{msg.payload}}}] , {{{msg.pass3}}})\n\tRETURNING extract(epoch from created);\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1950,
+        "y": 1780,
+        "wires": [
+            [
+                "509339fb96bf55df"
+            ]
+        ]
+    },
+    {
+        "id": "509339fb96bf55df",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "lastInsert",
+                "pt": "flow",
+                "to": "payload[0].extract",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2170,
+        "y": 1780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4328d4cf0dbf2240",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "62f207e1a95502cb",
+        "name": "Measuring Failure",
+        "links": [
+            "db17e1c55ea376bc",
+            "981ccdac2844bb6f"
+        ],
+        "x": 305,
+        "y": 880,
+        "wires": [
+            [
+                "6f3a9ebf545ea59b",
+                "6d5e251b87c425ad"
+            ]
+        ]
+    },
+    {
+        "id": "38942cb1c20742bf",
+        "type": "ui_button",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "group": "208a1b2ec7e588ad",
+        "order": 5,
+        "width": 3,
+        "height": 1,
+        "passthru": false,
+        "label": "Fehlmessung",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "red",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 780,
+        "y": 660,
+        "wires": [
+            [
+                "bce702da8f73c3d0",
+                "981ccdac2844bb6f",
+                "b7e171de8df1d836"
+            ]
+        ]
+    },
+    {
+        "id": "981ccdac2844bb6f",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "MeasuringFailure",
+        "mode": "link",
+        "links": [
+            "4328d4cf0dbf2240"
+        ],
+        "x": 935,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "bce702da8f73c3d0",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "Set Station / Measurement Type / Lot ",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            },
+            {
+                "t": "set",
+                "p": "type2",
+                "pt": "msg",
+                "to": "Rollenanlauf // - Spannweite",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "type3",
+                "pt": "msg",
+                "to": "Rollenanlauf // - Parallelität",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "station",
+                "pt": "msg",
+                "to": "name",
+                "tot": "global"
+            },
+            {
+                "t": "set",
+                "p": "lastInsert",
+                "pt": "msg",
+                "to": "lastInsert",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1050,
+        "y": 640,
+        "wires": [
+            [
+                "182958ab9c494cb9"
+            ]
+        ]
+    },
+    {
+        "id": "182958ab9c494cb9",
+        "type": "postgresql",
+        "z": "8725ed21696249a0",
+        "g": "d6a98247d26009e8",
+        "name": "",
+        "query": "UPDATE public.measurement_values\n\tSET  usererror=True\n\tWHERE created= TO_TIMESTAMP('{{msg.lastInsert}}') AND station = '{{{msg.station}}}' AND (type = '{{{msg.type}}}' OR type = '{{{msg.type2}}}' OR type = '{{{msg.type3}}}');\n",
+        "postgreSQLConfig": "c4cffb880254a966",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1330,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fdfea5f3a0e19e38",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "name": "Rollenanlauf // - Abmaß",
+        "info": "Rollenanlauf //",
+        "x": 160,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "fe57f2b7651c2353",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "9227b17326442cc9",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "3d3e1dfc6401935d"
+        ],
+        "x": 655,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "730aca18aed6c660",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "9227b17326442cc9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "config.m22_sensor_id",
+                "tot": "global"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1100,
+        "wires": [
+            [
+                "fe57f2b7651c2353"
+            ]
+        ]
+    },
+    {
+        "id": "b173750e38dd13bc",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "g": "9227b17326442cc9",
+        "name": "Change channel",
+        "info": "",
+        "x": 530,
+        "y": 1140,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "327235a17ad09448",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "value",
+        "outputMsgField": "value",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "decimals": 0,
+        "x": 1600,
+        "y": 1820,
+        "wires": [
+            [
+                "509e6fdc3fee64e9"
+            ]
+        ]
+    },
+    {
+        "id": "a36a1a5613e1c517",
+        "type": "inject",
+        "z": "8725ed21696249a0",
+        "g": "8f566080c6a4726d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "60",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "Demonstrator digitale Messungen",
+        "payloadType": "str",
+        "x": 1190,
+        "y": 380,
+        "wires": [
+            [
+                "b0356b0465ab84f0"
+            ]
+        ]
+    },
+    {
+        "id": "d7692e7c404e6b21",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "g": "8f566080c6a4726d",
+        "name": "Change type",
+        "info": "",
+        "x": 1370,
+        "y": 420,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "b0356b0465ab84f0",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8f566080c6a4726d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "type",
+                "pt": "flow",
+                "to": "m22_1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1360,
+        "y": 380,
+        "wires": [
+            [
+                "a2d50b531954ea0d"
+            ]
+        ]
+    },
+    {
+        "id": "4f7ddc7c9a08aaf4",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "297c2fa55e2662b5",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name & \" - \" & $globalContext('ElementName')\t",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 170,
+        "y": 480,
+        "wires": [
+            [
+                "0a4638371ffebd53"
+            ]
+        ]
+    },
+    {
+        "id": "a2d50b531954ea0d",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "8f566080c6a4726d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "long_name",
+                "pt": "flow",
+                "to": "   $lookup( $globalContext('measurement_types'), $flowContext(\"type\")).long_name",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1560,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ee8cd881cc299b72",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "c3277b0e8f7dd6db",
+        "name": "Footswitch IN",
+        "links": [
+            "85d50403e9a19924"
+        ],
+        "x": 195,
+        "y": 1260,
+        "wires": [
+            [
+                "4f7971400687624b"
+            ]
+        ]
+    },
+    {
+        "id": "4f7971400687624b",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "c3277b0e8f7dd6db",
+        "name": "",
+        "property": "active",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 280,
+        "y": 1260,
+        "wires": [
+            [
+                "e0c65c0d0567dc0a"
+            ]
+        ]
+    },
+    {
+        "id": "e0c65c0d0567dc0a",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "c3277b0e8f7dd6db",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "long_name",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 1260,
+        "wires": [
+            [
+                "050d3d342ee791aa"
+            ]
+        ]
+    },
+    {
+        "id": "050d3d342ee791aa",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "c3277b0e8f7dd6db",
+        "name": "",
+        "property": "measureState",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Finished",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 610,
+        "y": 1260,
+        "wires": [
+            [
+                "da04d1028d802e16",
+                "b7e171de8df1d836"
+            ],
+            [
+                "fbed42183d80c821"
+            ]
+        ]
+    },
+    {
+        "id": "0ecf95c61093756a",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f8f719a4ab0b288e",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "active",
+                "pt": "flow",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ed3c848aff83cd1c",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "Stopping the measurment",
+        "info": "Runs only once per Measuring Cycle",
+        "x": 1050,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "0a180b1409f7a67b",
+        "type": "link in",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "Data In",
+        "links": [
+            "edf83709d047c606"
+        ],
+        "x": 75,
+        "y": 1420,
+        "wires": [
+            [
+                "58a42d76219b448b"
+            ]
+        ]
+    },
+    {
+        "id": "85132e1d117d1038",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "",
+        "property": "messureGate",
+        "propertyType": "flow",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Stop",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Messung",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 3,
+        "x": 613,
+        "y": 1413,
+        "wires": [
+            [
+                "2ec8c54754c2962f"
+            ],
+            [
+                "b7d5318f5bef4046"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "2ec8c54754c2962f",
+        "type": "join",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "",
+        "mode": "custom",
+        "build": "array",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "accumulate": false,
+        "timeout": "",
+        "count": "",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "num",
+        "reduceFixup": "",
+        "x": 1270,
+        "y": 1400,
+        "wires": [
+            [
+                "65319c5afe520eb3"
+            ]
+        ]
+    },
+    {
+        "id": "b7d5318f5bef4046",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "messureGate",
+                "pt": "flow",
+                "to": "Stopped",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 813,
+        "y": 1433,
+        "wires": [
+            [
+                "0db93f6a27749eeb"
+            ]
+        ]
+    },
+    {
+        "id": "0db93f6a27749eeb",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "complete",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1043,
+        "y": 1433,
+        "wires": [
+            [
+                "2ec8c54754c2962f"
+            ]
+        ]
+    },
+    {
+        "id": "65319c5afe520eb3",
+        "type": "link out",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "Channel1 Measurement Values",
+        "mode": "link",
+        "links": [
+            "fb93a6a77e9ee92f"
+        ],
+        "x": 1365,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "dbca6b52ae063b04",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "Tara Calculation",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload + $flowContext('manualTara') ",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 420,
+        "y": 1420,
+        "wires": [
+            [
+                "85132e1d117d1038",
+                "10bdade266e247bb"
+            ]
+        ]
+    },
+    {
+        "id": "10bdade266e247bb",
+        "type": "ui_template",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "group": "8cecb45fc10404ce",
+        "name": "gauge3",
+        "order": 3,
+        "width": 6,
+        "height": 6,
+        "format": "\n<div id=\"{{'gauge_'+$id}}\" class=\"g-container\" style=\"--gauge-value:0; --container-size:6; --gn-distance:14; --ga-tick-count:10; --ga-subtick-count:100; --g-unit:'mm'\">\n    <div id=\"bgr\" class=\"g-body\">\n        <div class=\"g-ring\">\n            <div class=\"g-rivets\">\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n                <div class=g-rivet></div>\n            </div>\n            <div class=\"g-plate\">\n                <div class=\"g-ticks\">\n                    <div class=\"g-tick\" style=\"--ga-tick:1;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:10;\"></div>\n                    <div class=\"g-tick\" style=\"--ga-tick:11;\"></div>\n                </div>\n                <div class=\"g-ticks\">\n                    <div class=\"g-subtick\" style=\"--ga-tick:2;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:3;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:4;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:5;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:6;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:7;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:8;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:9;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:10;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:12;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:13;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:14;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:15;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:16;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:17;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:18;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:19;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:20;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:22;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:23;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:24;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:25;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:26;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:27;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:28;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:29;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:30;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:32;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:33;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:34;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:35;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:36;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:37;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:38;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:39;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:40;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:42;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:43;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:44;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:45;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:46;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:47;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:48;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:49;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:50;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:52;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:53;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:54;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:55;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:56;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:57;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:58;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:59;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:60;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:62;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:63;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:64;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:65;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:66;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:67;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:68;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:69;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:70;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:72;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:73;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:74;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:75;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:76;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:77;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:78;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:79;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:80;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:82;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:83;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:84;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:85;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:86;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:87;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:88;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:89;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:90;\"></div>\n                    \n                    <div class=\"g-subtick\" style=\"--ga-tick:92;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:93;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:94;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:95;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:96;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:97;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:98;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:99;\"></div>\n                    <div class=\"g-subtick\" style=\"--ga-tick:100;\"></div>\n                </div>\n               <div class=\"g-nums\">\n                    <div class=\"g-num\" style=\"--ga-tick:1;\">-50</div>\n                    <div class=\"g-num\" style=\"--ga-tick:2;\">-40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:3;\">-30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:4;\">-20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:5;\">-10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:6;\">0</div>\n                    <div class=\"g-num\" style=\"--ga-tick:7;\">10</div>\n                    <div class=\"g-num\" style=\"--ga-tick:8;\">20</div>\n                    <div class=\"g-num\" style=\"--ga-tick:9;\">30</div>\n                    <div class=\"g-num\" style=\"--ga-tick:10;\">40</div>\n                    <div class=\"g-num\" style=\"--ga-tick:11;\">50</div>\n                </div>\n                <div class=\"g-label\">Distance</div>\n                <div class=\"g-needle\"></div>\n                <div class=\"g-needle-ring\"></div>\n                <div id=\"{{'gauge_val_'+$id}}\" class=\"g-val\"></div>\n            </div>\n        </div>\n    </div>\n</div>\n<script>\n(function(scope) {\n    let min = -0.05;\n    let max = 0.05;\n  scope.$watch('msg', function(msg) {\n    if (msg) {\n    // Do something when msg arrives\n    const val = msg.payload\n    const v = ((val - min) / (max - min)) * 10;\n    element = document.getElementById('gauge_val_'+scope.$id)\n    document.getElementById('gauge_'+scope.$id).style.setProperty('--gauge-value', v);\n    if (val < 0) {\n        element.classList.add('negative'); // Add a class to handle negative numbers \n    } else {\n        element.classList.remove('negative'); \n    }\n\n    element.innerText = Math.abs(val.toFixed(4));\n    }\n   \n  });\n})(scope);\n</script>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "gauge3",
+        "x": 723,
+        "y": 1553,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "58a42d76219b448b",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "config.m22_sensor_id",
+                "vt": "global"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 210,
+        "y": 1420,
+        "wires": [
+            [
+                "dbca6b52ae063b04"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "5bb7317d93ec8962",
+        "type": "comment",
+        "z": "8725ed21696249a0",
+        "g": "7ba0f6e738db2e86",
+        "name": "Change type",
+        "info": "",
+        "x": 190,
+        "y": 1480,
+        "wires": [],
+        "icon": "node-red/alert.svg"
+    },
+    {
+        "id": "f2a01efe5d499bfb",
+        "type": "ui_template",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "group": "8cecb45fc10404ce",
+        "name": "Result Spannweite",
+        "order": 5,
+        "width": 12,
+        "height": 2,
+        "format": "<div id='ResultVis2'>\n     <center>\n          <font size=\"+2\">\n               <div>Rundheit:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value2\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis2')\n                    let color = null\n                    switch(msg.pass2) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1830,
+        "y": 1860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "404ec96a1a9f911e",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "value2",
+        "outputMsgField": "value2",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "decimals": "1",
+        "x": 1600,
+        "y": 1860,
+        "wires": [
+            [
+                "f2a01efe5d499bfb"
+            ]
+        ]
+    },
+    {
+        "id": "295f301731848030",
+        "type": "ui_template",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "group": "8cecb45fc10404ce",
+        "name": "Result Parallelität",
+        "order": 6,
+        "width": 12,
+        "height": 2,
+        "format": "<div id='ResultVis3'>\n     <center>\n          <font size=\"+2\">\n               <div>Parallelität</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value3\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis3')\n                    let color = null\n                    switch(msg.pass3) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1830,
+        "y": 1900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9e52563a48a1c191",
+        "type": "calculator",
+        "z": "8725ed21696249a0",
+        "g": "8fce5ca0a12634cd",
+        "name": "",
+        "inputMsgField": "value3",
+        "outputMsgField": "value3",
+        "operation": "mult",
+        "constant": "1000",
+        "round": true,
+        "decimals": "1",
+        "x": 1600,
+        "y": 1900,
+        "wires": [
+            [
+                "295f301731848030"
+            ]
+        ]
+    },
+    {
+        "id": "dc65833eb8f83b68",
+        "type": "ui_text_input",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "label": "manueller Vorgabewert",
+        "tooltip": "",
+        "group": "208a1b2ec7e588ad",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": true,
+        "mode": "number",
+        "delay": 300,
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 570,
+        "y": 160,
+        "wires": [
+            [
+                "0aa3cdeb64b4ca51"
+            ]
+        ]
+    },
+    {
+        "id": "90a5367f1fb49ccc",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "manualTara",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 920,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "602612cc6cad5f62",
+        "type": "inject",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0.0",
+        "payloadType": "num",
+        "x": 150,
+        "y": 160,
+        "wires": [
+            [
+                "dc65833eb8f83b68"
+            ]
+        ]
+    },
+    {
+        "id": "0aa3cdeb64b4ca51",
+        "type": "switch",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "null"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 750,
+        "y": 160,
+        "wires": [
+            [],
+            [
+                "90a5367f1fb49ccc"
+            ]
+        ]
+    },
+    {
+        "id": "902293955721166e",
+        "type": "ui_button",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "+ Button",
+        "group": "208a1b2ec7e588ad",
+        "order": 3,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "add",
+        "payload": "manualTara",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 160,
+        "y": 120,
+        "wires": [
+            [
+                "e578bb30a923c462"
+            ]
+        ]
+    },
+    {
+        "id": "f12ba012d62f10b2",
+        "type": "ui_button",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "- Button",
+        "group": "208a1b2ec7e588ad",
+        "order": 1,
+        "width": 1,
+        "height": 1,
+        "passthru": false,
+        "label": "",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "remove",
+        "payload": "manualTara",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 160,
+        "y": 200,
+        "wires": [
+            [
+                "8ffb5f206ee43012"
+            ]
+        ]
+    },
+    {
+        "id": "8ffb5f206ee43012",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "$round(payload -0.001, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 200,
+        "wires": [
+            [
+                "dc65833eb8f83b68"
+            ]
+        ]
+    },
+    {
+        "id": "e578bb30a923c462",
+        "type": "change",
+        "z": "8725ed21696249a0",
+        "g": "386a52a556a5dc53",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "$round(payload +0.001, 4)",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 330,
+        "y": 120,
+        "wires": [
+            [
+                "dc65833eb8f83b68"
             ]
         ]
     }
