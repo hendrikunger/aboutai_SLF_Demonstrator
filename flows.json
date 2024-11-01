@@ -745,9 +745,7 @@
             "45acccec90286900"
         ],
         "x": 34,
-        "y": 1459,
-        "w": 1382,
-        "h": 235
+        "y": 1459
     },
     {
         "id": "d06992dfd408b7aa",
@@ -762,9 +760,7 @@
             "6d90265c40201d52"
         ],
         "x": 34,
-        "y": 459,
-        "w": 452,
-        "h": 82
+        "y": 459
     },
     {
         "id": "79d4f9ad1ab959d6",
@@ -784,9 +780,7 @@
             "7cf02ee2d3f6ee7b"
         ],
         "x": 24,
-        "y": 239,
-        "w": 902,
-        "h": 142
+        "y": 239
     },
     {
         "id": "273d420bd5ddf182",
@@ -891,9 +885,7 @@
             "65dc63400b7e7095"
         ],
         "x": 34,
-        "y": 39,
-        "w": 992,
-        "h": 162
+        "y": 39
     },
     {
         "id": "11ba5c55451f20f8",
@@ -1110,9 +1102,7 @@
             "14d3b2d4c42730e9"
         ],
         "x": 34,
-        "y": 1739,
-        "w": 2352,
-        "h": 282
+        "y": 1739
     },
     {
         "id": "4829d01fa6230cb2",
@@ -1220,9 +1210,7 @@
             "dc58c79840dfd4c1"
         ],
         "x": 894,
-        "y": 379,
-        "w": 782,
-        "h": 82
+        "y": 379
     },
     {
         "id": "3ca77137896b95fb",
@@ -1385,9 +1373,7 @@
             "edfd75f3f4fbfed5"
         ],
         "x": 34,
-        "y": 659,
-        "w": 1658,
-        "h": 468
+        "y": 659
     },
     {
         "id": "c95c71c85f7f9849",
@@ -1690,9 +1676,7 @@
             "36d6d81a9bc1a922"
         ],
         "x": 414,
-        "y": 1159,
-        "w": 272,
-        "h": 122
+        "y": 1159
     },
     {
         "id": "1554faecc8bedb61",
@@ -1850,9 +1834,7 @@
             "43cf38abf702266a"
         ],
         "x": 1074,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "y": 79
     },
     {
         "id": "4b187495e475f63d",
@@ -1954,9 +1936,7 @@
             "938c7ade28f99f96"
         ],
         "x": 114,
-        "y": 1319,
-        "w": 532,
-        "h": 82
+        "y": 1319
     },
     {
         "id": "714fa99fe7ed3cdd",
@@ -2328,7 +2308,9 @@
             "86a334fa8cfe3744"
         ],
         "x": 74,
-        "y": 1359
+        "y": 1359,
+        "w": 1372,
+        "h": 235
     },
     {
         "id": "c1a07a395215169a",
@@ -2343,7 +2325,9 @@
             "dbebcacd5264141b"
         ],
         "x": 54,
-        "y": 439
+        "y": 439,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "e824c53b2991b77c",
@@ -2363,7 +2347,9 @@
             "86671dbd9d301ce1"
         ],
         "x": 24,
-        "y": 239
+        "y": 239,
+        "w": 922,
+        "h": 142
     },
     {
         "id": "4cb091f4f5a85294",
@@ -2384,7 +2370,9 @@
             "a97a5bc295d02cb1"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "13b4cf00d3504e5f",
@@ -2423,7 +2411,9 @@
             "cbea9e1f38c23536"
         ],
         "x": 64,
-        "y": 1619
+        "y": 1619,
+        "w": 1982,
+        "h": 382
     },
     {
         "id": "ae5781f3730b8bb3",
@@ -2441,7 +2431,9 @@
             "5b9475696c0580c4"
         ],
         "x": 714,
-        "y": 399
+        "y": 399,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "1f8a704dff580dc3",
@@ -2472,7 +2464,9 @@
             "cbcaa525c343b972"
         ],
         "x": 34,
-        "y": 619
+        "y": 619,
+        "w": 1658,
+        "h": 428
     },
     {
         "id": "55c3d21acb288c64",
@@ -2488,7 +2482,9 @@
             "d10a8c3a121fa612"
         ],
         "x": 424,
-        "y": 1059
+        "y": 1059,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "d19d78d2529966c5",
@@ -2505,7 +2501,9 @@
             "dd1e768fd8610293"
         ],
         "x": 1074,
-        "y": 59
+        "y": 59,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "d5dd424536174f82",
@@ -2522,7 +2520,9 @@
             "2fde4ad70db0da8d"
         ],
         "x": 154,
-        "y": 1219
+        "y": 1219,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "2f8336750059e0e7",
@@ -5048,9 +5048,7 @@
             "ec3e04855216ac97"
         ],
         "x": 18.000003814697266,
-        "y": 1406,
-        "w": 1444.9999961853027,
-        "h": 235
+        "y": 1406
     },
     {
         "id": "9469a9d3865aa3b1",
@@ -5065,9 +5063,7 @@
             "01a2cd162396505b"
         ],
         "x": 34,
-        "y": 459,
-        "w": 432,
-        "h": 82
+        "y": 459
     },
     {
         "id": "720b8cf35c6ac267",
@@ -5087,9 +5083,7 @@
             "332bf429bb6210c7"
         ],
         "x": 4,
-        "y": 239,
-        "w": 902,
-        "h": 142
+        "y": 239
     },
     {
         "id": "2dee8348fd802f3b",
@@ -5110,9 +5104,7 @@
             "86828f6deb4f3a41"
         ],
         "x": 14,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "7b86aa07c7708a51",
@@ -5152,9 +5144,7 @@
             "9e0239c1da950eaa"
         ],
         "x": 4,
-        "y": 1679,
-        "w": 2202,
-        "h": 322
+        "y": 1679
     },
     {
         "id": "09ae635e0d0ef96c",
@@ -5172,9 +5162,7 @@
             "5e6de93a0ca09e2a"
         ],
         "x": 734,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "8c2f266cf35f9214",
@@ -5207,9 +5195,7 @@
             "f89c6e96bbe5a2d5"
         ],
         "x": 14,
-        "y": 699,
-        "w": 1658,
-        "h": 468
+        "y": 699
     },
     {
         "id": "a84cc2dad0ed15e7",
@@ -5225,9 +5211,7 @@
             "0418b5cfbaf16f6b"
         ],
         "x": 384,
-        "y": 1179,
-        "w": 272,
-        "h": 122
+        "y": 1179
     },
     {
         "id": "f27a007329088e0e",
@@ -5244,9 +5228,7 @@
             "878a9e53f6fc6983"
         ],
         "x": 1094,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "y": 79
     },
     {
         "id": "9ddfc1c30b869b5f",
@@ -5263,9 +5245,7 @@
             "d1f1d3ca889ec298"
         ],
         "x": 244,
-        "y": 1319,
-        "w": 532,
-        "h": 82
+        "y": 1319
     },
     {
         "id": "4f04d00d873c36cc",
@@ -5510,9 +5490,7 @@
             "b9deeca985778e1f"
         ],
         "x": 18.000003814697266,
-        "y": 1406,
-        "w": 1444.9999961853027,
-        "h": 235
+        "y": 1406
     },
     {
         "id": "341ebb19d9deb7c1",
@@ -5527,9 +5505,7 @@
             "898abb8c969d8f52"
         ],
         "x": 34,
-        "y": 459,
-        "w": 432,
-        "h": 82
+        "y": 459
     },
     {
         "id": "5a1590eb289d5fd5",
@@ -5549,9 +5525,7 @@
             "29e4328ecb79534d"
         ],
         "x": 4,
-        "y": 239,
-        "w": 902,
-        "h": 142
+        "y": 239
     },
     {
         "id": "3000be613d0c5c69",
@@ -5572,9 +5546,7 @@
             "18eef07bbc14ae2b"
         ],
         "x": 14,
-        "y": 59,
-        "w": 992,
-        "h": 162
+        "y": 59
     },
     {
         "id": "c41a8e52dc37f953",
@@ -5614,9 +5586,7 @@
             "cd7e213edc54bedf"
         ],
         "x": 4,
-        "y": 1679,
-        "w": 2202,
-        "h": 322
+        "y": 1679
     },
     {
         "id": "0eeea52860776321",
@@ -5634,9 +5604,7 @@
             "e942b30d32c2eeb0"
         ],
         "x": 734,
-        "y": 419,
-        "w": 782,
-        "h": 82
+        "y": 419
     },
     {
         "id": "b9f8ec37cfc6e4ae",
@@ -5669,9 +5637,7 @@
             "05cca970c310aa48"
         ],
         "x": 14,
-        "y": 699,
-        "w": 1658,
-        "h": 468
+        "y": 699
     },
     {
         "id": "14748d5838eb1f7f",
@@ -5687,9 +5653,7 @@
             "62a486aff7969a10"
         ],
         "x": 384,
-        "y": 1179,
-        "w": 272,
-        "h": 122
+        "y": 1179
     },
     {
         "id": "2bf83e640296aba8",
@@ -5706,9 +5670,7 @@
             "a690bff8830a0fcc"
         ],
         "x": 1094,
-        "y": 79,
-        "w": 592,
-        "h": 122
+        "y": 79
     },
     {
         "id": "425980f6fb6cafc4",
@@ -5725,9 +5687,7 @@
             "9325488cbf141044"
         ],
         "x": 244,
-        "y": 1319,
-        "w": 532,
-        "h": 82
+        "y": 1319
     },
     {
         "id": "1d26ff237791f033",
@@ -6402,9 +6362,7 @@
             "3a52d8495104c6a4"
         ],
         "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
+        "y": 439
     },
     {
         "id": "dca712686e2c487f",
@@ -6446,9 +6404,7 @@
             "3ecc6c256752f422"
         ],
         "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 382
+        "y": 1619
     },
     {
         "id": "c9b69ae517822873",
@@ -6481,9 +6437,7 @@
             "16655dc97351b701"
         ],
         "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
+        "y": 599
     },
     {
         "id": "265d8af914e6d70a",
@@ -6499,9 +6453,7 @@
             "c8997c27be1a332f"
         ],
         "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
+        "y": 1059
     },
     {
         "id": "b1fb6b13e0ca6735",
@@ -6518,9 +6470,7 @@
             "acd0e5cd946b4daf"
         ],
         "x": 1094,
-        "y": 339,
-        "w": 592,
-        "h": 122
+        "y": 339
     },
     {
         "id": "22ac16530585c70a",
@@ -6537,9 +6487,7 @@
             "63e0c256d91158a6"
         ],
         "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
+        "y": 1219
     },
     {
         "id": "be5d47429892ce1f",
@@ -6563,9 +6511,7 @@
             "2a4f2eebb80a0872"
         ],
         "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
+        "y": 1359
     },
     {
         "id": "f1dfd42bb37af418",
@@ -6586,9 +6532,2261 @@
             "7fb11559759b29a6"
         ],
         "x": 54,
-        "y": 79,
-        "w": 992,
-        "h": 162
+        "y": 79
+    },
+    {
+        "id": "5655c1d44ef35407",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b38d21821212c93b",
+            "0cdfc5859a078d55",
+            "11f145c73b0dc914",
+            "59d9b42d9da8902e",
+            "2d8795adf8106c05",
+            "52c871b0e9769ba7",
+            "5d8ea145ca3a69be",
+            "fbfbfd4e3eafb2f9",
+            "ba5d519a1f2b2eb4",
+            "fab42be4ff4cee68",
+            "fb7067f668e9e051"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "23bdcb55878ae4a6",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "11bbc24cab891edc",
+            "0b1b11faefad2225"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "ecf72e17c2f50bd3",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "39c173084cf63a36",
+            "e3c4213e59b39588",
+            "be282d24076ceba5",
+            "9151adf3c113dc79",
+            "42dc1f48ae21e67b",
+            "9e98b927c4567304",
+            "525a692d4820d5eb"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "765b192bda4e315a",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "83b0f9380fda4026",
+            "a8452e9761968a80",
+            "9a65a8588b603b28",
+            "b09876f346bf3075",
+            "f55acc9c0e4e672a",
+            "ab70d8264552b708",
+            "b0cd6d78b77810da",
+            "d8a73c3f24fe8702"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "187a02282189b3f6",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "ec5de2fee6c05030",
+            "6aae28c77ffcbc24",
+            "1df66a07a1dcb260",
+            "017936092a9f43a7",
+            "3cebd8db7756466f",
+            "6c9d8eff1361ab39",
+            "015932a1ecf34483",
+            "ba28f199c576e9ef",
+            "7e0c95795b23caef",
+            "d3180db99e4485f6",
+            "2e997493cf528b19",
+            "b1d2ba8626c04b4a",
+            "56a66ec15d879be2",
+            "790a180e1fcf4a50",
+            "f056ef0c021d629d",
+            "b8564fd682390ba6",
+            "91a6cfb527c050ae",
+            "5cadba47279ec518",
+            "d4a563ae168d27b7",
+            "3b56a38f0f8acc54",
+            "2a0c6e4fa05b57b0"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "016000764dee09bb",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b72939726cbcd3cd",
+            "e29fddaeb88b440f",
+            "a00472774f3bf2c5",
+            "f12433a5456555b9",
+            "8aea408b5967c5de"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "1f5f7ba22e70a4f4",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0e860a0e7fe7e2a4",
+            "f4ae3bd174914825",
+            "c4148f80b455759c",
+            "92d8eea4cf34b4c4",
+            "eb34990fdb93dfa6",
+            "249d8ab8f537f9f9",
+            "f9e4e0af2483c9e5",
+            "384429b49fb231cb",
+            "490fcb022feef4b6",
+            "9e419c1d8a4c1ac3",
+            "efa55bbfc748d5e7",
+            "8137a71f401365f2",
+            "af8b72203149a9ca",
+            "5e415a03ed24fa78",
+            "83b27e4b28b5bb6a",
+            "2235143c6da13a3b",
+            "dba7efbd2cc8e27e",
+            "a21564ca31754484"
+        ],
+        "x": 34,
+        "y": 619
+    },
+    {
+        "id": "94d9492ae0b6046a",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f2dddaf5b0fbfaae",
+            "f45527f81d08db71",
+            "082f5f3308301563"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "3b5987154eb023ad",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "e2eb889a989b89a1",
+            "6781eb05a705b336",
+            "cd988d844ee81b02",
+            "a81ae530796cfd46"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "3a42e94e8c1b146c",
+        "type": "group",
+        "z": "dc4cf2c5ce536c14",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "05b2502f0da9cfaa",
+            "096f4eb2561a579d",
+            "a0c0742be42c3e2b",
+            "4a4c6fdc1013abbf"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "a05683b40879f144",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a66bbacbc88a1e16",
+            "8123741dd49beaca"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "c210e63cab72f12d",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "764915bd97654140",
+            "16f341e56044091c",
+            "b99406c9663ef596",
+            "78fd9f5a1fd573fd",
+            "c8afa833ee2ba3f4",
+            "17141e5916fb7405",
+            "04a771a31f183ca4",
+            "69168b77f1407cf8",
+            "782c99c14106303d",
+            "9ee060c49aed263a",
+            "f7a9af14c33cb9a0",
+            "6f3def9a34c95164",
+            "307f151513004e20",
+            "25cb9fea210ac00a",
+            "d20c34007a600964",
+            "4f63f39a9ec97cc0",
+            "fb4a8c96f9812907",
+            "a9142975b8081605",
+            "2bfe82f5516d3366",
+            "628603fdb3ab3abe",
+            "02be49ffc9a48c89",
+            "8bee2964643e027c",
+            "43aed91044ac54e0",
+            "52683b6bab6a2276"
+        ],
+        "x": 44,
+        "y": 1619
+    },
+    {
+        "id": "2dae4d48e419ed13",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9848541bdaadea03",
+            "c696bf5d55369bca",
+            "84cf97a4397cf6f6",
+            "426bda6a81c94d52",
+            "020cfd126d07003d",
+            "5524df99c0b9ebdc",
+            "c6b3fcce0a66d378",
+            "934ee728cec8fcf2",
+            "4d328656cc4ebbf6",
+            "9cad0dc21052966d",
+            "9b801e06aa2d1d85",
+            "8d1eb562e2412dc9",
+            "ed082a62d3148390",
+            "8de7f31e4de11753",
+            "198f20b8b8621d06",
+            "ae2cd939db6fc94b",
+            "4d572d284dd9c554",
+            "0a2be9c1c763442c",
+            "a3afec87ab185a75",
+            "de915697141ce22b"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "8ac66104da4a35a5",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "20e3ca96a2127176",
+            "300d84fee9e7b1a0",
+            "9971e68d745b9257"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "1b4c6a5ec0b58992",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cd86616bcb2de129",
+            "437f7bf2fa31d229",
+            "4c29a3eb03caabc5",
+            "4b382289a0893cfb"
+        ],
+        "x": 1094,
+        "y": 339
+    },
+    {
+        "id": "5582a2e310ea36f0",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6206ac62e6795c5e",
+            "a27f474cb9166eec",
+            "5c10ba5c11462ca8",
+            "8f39cbdbcbe24ac0"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "bc2da2ec370c9c51",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cbe07967ebe15210",
+            "99630382e182b268",
+            "0e23c20ea77f1040",
+            "2f1fc5414f60fe6d",
+            "7294fc07b9746e8d",
+            "34d68c46a220a03d",
+            "0820b9557a5a2fce",
+            "3d6e69a65977cb12",
+            "dbea842e1b9d3198",
+            "9c5a061c34e322bc",
+            "5228428fc0f0d301"
+        ],
+        "x": 34,
+        "y": 1359
+    },
+    {
+        "id": "56f8c07ab5aff563",
+        "type": "group",
+        "z": "9b82a523ca7a8ae3",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5c26c003bb905f6f",
+            "15d79d0814294877",
+            "1713f2b0dd41ac0c",
+            "5e6745b5c7d2c437",
+            "4cd6f932ce4109ca",
+            "cbf3606d9774e168",
+            "ce0923705bb27b67",
+            "0988d927972dbafd"
+        ],
+        "x": 54,
+        "y": 79
+    },
+    {
+        "id": "10c5d6e9a32e8af4",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "32e510147bf71fe4",
+            "ca8a421e8681eb0c",
+            "d15785a081051f71",
+            "40588f0884c97f0b",
+            "5b3a4638d15e445b",
+            "e5a25c0c7373e965",
+            "bef0ee6412e21702",
+            "2bd5b5192c85351c",
+            "54a4f9dfaed17f2e",
+            "b299efb86ec14693",
+            "5abce94a25dd1d83"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "b093ce436687312d",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4001ee96b6a1c289",
+            "e73aa4b9a2cb45c0"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "033cd02e0c471232",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cee45a40124fcbad",
+            "bcbd08db47fa0ac0",
+            "4da887b8e3997aba",
+            "7fd7744ef320030c",
+            "ceea147529d8ab31",
+            "a66afc92715cbf97",
+            "f6c87d3995f06326"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "86992a84fd4cebf9",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a010bb246d9defaf",
+            "9bbfa7a1332a5aa5",
+            "c19f4f393fa35e51",
+            "a8ca224f4a3291c4",
+            "a2c1c2ad8fe47531",
+            "2036789c1c172b61",
+            "26a84e6e8456da1f",
+            "69eb694904816864"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "c6655409c4cf24d4",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "47d2faddb0d7a0bc",
+            "56377704685b3d03",
+            "8039085ce4232270",
+            "a3a84b83137500c5",
+            "a117c139fc76f032",
+            "434af8484547c0a0",
+            "57ea45e6583c98df",
+            "e32d60a173e692b3",
+            "49cdfa11a31aba0b",
+            "629cd99ab7ca1bae",
+            "dd8f3b563d85cae6",
+            "e539e71cc9745380",
+            "66cc30c5a649e761",
+            "08af89b1bb8b725b",
+            "a9a77ea064cb8f3c",
+            "fce6cafa70c09427",
+            "9083477fdaf61f0d",
+            "8988f92b6a89732f",
+            "34e5f182d23b37af",
+            "a76a54d12d045b72",
+            "d5cad80b79b03ed7"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "bd3d89cabfb64ed6",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "aea9d3a18c15985d",
+            "0cb18f229fa10808",
+            "4ec7108aacc44f6a",
+            "aca1700b712cc204",
+            "960f9e10cb12ce7a"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "37ac4fb04bfd0931",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c63ba4269ac00e45",
+            "227f29172ed0a155",
+            "47e5d699e9376a86",
+            "eb4680e25c0c8e2f",
+            "076d98875558b10b",
+            "a24208d0bfcb3d0a",
+            "98611757654188fd",
+            "9e9fce8744d73abd",
+            "6de73ce68fd61d6b",
+            "7d033150cfd7ef39",
+            "d1e3fd2631f04a87",
+            "a58b7d95554472d3",
+            "4f9513c298a62ec2",
+            "12fe3f25bcdceb99",
+            "5a6f5ed2c17a4e2f",
+            "441608b0931bed97",
+            "332dc18f849c8e4f",
+            "ac57fc41b129f9b4"
+        ],
+        "x": 34,
+        "y": 619
+    },
+    {
+        "id": "7084ab4b85b3da92",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "761ed5ad1867e6aa",
+            "fe34b2cb820a1e0d",
+            "c247b834d1adcd6d"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "7a8a3640245e414f",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "60e2df2f86998798",
+            "97b810fa8c818529",
+            "7cb873c7af36f8b3",
+            "7dd6c53d03c424f8"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "7e92044e63283c66",
+        "type": "group",
+        "z": "a7862f66471f4353",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2fdfc24f4fee4896",
+            "2e69eee2f1def154",
+            "71a7b682e64d8fe7",
+            "995a93fb977c7873"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "d5e4b0c0faee837f",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8668a464fe6f1e71",
+            "d5431e4a7b064193"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "0adc1f236b564326",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "189303483b9ca1cc",
+            "190399b1ead04f10",
+            "3fbddfd87f658e83",
+            "c37a0c3d486a7731",
+            "73ad9eb23b7b9c65",
+            "66e4c76bf0178d54",
+            "903d206d11199d1d",
+            "3afe32abe10cb676",
+            "87b1ed58bf7ebcf3",
+            "251c4be8f043ef9e",
+            "7091940f7370d44e",
+            "91fe4923e437bb37",
+            "e6f4480151d9bc36",
+            "16d0a6bc3513fe66",
+            "8d623c8ad656fbf5",
+            "7059831242c719b1",
+            "6406700622d8a714",
+            "0c9f28d6245dd22f",
+            "1cf32c5786c472ea",
+            "a291a927f6af02d0",
+            "ff9f457c12284b8a",
+            "27f8428881680182",
+            "5dbb42d7aaedd620",
+            "5c6c233d335ba549"
+        ],
+        "x": 44,
+        "y": 1619
+    },
+    {
+        "id": "fc8a11b33fe1e314",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "745c26e3ddae1d60",
+            "b827d5e4289c8bda",
+            "76043535da43eb8f",
+            "0a628f3d1ad318f6",
+            "7c8843ab461ecbaa",
+            "958aa00f0a92be07",
+            "555b2f455132a3dd",
+            "16a0b8f9423b3cf2",
+            "37389ec003c29ef9",
+            "b7d5576c1b6931da",
+            "fd9381ddf8376d64",
+            "473bd913c5727a5e",
+            "4025813ef74e5690",
+            "2451111c74ef12ab",
+            "a77e28c5de831f5a",
+            "02a8b5dc3624adac",
+            "f2affd641b06b95d",
+            "71d032aa1b273f8a",
+            "fa3bdd385bee3048",
+            "fa58de7a963f2c20"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "57e87c3e395e4350",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d7b4604a8979e1ed",
+            "93438154cdb0fbbe",
+            "2a2e23f95b9f62f9"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "1a552ddb0b7f81fe",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8cb3df2d7d865b62",
+            "783979a101e0b082",
+            "cf703b0e284e810d",
+            "5a453a1798a72fcb"
+        ],
+        "x": 1094,
+        "y": 339
+    },
+    {
+        "id": "978f47c180dd4e18",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "692a4e24c594e1c5",
+            "5d29d6ace847d7e1",
+            "988413917ef3b41d",
+            "3ef08295677e5204"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "3b40f66565ec9c59",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "c906263130c6497e",
+            "94dd870348c5b6f0",
+            "53da46ad550bed7d",
+            "b4000a75da5d1204",
+            "69a132ee6a4286c8",
+            "c264f07ce7b74d48",
+            "93cb53a114d04ec3",
+            "b482ad806dcf2e10",
+            "f55e90f9106a3e5a",
+            "9bab0c79ea87bb45",
+            "3a66237975dcafa1"
+        ],
+        "x": 34,
+        "y": 1359
+    },
+    {
+        "id": "f4bb27ff3d655b89",
+        "type": "group",
+        "z": "65fb4658ce3d265d",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9969105d76e7576a",
+            "6390cfcf7da789a4",
+            "44b96b4138d93f0e",
+            "9f9caaeedd975136",
+            "c45db1b2ea7510f4",
+            "ba2be4774cc0c8e2",
+            "4139bdafff49bf4e",
+            "20bd7556fc59d2c1"
+        ],
+        "x": 54,
+        "y": 79
+    },
+    {
+        "id": "5a960d87fa890ea0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "906829bc80fcbc7d",
+            "7c2de3fca5924803",
+            "79bd0b9f54ed626d",
+            "d06c1bea6965148f",
+            "c19f338297ddf41d",
+            "18e5eb7dd3b14f81",
+            "52b46312eb642847",
+            "0778c0c9e15c31ed",
+            "5294622fbb1ea3c6",
+            "27de3cf08178c060",
+            "b14e4609292750b5"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "f3e44a60304ab3c0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3a35f767b94cdec0",
+            "12363c818cf73cb3"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "f428c17dc84b9406",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bea8d3a89b8b405f",
+            "636f7def964f9a5a",
+            "bf4c23bd27764371",
+            "01b1c73e4781baaf",
+            "aec43c355b325d32",
+            "19c3579bb2164d2f",
+            "2de55b7531238ba1"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "04c04f636d2ce27a",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1c54d6e04c3212cb",
+            "e9030959d217380a",
+            "1e3d4402f25688e6",
+            "61d2090ee9048a50",
+            "e766a98a3a9bc749",
+            "43d96d2e697fec31",
+            "ef72bb561171253a",
+            "7b479e5723462b42"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "50f59258050c7375",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6d733df53b33b310",
+            "da02488c412f74a9",
+            "b6684ea9a57fbabe",
+            "b803aa5506655902",
+            "0f71c6e14e95f352",
+            "7fc46e123e47c44f",
+            "d3b7bafa55c86fb8",
+            "227e8eb34a1f6794",
+            "c926953635e9c3a1",
+            "b9e3aed6f2e9676b",
+            "b77f6a1707b70ee7",
+            "ac13c1c5440c7596",
+            "2f7ab0018c40fbe1",
+            "c6c4c73a190f0f20",
+            "dafa2ce071d3e09a",
+            "ee5ae5a8f0de770e",
+            "23005412738fe9fe",
+            "60aa9461821ed36e",
+            "d5b0bb83e4dd50ff",
+            "27f84e5ec9900faf",
+            "7ce9b28b3e16fadc"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "29ca666334dbda09",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1da9418b0f85ef30",
+            "707807c7ca328f3c",
+            "e1f4be47f1708365",
+            "52fc6e57610e8f53",
+            "422345d46e5b5a6b"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "1f71fe449ef0f1d0",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9ba47b4913fcaa3a",
+            "a528ba61773e09db",
+            "fd9aedd1da3f9f11",
+            "d7a2a8789d2b9345",
+            "bd126829783927d5",
+            "b9ebf280583b4a3f",
+            "57bb9af1e2c40386",
+            "85026efd5dcaf8f3",
+            "07f2e5e1c3966823",
+            "550127212a25cfe3",
+            "c33112ea141ad618",
+            "185e2087aebd1446",
+            "dd0e4d22e5b70e9e",
+            "3b24d966324b2d00",
+            "e4790d7bdd1bd3e7",
+            "163b21a9cbaa05b7",
+            "8bfa8e513dd878da",
+            "67d70213ba73f856"
+        ],
+        "x": 34,
+        "y": 619
+    },
+    {
+        "id": "e853975505b5113a",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8010fbdcf09dbebe",
+            "701fe0230c30fed3",
+            "8022c5942d0cc044"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "995b2cd95a78058e",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "353d7908dab321c6",
+            "9cf7f3653bb9de7a",
+            "2c3ee7d8ba5839b7",
+            "7440b5faed583dd2"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "97d8110a88635177",
+        "type": "group",
+        "z": "9c4892faae569cf4",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4e4111682953f15d",
+            "66d07436de830d8b",
+            "fe12ce2bb98295b6",
+            "2463e67e445ce801"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "297c2fa55e2662b5",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "0a4638371ffebd53",
+            "4f7ddc7c9a08aaf4"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "8fce5ca0a12634cd",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "5e31b064c101fc67",
+            "fb93a6a77e9ee92f",
+            "7fef483b1982d68d",
+            "509e6fdc3fee64e9",
+            "c0f0cc79d8ef4a2e",
+            "59754c48d58d4b52",
+            "b35aac611fd40374",
+            "c916a19a4d9e8cc0",
+            "2b98ca74c73ff18d",
+            "9f073f7cc3718e07",
+            "de99a32e1147ed4c",
+            "6f9cd7b3fad381bf",
+            "1f71775d015c5571",
+            "3be1f7d8aa8ec687",
+            "e082763884b9fc79",
+            "848cf67fa0ee7178",
+            "b5f23031a65354a0",
+            "42df760377dd0bc1",
+            "509339fb96bf55df",
+            "327235a17ad09448",
+            "f2a01efe5d499bfb",
+            "404ec96a1a9f911e",
+            "295f301731848030",
+            "9e52563a48a1c191"
+        ],
+        "x": 44,
+        "y": 1619
+    },
+    {
+        "id": "d6a98247d26009e8",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "31b4cc0310ec1e74",
+            "b1b882f12197b7ea",
+            "fbed42183d80c821",
+            "befacf6297bf9fc3",
+            "9a8f8837f55ebaea",
+            "26997cf3fcaa9c33",
+            "da04d1028d802e16",
+            "d0be61f079edd7b0",
+            "7bb81383ef8d8b40",
+            "63bb2bf766cfad96",
+            "59104fa491935f3e",
+            "a1b54eb0edae327b",
+            "38942cb1c20742bf",
+            "981ccdac2844bb6f",
+            "bce702da8f73c3d0",
+            "182958ab9c494cb9",
+            "47b95d54f5219794",
+            "62f207e1a95502cb",
+            "35b9e81337c924ba",
+            "314a86be1a1d5bf5"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "9227b17326442cc9",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "fe57f2b7651c2353",
+            "730aca18aed6c660",
+            "b173750e38dd13bc"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "8f566080c6a4726d",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a36a1a5613e1c517",
+            "d7692e7c404e6b21",
+            "b0356b0465ab84f0",
+            "a2d50b531954ea0d"
+        ],
+        "x": 1094,
+        "y": 339
+    },
+    {
+        "id": "c3277b0e8f7dd6db",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ee8cd881cc299b72",
+            "4f7971400687624b",
+            "e0c65c0d0567dc0a",
+            "050d3d342ee791aa"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "7ba0f6e738db2e86",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ed3c848aff83cd1c",
+            "0a180b1409f7a67b",
+            "85132e1d117d1038",
+            "2ec8c54754c2962f",
+            "b7d5318f5bef4046",
+            "0db93f6a27749eeb",
+            "65319c5afe520eb3",
+            "dbca6b52ae063b04",
+            "10bdade266e247bb",
+            "58a42d76219b448b",
+            "5bb7317d93ec8962"
+        ],
+        "x": 34,
+        "y": 1359
+    },
+    {
+        "id": "386a52a556a5dc53",
+        "type": "group",
+        "z": "8725ed21696249a0",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dc65833eb8f83b68",
+            "90a5367f1fb49ccc",
+            "602612cc6cad5f62",
+            "0aa3cdeb64b4ca51",
+            "902293955721166e",
+            "f12ba012d62f10b2",
+            "8ffb5f206ee43012",
+            "e578bb30a923c462"
+        ],
+        "x": 54,
+        "y": 79
+    },
+    {
+        "id": "0b3b1687946f59d8",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b73a2210af4fbb6f",
+            "ef468aad68678226",
+            "90ae0e2a585c8543",
+            "87078c6ff3e9cc60",
+            "e047cad50bb88cce",
+            "94735efab983e88d",
+            "9677bbfb1e19cade",
+            "9d751cabcc5de067",
+            "af2c14f215a8c220",
+            "ff085fcb5dbbb7ba",
+            "390d9018e08fc25d"
+        ],
+        "x": 74,
+        "y": 1359
+    },
+    {
+        "id": "a2b15373f626fe05",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "4c653fde6e14763c",
+            "d112e16fa014e20d"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "e08fcaf0d2cff758",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f059853438908839",
+            "5c3492b16a5cd224",
+            "844b54fcf6d149b1",
+            "0370c0f4f2bbadf6",
+            "f4e86a2abe1b65a9",
+            "733dcebc52acf6d2",
+            "cf5bea107b365dab"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "1de74c13ae562a6c",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "99403c1e96ff95a0",
+            "e9c21b86c165ac57",
+            "b6c6825b0e881311",
+            "88c4960b163caeb7",
+            "3ee95edc247cf1ea",
+            "5d3e920c24c6df0f",
+            "65df6fca2c302e4b",
+            "5e96b473925e5162"
+        ],
+        "x": 34,
+        "y": 59
+    },
+    {
+        "id": "c33ef596d87aea27",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c5a1535e8a639910",
+            "447051287718a74d",
+            "f8269793d76f8c8d",
+            "7fe2bea149bba17e",
+            "14b89cb334611873",
+            "2d7ff25fabded1d1",
+            "75d5de70adf0cec6",
+            "ae097dcc0df0af7b",
+            "7f018cd9bb1d1403",
+            "ba7235b32b5de166",
+            "7b8aa63f35e297c1",
+            "a82be6dd7929d190",
+            "d6c2e0315ebc6363",
+            "cb28d7c291278c5b",
+            "61e1dedfb763077f",
+            "cd2f7aa674ab1667",
+            "b2eaeea002e97ef2",
+            "3be67d139b0f1490",
+            "83482ddd64fa869e",
+            "529ae63b6a431a7e",
+            "44f5ae55f379680d"
+        ],
+        "x": 64,
+        "y": 1619
+    },
+    {
+        "id": "92a782c0e61c5fd7",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "1ac1d45664c81ff4",
+            "60c5dc384843ed90",
+            "d5fefb02b3aa93e8",
+            "fb6eb0dfd35de8c4",
+            "4554f00d5c268e53"
+        ],
+        "x": 714,
+        "y": 399
+    },
+    {
+        "id": "d17e7841e84a9e12",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9a7c5c9eb60f877d",
+            "1c41a7501cfd4778",
+            "5fe4841cb06c2763",
+            "b447edb2e16faeb8",
+            "3d144ab3b18cfc3c",
+            "cdde9f59b13a3f30",
+            "04749cbb4e7ff3fb",
+            "f4c71ef87bda8c32",
+            "b9355d2234048671",
+            "ea655d4fd7e2376b",
+            "2fcf4c849ac4dccc",
+            "9b60db18ad742926",
+            "07800b66d1a1cb1d",
+            "2462e8ffb7fac00c",
+            "ffce6f5915f9904d",
+            "443679732a7cdefd",
+            "3a0c30d2647ee47c",
+            "4c03bd24ffb7771d"
+        ],
+        "x": 34,
+        "y": 619
+    },
+    {
+        "id": "8f6e01e71c818446",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9453079a7b4e5494",
+            "b2e6040d607a2570",
+            "51aa2e2277c56a0d"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "894aee428592787d",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "405a2d58af2a925d",
+            "dd02f9584c2e8fdb",
+            "581720777840a6ba",
+            "a171c5670c60e82c"
+        ],
+        "x": 1074,
+        "y": 59
+    },
+    {
+        "id": "5d0503262d26022f",
+        "type": "group",
+        "z": "98d9d3de8b6fc695",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6031dd32f5813799",
+            "73096207be694e5d",
+            "9ead21c7bdfd5b4f",
+            "e9dd5da16821e112"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "15ad921e37aa32a3",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f304e1f59551dab8",
+            "e5c951d6b11449a7"
+        ],
+        "x": 54,
+        "y": 439
+    },
+    {
+        "id": "31f0bdbdbc9b0548",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0ce355b93c9db82e",
+            "0761424c61628682",
+            "8f4b0379e775f47a",
+            "1c39022d4a4d4a02",
+            "853ac3bb02295d32",
+            "bb0e73b508c71663",
+            "a0bd756f6ceb3f21",
+            "85ce0619d18ad62b",
+            "aad6d6a307d57733",
+            "83d64c415838f915",
+            "7e805a221e27e4af",
+            "4061f5234d00668d",
+            "8939535dd077b265",
+            "4b6a3039e6208aa4",
+            "f070fe9292b37198",
+            "654f2944f53b2657",
+            "fc0b465ce2392f8c",
+            "085544c071499758",
+            "5e896e2c946e0779",
+            "8007cfc73011d7da",
+            "3cda3668481fcfad",
+            "d826b952cfc044d6",
+            "1a7a1ba8e00da07a",
+            "37263c8f047b5f52"
+        ],
+        "x": 44,
+        "y": 1619
+    },
+    {
+        "id": "74dea1e6a74d4d5d",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "afeb9743deedf7d8",
+            "2978d6ec6a496d44",
+            "ef4b980d427899a8",
+            "b8e64a114fd9a36c",
+            "ffb1084d3466fee4",
+            "384d5959d4824524",
+            "c19fc804881f8205",
+            "3d0699bf9321e1fe",
+            "84490fa972df6a95",
+            "fb31cc2c9fb203e7",
+            "196ea68a4adc0c6d",
+            "b3dbb4de7d8947fa",
+            "73153876bd30186b",
+            "88e4f10980a849ec",
+            "3649d4f5e9fd2396",
+            "dc7a12b679d53da6",
+            "fe8edc2d215d999e",
+            "3be399a09e796ce6",
+            "472c8a767ffb0b7c",
+            "4af639e7f67f0d07"
+        ],
+        "x": 34,
+        "y": 599
+    },
+    {
+        "id": "5c26ad0c8846e45d",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a9ef7d550586138c",
+            "f8d1b8d92dbd0a6f",
+            "74581cac5273ba11"
+        ],
+        "x": 424,
+        "y": 1059
+    },
+    {
+        "id": "2e7cdc3569cf727c",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "9c369e7aa97cfffd",
+            "93397942af7d1b26",
+            "3214a9577482f6ae",
+            "17f52f1ef371a7f5"
+        ],
+        "x": 1094,
+        "y": 339
+    },
+    {
+        "id": "a9d60788b21017ad",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "d2c48f15779fd389",
+            "1f7653c2860bc3ed",
+            "060b8a4d0e86d80b",
+            "234724e28d248fb8"
+        ],
+        "x": 154,
+        "y": 1219
+    },
+    {
+        "id": "d5f31d536dacd100",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "073a8e6ce8c24af5",
+            "8c85c4fc61ba740a",
+            "5e5dd8d89b99910d",
+            "3dc46a1e3dcb5217",
+            "549ef1cf61701181",
+            "95de3a4203213fed",
+            "c0632251317ca5fd",
+            "f0398fb25efa6470",
+            "e712a9b07c136cf0",
+            "2f6a657555f2c6fd",
+            "6a6254cc923e017f"
+        ],
+        "x": 34,
+        "y": 1359
+    },
+    {
+        "id": "37da6a81034c5ebb",
+        "type": "group",
+        "z": "458d4ab5fd36cdca",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "77569b7052fda875",
+            "7bb0ffab470520af",
+            "5cbee48714230328",
+            "8d6c2493fe6ff79f",
+            "028280647870989c",
+            "bb69fd53381d21e2",
+            "b7d2048a7457e7ee",
+            "8bf9c8e12275fa0f"
+        ],
+        "x": 54,
+        "y": 79
+    },
+    {
+        "id": "1a084ccf745b4186",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "40b4ef4bc11ec156",
+            "3bf4b013c1a62601",
+            "714646427f0a708c",
+            "1713180fe951b0d7",
+            "c7145c4a18a76546",
+            "de642112b7357909",
+            "3224734823c91092",
+            "81cdf17c863730c0",
+            "5c5a7d8d23ae7a6a",
+            "a989c696fd0d94b0",
+            "a5fc913be546b362"
+        ],
+        "x": 34,
+        "y": 1459
+    },
+    {
+        "id": "021b3bb1116de8ee",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6a2a12dd8c58a184",
+            "c1d4bc10742de8f8"
+        ],
+        "x": 34,
+        "y": 459
+    },
+    {
+        "id": "f7c132da6a6f0b7c",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3d27aa929ad6ce1a",
+            "c44e6da386c3b2bc",
+            "f63bfe89b16649cc",
+            "a4a9cc8d1c516377",
+            "a2eb82d2cf3ae778",
+            "7bb2e78609bdd601",
+            "19ac544bbf5e6ea1"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "16ef082ae0f1201b",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "2d9b61276d8b5c27",
+            "097bbf599f7d0242",
+            "756200a5facda56c",
+            "af34fe0840e2fa02",
+            "7a72b2b26396d908",
+            "0fccbdf84745e6c6",
+            "87cd26e87828b789",
+            "fb00d8adec430b38"
+        ],
+        "x": 34,
+        "y": 39
+    },
+    {
+        "id": "5976136a2b01607e",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bfe158c922a6850d",
+            "7c836a3bab8aeb08",
+            "816cbf64ded5f606",
+            "24e2c69578708a98",
+            "62c3de83239d5b20",
+            "cd7cfb03b3b7f23a",
+            "386511705f885363",
+            "0608bcf86cec8475",
+            "a5fd23e93e5fb05e",
+            "7198e2c8f31fb1c4",
+            "9f59d7230a555d88",
+            "b46435380980bb26",
+            "00cc7d3292101e30",
+            "10e8354fd1895f7f",
+            "c645b4ac3de90980",
+            "642683cf8515630a",
+            "89b1db62deeb3931",
+            "f0af07784763c1f4",
+            "41c3ac41ce4f79c9",
+            "10c5e1523fe3f6d3"
+        ],
+        "x": 34,
+        "y": 1739
+    },
+    {
+        "id": "63ed79b7c00c07a8",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "60fa809d4ef9fc39",
+            "dc3cc543a33ce83f",
+            "828ef7872438a829",
+            "637f9bbe4a6946a5",
+            "ba6144d9426d30ec"
+        ],
+        "x": 894,
+        "y": 379
+    },
+    {
+        "id": "79d89ef74be344f0",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5c1f3b88b6dff136",
+            "667a0a1344822f23",
+            "7900eb171216a32a",
+            "9eb96f2720bb1c24",
+            "45818e0799312a3c",
+            "56b3e6c15317014c",
+            "485fd5c5af8674ca",
+            "7549c59406a60261",
+            "bcd33673f1f39ff0",
+            "35135f0ec2273243",
+            "5da254b7799fa275",
+            "6be2e07e41f5a5a9",
+            "fc64664969cd48b1",
+            "c3289623b2b833ea",
+            "57b8a5a70c380764",
+            "e6754cfd3ad481f7",
+            "93db5587f9438807",
+            "36720af55c6db04f",
+            "6d5b9ba17c5d914c",
+            "2f6a4927cd13e594"
+        ],
+        "x": 34,
+        "y": 659
+    },
+    {
+        "id": "6063886e9d4e2d24",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bf13c9d4950fe13b",
+            "a1512ee21e306173",
+            "dd53c1efb35ae662"
+        ],
+        "x": 414,
+        "y": 1159
+    },
+    {
+        "id": "2f9e2649b3d9fd92",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "bf4c796a8798a708",
+            "703832c350997c05",
+            "30944bd9cfe56bc6",
+            "e50be835dbf6bdff"
+        ],
+        "x": 1074,
+        "y": 79
+    },
+    {
+        "id": "d107446be36aa848",
+        "type": "group",
+        "z": "b4486b0e11814d83",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "283b286117fb2315",
+            "3f823a82db58cccb",
+            "6ccfc128756c6aed",
+            "96f4bd08e753c724"
+        ],
+        "x": 114,
+        "y": 1319
+    },
+    {
+        "id": "1489879d383ead67",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8ce37c0782bead09",
+            "620f3d3b73bacc0b",
+            "1d3e44551b55f075",
+            "6b021f21725180b9",
+            "a287d9c00496e593",
+            "335dc9e02cde194f",
+            "c3eee7180d546a59",
+            "9c63be3e923823b3",
+            "52c4207c66d35bf2",
+            "6addb57d71c22362",
+            "8d615703af3e1294"
+        ],
+        "x": 34,
+        "y": 1459
+    },
+    {
+        "id": "b22d9fffbf0a510a",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3e1bd603bb2f6d6b",
+            "0354578217d41f52"
+        ],
+        "x": 34,
+        "y": 459
+    },
+    {
+        "id": "61312f558c31d399",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "39366136a2e361e1",
+            "8c4f55718a039110",
+            "da8c1a0ccc787f9a",
+            "a5796d9987cd164f",
+            "d2b45f3b6237b29b",
+            "1715865e28bac24d",
+            "2388b13012810e29"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "6738bb338fb80517",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "e0c184e1cce5d537",
+            "f93ee657d6a5e88d",
+            "cee7be65410d7c33",
+            "ffe546c8ee8c654a",
+            "de15873c460b1ae0",
+            "a4a12180cdb4dc09",
+            "1d0316fe5a1d3f37",
+            "735d5dfc40442666"
+        ],
+        "x": 34,
+        "y": 39
+    },
+    {
+        "id": "106a316b58dc6477",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "b520abb826c5a42c",
+            "3887900e6143325e",
+            "9326f0c5aac1622f",
+            "30c1bb934b2c3b47",
+            "937eb609fe01cad0",
+            "f6da090fbeb0f48f",
+            "b56948c98d4b4453",
+            "e0a15ce0c81201b4",
+            "6487e4bf2273371b",
+            "e813a06aec3cda35",
+            "e7e081fa247f04fb",
+            "a2685ab35a11a1d5",
+            "73d004ed8d82fcdb",
+            "fb35165fedf41017",
+            "59714f1af5f48f83",
+            "c10928a1e42993ed",
+            "b435ef88ca2d3a9b",
+            "fd0e0aceb8394d1d",
+            "03590fdf3c878046",
+            "b28007038129b7c5"
+        ],
+        "x": 34,
+        "y": 1739
+    },
+    {
+        "id": "cd8a8514a96a85ad",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "88af0ca26e452ffe",
+            "bcefd67e94961d18",
+            "49142b1da20c24b5",
+            "3be9b78b57bf1a7b",
+            "5cd53e492d525959"
+        ],
+        "x": 894,
+        "y": 379
+    },
+    {
+        "id": "11d254c3d79f26b2",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "a89f234d043a6ca0",
+            "95ab0b2209c76a8b",
+            "6670599465439175",
+            "c9ddd4180232ea28",
+            "deffeab3a59c8130",
+            "9354179bf540ebaf",
+            "c4c312fee745f579",
+            "91db98233a0965e3",
+            "a2d6ba56563babe2",
+            "7a5017b4952fbff8",
+            "fc26c80f68751913",
+            "b4bc11a48b41fc43",
+            "a2f41fa4b5537a61",
+            "1be611a2cb8e04f9",
+            "9379623b7dcc25ca",
+            "9d5bd3c92e7ab49e",
+            "660cd59d41b2fa41",
+            "bae121828e8380a4",
+            "a881acc234ea4ee6",
+            "5d366eb64cf6ae8b"
+        ],
+        "x": 34,
+        "y": 659
+    },
+    {
+        "id": "3786f81e90d30743",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "3b5ffda1755fdc49",
+            "8f1dc39cf2a690d4",
+            "194a721673cef04a"
+        ],
+        "x": 414,
+        "y": 1159
+    },
+    {
+        "id": "eb18cb6632fe7bec",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "7a99bbd36ec4c39d",
+            "d1c6ab4ec7d161fc",
+            "ac60a16ba6830d9b",
+            "8bf57e1d2241631d"
+        ],
+        "x": 1074,
+        "y": 79
+    },
+    {
+        "id": "7c479cd2f7fb8cb7",
+        "type": "group",
+        "z": "ebe37a229faecb80",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "f860fb5a674b0042",
+            "eb4a0282df186d5d",
+            "b4a6475ff50f1b58",
+            "90d01a84aefc97f2"
+        ],
+        "x": 114,
+        "y": 1319
+    },
+    {
+        "id": "1866f4a995d5da14",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Measurement Data Flow",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "48fc70e6e0c76eb6",
+            "605e739ea829074f",
+            "ce7403f03d3d4c4b",
+            "a8cf17706c568d06",
+            "4025135760748bcb",
+            "060a136613b45ca4",
+            "48b338f7335c6fb9",
+            "c364192b7a00d6e8",
+            "66849c8ada9477a7",
+            "c34f8d33bad4c7ef",
+            "0685ebf2caf0e131"
+        ],
+        "x": 34,
+        "y": 1459
+    },
+    {
+        "id": "4b9fb4518fe58fd8",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Set Heading ",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "86e06cd899aa553a",
+            "bf5f81283c3e14e5"
+        ],
+        "x": 34,
+        "y": 459
+    },
+    {
+        "id": "aa37ac5dcc306285",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Set Tara Value",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "dc424455ac0f9f98",
+            "10d882b5dd45ee72",
+            "04af10da40dfc24d",
+            "ca6996e934320f73",
+            "5378b119b24187d2",
+            "487e904c8e4b8f58",
+            "4994f40f2cd0d18e"
+        ],
+        "x": 24,
+        "y": 239
+    },
+    {
+        "id": "9c912fa474d61e21",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Init manual tara",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "ce9f62ecf9f668b0",
+            "6ab54c11cc3bc3ea",
+            "2de748a4a42b72f2",
+            "6c4a482b0056df24",
+            "424911720dd38a0c",
+            "072cdb3984cde85f",
+            "afa0d020fe83d27c",
+            "4b1f8f3a0c218350"
+        ],
+        "x": 34,
+        "y": 39
+    },
+    {
+        "id": "fede463f491809d5",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "5824504a4256bf93",
+            "04f78f3de395692e",
+            "a586d0a5d641b042",
+            "69dbabceb05fc842",
+            "7917306a75e1b39b",
+            "b9a660ea7cd7a087",
+            "678aa7ada1eed693",
+            "9e81ed7a747614e3",
+            "cf2de0bbebd71a2f",
+            "8de95d2a1bd04fee",
+            "25ad8fed52bc32d4",
+            "ea9422da5c95a44f",
+            "9009e555ce9c759b",
+            "85a583922aced380",
+            "9deab41414ebf496",
+            "dc315c685f8dcff1",
+            "85476d9c32e6e3fc",
+            "e98048dc2a51af8e",
+            "adb01cac32830a50",
+            "5af78f25e007b52a"
+        ],
+        "x": 34,
+        "y": 1739
+    },
+    {
+        "id": "031c7dddd7e5fe93",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Tara Timer",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6ca59f99b9b72380",
+            "60cb3a9f711fffac",
+            "db448e63e9ab71c2",
+            "681e09e0ef7425a8",
+            "609b5b768a15b275"
+        ],
+        "x": 894,
+        "y": 379
+    },
+    {
+        "id": "84fa750da114a817",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Start/Stop Measurement Logic",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "146e0858985cad91",
+            "41c591e825b7427d",
+            "be22416aab8068af",
+            "f57dd78d82ceb35b",
+            "d37c55b791eed011",
+            "cab3f92798876261",
+            "51e5656b85a15719",
+            "8b268e94a568f1b4",
+            "2350c8db7aaaca9a",
+            "f783452d77a74d9b",
+            "6567734feaea4f58",
+            "4d291bfe4e9eb600",
+            "9d06bf9ba00acdb1",
+            "bbf49624a3e09fad",
+            "1a8592dbf4a89498",
+            "2c3a5df113aaacbd",
+            "f96376f8f1fd47db",
+            "33f58fac487ef12c",
+            "dd25eb0687481cb9",
+            "62d2615cc87ec636"
+        ],
+        "x": 34,
+        "y": 659
+    },
+    {
+        "id": "aec2cb16d7fce73a",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Reset Filter to start result calculation",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "cceb4f4dac988ef4",
+            "a5dbda9f7ce5a601",
+            "301ee53a1fb0d41f"
+        ],
+        "x": 414,
+        "y": 1159
+    },
+    {
+        "id": "cd0ee8d1df99ab77",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Set measurment ID",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "8c14b456bdbf17aa",
+            "abf7709355a7cdbb",
+            "4e109fac37f1a8eb",
+            "371d1775401f5520"
+        ],
+        "x": 1074,
+        "y": 79
+    },
+    {
+        "id": "1ac6230b530bb02a",
+        "type": "group",
+        "z": "e25dc20e44e053dc",
+        "name": "Foot Switch",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "fb95be4017832680",
+            "7c3283510357ab5f",
+            "961a49299922c46e",
+            "32e7a5d9c7314cc5"
+        ],
+        "x": 114,
+        "y": 1319
     },
     {
         "id": "7eb72b1d55d66ff5",
@@ -6877,9 +9075,7 @@
             "fc842d462185a2b5"
         ],
         "x": 1254,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "f19af0c1598a7869",
@@ -6899,9 +9095,7 @@
             "cc352ce9cc2b5d42"
         ],
         "x": 274,
-        "y": 799,
-        "w": 352,
-        "h": 202
+        "y": 799
     },
     {
         "id": "a130c28386315d62",
@@ -6917,9 +9111,7 @@
             "86b57a598da4bf16"
         ],
         "x": 1094,
-        "y": 759,
-        "w": 202,
-        "h": 82
+        "y": 759
     },
     {
         "id": "edfd75f3f4fbfed5",
@@ -6934,9 +9126,7 @@
             "71424d2078547abd"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "fb5dfa943294e7a2",
@@ -7192,7 +9382,9 @@
             "0e98e89329772443"
         ],
         "x": 1254,
-        "y": 899
+        "y": 899,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "36b16980d1081435",
@@ -7212,7 +9404,9 @@
             "63794928bb07b43d"
         ],
         "x": 264,
-        "y": 719
+        "y": 719,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "bcb2069dfbe8964d",
@@ -7228,7 +9422,9 @@
             "db04cf60b5026432"
         ],
         "x": 1154,
-        "y": 679
+        "y": 679,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "cbcaa525c343b972",
@@ -7243,7 +9439,9 @@
             "11a5fc6c3b0d13b6"
         ],
         "x": 1254,
-        "y": 799
+        "y": 799,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "70e89b80b3d0f9d5",
@@ -7783,9 +9981,7 @@
             "27d8644635226322"
         ],
         "x": 1234,
-        "y": 1019,
-        "w": 412,
-        "h": 122
+        "y": 1019
     },
     {
         "id": "4b9fbce5464098bf",
@@ -7805,9 +10001,7 @@
             "67f33849a03cd312"
         ],
         "x": 244,
-        "y": 839,
-        "w": 362,
-        "h": 202
+        "y": 839
     },
     {
         "id": "d5d88fb56d205bc3",
@@ -7823,9 +10017,7 @@
             "de7d2b9e9123cebb"
         ],
         "x": 1134,
-        "y": 799,
-        "w": 202,
-        "h": 82
+        "y": 799
     },
     {
         "id": "f89c6e96bbe5a2d5",
@@ -7840,9 +10032,7 @@
             "4bf60af990ac68d3"
         ],
         "x": 1234,
-        "y": 919,
-        "w": 272,
-        "h": 82
+        "y": 919
     },
     {
         "id": "6eb84296ddb04d92",
@@ -7927,9 +10117,7 @@
             "a7d7b68c1179b2b2"
         ],
         "x": 1234,
-        "y": 1019,
-        "w": 412,
-        "h": 122
+        "y": 1019
     },
     {
         "id": "fd1b45605951b087",
@@ -7949,9 +10137,7 @@
             "f07968d437cf41ac"
         ],
         "x": 244,
-        "y": 839,
-        "w": 362,
-        "h": 202
+        "y": 839
     },
     {
         "id": "04dcfd4db8589aa6",
@@ -7967,9 +10153,7 @@
             "7831e1105daf9c88"
         ],
         "x": 1134,
-        "y": 799,
-        "w": 202,
-        "h": 82
+        "y": 799
     },
     {
         "id": "05cca970c310aa48",
@@ -7984,9 +10168,7 @@
             "ca4cd6e02f60d56b"
         ],
         "x": 1234,
-        "y": 919,
-        "w": 272,
-        "h": 82
+        "y": 919
     },
     {
         "id": "dc221031df7c236e",
@@ -8207,9 +10389,7 @@
             "2d0d50957a05a6a9"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "bfcc37e59d066138",
@@ -8229,9 +10409,7 @@
             "fa0abc622943a790"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "609775c78b1e0c25",
@@ -8247,9 +10425,7 @@
             "5f7fa8b9e9f05a2f"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "16655dc97351b701",
@@ -8264,227 +10440,7 @@
             "f7ea59df2083631c"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "5655c1d44ef35407",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b38d21821212c93b",
-            "0cdfc5859a078d55",
-            "11f145c73b0dc914",
-            "59d9b42d9da8902e",
-            "2d8795adf8106c05",
-            "52c871b0e9769ba7",
-            "5d8ea145ca3a69be",
-            "fbfbfd4e3eafb2f9",
-            "ba5d519a1f2b2eb4",
-            "fab42be4ff4cee68",
-            "fb7067f668e9e051"
-        ],
-        "x": 74,
-        "y": 1359
-    },
-    {
-        "id": "23bdcb55878ae4a6",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "11bbc24cab891edc",
-            "0b1b11faefad2225"
-        ],
-        "x": 54,
-        "y": 439
-    },
-    {
-        "id": "ecf72e17c2f50bd3",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "39c173084cf63a36",
-            "e3c4213e59b39588",
-            "be282d24076ceba5",
-            "9151adf3c113dc79",
-            "42dc1f48ae21e67b",
-            "9e98b927c4567304",
-            "525a692d4820d5eb"
-        ],
-        "x": 24,
-        "y": 239
-    },
-    {
-        "id": "765b192bda4e315a",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "83b0f9380fda4026",
-            "a8452e9761968a80",
-            "9a65a8588b603b28",
-            "b09876f346bf3075",
-            "f55acc9c0e4e672a",
-            "ab70d8264552b708",
-            "b0cd6d78b77810da",
-            "d8a73c3f24fe8702"
-        ],
-        "x": 34,
-        "y": 59
-    },
-    {
-        "id": "187a02282189b3f6",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "ec5de2fee6c05030",
-            "6aae28c77ffcbc24",
-            "1df66a07a1dcb260",
-            "017936092a9f43a7",
-            "3cebd8db7756466f",
-            "6c9d8eff1361ab39",
-            "015932a1ecf34483",
-            "ba28f199c576e9ef",
-            "7e0c95795b23caef",
-            "d3180db99e4485f6",
-            "2e997493cf528b19",
-            "b1d2ba8626c04b4a",
-            "56a66ec15d879be2",
-            "790a180e1fcf4a50",
-            "f056ef0c021d629d",
-            "b8564fd682390ba6",
-            "91a6cfb527c050ae",
-            "5cadba47279ec518",
-            "d4a563ae168d27b7",
-            "3b56a38f0f8acc54",
-            "2a0c6e4fa05b57b0"
-        ],
-        "x": 64,
-        "y": 1619
-    },
-    {
-        "id": "016000764dee09bb",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b72939726cbcd3cd",
-            "e29fddaeb88b440f",
-            "a00472774f3bf2c5",
-            "f12433a5456555b9",
-            "8aea408b5967c5de"
-        ],
-        "x": 714,
-        "y": 399
-    },
-    {
-        "id": "1f5f7ba22e70a4f4",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "0e860a0e7fe7e2a4",
-            "f4ae3bd174914825",
-            "c4148f80b455759c",
-            "92d8eea4cf34b4c4",
-            "eb34990fdb93dfa6",
-            "249d8ab8f537f9f9",
-            "f9e4e0af2483c9e5",
-            "384429b49fb231cb",
-            "490fcb022feef4b6",
-            "9e419c1d8a4c1ac3",
-            "efa55bbfc748d5e7",
-            "8137a71f401365f2",
-            "af8b72203149a9ca",
-            "5e415a03ed24fa78",
-            "83b27e4b28b5bb6a",
-            "2235143c6da13a3b",
-            "dba7efbd2cc8e27e",
-            "a21564ca31754484"
-        ],
-        "x": 34,
-        "y": 619
-    },
-    {
-        "id": "94d9492ae0b6046a",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f2dddaf5b0fbfaae",
-            "f45527f81d08db71",
-            "082f5f3308301563"
-        ],
-        "x": 424,
-        "y": 1059
-    },
-    {
-        "id": "3b5987154eb023ad",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "e2eb889a989b89a1",
-            "6781eb05a705b336",
-            "cd988d844ee81b02",
-            "a81ae530796cfd46"
-        ],
-        "x": 1074,
-        "y": 59
-    },
-    {
-        "id": "3a42e94e8c1b146c",
-        "type": "group",
-        "z": "dc4cf2c5ce536c14",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "05b2502f0da9cfaa",
-            "096f4eb2561a579d",
-            "a0c0742be42c3e2b",
-            "4a4c6fdc1013abbf"
-        ],
-        "x": 154,
-        "y": 1219
+        "y": 799
     },
     {
         "id": "83b27e4b28b5bb6a",
@@ -8555,207 +10511,6 @@
         "y": 799
     },
     {
-        "id": "a05683b40879f144",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "a66bbacbc88a1e16",
-            "8123741dd49beaca"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "c210e63cab72f12d",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "764915bd97654140",
-            "16f341e56044091c",
-            "b99406c9663ef596",
-            "78fd9f5a1fd573fd",
-            "c8afa833ee2ba3f4",
-            "17141e5916fb7405",
-            "04a771a31f183ca4",
-            "69168b77f1407cf8",
-            "782c99c14106303d",
-            "9ee060c49aed263a",
-            "f7a9af14c33cb9a0",
-            "6f3def9a34c95164",
-            "307f151513004e20",
-            "25cb9fea210ac00a",
-            "d20c34007a600964",
-            "4f63f39a9ec97cc0",
-            "fb4a8c96f9812907",
-            "a9142975b8081605",
-            "2bfe82f5516d3366",
-            "628603fdb3ab3abe",
-            "02be49ffc9a48c89",
-            "8bee2964643e027c",
-            "43aed91044ac54e0",
-            "52683b6bab6a2276"
-        ],
-        "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 382
-    },
-    {
-        "id": "2dae4d48e419ed13",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9848541bdaadea03",
-            "c696bf5d55369bca",
-            "84cf97a4397cf6f6",
-            "426bda6a81c94d52",
-            "020cfd126d07003d",
-            "5524df99c0b9ebdc",
-            "c6b3fcce0a66d378",
-            "934ee728cec8fcf2",
-            "4d328656cc4ebbf6",
-            "9cad0dc21052966d",
-            "9b801e06aa2d1d85",
-            "8d1eb562e2412dc9",
-            "ed082a62d3148390",
-            "8de7f31e4de11753",
-            "198f20b8b8621d06",
-            "ae2cd939db6fc94b",
-            "4d572d284dd9c554",
-            "0a2be9c1c763442c",
-            "a3afec87ab185a75",
-            "de915697141ce22b"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "8ac66104da4a35a5",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "20e3ca96a2127176",
-            "300d84fee9e7b1a0",
-            "9971e68d745b9257"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "1b4c6a5ec0b58992",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cd86616bcb2de129",
-            "437f7bf2fa31d229",
-            "4c29a3eb03caabc5",
-            "4b382289a0893cfb"
-        ],
-        "x": 1094,
-        "y": 339,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "5582a2e310ea36f0",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6206ac62e6795c5e",
-            "a27f474cb9166eec",
-            "5c10ba5c11462ca8",
-            "8f39cbdbcbe24ac0"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "bc2da2ec370c9c51",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cbe07967ebe15210",
-            "99630382e182b268",
-            "0e23c20ea77f1040",
-            "2f1fc5414f60fe6d",
-            "7294fc07b9746e8d",
-            "34d68c46a220a03d",
-            "0820b9557a5a2fce",
-            "3d6e69a65977cb12",
-            "dbea842e1b9d3198",
-            "9c5a061c34e322bc",
-            "5228428fc0f0d301"
-        ],
-        "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
-    },
-    {
-        "id": "56f8c07ab5aff563",
-        "type": "group",
-        "z": "9b82a523ca7a8ae3",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5c26c003bb905f6f",
-            "15d79d0814294877",
-            "1713f2b0dd41ac0c",
-            "5e6745b5c7d2c437",
-            "4cd6f932ce4109ca",
-            "cbf3606d9774e168",
-            "ce0923705bb27b67",
-            "0988d927972dbafd"
-        ],
-        "x": 54,
-        "y": 79,
-        "w": 992,
-        "h": 162
-    },
-    {
         "id": "4d572d284dd9c554",
         "type": "group",
         "z": "9b82a523ca7a8ae3",
@@ -8770,9 +10525,7 @@
             "bf71f04658bbe031"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "0a2be9c1c763442c",
@@ -8792,9 +10545,7 @@
             "325fe7514d6b4640"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "a3afec87ab185a75",
@@ -8810,9 +10561,7 @@
             "83a8d2b0bb14138d"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "de915697141ce22b",
@@ -8827,227 +10576,7 @@
             "5fd24f4327c2e031"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "10c5d6e9a32e8af4",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "32e510147bf71fe4",
-            "ca8a421e8681eb0c",
-            "d15785a081051f71",
-            "40588f0884c97f0b",
-            "5b3a4638d15e445b",
-            "e5a25c0c7373e965",
-            "bef0ee6412e21702",
-            "2bd5b5192c85351c",
-            "54a4f9dfaed17f2e",
-            "b299efb86ec14693",
-            "5abce94a25dd1d83"
-        ],
-        "x": 74,
-        "y": 1359
-    },
-    {
-        "id": "b093ce436687312d",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "4001ee96b6a1c289",
-            "e73aa4b9a2cb45c0"
-        ],
-        "x": 54,
-        "y": 439
-    },
-    {
-        "id": "033cd02e0c471232",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cee45a40124fcbad",
-            "bcbd08db47fa0ac0",
-            "4da887b8e3997aba",
-            "7fd7744ef320030c",
-            "ceea147529d8ab31",
-            "a66afc92715cbf97",
-            "f6c87d3995f06326"
-        ],
-        "x": 24,
-        "y": 239
-    },
-    {
-        "id": "86992a84fd4cebf9",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "a010bb246d9defaf",
-            "9bbfa7a1332a5aa5",
-            "c19f4f393fa35e51",
-            "a8ca224f4a3291c4",
-            "a2c1c2ad8fe47531",
-            "2036789c1c172b61",
-            "26a84e6e8456da1f",
-            "69eb694904816864"
-        ],
-        "x": 34,
-        "y": 59
-    },
-    {
-        "id": "c6655409c4cf24d4",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "47d2faddb0d7a0bc",
-            "56377704685b3d03",
-            "8039085ce4232270",
-            "a3a84b83137500c5",
-            "a117c139fc76f032",
-            "434af8484547c0a0",
-            "57ea45e6583c98df",
-            "e32d60a173e692b3",
-            "49cdfa11a31aba0b",
-            "629cd99ab7ca1bae",
-            "dd8f3b563d85cae6",
-            "e539e71cc9745380",
-            "66cc30c5a649e761",
-            "08af89b1bb8b725b",
-            "a9a77ea064cb8f3c",
-            "fce6cafa70c09427",
-            "9083477fdaf61f0d",
-            "8988f92b6a89732f",
-            "34e5f182d23b37af",
-            "a76a54d12d045b72",
-            "d5cad80b79b03ed7"
-        ],
-        "x": 64,
-        "y": 1619
-    },
-    {
-        "id": "bd3d89cabfb64ed6",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "aea9d3a18c15985d",
-            "0cb18f229fa10808",
-            "4ec7108aacc44f6a",
-            "aca1700b712cc204",
-            "960f9e10cb12ce7a"
-        ],
-        "x": 714,
-        "y": 399
-    },
-    {
-        "id": "37ac4fb04bfd0931",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "c63ba4269ac00e45",
-            "227f29172ed0a155",
-            "47e5d699e9376a86",
-            "eb4680e25c0c8e2f",
-            "076d98875558b10b",
-            "a24208d0bfcb3d0a",
-            "98611757654188fd",
-            "9e9fce8744d73abd",
-            "6de73ce68fd61d6b",
-            "7d033150cfd7ef39",
-            "d1e3fd2631f04a87",
-            "a58b7d95554472d3",
-            "4f9513c298a62ec2",
-            "12fe3f25bcdceb99",
-            "5a6f5ed2c17a4e2f",
-            "441608b0931bed97",
-            "332dc18f849c8e4f",
-            "ac57fc41b129f9b4"
-        ],
-        "x": 34,
-        "y": 619
-    },
-    {
-        "id": "7084ab4b85b3da92",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "761ed5ad1867e6aa",
-            "fe34b2cb820a1e0d",
-            "c247b834d1adcd6d"
-        ],
-        "x": 424,
-        "y": 1059
-    },
-    {
-        "id": "7a8a3640245e414f",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "60e2df2f86998798",
-            "97b810fa8c818529",
-            "7cb873c7af36f8b3",
-            "7dd6c53d03c424f8"
-        ],
-        "x": 1074,
-        "y": 59
-    },
-    {
-        "id": "7e92044e63283c66",
-        "type": "group",
-        "z": "a7862f66471f4353",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "2fdfc24f4fee4896",
-            "2e69eee2f1def154",
-            "71a7b682e64d8fe7",
-            "995a93fb977c7873"
-        ],
-        "x": 154,
-        "y": 1219
+        "y": 799
     },
     {
         "id": "5a6f5ed2c17a4e2f",
@@ -9118,207 +10647,6 @@
         "y": 799
     },
     {
-        "id": "d5e4b0c0faee837f",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8668a464fe6f1e71",
-            "d5431e4a7b064193"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "0adc1f236b564326",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "189303483b9ca1cc",
-            "190399b1ead04f10",
-            "3fbddfd87f658e83",
-            "c37a0c3d486a7731",
-            "73ad9eb23b7b9c65",
-            "66e4c76bf0178d54",
-            "903d206d11199d1d",
-            "3afe32abe10cb676",
-            "87b1ed58bf7ebcf3",
-            "251c4be8f043ef9e",
-            "7091940f7370d44e",
-            "91fe4923e437bb37",
-            "e6f4480151d9bc36",
-            "16d0a6bc3513fe66",
-            "8d623c8ad656fbf5",
-            "7059831242c719b1",
-            "6406700622d8a714",
-            "0c9f28d6245dd22f",
-            "1cf32c5786c472ea",
-            "a291a927f6af02d0",
-            "ff9f457c12284b8a",
-            "27f8428881680182",
-            "5dbb42d7aaedd620",
-            "5c6c233d335ba549"
-        ],
-        "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 382
-    },
-    {
-        "id": "fc8a11b33fe1e314",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "745c26e3ddae1d60",
-            "b827d5e4289c8bda",
-            "76043535da43eb8f",
-            "0a628f3d1ad318f6",
-            "7c8843ab461ecbaa",
-            "958aa00f0a92be07",
-            "555b2f455132a3dd",
-            "16a0b8f9423b3cf2",
-            "37389ec003c29ef9",
-            "b7d5576c1b6931da",
-            "fd9381ddf8376d64",
-            "473bd913c5727a5e",
-            "4025813ef74e5690",
-            "2451111c74ef12ab",
-            "a77e28c5de831f5a",
-            "02a8b5dc3624adac",
-            "f2affd641b06b95d",
-            "71d032aa1b273f8a",
-            "fa3bdd385bee3048",
-            "fa58de7a963f2c20"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "57e87c3e395e4350",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "d7b4604a8979e1ed",
-            "93438154cdb0fbbe",
-            "2a2e23f95b9f62f9"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "1a552ddb0b7f81fe",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8cb3df2d7d865b62",
-            "783979a101e0b082",
-            "cf703b0e284e810d",
-            "5a453a1798a72fcb"
-        ],
-        "x": 1094,
-        "y": 339,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "978f47c180dd4e18",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "692a4e24c594e1c5",
-            "5d29d6ace847d7e1",
-            "988413917ef3b41d",
-            "3ef08295677e5204"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "3b40f66565ec9c59",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "c906263130c6497e",
-            "94dd870348c5b6f0",
-            "53da46ad550bed7d",
-            "b4000a75da5d1204",
-            "69a132ee6a4286c8",
-            "c264f07ce7b74d48",
-            "93cb53a114d04ec3",
-            "b482ad806dcf2e10",
-            "f55e90f9106a3e5a",
-            "9bab0c79ea87bb45",
-            "3a66237975dcafa1"
-        ],
-        "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
-    },
-    {
-        "id": "f4bb27ff3d655b89",
-        "type": "group",
-        "z": "65fb4658ce3d265d",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9969105d76e7576a",
-            "6390cfcf7da789a4",
-            "44b96b4138d93f0e",
-            "9f9caaeedd975136",
-            "c45db1b2ea7510f4",
-            "ba2be4774cc0c8e2",
-            "4139bdafff49bf4e",
-            "20bd7556fc59d2c1"
-        ],
-        "x": 54,
-        "y": 79,
-        "w": 992,
-        "h": 162
-    },
-    {
         "id": "f2affd641b06b95d",
         "type": "group",
         "z": "65fb4658ce3d265d",
@@ -9333,9 +10661,7 @@
             "0b0f9f86d4d828e4"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "71d032aa1b273f8a",
@@ -9355,9 +10681,7 @@
             "d9f0b7614739e1b9"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "fa3bdd385bee3048",
@@ -9373,9 +10697,7 @@
             "b6bc0210646bbac7"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "fa58de7a963f2c20",
@@ -9390,227 +10712,7 @@
             "2da1977235a015db"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "5a960d87fa890ea0",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "906829bc80fcbc7d",
-            "7c2de3fca5924803",
-            "79bd0b9f54ed626d",
-            "d06c1bea6965148f",
-            "c19f338297ddf41d",
-            "18e5eb7dd3b14f81",
-            "52b46312eb642847",
-            "0778c0c9e15c31ed",
-            "5294622fbb1ea3c6",
-            "27de3cf08178c060",
-            "b14e4609292750b5"
-        ],
-        "x": 74,
-        "y": 1359
-    },
-    {
-        "id": "f3e44a60304ab3c0",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3a35f767b94cdec0",
-            "12363c818cf73cb3"
-        ],
-        "x": 54,
-        "y": 439
-    },
-    {
-        "id": "f428c17dc84b9406",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "bea8d3a89b8b405f",
-            "636f7def964f9a5a",
-            "bf4c23bd27764371",
-            "01b1c73e4781baaf",
-            "aec43c355b325d32",
-            "19c3579bb2164d2f",
-            "2de55b7531238ba1"
-        ],
-        "x": 24,
-        "y": 239
-    },
-    {
-        "id": "04c04f636d2ce27a",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1c54d6e04c3212cb",
-            "e9030959d217380a",
-            "1e3d4402f25688e6",
-            "61d2090ee9048a50",
-            "e766a98a3a9bc749",
-            "43d96d2e697fec31",
-            "ef72bb561171253a",
-            "7b479e5723462b42"
-        ],
-        "x": 34,
-        "y": 59
-    },
-    {
-        "id": "50f59258050c7375",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "6d733df53b33b310",
-            "da02488c412f74a9",
-            "b6684ea9a57fbabe",
-            "b803aa5506655902",
-            "0f71c6e14e95f352",
-            "7fc46e123e47c44f",
-            "d3b7bafa55c86fb8",
-            "227e8eb34a1f6794",
-            "c926953635e9c3a1",
-            "b9e3aed6f2e9676b",
-            "b77f6a1707b70ee7",
-            "ac13c1c5440c7596",
-            "2f7ab0018c40fbe1",
-            "c6c4c73a190f0f20",
-            "dafa2ce071d3e09a",
-            "ee5ae5a8f0de770e",
-            "23005412738fe9fe",
-            "60aa9461821ed36e",
-            "d5b0bb83e4dd50ff",
-            "27f84e5ec9900faf",
-            "7ce9b28b3e16fadc"
-        ],
-        "x": 64,
-        "y": 1619
-    },
-    {
-        "id": "29ca666334dbda09",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1da9418b0f85ef30",
-            "707807c7ca328f3c",
-            "e1f4be47f1708365",
-            "52fc6e57610e8f53",
-            "422345d46e5b5a6b"
-        ],
-        "x": 714,
-        "y": 399
-    },
-    {
-        "id": "1f71fe449ef0f1d0",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9ba47b4913fcaa3a",
-            "a528ba61773e09db",
-            "fd9aedd1da3f9f11",
-            "d7a2a8789d2b9345",
-            "bd126829783927d5",
-            "b9ebf280583b4a3f",
-            "57bb9af1e2c40386",
-            "85026efd5dcaf8f3",
-            "07f2e5e1c3966823",
-            "550127212a25cfe3",
-            "c33112ea141ad618",
-            "185e2087aebd1446",
-            "dd0e4d22e5b70e9e",
-            "3b24d966324b2d00",
-            "e4790d7bdd1bd3e7",
-            "163b21a9cbaa05b7",
-            "8bfa8e513dd878da",
-            "67d70213ba73f856"
-        ],
-        "x": 34,
-        "y": 619
-    },
-    {
-        "id": "e853975505b5113a",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8010fbdcf09dbebe",
-            "701fe0230c30fed3",
-            "8022c5942d0cc044"
-        ],
-        "x": 424,
-        "y": 1059
-    },
-    {
-        "id": "995b2cd95a78058e",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "353d7908dab321c6",
-            "9cf7f3653bb9de7a",
-            "2c3ee7d8ba5839b7",
-            "7440b5faed583dd2"
-        ],
-        "x": 1074,
-        "y": 59
-    },
-    {
-        "id": "97d8110a88635177",
-        "type": "group",
-        "z": "9c4892faae569cf4",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "4e4111682953f15d",
-            "66d07436de830d8b",
-            "fe12ce2bb98295b6",
-            "2463e67e445ce801"
-        ],
-        "x": 154,
-        "y": 1219
+        "y": 799
     },
     {
         "id": "e4790d7bdd1bd3e7",
@@ -9681,207 +10783,6 @@
         "y": 799
     },
     {
-        "id": "297c2fa55e2662b5",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "0a4638371ffebd53",
-            "4f7ddc7c9a08aaf4"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "8fce5ca0a12634cd",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "5e31b064c101fc67",
-            "fb93a6a77e9ee92f",
-            "7fef483b1982d68d",
-            "509e6fdc3fee64e9",
-            "c0f0cc79d8ef4a2e",
-            "59754c48d58d4b52",
-            "b35aac611fd40374",
-            "c916a19a4d9e8cc0",
-            "2b98ca74c73ff18d",
-            "9f073f7cc3718e07",
-            "de99a32e1147ed4c",
-            "6f9cd7b3fad381bf",
-            "1f71775d015c5571",
-            "3be1f7d8aa8ec687",
-            "e082763884b9fc79",
-            "848cf67fa0ee7178",
-            "b5f23031a65354a0",
-            "42df760377dd0bc1",
-            "509339fb96bf55df",
-            "327235a17ad09448",
-            "f2a01efe5d499bfb",
-            "404ec96a1a9f911e",
-            "295f301731848030",
-            "9e52563a48a1c191"
-        ],
-        "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 382
-    },
-    {
-        "id": "d6a98247d26009e8",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "31b4cc0310ec1e74",
-            "b1b882f12197b7ea",
-            "fbed42183d80c821",
-            "befacf6297bf9fc3",
-            "9a8f8837f55ebaea",
-            "26997cf3fcaa9c33",
-            "da04d1028d802e16",
-            "d0be61f079edd7b0",
-            "7bb81383ef8d8b40",
-            "63bb2bf766cfad96",
-            "59104fa491935f3e",
-            "a1b54eb0edae327b",
-            "38942cb1c20742bf",
-            "981ccdac2844bb6f",
-            "bce702da8f73c3d0",
-            "182958ab9c494cb9",
-            "47b95d54f5219794",
-            "62f207e1a95502cb",
-            "35b9e81337c924ba",
-            "314a86be1a1d5bf5"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "9227b17326442cc9",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "fe57f2b7651c2353",
-            "730aca18aed6c660",
-            "b173750e38dd13bc"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "8f566080c6a4726d",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "a36a1a5613e1c517",
-            "d7692e7c404e6b21",
-            "b0356b0465ab84f0",
-            "a2d50b531954ea0d"
-        ],
-        "x": 1094,
-        "y": 339,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "c3277b0e8f7dd6db",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ee8cd881cc299b72",
-            "4f7971400687624b",
-            "e0c65c0d0567dc0a",
-            "050d3d342ee791aa"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "7ba0f6e738db2e86",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ed3c848aff83cd1c",
-            "0a180b1409f7a67b",
-            "85132e1d117d1038",
-            "2ec8c54754c2962f",
-            "b7d5318f5bef4046",
-            "0db93f6a27749eeb",
-            "65319c5afe520eb3",
-            "dbca6b52ae063b04",
-            "10bdade266e247bb",
-            "58a42d76219b448b",
-            "5bb7317d93ec8962"
-        ],
-        "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
-    },
-    {
-        "id": "386a52a556a5dc53",
-        "type": "group",
-        "z": "8725ed21696249a0",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dc65833eb8f83b68",
-            "90a5367f1fb49ccc",
-            "602612cc6cad5f62",
-            "0aa3cdeb64b4ca51",
-            "902293955721166e",
-            "f12ba012d62f10b2",
-            "8ffb5f206ee43012",
-            "e578bb30a923c462"
-        ],
-        "x": 54,
-        "y": 79,
-        "w": 992,
-        "h": 162
-    },
-    {
         "id": "47b95d54f5219794",
         "type": "group",
         "z": "8725ed21696249a0",
@@ -9896,9 +10797,7 @@
             "84781b2bb55d8e2e"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "62f207e1a95502cb",
@@ -9918,9 +10817,7 @@
             "4328d4cf0dbf2240"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "35b9e81337c924ba",
@@ -9936,9 +10833,7 @@
             "2dafaa63b13be270"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "314a86be1a1d5bf5",
@@ -9953,227 +10848,7 @@
             "cac62337100e0f20"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "0b3b1687946f59d8",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b73a2210af4fbb6f",
-            "ef468aad68678226",
-            "90ae0e2a585c8543",
-            "87078c6ff3e9cc60",
-            "e047cad50bb88cce",
-            "94735efab983e88d",
-            "9677bbfb1e19cade",
-            "9d751cabcc5de067",
-            "af2c14f215a8c220",
-            "ff085fcb5dbbb7ba",
-            "390d9018e08fc25d"
-        ],
-        "x": 74,
-        "y": 1359
-    },
-    {
-        "id": "a2b15373f626fe05",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "4c653fde6e14763c",
-            "d112e16fa014e20d"
-        ],
-        "x": 54,
-        "y": 439
-    },
-    {
-        "id": "e08fcaf0d2cff758",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f059853438908839",
-            "5c3492b16a5cd224",
-            "844b54fcf6d149b1",
-            "0370c0f4f2bbadf6",
-            "f4e86a2abe1b65a9",
-            "733dcebc52acf6d2",
-            "cf5bea107b365dab"
-        ],
-        "x": 24,
-        "y": 239
-    },
-    {
-        "id": "1de74c13ae562a6c",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "99403c1e96ff95a0",
-            "e9c21b86c165ac57",
-            "b6c6825b0e881311",
-            "88c4960b163caeb7",
-            "3ee95edc247cf1ea",
-            "5d3e920c24c6df0f",
-            "65df6fca2c302e4b",
-            "5e96b473925e5162"
-        ],
-        "x": 34,
-        "y": 59
-    },
-    {
-        "id": "c33ef596d87aea27",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "c5a1535e8a639910",
-            "447051287718a74d",
-            "f8269793d76f8c8d",
-            "7fe2bea149bba17e",
-            "14b89cb334611873",
-            "2d7ff25fabded1d1",
-            "75d5de70adf0cec6",
-            "ae097dcc0df0af7b",
-            "7f018cd9bb1d1403",
-            "ba7235b32b5de166",
-            "7b8aa63f35e297c1",
-            "a82be6dd7929d190",
-            "d6c2e0315ebc6363",
-            "cb28d7c291278c5b",
-            "61e1dedfb763077f",
-            "cd2f7aa674ab1667",
-            "b2eaeea002e97ef2",
-            "3be67d139b0f1490",
-            "83482ddd64fa869e",
-            "529ae63b6a431a7e",
-            "44f5ae55f379680d"
-        ],
-        "x": 64,
-        "y": 1619
-    },
-    {
-        "id": "92a782c0e61c5fd7",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "1ac1d45664c81ff4",
-            "60c5dc384843ed90",
-            "d5fefb02b3aa93e8",
-            "fb6eb0dfd35de8c4",
-            "4554f00d5c268e53"
-        ],
-        "x": 714,
-        "y": 399
-    },
-    {
-        "id": "d17e7841e84a9e12",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9a7c5c9eb60f877d",
-            "1c41a7501cfd4778",
-            "5fe4841cb06c2763",
-            "b447edb2e16faeb8",
-            "3d144ab3b18cfc3c",
-            "cdde9f59b13a3f30",
-            "04749cbb4e7ff3fb",
-            "f4c71ef87bda8c32",
-            "b9355d2234048671",
-            "ea655d4fd7e2376b",
-            "2fcf4c849ac4dccc",
-            "9b60db18ad742926",
-            "07800b66d1a1cb1d",
-            "2462e8ffb7fac00c",
-            "ffce6f5915f9904d",
-            "443679732a7cdefd",
-            "3a0c30d2647ee47c",
-            "4c03bd24ffb7771d"
-        ],
-        "x": 34,
-        "y": 619
-    },
-    {
-        "id": "8f6e01e71c818446",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9453079a7b4e5494",
-            "b2e6040d607a2570",
-            "51aa2e2277c56a0d"
-        ],
-        "x": 424,
-        "y": 1059
-    },
-    {
-        "id": "894aee428592787d",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "405a2d58af2a925d",
-            "dd02f9584c2e8fdb",
-            "581720777840a6ba",
-            "a171c5670c60e82c"
-        ],
-        "x": 1074,
-        "y": 59
-    },
-    {
-        "id": "5d0503262d26022f",
-        "type": "group",
-        "z": "98d9d3de8b6fc695",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6031dd32f5813799",
-            "73096207be694e5d",
-            "9ead21c7bdfd5b4f",
-            "e9dd5da16821e112"
-        ],
-        "x": 154,
-        "y": 1219
+        "y": 799
     },
     {
         "id": "ffce6f5915f9904d",
@@ -10244,207 +10919,6 @@
         "y": 799
     },
     {
-        "id": "15ad921e37aa32a3",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f304e1f59551dab8",
-            "e5c951d6b11449a7"
-        ],
-        "x": 54,
-        "y": 439,
-        "w": 432,
-        "h": 82
-    },
-    {
-        "id": "31f0bdbdbc9b0548",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0ce355b93c9db82e",
-            "0761424c61628682",
-            "8f4b0379e775f47a",
-            "1c39022d4a4d4a02",
-            "853ac3bb02295d32",
-            "bb0e73b508c71663",
-            "a0bd756f6ceb3f21",
-            "85ce0619d18ad62b",
-            "aad6d6a307d57733",
-            "83d64c415838f915",
-            "7e805a221e27e4af",
-            "4061f5234d00668d",
-            "8939535dd077b265",
-            "4b6a3039e6208aa4",
-            "f070fe9292b37198",
-            "654f2944f53b2657",
-            "fc0b465ce2392f8c",
-            "085544c071499758",
-            "5e896e2c946e0779",
-            "8007cfc73011d7da",
-            "3cda3668481fcfad",
-            "d826b952cfc044d6",
-            "1a7a1ba8e00da07a",
-            "37263c8f047b5f52"
-        ],
-        "x": 44,
-        "y": 1619,
-        "w": 2242,
-        "h": 382
-    },
-    {
-        "id": "74dea1e6a74d4d5d",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "afeb9743deedf7d8",
-            "2978d6ec6a496d44",
-            "ef4b980d427899a8",
-            "b8e64a114fd9a36c",
-            "ffb1084d3466fee4",
-            "384d5959d4824524",
-            "c19fc804881f8205",
-            "3d0699bf9321e1fe",
-            "84490fa972df6a95",
-            "fb31cc2c9fb203e7",
-            "196ea68a4adc0c6d",
-            "b3dbb4de7d8947fa",
-            "73153876bd30186b",
-            "88e4f10980a849ec",
-            "3649d4f5e9fd2396",
-            "dc7a12b679d53da6",
-            "fe8edc2d215d999e",
-            "3be399a09e796ce6",
-            "472c8a767ffb0b7c",
-            "4af639e7f67f0d07"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1658,
-        "h": 448
-    },
-    {
-        "id": "5c26ad0c8846e45d",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "a9ef7d550586138c",
-            "f8d1b8d92dbd0a6f",
-            "74581cac5273ba11"
-        ],
-        "x": 424,
-        "y": 1059,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "2e7cdc3569cf727c",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "9c369e7aa97cfffd",
-            "93397942af7d1b26",
-            "3214a9577482f6ae",
-            "17f52f1ef371a7f5"
-        ],
-        "x": 1094,
-        "y": 339,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "a9d60788b21017ad",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "d2c48f15779fd389",
-            "1f7653c2860bc3ed",
-            "060b8a4d0e86d80b",
-            "234724e28d248fb8"
-        ],
-        "x": 154,
-        "y": 1219,
-        "w": 532,
-        "h": 82
-    },
-    {
-        "id": "d5f31d536dacd100",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "073a8e6ce8c24af5",
-            "8c85c4fc61ba740a",
-            "5e5dd8d89b99910d",
-            "3dc46a1e3dcb5217",
-            "549ef1cf61701181",
-            "95de3a4203213fed",
-            "c0632251317ca5fd",
-            "f0398fb25efa6470",
-            "e712a9b07c136cf0",
-            "2f6a657555f2c6fd",
-            "6a6254cc923e017f"
-        ],
-        "x": 34,
-        "y": 1359,
-        "w": 1372,
-        "h": 235
-    },
-    {
-        "id": "37da6a81034c5ebb",
-        "type": "group",
-        "z": "458d4ab5fd36cdca",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "77569b7052fda875",
-            "7bb0ffab470520af",
-            "5cbee48714230328",
-            "8d6c2493fe6ff79f",
-            "028280647870989c",
-            "bb69fd53381d21e2",
-            "b7d2048a7457e7ee",
-            "8bf9c8e12275fa0f"
-        ],
-        "x": 54,
-        "y": 79,
-        "w": 992,
-        "h": 162
-    },
-    {
         "id": "fe8edc2d215d999e",
         "type": "group",
         "z": "458d4ab5fd36cdca",
@@ -10459,9 +10933,7 @@
             "f031cabb936bfdd8"
         ],
         "x": 1254,
-        "y": 899,
-        "w": 412,
-        "h": 122
+        "y": 899
     },
     {
         "id": "3be399a09e796ce6",
@@ -10481,9 +10953,7 @@
             "b33fd82eada43701"
         ],
         "x": 264,
-        "y": 719,
-        "w": 362,
-        "h": 202
+        "y": 719
     },
     {
         "id": "472c8a767ffb0b7c",
@@ -10499,9 +10969,7 @@
             "70f177990f42dac7"
         ],
         "x": 1154,
-        "y": 679,
-        "w": 202,
-        "h": 82
+        "y": 679
     },
     {
         "id": "4af639e7f67f0d07",
@@ -10516,243 +10984,7 @@
             "c14cf111cba527df"
         ],
         "x": 1254,
-        "y": 799,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "1a084ccf745b4186",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "40b4ef4bc11ec156",
-            "3bf4b013c1a62601",
-            "714646427f0a708c",
-            "1713180fe951b0d7",
-            "c7145c4a18a76546",
-            "de642112b7357909",
-            "3224734823c91092",
-            "81cdf17c863730c0",
-            "5c5a7d8d23ae7a6a",
-            "a989c696fd0d94b0",
-            "a5fc913be546b362"
-        ],
-        "x": 34,
-        "y": 1459,
-        "w": 1382,
-        "h": 235
-    },
-    {
-        "id": "021b3bb1116de8ee",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6a2a12dd8c58a184",
-            "c1d4bc10742de8f8"
-        ],
-        "x": 34,
-        "y": 459,
-        "w": 452,
-        "h": 82
-    },
-    {
-        "id": "f7c132da6a6f0b7c",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3d27aa929ad6ce1a",
-            "c44e6da386c3b2bc",
-            "f63bfe89b16649cc",
-            "a4a9cc8d1c516377",
-            "a2eb82d2cf3ae778",
-            "7bb2e78609bdd601",
-            "19ac544bbf5e6ea1"
-        ],
-        "x": 24,
-        "y": 239,
-        "w": 902,
-        "h": 142
-    },
-    {
-        "id": "16ef082ae0f1201b",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "2d9b61276d8b5c27",
-            "097bbf599f7d0242",
-            "756200a5facda56c",
-            "af34fe0840e2fa02",
-            "7a72b2b26396d908",
-            "0fccbdf84745e6c6",
-            "87cd26e87828b789",
-            "fb00d8adec430b38"
-        ],
-        "x": 34,
-        "y": 39,
-        "w": 992,
-        "h": 162
-    },
-    {
-        "id": "5976136a2b01607e",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "bfe158c922a6850d",
-            "7c836a3bab8aeb08",
-            "816cbf64ded5f606",
-            "24e2c69578708a98",
-            "62c3de83239d5b20",
-            "cd7cfb03b3b7f23a",
-            "386511705f885363",
-            "0608bcf86cec8475",
-            "a5fd23e93e5fb05e",
-            "7198e2c8f31fb1c4",
-            "9f59d7230a555d88",
-            "b46435380980bb26",
-            "00cc7d3292101e30",
-            "10e8354fd1895f7f",
-            "c645b4ac3de90980",
-            "642683cf8515630a",
-            "89b1db62deeb3931",
-            "f0af07784763c1f4",
-            "41c3ac41ce4f79c9",
-            "10c5e1523fe3f6d3"
-        ],
-        "x": 34,
-        "y": 1739,
-        "w": 2352,
-        "h": 282
-    },
-    {
-        "id": "63ed79b7c00c07a8",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "60fa809d4ef9fc39",
-            "dc3cc543a33ce83f",
-            "828ef7872438a829",
-            "637f9bbe4a6946a5",
-            "ba6144d9426d30ec"
-        ],
-        "x": 894,
-        "y": 379,
-        "w": 782,
-        "h": 82
-    },
-    {
-        "id": "79d89ef74be344f0",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5c1f3b88b6dff136",
-            "667a0a1344822f23",
-            "7900eb171216a32a",
-            "9eb96f2720bb1c24",
-            "45818e0799312a3c",
-            "56b3e6c15317014c",
-            "485fd5c5af8674ca",
-            "7549c59406a60261",
-            "bcd33673f1f39ff0",
-            "35135f0ec2273243",
-            "5da254b7799fa275",
-            "6be2e07e41f5a5a9",
-            "fc64664969cd48b1",
-            "c3289623b2b833ea",
-            "57b8a5a70c380764",
-            "e6754cfd3ad481f7",
-            "93db5587f9438807",
-            "36720af55c6db04f",
-            "6d5b9ba17c5d914c",
-            "2f6a4927cd13e594"
-        ],
-        "x": 34,
-        "y": 659,
-        "w": 1658,
-        "h": 468
-    },
-    {
-        "id": "6063886e9d4e2d24",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "bf13c9d4950fe13b",
-            "a1512ee21e306173",
-            "dd53c1efb35ae662"
-        ],
-        "x": 414,
-        "y": 1159,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "2f9e2649b3d9fd92",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "bf4c796a8798a708",
-            "703832c350997c05",
-            "30944bd9cfe56bc6",
-            "e50be835dbf6bdff"
-        ],
-        "x": 1074,
-        "y": 79,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "d107446be36aa848",
-        "type": "group",
-        "z": "b4486b0e11814d83",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "283b286117fb2315",
-            "3f823a82db58cccb",
-            "6ccfc128756c6aed",
-            "96f4bd08e753c724"
-        ],
-        "x": 114,
-        "y": 1319,
-        "w": 532,
-        "h": 82
+        "y": 799
     },
     {
         "id": "93db5587f9438807",
@@ -10769,9 +11001,7 @@
             "ee4b1d93f7acbd58"
         ],
         "x": 1254,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "36720af55c6db04f",
@@ -10791,9 +11021,7 @@
             "5bf580b89f2801e1"
         ],
         "x": 274,
-        "y": 799,
-        "w": 352,
-        "h": 202
+        "y": 799
     },
     {
         "id": "6d5b9ba17c5d914c",
@@ -10809,9 +11037,7 @@
             "0fe17a26b9ae897f"
         ],
         "x": 1094,
-        "y": 759,
-        "w": 202,
-        "h": 82
+        "y": 759
     },
     {
         "id": "2f6a4927cd13e594",
@@ -10826,223 +11052,7 @@
             "07ec490ec7e75b20"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 272,
-        "h": 82
-    },
-    {
-        "id": "1489879d383ead67",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8ce37c0782bead09",
-            "620f3d3b73bacc0b",
-            "1d3e44551b55f075",
-            "6b021f21725180b9",
-            "a287d9c00496e593",
-            "335dc9e02cde194f",
-            "c3eee7180d546a59",
-            "9c63be3e923823b3",
-            "52c4207c66d35bf2",
-            "6addb57d71c22362",
-            "8d615703af3e1294"
-        ],
-        "x": 34,
-        "y": 1459
-    },
-    {
-        "id": "b22d9fffbf0a510a",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3e1bd603bb2f6d6b",
-            "0354578217d41f52"
-        ],
-        "x": 34,
-        "y": 459
-    },
-    {
-        "id": "61312f558c31d399",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "39366136a2e361e1",
-            "8c4f55718a039110",
-            "da8c1a0ccc787f9a",
-            "a5796d9987cd164f",
-            "d2b45f3b6237b29b",
-            "1715865e28bac24d",
-            "2388b13012810e29"
-        ],
-        "x": 24,
-        "y": 239
-    },
-    {
-        "id": "6738bb338fb80517",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "e0c184e1cce5d537",
-            "f93ee657d6a5e88d",
-            "cee7be65410d7c33",
-            "ffe546c8ee8c654a",
-            "de15873c460b1ae0",
-            "a4a12180cdb4dc09",
-            "1d0316fe5a1d3f37",
-            "735d5dfc40442666"
-        ],
-        "x": 34,
-        "y": 39
-    },
-    {
-        "id": "106a316b58dc6477",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "b520abb826c5a42c",
-            "3887900e6143325e",
-            "9326f0c5aac1622f",
-            "30c1bb934b2c3b47",
-            "937eb609fe01cad0",
-            "f6da090fbeb0f48f",
-            "b56948c98d4b4453",
-            "e0a15ce0c81201b4",
-            "6487e4bf2273371b",
-            "e813a06aec3cda35",
-            "e7e081fa247f04fb",
-            "a2685ab35a11a1d5",
-            "73d004ed8d82fcdb",
-            "fb35165fedf41017",
-            "59714f1af5f48f83",
-            "c10928a1e42993ed",
-            "b435ef88ca2d3a9b",
-            "fd0e0aceb8394d1d",
-            "03590fdf3c878046",
-            "b28007038129b7c5"
-        ],
-        "x": 34,
-        "y": 1739
-    },
-    {
-        "id": "cd8a8514a96a85ad",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "88af0ca26e452ffe",
-            "bcefd67e94961d18",
-            "49142b1da20c24b5",
-            "3be9b78b57bf1a7b",
-            "5cd53e492d525959"
-        ],
-        "x": 894,
-        "y": 379
-    },
-    {
-        "id": "11d254c3d79f26b2",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "a89f234d043a6ca0",
-            "95ab0b2209c76a8b",
-            "6670599465439175",
-            "c9ddd4180232ea28",
-            "deffeab3a59c8130",
-            "9354179bf540ebaf",
-            "c4c312fee745f579",
-            "91db98233a0965e3",
-            "a2d6ba56563babe2",
-            "7a5017b4952fbff8",
-            "fc26c80f68751913",
-            "b4bc11a48b41fc43",
-            "a2f41fa4b5537a61",
-            "1be611a2cb8e04f9",
-            "9379623b7dcc25ca",
-            "9d5bd3c92e7ab49e",
-            "660cd59d41b2fa41",
-            "bae121828e8380a4",
-            "a881acc234ea4ee6",
-            "5d366eb64cf6ae8b"
-        ],
-        "x": 34,
-        "y": 659
-    },
-    {
-        "id": "3786f81e90d30743",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3b5ffda1755fdc49",
-            "8f1dc39cf2a690d4",
-            "194a721673cef04a"
-        ],
-        "x": 414,
-        "y": 1159
-    },
-    {
-        "id": "eb18cb6632fe7bec",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "7a99bbd36ec4c39d",
-            "d1c6ab4ec7d161fc",
-            "ac60a16ba6830d9b",
-            "8bf57e1d2241631d"
-        ],
-        "x": 1074,
-        "y": 79
-    },
-    {
-        "id": "7c479cd2f7fb8cb7",
-        "type": "group",
-        "z": "ebe37a229faecb80",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "f860fb5a674b0042",
-            "eb4a0282df186d5d",
-            "b4a6475ff50f1b58",
-            "90d01a84aefc97f2"
-        ],
-        "x": 114,
-        "y": 1319
+        "y": 879
     },
     {
         "id": "660cd59d41b2fa41",
@@ -11113,240 +11123,6 @@
         "y": 879
     },
     {
-        "id": "1866f4a995d5da14",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Measurement Data Flow",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "48fc70e6e0c76eb6",
-            "605e739ea829074f",
-            "ce7403f03d3d4c4b",
-            "a8cf17706c568d06",
-            "4025135760748bcb",
-            "060a136613b45ca4",
-            "48b338f7335c6fb9",
-            "c364192b7a00d6e8",
-            "66849c8ada9477a7",
-            "c34f8d33bad4c7ef",
-            "0685ebf2caf0e131"
-        ],
-        "x": 34,
-        "y": 1459,
-        "w": 1382,
-        "h": 235
-    },
-    {
-        "id": "4b9fb4518fe58fd8",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Set Heading ",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "86e06cd899aa553a",
-            "bf5f81283c3e14e5"
-        ],
-        "x": 34,
-        "y": 459,
-        "w": 452,
-        "h": 82
-    },
-    {
-        "id": "aa37ac5dcc306285",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Set Tara Value",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "dc424455ac0f9f98",
-            "10d882b5dd45ee72",
-            "04af10da40dfc24d",
-            "ca6996e934320f73",
-            "5378b119b24187d2",
-            "487e904c8e4b8f58",
-            "4994f40f2cd0d18e"
-        ],
-        "x": 24,
-        "y": 239,
-        "w": 902,
-        "h": 142
-    },
-    {
-        "id": "9c912fa474d61e21",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Init manual tara",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "ce9f62ecf9f668b0",
-            "6ab54c11cc3bc3ea",
-            "2de748a4a42b72f2",
-            "6c4a482b0056df24",
-            "424911720dd38a0c",
-            "072cdb3984cde85f",
-            "afa0d020fe83d27c",
-            "4b1f8f3a0c218350"
-        ],
-        "x": 34,
-        "y": 39,
-        "w": 992,
-        "h": 162
-    },
-    {
-        "id": "fede463f491809d5",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "5824504a4256bf93",
-            "04f78f3de395692e",
-            "a586d0a5d641b042",
-            "69dbabceb05fc842",
-            "7917306a75e1b39b",
-            "b9a660ea7cd7a087",
-            "678aa7ada1eed693",
-            "9e81ed7a747614e3",
-            "cf2de0bbebd71a2f",
-            "8de95d2a1bd04fee",
-            "25ad8fed52bc32d4",
-            "ea9422da5c95a44f",
-            "9009e555ce9c759b",
-            "85a583922aced380",
-            "9deab41414ebf496",
-            "dc315c685f8dcff1",
-            "85476d9c32e6e3fc",
-            "e98048dc2a51af8e",
-            "adb01cac32830a50",
-            "5af78f25e007b52a"
-        ],
-        "x": 34,
-        "y": 1739,
-        "w": 2352,
-        "h": 282
-    },
-    {
-        "id": "031c7dddd7e5fe93",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Tara Timer",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "6ca59f99b9b72380",
-            "60cb3a9f711fffac",
-            "db448e63e9ab71c2",
-            "681e09e0ef7425a8",
-            "609b5b768a15b275"
-        ],
-        "x": 894,
-        "y": 379,
-        "w": 782,
-        "h": 82
-    },
-    {
-        "id": "84fa750da114a817",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Start/Stop Measurement Logic",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "146e0858985cad91",
-            "41c591e825b7427d",
-            "be22416aab8068af",
-            "f57dd78d82ceb35b",
-            "d37c55b791eed011",
-            "cab3f92798876261",
-            "51e5656b85a15719",
-            "8b268e94a568f1b4",
-            "2350c8db7aaaca9a",
-            "f783452d77a74d9b",
-            "6567734feaea4f58",
-            "4d291bfe4e9eb600",
-            "9d06bf9ba00acdb1",
-            "bbf49624a3e09fad",
-            "1a8592dbf4a89498",
-            "2c3a5df113aaacbd",
-            "f96376f8f1fd47db",
-            "33f58fac487ef12c",
-            "dd25eb0687481cb9",
-            "62d2615cc87ec636"
-        ],
-        "x": 34,
-        "y": 659,
-        "w": 1658,
-        "h": 468
-    },
-    {
-        "id": "aec2cb16d7fce73a",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Reset Filter to start result calculation",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "cceb4f4dac988ef4",
-            "a5dbda9f7ce5a601",
-            "301ee53a1fb0d41f"
-        ],
-        "x": 414,
-        "y": 1159,
-        "w": 272,
-        "h": 122
-    },
-    {
-        "id": "cd0ee8d1df99ab77",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Set measurment ID",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "8c14b456bdbf17aa",
-            "abf7709355a7cdbb",
-            "4e109fac37f1a8eb",
-            "371d1775401f5520"
-        ],
-        "x": 1074,
-        "y": 79,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "1ac6230b530bb02a",
-        "type": "group",
-        "z": "e25dc20e44e053dc",
-        "name": "Foot Switch",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "fb95be4017832680",
-            "7c3283510357ab5f",
-            "961a49299922c46e",
-            "32e7a5d9c7314cc5"
-        ],
-        "x": 114,
-        "y": 1319,
-        "w": 532,
-        "h": 82
-    },
-    {
         "id": "f96376f8f1fd47db",
         "type": "group",
         "z": "e25dc20e44e053dc",
@@ -11361,9 +11137,7 @@
             "02c9061097abedbe"
         ],
         "x": 1254,
-        "y": 979,
-        "w": 412,
-        "h": 122
+        "y": 979
     },
     {
         "id": "33f58fac487ef12c",
@@ -11383,9 +11157,7 @@
             "f021ccac3ac45f95"
         ],
         "x": 274,
-        "y": 799,
-        "w": 352,
-        "h": 202
+        "y": 799
     },
     {
         "id": "dd25eb0687481cb9",
@@ -11401,9 +11173,7 @@
             "975473d7ae0efc1c"
         ],
         "x": 1094,
-        "y": 759,
-        "w": 202,
-        "h": 82
+        "y": 759
     },
     {
         "id": "62d2615cc87ec636",
@@ -11418,9 +11188,7 @@
             "26d804085551e7c7"
         ],
         "x": 1254,
-        "y": 879,
-        "w": 272,
-        "h": 82
+        "y": 879
     },
     {
         "id": "3f0cacbd0d1921c4",
@@ -12972,7 +12740,7 @@
     {
         "id": "cf1feb024de9b6b9",
         "type": "ui_group",
-        "name": "Zylindrische Flächen",
+        "name": "Zylindrische Flächen // ",
         "tab": "c98af652824320aa",
         "order": 10,
         "disp": true,
@@ -13494,7 +13262,7 @@
     {
         "id": "896b7fe1bb35857c",
         "type": "ui_tab",
-        "name": "Zylindrische Flächen A",
+        "name": "Zylindrische Flächen // A",
         "icon": "dashboard",
         "order": 12,
         "disabled": false,
@@ -13525,7 +13293,7 @@
     {
         "id": "00542d77a54e214a",
         "type": "ui_tab",
-        "name": "Zylindrische Flächen - Abmaß",
+        "name": "Zylindrische Flächen // - Abmaß",
         "icon": "dashboard",
         "order": 13,
         "disabled": false,
@@ -57931,9 +57699,9 @@
         "id": "41b768020be20f27",
         "type": "comment",
         "z": "b83e7265311078a5",
-        "name": "Zylindrische Flächen A",
+        "name": "Zylindrische Flächen // A",
         "info": "",
-        "x": 140,
+        "x": 150,
         "y": 20,
         "wires": []
     },
@@ -58816,14 +58584,14 @@
                 "t": "set",
                 "p": "type2",
                 "pt": "msg",
-                "to": "Zylindrische Flächen - Rundheit",
+                "to": "Zylindrische Flächen // - Rundheit",
                 "tot": "str"
             },
             {
                 "t": "set",
                 "p": "type3",
                 "pt": "msg",
-                "to": "Zylindrische Flächen - Parallelität",
+                "to": "Zylindrische Flächen // - Parallelität",
                 "tot": "str"
             },
             {
@@ -59626,14 +59394,14 @@
                 "t": "set",
                 "p": "type2",
                 "pt": "msg",
-                "to": "Zylindrische Flächen - Rundheit",
+                "to": "Zylindrische Flächen // - Rundheit",
                 "tot": "str"
             },
             {
                 "t": "set",
                 "p": "type3",
                 "pt": "msg",
-                "to": "Zylindrische Flächen - Parallelität",
+                "to": "Zylindrische Flächen // - Parallelität",
                 "tot": "str"
             },
             {
@@ -59685,9 +59453,9 @@
         "id": "a30900d6a9356497",
         "type": "comment",
         "z": "1a16fa2f8e112752",
-        "name": "Zylindrische Flächen - Abmaß",
+        "name": "Zylindrische Flächen // - Abmaß",
         "info": "Zylindrische Flächen",
-        "x": 160,
+        "x": 170,
         "y": 20,
         "wires": []
     },
