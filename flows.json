@@ -40,14 +40,6 @@
         "env": []
     },
     {
-        "id": "8b889a82bab4ead6",
-        "type": "tab",
-        "label": "Environment Data",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "f76015fff1ab449b",
         "type": "tab",
         "label": "m1",
@@ -336,7 +328,9 @@
             "8b0dbb210dc7063c"
         ],
         "x": 34,
-        "y": 559
+        "y": 559,
+        "w": 1492,
+        "h": 82
     },
     {
         "id": "8e9639dd6a52feb3",
@@ -3012,7 +3006,9 @@
             "d7cd35aa76101d05"
         ],
         "x": 34,
-        "y": 73
+        "y": 73,
+        "w": 1812,
+        "h": 368
     },
     {
         "id": "fe8cc1c916649342",
@@ -5052,7 +5048,9 @@
             "ec3e04855216ac97"
         ],
         "x": 18.000003814697266,
-        "y": 1406
+        "y": 1406,
+        "w": 1444.9999961853027,
+        "h": 235
     },
     {
         "id": "9469a9d3865aa3b1",
@@ -5067,7 +5065,9 @@
             "01a2cd162396505b"
         ],
         "x": 34,
-        "y": 459
+        "y": 459,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "720b8cf35c6ac267",
@@ -5087,7 +5087,9 @@
             "332bf429bb6210c7"
         ],
         "x": 4,
-        "y": 239
+        "y": 239,
+        "w": 902,
+        "h": 142
     },
     {
         "id": "2dee8348fd802f3b",
@@ -5108,7 +5110,9 @@
             "86828f6deb4f3a41"
         ],
         "x": 14,
-        "y": 59
+        "y": 59,
+        "w": 992,
+        "h": 162
     },
     {
         "id": "7b86aa07c7708a51",
@@ -5148,7 +5152,9 @@
             "9e0239c1da950eaa"
         ],
         "x": 4,
-        "y": 1679
+        "y": 1679,
+        "w": 2202,
+        "h": 322
     },
     {
         "id": "09ae635e0d0ef96c",
@@ -5166,7 +5172,9 @@
             "5e6de93a0ca09e2a"
         ],
         "x": 734,
-        "y": 419
+        "y": 419,
+        "w": 782,
+        "h": 82
     },
     {
         "id": "8c2f266cf35f9214",
@@ -5199,7 +5207,9 @@
             "f89c6e96bbe5a2d5"
         ],
         "x": 14,
-        "y": 699
+        "y": 699,
+        "w": 1658,
+        "h": 468
     },
     {
         "id": "a84cc2dad0ed15e7",
@@ -5215,7 +5225,9 @@
             "0418b5cfbaf16f6b"
         ],
         "x": 384,
-        "y": 1179
+        "y": 1179,
+        "w": 272,
+        "h": 122
     },
     {
         "id": "f27a007329088e0e",
@@ -5232,7 +5244,9 @@
             "878a9e53f6fc6983"
         ],
         "x": 1094,
-        "y": 79
+        "y": 79,
+        "w": 592,
+        "h": 122
     },
     {
         "id": "9ddfc1c30b869b5f",
@@ -5249,7 +5263,9 @@
             "d1f1d3ca889ec298"
         ],
         "x": 244,
-        "y": 1319
+        "y": 1319,
+        "w": 532,
+        "h": 82
     },
     {
         "id": "4f04d00d873c36cc",
@@ -7476,7 +7492,9 @@
             "8d3c9719a67f5aef"
         ],
         "x": 354,
-        "y": 99
+        "y": 99,
+        "w": 712,
+        "h": 122
     },
     {
         "id": "adfe14c75cde1397",
@@ -7765,7 +7783,9 @@
             "27d8644635226322"
         ],
         "x": 1234,
-        "y": 1019
+        "y": 1019,
+        "w": 412,
+        "h": 122
     },
     {
         "id": "4b9fbce5464098bf",
@@ -7785,7 +7805,9 @@
             "67f33849a03cd312"
         ],
         "x": 244,
-        "y": 839
+        "y": 839,
+        "w": 362,
+        "h": 202
     },
     {
         "id": "d5d88fb56d205bc3",
@@ -7801,7 +7823,9 @@
             "de7d2b9e9123cebb"
         ],
         "x": 1134,
-        "y": 799
+        "y": 799,
+        "w": 202,
+        "h": 82
     },
     {
         "id": "f89c6e96bbe5a2d5",
@@ -7816,7 +7840,9 @@
             "4bf60af990ac68d3"
         ],
         "x": 1234,
-        "y": 919
+        "y": 919,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "6eb84296ddb04d92",
@@ -12749,17 +12775,6 @@
         }
     },
     {
-        "id": "8e8a0e2a14399f07",
-        "type": "ui_group",
-        "name": "Standard",
-        "tab": "9d86f616e71bcf60",
-        "order": 1,
-        "disp": false,
-        "width": 18,
-        "collapse": false,
-        "className": ""
-    },
-    {
         "id": "fe2aa5f270d5ee3c",
         "type": "millimar-device-config",
         "device": "Mahr N 1701 USB"
@@ -12771,16 +12786,7 @@
         "icon": "dashboard",
         "order": 3,
         "disabled": false,
-        "hidden": false
-    },
-    {
-        "id": "9d86f616e71bcf60",
-        "type": "ui_tab",
-        "name": "Messdaten Übersicht",
-        "icon": "dashboard",
-        "order": 15,
-        "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "6f4767ced2e802f1",
@@ -12853,7 +12859,7 @@
         "icon": "dashboard",
         "order": 4,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "c98af652824320aa",
@@ -13025,7 +13031,7 @@
         "icon": "dashboard",
         "order": 5,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a29ef7af40a2b4a4",
@@ -13056,7 +13062,7 @@
         "icon": "dashboard",
         "order": 6,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "092f8a944cbf2576",
@@ -13087,7 +13093,7 @@
         "icon": "dashboard",
         "order": 7,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a04b8dcd59043bf9",
@@ -13118,7 +13124,7 @@
         "icon": "dashboard",
         "order": 9,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "560a3c9e59d3d598",
@@ -13149,7 +13155,7 @@
         "icon": "dashboard",
         "order": 8,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "224e1cf054e6bf43",
@@ -13430,7 +13436,7 @@
         "icon": "dashboard",
         "order": 10,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "539ec61e9a6f04d0",
@@ -13461,7 +13467,7 @@
         "icon": "dashboard",
         "order": 11,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "370d2265b1c451e1",
@@ -13492,7 +13498,7 @@
         "icon": "dashboard",
         "order": 12,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "bfc5bfe2ec9c1974",
@@ -13523,7 +13529,7 @@
         "icon": "dashboard",
         "order": 13,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a4bd47c6b4e1ce29",
@@ -13633,7 +13639,7 @@
         "icon": "dashboard",
         "order": 14,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "5d0102b8f65390bf",
@@ -13694,9 +13700,9 @@
         "type": "ui_tab",
         "name": "Diagonale - Abmaß",
         "icon": "dashboard",
-        "order": 4,
+        "order": 15,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "925d958dd5222ef3",
@@ -13901,9 +13907,9 @@
         "type": "ui_tab",
         "name": "Bohrungsdurchmesser Mitte - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 16,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "bbe8c8e1ce9796a1",
@@ -13932,9 +13938,9 @@
         "type": "ui_tab",
         "name": "Bohrungsdurchmesser Unten - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 17,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "3c865f1d9f8b309c",
@@ -13963,9 +13969,9 @@
         "type": "ui_tab",
         "name": "Bohrungsdurchmesser Oben - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 18,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "dc25453606bd6ce2",
@@ -13994,9 +14000,9 @@
         "type": "ui_tab",
         "name": "Breite - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 19,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "b4f2cd43a1006d66",
@@ -14025,9 +14031,9 @@
         "type": "ui_tab",
         "name": "Bord - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 20,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a7881ee1335d5194",
@@ -14056,9 +14062,9 @@
         "type": "ui_tab",
         "name": "Schräge - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 21,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "d2913e8d9d9abe9a",
@@ -14087,9 +14093,9 @@
         "type": "ui_tab",
         "name": "Laufbahn Abstand/Axialschlag - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 23,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "9c526119781545c5",
@@ -14118,9 +14124,9 @@
         "type": "ui_tab",
         "name": "Rollenanlauf - Abmaß",
         "icon": "dashboard",
-        "order": 14,
+        "order": 22,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "43acf5d75f48cfdc",
@@ -14149,9 +14155,9 @@
         "type": "ui_tab",
         "name": "Außendurchmesser Rand // A",
         "icon": "dashboard",
-        "order": 12,
+        "order": 24,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "61a3b13dac8c2c3e",
@@ -14190,9 +14196,9 @@
         "type": "ui_tab",
         "name": "Außendurchmesser Rand // - Abmaß",
         "icon": "dashboard",
-        "order": 13,
+        "order": 29,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "fd8ca316ecb15ba6",
@@ -14221,9 +14227,9 @@
         "type": "ui_tab",
         "name": "Bohrungsdurchmesser Rand // A",
         "icon": "dashboard",
-        "order": 12,
+        "order": 25,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "64bf5dc0bddf1af0",
@@ -14262,9 +14268,9 @@
         "type": "ui_tab",
         "name": "Bohrungsdurchmesser Rand // - Abmaß",
         "icon": "dashboard",
-        "order": 13,
+        "order": 30,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "d5190ebb26adece7",
@@ -14293,9 +14299,9 @@
         "type": "ui_tab",
         "name": "Parallelität Laufbahn // A",
         "icon": "dashboard",
-        "order": 12,
+        "order": 26,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "0512f178bc3de33b",
@@ -14334,9 +14340,9 @@
         "type": "ui_tab",
         "name": "Parallelität Laufbahn // - Abmaß",
         "icon": "dashboard",
-        "order": 13,
+        "order": 31,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a42db5e733dc1304",
@@ -14365,9 +14371,9 @@
         "type": "ui_tab",
         "name": "Rollenanlauf // A",
         "icon": "dashboard",
-        "order": 12,
+        "order": 27,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "a7bf8da28353375a",
@@ -14406,9 +14412,9 @@
         "type": "ui_tab",
         "name": "Rollenanlauf // - Abmaß",
         "icon": "dashboard",
-        "order": 13,
+        "order": 32,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "7bcbccaa10a26356",
@@ -14437,9 +14443,9 @@
         "type": "ui_tab",
         "name": "Bord // A",
         "icon": "dashboard",
-        "order": 12,
+        "order": 28,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "28fd80cae5468782",
@@ -14478,9 +14484,9 @@
         "type": "ui_tab",
         "name": "Bord // - Abmaß",
         "icon": "dashboard",
-        "order": 13,
+        "order": 33,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "d643d47a5cb12c80",
@@ -14509,9 +14515,9 @@
         "type": "ui_tab",
         "name": "Wanddickenschwankung/ Axialschlag",
         "icon": "dashboard",
-        "order": 9,
+        "order": 34,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "cdf13aaf8f86167c",
@@ -14540,9 +14546,9 @@
         "type": "ui_tab",
         "name": "Breitenschwankung",
         "icon": "dashboard",
-        "order": 9,
+        "order": 35,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "0513db581ea0b143",
@@ -14571,9 +14577,9 @@
         "type": "ui_tab",
         "name": "Neigungsschwankung",
         "icon": "dashboard",
-        "order": 9,
+        "order": 36,
         "disabled": false,
-        "hidden": false
+        "hidden": true
     },
     {
         "id": "9cfc7ccd9e3269ca",
@@ -35062,297 +35068,6 @@
         "x": 1590,
         "y": 180,
         "wires": []
-    },
-    {
-        "id": "bf9be0cc96498def",
-        "type": "http request",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "method": "GET",
-        "ret": "obj",
-        "paytoqs": "ignore",
-        "url": "http://192.168.255.211//xml/json.php?mode=all&simple",
-        "tls": "",
-        "persist": false,
-        "proxy": "",
-        "insecureHTTPParser": false,
-        "authType": "",
-        "senderr": false,
-        "headers": [],
-        "x": 330,
-        "y": 340,
-        "wires": [
-            [
-                "30db0488fdf37a9e"
-            ]
-        ]
-    },
-    {
-        "id": "2ae4c4c1597be50d",
-        "type": "inject",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 340,
-        "wires": [
-            [
-                "bf9be0cc96498def"
-            ]
-        ]
-    },
-    {
-        "id": "38adb7f21e95e78f",
-        "type": "switch",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "property": "payload.id",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "eq",
-                "v": "1",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "104",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "105",
-                "vt": "str"
-            },
-            {
-                "t": "eq",
-                "v": "106",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 4,
-        "x": 630,
-        "y": 340,
-        "wires": [
-            [
-                "b4c2a83e31f492b9"
-            ],
-            [
-                "6b1140d328904073"
-            ],
-            [
-                "c37571242c900c8c"
-            ],
-            [
-                "6a014f135a3e4926"
-            ]
-        ]
-    },
-    {
-        "id": "b4c2a83e31f492b9",
-        "type": "debug",
-        "z": "8b889a82bab4ead6",
-        "name": "debug 3",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 860,
-        "y": 260,
-        "wires": []
-    },
-    {
-        "id": "6b1140d328904073",
-        "type": "debug",
-        "z": "8b889a82bab4ead6",
-        "name": "debug 4",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 860,
-        "y": 320,
-        "wires": []
-    },
-    {
-        "id": "c37571242c900c8c",
-        "type": "debug",
-        "z": "8b889a82bab4ead6",
-        "name": "debug 5",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 860,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "6a014f135a3e4926",
-        "type": "debug",
-        "z": "8b889a82bab4ead6",
-        "name": "debug 6",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 860,
-        "y": 440,
-        "wires": []
-    },
-    {
-        "id": "30db0488fdf37a9e",
-        "type": "split",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "splt": "\\n",
-        "spltType": "str",
-        "arraySplt": 1,
-        "arraySpltType": "len",
-        "stream": false,
-        "addname": "",
-        "x": 470,
-        "y": 340,
-        "wires": [
-            [
-                "38adb7f21e95e78f",
-                "533fd12cb44cb8a7"
-            ]
-        ]
-    },
-    {
-        "id": "0729b26782e1c574",
-        "type": "ui_chart",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "group": "8e8a0e2a14399f07",
-        "order": 21,
-        "width": 0,
-        "height": 0,
-        "label": "Temperaturen",
-        "chartType": "line",
-        "legend": "true",
-        "xformat": "HH:mm:ss",
-        "interpolate": "linear",
-        "nodata": "",
-        "dot": false,
-        "ymin": "",
-        "ymax": "",
-        "removeOlder": 1,
-        "removeOlderPoints": "",
-        "removeOlderUnit": "3600",
-        "cutout": 0,
-        "useOneColor": false,
-        "useUTC": false,
-        "colors": [
-            "#1f77b4",
-            "#aec7e8",
-            "#ff7f0e",
-            "#2ca02c",
-            "#98df8a",
-            "#d62728",
-            "#ff9896",
-            "#9467bd",
-            "#c5b0d5"
-        ],
-        "outputs": 1,
-        "useDifferentColor": false,
-        "className": "",
-        "x": 640,
-        "y": 440,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "64cd849113879964",
-        "type": "change",
-        "z": "8b889a82bab4ead6",
-        "name": "",
-        "rules": [
-            {
-                "t": "set",
-                "p": "topic",
-                "pt": "msg",
-                "to": "payload.name",
-                "tot": "msg"
-            },
-            {
-                "t": "set",
-                "p": "payload",
-                "pt": "msg",
-                "to": "payload.value",
-                "tot": "msg"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 450,
-        "y": 440,
-        "wires": [
-            [
-                "0729b26782e1c574"
-            ]
-        ]
-    },
-    {
-        "id": "533fd12cb44cb8a7",
-        "type": "switch",
-        "z": "8b889a82bab4ead6",
-        "name": "Filter Internal Sensor",
-        "property": "payload.id",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "neq",
-                "v": "1",
-                "vt": "str"
-            }
-        ],
-        "checkall": "false",
-        "repair": false,
-        "outputs": 1,
-        "x": 240,
-        "y": 440,
-        "wires": [
-            [
-                "64cd849113879964"
-            ]
-        ],
-        "info": "Filter Internal Sensor"
     },
     {
         "id": "ad951cef22b6175f",
