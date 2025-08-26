@@ -1122,7 +1122,8 @@
             "9ddf41a1bb63d76b",
             "696049c0e837b246",
             "1de449f3a678c7c0",
-            "a9cb839cc1d8808d"
+            "a9cb839cc1d8808d",
+            "2e56718ad732922a"
         ],
         "x": 34,
         "y": 1699,
@@ -12900,7 +12901,7 @@
         "tab": "21e0fd7e8b2db22d",
         "order": 1,
         "disp": false,
-        "width": "6",
+        "width": "7",
         "collapse": false,
         "className": ""
     },
@@ -14741,8 +14742,8 @@
         "group": "2273a1a7d66cb3a0",
         "name": "",
         "order": 3,
-        "width": "6",
-        "height": "12",
+        "width": "7",
+        "height": "13",
         "columns": [],
         "outputs": 1,
         "cts": true,
@@ -25230,7 +25231,7 @@
         "z": "6b590c258a4420ac",
         "g": "f8484a217a646a20",
         "name": "",
-        "label": "Durchmesser in mm",
+        "label": "Breite in mm",
         "tooltip": "",
         "group": "e99e4d503b4e1851",
         "order": 3,
@@ -25510,7 +25511,7 @@
         "z": "6b590c258a4420ac",
         "g": "f8484a217a646a20",
         "name": "",
-        "label": "Rundheit in µm",
+        "label": "Breitenschwankung in µm",
         "tooltip": "m14_ot_sw",
         "group": "e99e4d503b4e1851",
         "order": 3,
@@ -27294,7 +27295,7 @@
         "z": "6b590c258a4420ac",
         "g": "94c0c76e13f2750e",
         "name": "",
-        "label": "Durchmesser in mm",
+        "label": "Breite in mm",
         "tooltip": "",
         "group": "361a6d5800a58784",
         "order": 3,
@@ -27574,7 +27575,7 @@
         "z": "6b590c258a4420ac",
         "g": "94c0c76e13f2750e",
         "name": "",
-        "label": "Rundheit in µm",
+        "label": "Schwankung in µm",
         "tooltip": "m17_ot_sw",
         "group": "361a6d5800a58784",
         "order": 3,
@@ -31106,7 +31107,7 @@
         "z": "6b590c258a4420ac",
         "g": "03889ff720997ff2",
         "name": "",
-        "label": "Durchmesser in mm",
+        "label": "Breite in mm",
         "tooltip": "",
         "group": "e0118dceef1a63b3",
         "order": 3,
@@ -31428,7 +31429,7 @@
         "z": "6b590c258a4420ac",
         "g": "03889ff720997ff2",
         "name": "",
-        "label": "Rundheit in µm",
+        "label": "Schwankung in µm",
         "tooltip": "m22_ot_sw",
         "group": "e0118dceef1a63b3",
         "order": 3,
@@ -34669,7 +34670,7 @@
         "name": "",
         "device": "fe2aa5f270d5ee3c",
         "updateIntervalMs": "100",
-        "channelPicker": "",
+        "channelPicker": "1,2,3,4,5",
         "x": 130,
         "y": 300,
         "wires": [
@@ -42777,7 +42778,9 @@
         "operation": "max",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 860,
         "y": 1900,
         "wires": [
@@ -42920,6 +42923,7 @@
         "name": "Check Quality Requirements",
         "func": "\nlet measureResult = msg.span;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m4_abmass + config.m4_ot; \nlet lower = config.m4_abmass + config.m4_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -43767,7 +43771,9 @@
         "operation": "min",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 380,
         "y": 1900,
         "wires": [
@@ -43787,7 +43793,9 @@
         "operation": "avg",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 540,
         "y": 1900,
         "wires": [
@@ -43807,7 +43815,9 @@
         "operation": "len",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 700,
         "y": 1900,
         "wires": [
@@ -44393,7 +44403,9 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
+        "truncate": false,
         "decimals": "1",
+        "decimals2": "0",
         "x": 1680,
         "y": 2020,
         "wires": [
@@ -45153,7 +45165,9 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 900,
         "y": 1780,
         "wires": [
@@ -45240,7 +45254,7 @@
         "resendOnRefresh": true,
         "templateScope": "local",
         "className": "",
-        "x": 1770,
+        "x": 1930,
         "y": 1940,
         "wires": [
             []
@@ -45294,8 +45308,9 @@
         "z": "0b6f24f26e309bd0",
         "g": "49fe87a3db7441c6",
         "name": "Check Quality Requirements",
-        "func": "\nlet measureResult = msg.avg;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_abmass + config.m5_ot; \nlet lower = config.m5_abmass + config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
+        "func": "\nlet measureResult = msg.avg;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_ot; \nlet lower = config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -46150,7 +46165,9 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 420,
         "y": 1780,
         "wires": [
@@ -46170,7 +46187,9 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 560,
         "y": 1780,
         "wires": [
@@ -46689,12 +46708,14 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
+        "truncate": false,
         "decimals": 0,
-        "x": 1620,
-        "y": 1900,
+        "decimals2": "0",
+        "x": 1480,
+        "y": 1880,
         "wires": [
             [
-                "2f31c1d74f9d3ecf"
+                "2e56718ad732922a"
             ]
         ]
     },
@@ -47016,6 +47037,34 @@
         "y": 760,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "2e56718ad732922a",
+        "type": "change",
+        "z": "0b6f24f26e309bd0",
+        "g": "49fe87a3db7441c6",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "pass",
+                "pt": "msg",
+                "to": "",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1680,
+        "y": 1920,
+        "wires": [
+            [
+                "2f31c1d74f9d3ecf"
+            ]
         ]
     },
     {
@@ -47449,7 +47498,9 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 920,
         "y": 1860,
         "wires": [
@@ -47530,7 +47581,7 @@
         "order": 3,
         "width": 12,
         "height": 3,
-        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Rundheitstoleranz:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
+        "format": "<div id='ResultVis'>\n     <center>\n          <font size=\"+2\">\n               <div>Parallelität:</div>\n          </font>\n          <font size=\"+5\">\n               <b ng-bind-html=\"msg.value\"></b> µm\n          </font>\n     </center>\n</div>\n<script>\n     (function(scope) {\n\n          scope.$watch('msg', function(msg) {\n          if (msg) {\n                    // Do something when msg arrives\n                    const element = document.getElementById('ResultVis')\n                    let color = null\n                    switch(msg.pass) {\n                         case true:\n                              color = \"green\";\n                         break;\n                         case false:\n                              color = \"red\";\n                         break;\n                         default:\n                              color = \"white\";\n               }\n               element.style.backgroundColor = color\n     \n         \n               }\n    \n          });\n    })(scope);\n</script>",
         "storeOutMessages": true,
         "fwdInMessages": true,
         "resendOnRefresh": true,
@@ -47590,8 +47641,9 @@
         "z": "a8b2e7178cc214e3",
         "g": "eb83fb8c6cd63b51",
         "name": "Check Quality Requirements",
-        "func": "\nlet old_value = global.get(\"puffer\")\n\n\nlet measureResult = old_value.avg - msg.avg;\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_abmass + config.m5_ot; \nlet lower = config.m5_abmass + config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
+        "func": "\nlet old_value = global.get(\"puffer\")\n\n\nlet measureResult = Math.abs(old_value.avg - msg.avg);\n\nlet config = global.get(\"config\");\n\nlet upper = config.m5_ot; \nlet lower = config.m5_ut; \n\nif (measureResult >= lower && measureResult <= upper)\n{\n    msg.pass = true\n}\nelse\n{\n    msg.pass = false\n}\nmsg.value = measureResult;\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -48444,7 +48496,9 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 440,
         "y": 1860,
         "wires": [
@@ -48464,7 +48518,9 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "decimals": "3",
+        "truncate": false,
+        "decimals": "4",
+        "decimals2": "0",
         "x": 580,
         "y": 1860,
         "wires": [
@@ -48484,7 +48540,9 @@
         "operation": "len",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 740,
         "y": 1860,
         "wires": [
@@ -56478,7 +56536,9 @@
         "operation": "max",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 840,
         "y": 1700,
         "wires": [
@@ -56621,6 +56681,7 @@
         "name": "Check Quality Requirements",
         "func": "let measureResult = msg.avg;\nlet measureResult2 = msg.span;\nlet config = global.get(\"config\");\n\nlet upper = config.m8_ot;\nlet lower = config.m8_ut;\n\nif (measureResult >= lower && measureResult <= upper) {\n    msg.pass = true\n}\nelse {\n    msg.pass = false\n}\n\nupper = config.m8_ot_sw;\nlower = config.m8_ut_sw;\n\nif (measureResult2 >= lower && measureResult2 <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nmsg.value = measureResult;\nmsg.value2 = measureResult2\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -57504,7 +57565,9 @@
         "operation": "min",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 380,
         "y": 1700,
         "wires": [
@@ -57524,7 +57587,9 @@
         "operation": "avg",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "3",
+        "decimals2": "0",
         "x": 520,
         "y": 1700,
         "wires": [
@@ -57544,7 +57609,9 @@
         "operation": "len",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 680,
         "y": 1700,
         "wires": [
@@ -58363,6 +58430,7 @@
         "name": "Save",
         "func": "\n\nglobal.set(\"puffer\", msg);\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -58652,7 +58720,9 @@
         "operation": "max",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 820,
         "y": 1700,
         "wires": [
@@ -58773,6 +58843,7 @@
         "name": "Check Quality Requirements",
         "func": "let old_value = global.get(\"puffer\")\n\n\nlet measureResult = msg.avg;\nlet measureResult2 = msg.span;\nlet measureResult3 = Math.abs(old_value.avg - msg.avg);\n\nlet config = global.get(\"config\");\n\nlet upper =  config.m8_ot;\nlet lower =  config.m8_ut;\n\nif (measureResult >= lower && measureResult <= upper) {\n    msg.pass = true\n}\nelse {\n    msg.pass = false\n}\n\nupper = config.m8_ot_sw;\nlower = config.m8_ut_sw;\n\nif (measureResult2 >= lower && measureResult2 <= upper) {\n    msg.pass2 = true\n}\nelse {\n    msg.pass2 = false\n}\n\nupper = config.m8_ot_para;\nlower = config.m8_ut_para;\n\nif (measureResult3 >= lower && measureResult3 <= upper) {\n    msg.pass3 = true\n}\nelse {\n    msg.pass3 = false\n}\n\nmsg.value = measureResult;\nmsg.value2 = measureResult2\nmsg.value3 = measureResult3\n\nreturn msg;",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -59281,7 +59352,9 @@
         "operation": "min",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "4",
+        "decimals2": "0",
         "x": 360,
         "y": 1700,
         "wires": [
@@ -59301,7 +59374,9 @@
         "operation": "avg",
         "constant": "",
         "round": true,
+        "truncate": false,
         "decimals": "3",
+        "decimals2": "0",
         "x": 500,
         "y": 1700,
         "wires": [
