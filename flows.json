@@ -12731,7 +12731,7 @@
         "id": "c4cffb880254a966",
         "type": "postgreSQLConfig",
         "name": "",
-        "host": "127.0.0.1",
+        "host": "postgres.home.io",
         "hostFieldType": "str",
         "port": "5432",
         "portFieldType": "num",
@@ -12848,11 +12848,6 @@
                 "py": 0
             }
         }
-    },
-    {
-        "id": "fe2aa5f270d5ee3c",
-        "type": "millimar-device-config",
-        "device": "Mahr N 1701 USB"
     },
     {
         "id": "0dda1d45e28b450a",
@@ -14657,6 +14652,11 @@
         "height": "1"
     },
     {
+        "id": "fe2aa5f270d5ee3c",
+        "type": "millimar-device-config",
+        "device": "Mahr N 1701 USB"
+    },
+    {
         "id": "9cfc7ccd9e3269ca",
         "type": "ui_ui_control",
         "z": "9516ce2929752e9f",
@@ -14857,7 +14857,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 810,
+        "x": 790,
         "y": 360,
         "wires": [
             [
@@ -34718,9 +34718,7 @@
         "operation": "rdec",
         "constant": "4",
         "round": false,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": "0",
         "x": 900,
         "y": 300,
         "wires": [
@@ -42778,9 +42776,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 860,
         "y": 1900,
         "wires": [
@@ -43771,9 +43767,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 380,
         "y": 1900,
         "wires": [
@@ -43793,9 +43787,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 540,
         "y": 1900,
         "wires": [
@@ -43815,9 +43807,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 700,
         "y": 1900,
         "wires": [
@@ -44403,9 +44393,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": "1",
-        "decimals2": "0",
         "x": 1680,
         "y": 2020,
         "wires": [
@@ -45165,9 +45153,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 900,
         "y": 1780,
         "wires": [
@@ -46165,9 +46151,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 420,
         "y": 1780,
         "wires": [
@@ -46187,9 +46171,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 560,
         "y": 1780,
         "wires": [
@@ -46708,9 +46690,7 @@
         "operation": "mult",
         "constant": "1000",
         "round": true,
-        "truncate": false,
         "decimals": 0,
-        "decimals2": "0",
         "x": 1480,
         "y": 1880,
         "wires": [
@@ -47498,9 +47478,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 920,
         "y": 1860,
         "wires": [
@@ -48496,9 +48474,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 440,
         "y": 1860,
         "wires": [
@@ -48518,9 +48494,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 580,
         "y": 1860,
         "wires": [
@@ -48540,9 +48514,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 740,
         "y": 1860,
         "wires": [
@@ -56536,9 +56508,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 840,
         "y": 1700,
         "wires": [
@@ -57565,9 +57535,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 380,
         "y": 1700,
         "wires": [
@@ -57587,9 +57555,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "3",
-        "decimals2": "0",
         "x": 520,
         "y": 1700,
         "wires": [
@@ -57609,9 +57575,7 @@
         "operation": "len",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 680,
         "y": 1700,
         "wires": [
@@ -58720,9 +58684,7 @@
         "operation": "max",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 820,
         "y": 1700,
         "wires": [
@@ -59352,9 +59314,7 @@
         "operation": "min",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "4",
-        "decimals2": "0",
         "x": 360,
         "y": 1700,
         "wires": [
@@ -59374,9 +59334,7 @@
         "operation": "avg",
         "constant": "",
         "round": true,
-        "truncate": false,
         "decimals": "3",
-        "decimals2": "0",
         "x": 500,
         "y": 1700,
         "wires": [
